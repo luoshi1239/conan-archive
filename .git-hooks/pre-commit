@@ -1,0 +1,86 @@
+#!/bin/sh
+# ── pre-commit：保证 data/index、data/detail 与源数据一致 ────────
+#
+# 为什么需要：前端读的是 data/index/*.json 而不是 data/entities/*.json。
+# 改了源数据却忘了跑 build-split.py，线上就会显示旧内容——而且不会有任何报错，
+# 只是「怎么改都没生效」，极难排查。
+#
+# 这个 hook 做三件事：
+#   1. 源数据有变动 → 自动重跑 build-split.py，把产物一起提交
+#   2. 重建后产物仍有变化 → 说明之前忘了提交产物，补进暂存区
+#   3. app.js / styles.css / edit.js 变了 → 自动更新 index.html 的 ?v= 戳
+#      数据变了但 app.js 没改 → 提示需要手工 bump app.js 里的 DATA_VERSION
+#
+# 跳过：git commit --no-verify
+
+set -e
+cd "$(git rev-parse --show-toplevel)"
+
+PY=""
+for c in python3.14 python3 python; do
+  if command -v "$c" >/dev/null 2>&1; then PY="$c"; break; fi
+done
+if [ -z "$PY" ]; then
+  echo "pre-commit: 找不到 python，跳过分片检查" >&2
+  exit 0
+fi
+
+STAGED=$(git diff --cached --name-only)
+
+# ── 源数据是否变动（这些才是 build-split.py 的输入） ──────────────
+SRC_CHANGED=$(echo "$STAGED" | grep -E '^data/(entities|episodes|movies|ovas|manga)/.*\.json$|^data/sources\.json$' || true)
+
+CHANGED_ANY=0
+
+if [ -n "$SRC_CHANGED" ]; then
+  echo "pre-commit: 检测到源数据变动，重建分片…"
+  if ! "$PY" scripts/build-split.py >/tmp/ca_split_hook.log 2>&1; then
+    echo "pre-commit: build-split.py 失败，中止提交。日志：" >&2
+    tail -20 /tmp/ca_split_hook.log >&2
+    exit 1
+  fi
+  tail -6 /tmp/ca_split_hook.log | sed 's/^/  /'
+  CHANGED_ANY=1
+fi
+
+# ── 产物是否真的变了（无论源数据有没有动过） ──────────────────────
+OUT_DIFF=$(git status --porcelain -- data/index data/detail 2>/dev/null || true)
+if [ -n "$OUT_DIFF" ]; then
+  N=$(echo "$OUT_DIFF" | wc -l | tr -d ' ')
+  echo "pre-commit: 分片产物有 $N 处变化，加入暂存区"
+  git add data/index data/detail
+  CHANGED_ANY=1
+fi
+
+# ── 前端资源变了 → 更新 index.html 的版本戳 ──────────────────────
+bump() {
+  f="$1"
+  if [ -f "$f" ]; then
+    h=$(md5 -q "$f" 2>/dev/null | cut -c1-6 || md5sum "$f" | cut -c1-6)
+    # macOS 与 GNU sed 的 -i 语法不同，用一次性临时文件规避
+    sed "s|$f?v=[a-f0-9]*|$f?v=$h|g" index.html > index.html.tmp && mv index.html.tmp index.html
+    git add index.html
+    echo "pre-commit: $f 版本戳 → $h"
+  fi
+}
+
+if echo "$STAGED" | grep -q '^app\.js$';   then bump app.js;   CHANGED_ANY=1; fi
+if echo "$STAGED" | grep -q '^styles\.css$'; then bump styles.css; CHANGED_ANY=1; fi
+if echo "$STAGED" | grep -q '^edit\.js$';  then bump edit.js;  CHANGED_ANY=1; fi
+
+# ── 数据变了必须 bump DATA_VERSION，否则 CF 的长缓存会让用户拿旧数据 ──
+if [ -n "$SRC_CHANGED" ]; then
+  if ! echo "$STAGED" | grep -q '^app\.js$'; then
+    echo ""
+    echo "⚠️  提醒：源数据变了，但 app.js 没改。"
+    echo "    data/* 在 _headers 里是 immutable 长缓存，靠 DATA_VERSION 破缓存。"
+    echo "    若不改，回访用户会继续看到旧数据（最长一年）。"
+    echo "    改 app.js 里的 const DATA_VERSION = '...' 后再提交。"
+    echo ""
+  fi
+fi
+
+if [ "$CHANGED_ANY" = "1" ]; then
+  echo "pre-commit: 完成"
+fi
+exit 0
