@@ -1,0 +1,904 @@
+{
+  "version": 1,
+  "batches": [
+    {
+      "batchId": "p0-regression-baseline",
+      "scope": "验证候选层、批次报告和幂等性，不新增剧情事实",
+      "targetLayer": "infrastructure",
+      "episodeNumbers": [],
+      "entityIds": [],
+      "sourceIds": [],
+      "status": "applied",
+      "recordCount": 0,
+      "effectiveChanges": 0,
+      "validationResult": "passed",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "仅用于 P0 基础设施回归；不得据此宣称内容增长。"
+    },
+    {
+      "batchId": "p1-title-01",
+      "scope": "动画标题底座，第1—101集",
+      "targetLayer": "basicFacts",
+      "episodeNumbers": [
+        1,
+        101
+      ],
+      "entityIds": [],
+      "sourceIds": [
+        "src-conanpedia-anime"
+      ],
+      "status": "applied",
+      "recordCount": 202,
+      "effectiveChanges": 0,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "标题和首播日期候选已审核接受；单一可读取来源，medium 可信度；漫画 File 因尚无规范化 File ID 暂不应用。"
+    },
+    {
+      "batchId": "p1-title-02",
+      "scope": "动画标题底座，第102—202集",
+      "targetLayer": "basicFacts",
+      "episodeNumbers": [
+        102,
+        202
+      ],
+      "entityIds": [],
+      "sourceIds": [
+        "src-conanpedia-anime"
+      ],
+      "status": "applied",
+      "recordCount": 202,
+      "effectiveChanges": 0,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "标题和首播日期候选已审核接受；单一可读取来源，medium 可信度；漫画 File 因尚无规范化 File ID 暂不应用。"
+    },
+    {
+      "batchId": "p1-title-03",
+      "scope": "动画标题底座，第203—303集",
+      "targetLayer": "basicFacts",
+      "episodeNumbers": [
+        203,
+        303
+      ],
+      "entityIds": [],
+      "sourceIds": [
+        "src-conanpedia-anime"
+      ],
+      "status": "applied",
+      "recordCount": 202,
+      "effectiveChanges": 202,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "标题和首播日期候选已审核接受；单一可读取来源，medium 可信度；漫画 File 因尚无规范化 File ID 暂不应用。"
+    },
+    {
+      "batchId": "p1-title-04",
+      "scope": "动画标题底座，第304—404集",
+      "targetLayer": "basicFacts",
+      "episodeNumbers": [
+        304,
+        404
+      ],
+      "entityIds": [],
+      "sourceIds": [
+        "src-conanpedia-anime"
+      ],
+      "status": "applied",
+      "recordCount": 202,
+      "effectiveChanges": 202,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "标题和首播日期候选已审核接受；单一可读取来源，medium 可信度；漫画 File 因尚无规范化 File ID 暂不应用。"
+    },
+    {
+      "batchId": "p1-title-05",
+      "scope": "动画标题底座，第405—505集",
+      "targetLayer": "basicFacts",
+      "episodeNumbers": [
+        405,
+        505
+      ],
+      "entityIds": [],
+      "sourceIds": [
+        "src-conanpedia-anime"
+      ],
+      "status": "applied",
+      "recordCount": 202,
+      "effectiveChanges": 202,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "标题和首播日期候选已审核接受；单一可读取来源，medium 可信度；漫画 File 因尚无规范化 File ID 暂不应用。"
+    },
+    {
+      "batchId": "p1-title-06",
+      "scope": "动画标题底座，第506—606集",
+      "targetLayer": "basicFacts",
+      "episodeNumbers": [
+        506,
+        606
+      ],
+      "entityIds": [],
+      "sourceIds": [
+        "src-conanpedia-anime"
+      ],
+      "status": "applied",
+      "recordCount": 202,
+      "effectiveChanges": 202,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "标题和首播日期候选已审核接受；单一可读取来源，medium 可信度；漫画 File 因尚无规范化 File ID 暂不应用。"
+    },
+    {
+      "batchId": "p1-title-07",
+      "scope": "动画标题底座，第607—707集",
+      "targetLayer": "basicFacts",
+      "episodeNumbers": [
+        607,
+        707
+      ],
+      "entityIds": [],
+      "sourceIds": [
+        "src-conanpedia-anime"
+      ],
+      "status": "applied",
+      "recordCount": 202,
+      "effectiveChanges": 202,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "标题和首播日期候选已审核接受；单一可读取来源，medium 可信度；漫画 File 因尚无规范化 File ID 暂不应用。"
+    },
+    {
+      "batchId": "p1-title-08",
+      "scope": "动画标题底座，第708—808集",
+      "targetLayer": "basicFacts",
+      "episodeNumbers": [
+        708,
+        808
+      ],
+      "entityIds": [],
+      "sourceIds": [
+        "src-conanpedia-anime"
+      ],
+      "status": "applied",
+      "recordCount": 202,
+      "effectiveChanges": 202,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "标题和首播日期候选已审核接受；单一可读取来源，medium 可信度；漫画 File 因尚无规范化 File ID 暂不应用。"
+    },
+    {
+      "batchId": "p1-title-09",
+      "scope": "动画标题底座，第809—909集",
+      "targetLayer": "basicFacts",
+      "episodeNumbers": [
+        809,
+        909
+      ],
+      "entityIds": [],
+      "sourceIds": [
+        "src-conanpedia-anime"
+      ],
+      "status": "applied",
+      "recordCount": 202,
+      "effectiveChanges": 202,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "标题和首播日期候选已审核接受；单一可读取来源，medium 可信度；漫画 File 因尚无规范化 File ID 暂不应用。"
+    },
+    {
+      "batchId": "p1-title-10",
+      "scope": "动画标题底座，第910—1010集",
+      "targetLayer": "basicFacts",
+      "episodeNumbers": [
+        910,
+        1010
+      ],
+      "entityIds": [],
+      "sourceIds": [
+        "src-conanpedia-anime"
+      ],
+      "status": "applied",
+      "recordCount": 202,
+      "effectiveChanges": 202,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "标题和首播日期候选已审核接受；单一可读取来源，medium 可信度；漫画 File 因尚无规范化 File ID 暂不应用。"
+    },
+    {
+      "batchId": "p1-title-11",
+      "scope": "动画标题底座，第1011—1111集",
+      "targetLayer": "basicFacts",
+      "episodeNumbers": [
+        1011,
+        1111
+      ],
+      "entityIds": [],
+      "sourceIds": [
+        "src-conanpedia-anime"
+      ],
+      "status": "applied",
+      "recordCount": 200,
+      "effectiveChanges": 200,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "标题和首播日期候选已审核接受；单一可读取来源，medium 可信度；漫画 File 因尚无规范化 File ID 暂不应用。"
+    },
+    {
+      "batchId": "p1-title-12",
+      "scope": "动画标题底座，第1112—1212集",
+      "targetLayer": "basicFacts",
+      "episodeNumbers": [
+        1112,
+        1212
+      ],
+      "entityIds": [],
+      "sourceIds": [
+        "src-conanpedia-anime"
+      ],
+      "status": "applied",
+      "recordCount": 208,
+      "effectiveChanges": 208,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "标题和首播日期候选已审核接受；单一可读取来源，medium 可信度；漫画 File 因尚无规范化 File ID 暂不应用。"
+    },
+    {
+      "batchId": "p2-manga-file-01",
+      "scope": "动画到漫画 File 的来源映射",
+      "targetLayer": "basicFacts",
+      "episodeNumbers": [
+        1,
+        1216
+      ],
+      "entityIds": [],
+      "sourceIds": [
+        "src-conanpedia-anime"
+      ],
+      "status": "applied",
+      "recordCount": 636,
+      "effectiveChanges": 636,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "636 条动画—漫画 File 映射候选已审核接受；动画原创和来源缺失集保持空值。"
+    },
+    {
+      "batchId": "p3-case-audit-01",
+      "scope": "现有7个案件的字段覆盖、集级反向关系和缺口审计",
+      "targetLayer": "structure",
+      "episodeNumbers": [],
+      "entityIds": [
+        "case-roller-coaster-murder",
+        "case-moon-shadow-island",
+        "case-diplomat-murder",
+        "case-fog-monster",
+        "case-red-black-clash",
+        "case-mystery-train",
+        "case-rum-investigation"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-manga",
+        "src-detective-conan-world-anime",
+        "src-detective-conan-world-bo-timeline"
+      ],
+      "status": "applied",
+      "recordCount": 7,
+      "effectiveChanges": 0,
+      "validationResult": "passed",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "只生成案件覆盖报告，不新增未经来源核对的犯人、动机、手法、证据或结局。"
+    },
+    {
+      "batchId": "p3-case-relations-01",
+      "scope": "现有案件 animeRefs 的集级候选关系",
+      "targetLayer": "structure",
+      "episodeNumbers": [],
+      "entityIds": [
+        "case-roller-coaster-murder",
+        "case-moon-shadow-island",
+        "case-diplomat-murder",
+        "case-fog-monster",
+        "case-red-black-clash",
+        "case-mystery-train",
+        "case-rum-investigation"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-manga",
+        "src-detective-conan-world-anime"
+      ],
+      "status": "applied",
+      "recordCount": 27,
+      "effectiveChanges": 27,
+      "validationResult": "passed",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "只把已有案件声明展开为候选关系，不推断新的案件或剧情。"
+    },
+    {
+      "batchId": "p3-case-relations-02",
+      "scope": "案件已有角色、地点、漫画 File 关系覆盖审计",
+      "targetLayer": "structure",
+      "episodeNumbers": [],
+      "entityIds": [
+        "case-roller-coaster-murder",
+        "case-moon-shadow-island",
+        "case-diplomat-murder",
+        "case-fog-monster",
+        "case-red-black-clash",
+        "case-mystery-train",
+        "case-rum-investigation"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-manga",
+        "src-detective-conan-world-anime"
+      ],
+      "status": "applied",
+      "recordCount": 14,
+      "effectiveChanges": 0,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "只审计已有关系，不新增实体或推断剧情。"
+    },
+    {
+      "batchId": "p4-deep-case-moonlight-01",
+      "scope": "月影岛案件 L3 深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        11,
+        12
+      ],
+      "entityIds": [
+        "case-moon-shadow-island"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-moonlight-sonata"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 7,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "首个深度剧透试点；仅应用月影岛案件及EP.11—12。"
+    },
+    {
+      "batchId": "p4-deep-case-diplomat-01",
+      "scope": "外交官杀人事件 L3 深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        49,
+        50
+      ],
+      "entityIds": [
+        "case-diplomat-murder"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-diplomat-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 17,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "第二个深度剧透试点；仅应用外交官案件及 EP.49—50。"
+    },
+    {
+      "batchId": "p4-arc-clash-red-black-01",
+      "scope": "红与黑的碰撞子篇章关系",
+      "targetLayer": "structure",
+      "episodeNumbers": [
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504
+      ],
+      "arcIds": [
+        "arc-kir",
+        "arc-kir-clash"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-clash-red-black"
+      ],
+      "status": "applied",
+      "recordCount": 42,
+      "effectiveChanges": 56,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "新增重叠子篇章arc-kir-clash；保留既有arc-kir，不写入单案L3字段。"
+    },
+    {
+      "batchId": "p4-deep-case-library-01",
+      "scope": "图书馆杀人事件 L3 深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        51
+      ],
+      "entityIds": [
+        "case-library-murder"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-library-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 12,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "第三个深度剧透试点；新增案件实体并应用EP.51。"
+    },
+    {
+      "batchId": "p4-deep-case-golf-01",
+      "scope": "高尔夫练习场杀人事件 L3 深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        51
+      ],
+      "entityIds": [
+        "case-golf-driving-range"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-golf-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 14,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "第四个深度剧透试点；TV Original，不建立漫画File关系。"
+    },
+    {
+      "batchId": "p4-deep-case-weapon-01",
+      "scope": "case-mystery-weapon L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        53
+      ],
+      "entityIds": [
+        "case-mystery-weapon"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-weapon-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 14,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "逐字段读取案件正文；EP.54另保留黑衣组织爆炸作为结局上下文。"
+    },
+    {
+      "batchId": "p4-deep-case-game-01",
+      "scope": "case-game-company-murder L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        54
+      ],
+      "entityIds": [
+        "case-game-company-murder"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-game-company-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 14,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "逐字段读取案件正文；EP.54另保留黑衣组织爆炸作为结局上下文。"
+    },
+    {
+      "batchId": "p4-deep-case-train-01",
+      "scope": "列车诡计杀人事件 L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        55
+      ],
+      "entityIds": [
+        "case-train-trick"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-train-trick-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 14,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "TV Original；不建立漫画File关系。"
+    },
+    {
+      "batchId": "p4-deep-case-ojamanbou-01",
+      "scope": "小じゃマンボウ杀人事件 L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        56
+      ],
+      "entityIds": [
+        "case-ojamanbou-murder"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-ojamanbou-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 14,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "TV Original；清洁公司背景与案件机关均来自正文。"
+    },
+    {
+      "batchId": "p4-deep-case-holmes-freak-01",
+      "scope": "福尔摩斯迷杀人事件 L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        57,
+        58
+      ],
+      "entityIds": [
+        "case-holmes-freak-murder"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-holmes-freak-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 19,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "漫画改编；双集关系与File.117-121已登记。"
+    },
+    {
+      "batchId": "p4-deep-case-first-errand-01",
+      "scope": "case-first-errand-murder L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        59
+      ],
+      "entityIds": [
+        "case-first-errand-murder"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-first-errand-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 27,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "原页面正文已读取；案件字段逐项进入候选并审核应用。"
+    },
+    {
+      "batchId": "p4-deep-case-illustrator-01",
+      "scope": "case-illustrator-murder L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        60
+      ],
+      "entityIds": [
+        "case-illustrator-murder"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-illustrator-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 27,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "原页面正文已读取；案件字段逐项进入候选并审核应用。"
+    },
+    {
+      "batchId": "p4-deep-case-ghost-ship-01",
+      "scope": "幽灵船杀人事件 L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        61,
+        62
+      ],
+      "entityIds": [
+        "case-ghost-ship-murder"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-ghost-ship-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 20,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "首个两集TV Original案件；不建立漫画File关系。"
+    },
+    {
+      "batchId": "p4-deep-case-gomera-01",
+      "scope": "大怪兽哥美拉杀人事件 L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        63
+      ],
+      "entityIds": [
+        "case-gomera-murder"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-gomera-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 14,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "漫画改编（Volume 13 File 128-130）。"
+    },
+    {
+      "batchId": "p4-deep-case-third-fingerprint-01",
+      "scope": "第3种指纹杀人事件 L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        64
+      ],
+      "entityIds": [
+        "case-third-fingerprint-murder"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-third-fingerprint-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 14,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "TV Original（Filler #24）；不建立漫画File关系。"
+    },
+    {
+      "batchId": "p4-deep-case-crab-whale-01",
+      "scope": "螃蟹与鲸鱼绑架事件 L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        65
+      ],
+      "entityIds": [
+        "case-crab-whale-kidnapping"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-crab-whale-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 14,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "TV Original；原文未给犯人正式姓名，不臆造。"
+    },
+    {
+      "batchId": "p4-deep-case-night-road-01",
+      "scope": "夜路杀人事件 L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        66
+      ],
+      "entityIds": [
+        "case-night-road-murder"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-night-road-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 14,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "TV Original；含过去雪山事故设定。"
+    },
+    {
+      "batchId": "p4-deep-case-stage-actress-01",
+      "scope": "舞台女演员杀人事件 L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        67
+      ],
+      "entityIds": [
+        "case-stage-actress-murder"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-stage-actress-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 14,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "TV Original；不建立漫画File关系。"
+    },
+    {
+      "batchId": "p4-deep-case-night-baron-01",
+      "scope": "暗夜男爵杀人事件 L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        68,
+        69,
+        70
+      ],
+      "entityIds": [
+        "case-night-baron-murder"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-night-baron-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 26,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "漫画改编三集案件（File 72-77）。"
+    },
+    {
+      "batchId": "p4-deep-case-stalker-01",
+      "scope": "跟踪狂杀人事件 L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        71
+      ],
+      "entityIds": [
+        "case-stalker-murder"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-stalker-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 14,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "TV Original；含过去伤害事件与量刑讨论。"
+    },
+    {
+      "batchId": "p4-deep-case-triplet-01",
+      "scope": "三胞胎别墅杀人事件 L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        72
+      ],
+      "entityIds": [
+        "case-triplet-country-home-murder"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-triplet-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 14,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "漫画改编（File 122-124）；园子代推理。"
+    },
+    {
+      "batchId": "p4-deep-case-boys-disaster-01",
+      "scope": "少年侦探团遇险事件 L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        73
+      ],
+      "entityIds": [
+        "case-detective-boys-disaster"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-boys-disaster-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 14,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "TV Original；未遂杀人+挟持，无死者。"
+    },
+    {
+      "batchId": "p4-deep-case-jinnai-01",
+      "scope": "死神阵内杀人事件 L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        74
+      ],
+      "entityIds": [
+        "case-death-god-jinnai-murder"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-jinnai-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 14,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "TV Original；电梯联动剪影诡计+三年前旧案。"
+    },
+    {
+      "batchId": "p4-deep-case-loan-company-01",
+      "scope": "金融公司社长杀人事件 L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        75
+      ],
+      "entityIds": [
+        "case-loan-company-president-murder"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-loan-company-case"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 14,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "漫画改编（File 147-149）；毒灶旋钮+漂白剂灭证。"
+    },
+    {
+      "batchId": "p4-deep-case-conan-vs-kaitou-kid-01",
+      "scope": "柯南VS怪盗基德 L3深度剧透字段",
+      "targetLayer": "deepSpoilers",
+      "episodeNumbers": [
+        76
+      ],
+      "entityIds": [
+        "case-conan-vs-kaitou-kid"
+      ],
+      "sourceIds": [
+        "src-detective-conan-world-conan-vs-kaitou-kid"
+      ],
+      "status": "applied",
+      "recordCount": 5,
+      "effectiveChanges": 13,
+      "validationResult": "pending-post-apply-validation",
+      "createdAt": "2026-10-27",
+      "appliedAt": "2026-10-27",
+      "notes": "漫画改编（File 156-159）；怪盗盗宝事件，非杀人案。"
+    }
+  ]
+}

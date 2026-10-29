@@ -1,0 +1,8 @@
+{
+  "characters": "data/entities/characters.json",
+  "organizations": "data/entities/organizations.json",
+  "cases": "data/entities/cases.json",
+  "gadgets": "data/entities/gadgets.json",
+  "locations": "data/entities/locations.json",
+  "arcs": "data/manga/mainline-arcs.json"
+}

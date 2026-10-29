@@ -1,0 +1,97 @@
+{
+ "batch": 5,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-ventriloquist-s-illusion",
+   "field": "culprit",
+   "zhHans": "Riichi Tengan"
+  },
+  {
+   "caseId": "case-the-ventriloquist-s-illusion",
+   "field": "motive",
+   "zhHans": "动机显然是他的妻子与 Togawa 之间的外遇，这伤了他的个人自尊。为了让人以为 Togawa 想把他逼疯，Tengan 从 Togawa 那里偷走了扬声器和录音机，并把它们安放在自己家里，以便被轻易发现。"
+  },
+  {
+   "caseId": "case-the-ventriloquist-s-illusion",
+   "field": "method",
+   "zhHans": "为了让人以为 Togawa 想把他逼疯，Tengan 从 Togawa 那里偷走了扬声器和录音机，并把它们安放在自己家里，以便被轻易发现。决定性的证据是 Togawa 的眼镜，Tengan 用 Kazuko 的血浸透了它，然后把它塞进 Togawa 的包里。在陈述事实之前，Conan 另外在木偶上藏了两只假手套，使 Tengan 不由自主地脱口供认，从而彻底粉碎了他的不在场证明。"
+  },
+  {
+   "caseId": "case-the-ventriloquist-s-illusion",
+   "field": "evidence",
+   "zhHans": "为了让人以为 Togawa 想把他逼疯，Tengan 从 Togawa 那里偷走了扬声器和录音机，并把它们安放在自己家里，以便被轻易发现。决定性的证据是 Togawa 的眼镜，Tengan 用 Kazuko 的血浸透了它，然后把它塞进 Togawa 的包里。在此过程中，眼镜沾上了 Tengan 手套的一些纤维，鉴识人员发现它们粘在眼镜框上。但 Conan 推断出了它们的藏匿之处，经检验，在木偶上发现了带有 Kazuko 的血和 Tengan 的汗液的手套纤维痕迹。"
+  },
+  {
+   "caseId": "case-the-ventriloquist-s-illusion",
+   "field": "resolution",
+   "zhHans": "真正的犯人是 Riichi Tengan。动机显然是他的妻子与 Togawa 之间的外遇，这伤了他的个人自尊。为了让人以为 Togawa 想把他逼疯，Tengan 从 Togawa 那里偷走了扬声器和录音机，并把它们安放在自己家里，以便被轻易发现。此外，开场时表演的突然改变，是为了进一步“证实”他在雇佣 Kogoro 的时候就已经被逼疯了。这一切都是为了先让自己蒙受嫌疑，然后再通过把罪名嫁祸给自己的徒弟、并以“被诱导的”分裂人格为由主张无罪，来使自己脱罪。"
+  },
+  {
+   "caseId": "case-a-cottage-surrounded-by-zombies",
+   "field": "culprit",
+   "zhHans": "Ria Kawabata"
+  },
+  {
+   "caseId": "case-a-cottage-surrounded-by-zombies",
+   "field": "motive",
+   "zhHans": "随后 Takashi 开始敲诈 Ria，这就是她杀死他的原因。Kyoko 被杀是因为她察觉到用于 Takashi 死亡的录像是八年前的那一个。"
+  },
+  {
+   "caseId": "case-a-cottage-surrounded-by-zombies",
+   "field": "method",
+   "zhHans": "Conan 指出，凶手知道电影字幕的方法是用一卷卫生纸挡住光线，使信封内纸上的文字透出来。这和 Joji 八年前表演消失魔术时用的是同一手法。然而那是一个他独自一人无法完成的手法。她帮助 Joji 完成了这个手法，却没有意识到他已经卡在里面了。Kyoko 被杀是因为她察觉到用于 Takashi 死亡的录像是八年前的那一个。"
+  },
+  {
+   "caseId": "case-a-cottage-surrounded-by-zombies",
+   "field": "evidence",
+   "zhHans": "一段时间之后，Takashi 在梳妆台里发现了 Joji 留下的信息，他在上面用血刻下自己将死亡归咎于 Ria 的字句。"
+  },
+  {
+   "caseId": "case-a-cottage-surrounded-by-zombies",
+   "field": "resolution",
+   "zhHans": "Heiji 指出，手机上的录像是他们八年前拍摄那部电影时最初的素材。今天第一次见到 Takashi 和 Kyoko 时，Takashi 留着胡子、穿着不同的裤子，Kyoko 化着妆，发型也和两段录像里看到的略有不同。此外，如果放大来看，可以看到 Kyoko 的衬衫上有一个 E，而她的尸体上没有。"
+  },
+  {
+   "caseId": "case-metropolitan-police-detective-love-story-7",
+   "field": "culprit",
+   "zhHans": "Takuji Rokuda"
+  },
+  {
+   "caseId": "case-photo-e-mail-from-the-clown",
+   "field": "culprit",
+   "zhHans": "Minoru Kijima"
+  },
+  {
+   "caseId": "case-the-detective-boys-and-the-four-caterpillar-brothers",
+   "field": "culprit",
+   "zhHans": "Minoru Yoshikawa"
+  },
+  {
+   "caseId": "case-the-detective-boys-get-out-of-the-rain",
+   "field": "culprit",
+   "zhHans": "Maki Amamiya"
+  },
+  {
+   "caseId": "case-the-detective-boys-get-out-of-the-rain",
+   "field": "motive",
+   "zhHans": "她的丈夫只把钱花在购买和收集玩具上，而不是花在自己妻子身上。随后她等待着，并故意让自己被抓并被绑在壁橱里，这样一来，任何发现她的人都会相信她的丈夫是被窃贼谋杀的。"
+  },
+  {
+   "caseId": "case-the-detective-boys-get-out-of-the-rain",
+   "field": "method",
+   "zhHans": "她的丈夫只把钱花在购买和收集玩具上，而不是花在自己妻子身上。结果她精心策划了一个谋杀计划，在网络聊天室里假扮成“神”，唆使两名强盗去抢劫她自己的家，好把他们当作替罪羊。Attemped Murder File:EP824 Case3.jpg 地点：Amamiya 住宅 袭击方式：刺伤 犯人：Maki Amamiya 她被揭穿是凶手，并企图杀死他们。"
+  },
+  {
+   "caseId": "case-the-detective-boys-get-out-of-the-rain",
+   "field": "evidence",
+   "zhHans": "Attemped Murder File:EP824 Case3.jpg 地点：Amamiya 住宅 袭击方式：刺伤 犯人：Maki Amamiya 她被揭穿是凶手，并企图杀死他们。随后她等待着，并故意让自己被抓并被绑在壁橱里，这样一来，任何发现她的人都会相信她的丈夫是被窃贼谋杀的。"
+  },
+  {
+   "caseId": "case-the-detective-boys-get-out-of-the-rain",
+   "field": "resolution",
+   "zhHans": "那两名强盗并没有杀死 Maki 的丈夫。真正的犯人是 Maki Amamiya 本人。她的丈夫只把钱花在购买和收集玩具上，而不是花在自己妻子身上。结果她精心策划了一个谋杀计划，在网络聊天室里假扮成“神”，唆使两名强盗去抢劫她自己的家，好把他们当作替罪羊。Attemped Murder File:EP824 Case3.jpg"
+  }
+ ]
+}

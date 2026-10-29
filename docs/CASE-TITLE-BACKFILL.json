@@ -1,0 +1,8 @@
+{
+ "generatedBy": "scripts/backfill-case-titles.py",
+ "policy": "只搬 DCW 页面 heading/jpTitle 原文；zhHans/zhHant 留空等人工",
+ "filled": 0,
+ "skipped": 0,
+ "items": [],
+ "skippedItems": []
+}

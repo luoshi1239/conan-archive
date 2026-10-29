@@ -1,0 +1,73 @@
+{
+ "batch": 2,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "note": "收尾：多为仅需 name 的 culprit 槽位",
+ "items": [
+  {
+   "caseId": "case-the-shadow-approaching-haibara-s-secret",
+   "field": "culprit",
+   "zhHans": "Chozo Usagi"
+  },
+  {
+   "caseId": "case-the-broken-horoscope",
+   "field": "culprit",
+   "zhHans": "Kensuke Katsuragi"
+  },
+  {
+   "caseId": "case-the-broken-horoscope",
+   "field": "motive",
+   "zhHans": "他把现场弄成密室，是因为他以为 Yuuka 有一把备用钥匙，想借此把罪名栽给她——让一切看起来只有她才能把房间锁上。"
+  },
+  {
+   "caseId": "case-the-broken-horoscope",
+   "field": "method",
+   "zhHans": "做完这些之后，他拿走她房间的钥匙、把门锁上，再从外面爬到 Shijo 房间顶上，敲裂一小块天花板，把钥匙丢进房里。他把现场弄成密室，是因为他以为 Yuuka 有一把备用钥匙，想借此把罪名栽给她——让一切看起来只有她才能把房间锁上。"
+  },
+  {
+   "caseId": "case-the-broken-horoscope",
+   "field": "evidence",
+   "zhHans": "作为证据，柯南指出：尽管钥匙混在一堆别的钥匙里，Katsuragi 却在第一次就找出了能开那扇门的那把。"
+  },
+  {
+   "caseId": "case-the-broken-horoscope",
+   "field": "resolution",
+   "zhHans": "犯人是 Kensuke Katsuragi。柯南揭示，Katsuragi 在 Shijo 的房间里与她见面并杀了她。做完这些之后，他拿走她房间的钥匙、把门锁上，再从外面爬到 Shijo 房间顶上，敲裂一小块天花板，把钥匙丢进房里。他把现场弄成密室，是因为他以为 Yuuka 有一把备用钥匙，想借此把罪名栽给她——让一切看起来只有她才能把房间锁上。作为证据，柯南指出：尽管钥匙混在一堆别的钥匙里，Katsuragi 却在第一次就找出了能开那扇门的那把。Katsuragi 回答说，他知道那把挂着蓝宝石钥匙圈的就是这扇门的；柯南揭示，那把钥匙原本挂着一个钻石钥匙圈，而那个钥匙圈现在在小兰手里。这意味着 Katsuragi 是 Shijo 死前最后一个见到她的人。Katsuragi 供认，并揭示丽华曾要求他偿还她的全部投资。警方逮捕 Katsuragi 之后，柯南问小兰想让 Shijo 替她占卜什么，小兰回答：新一现在在哪儿。"
+  },
+  {
+   "caseId": "case-the-witch-enshrouded-by-fog",
+   "field": "culprit",
+   "zhHans": "Raito Egashira 与 Akira Mafune"
+  },
+  {
+   "caseId": "case-the-witch-enshrouded-by-fog",
+   "field": "motive",
+   "zhHans": "事后揭示，四年前传说里的那位「魔女」其实正是佐藤——她把爱车 Mazda RX-7（FD3S）从纯白改成了酒红，以免在雾中发生事故；而那声女性的尖叫也是她发出的，因为那能帮她在弯道转向，男人们根本模仿不来——所以 Mafune 无论怎么努力，都做不出同样的声音。"
+  },
+  {
+   "caseId": "case-the-witch-enshrouded-by-fog",
+   "field": "method",
+   "zhHans": "他揭示，他们在雾中用一支钓竿挂起一盏红色头灯，制造出前方无路可走的错觉。Egashira 与 Mafune 交代，他们利用魔女的传说把赛车手们吓退，不再上山飙车，但他们从没向那位巡查的祖母挥过手。多起汽车事故（旧案）。地点：群马县冬名山。死因：车祸。犯人：Raito Egashira 与 Akira Mafune。他们在山上与许多人竞速，并用那声「魔女的尖叫」让对手撞车。"
+  },
+  {
+   "caseId": "case-the-witch-enshrouded-by-fog",
+   "field": "evidence",
+   "zhHans": "犯人被揭示为 Raito Egashira 与 Akira Mafune。柯南揭示，那位祖母看到的是「布罗肯幽灵」——其实是她自己挥手时的倒影。事后揭示，四年前传说里的那位「魔女」其实正是佐藤——她把爱车 Mazda RX-7（FD3S）从纯白改成了酒红，以免在雾中发生事故；而那声女性的尖叫也是她发出的，因为那能帮她在弯道转向，男人们根本模仿不来——所以 Mafune 无论怎么努力，都做不出同样的声音。"
+  },
+  {
+   "caseId": "case-the-witch-enshrouded-by-fog",
+   "field": "resolution",
+   "zhHans": "第二天，柯南揭示那对带着钓具的人是犯人。他揭示，他们在雾中用一支钓竿挂起一盏红色头灯，制造出前方无路可走的错觉。犯人被揭示为 Raito Egashira 与 Akira Mafune。他们现身向小五郎挑战竞速，却在遇到路障时被逮住。Egashira 与 Mafune 交代，他们利用魔女的传说把赛车手们吓退，不再上山飙车，但他们从没向那位巡查的祖母挥过手。柯南揭示，那位祖母看到的是「布罗肯幽灵」——其实是她自己挥手时的倒影。多起汽车事故（旧案）。地点：群马县冬名山。"
+  },
+  {
+   "caseId": "case-venus-kiss",
+   "field": "culprit",
+   "zhHans": "Yasuyuki Murakawa"
+  },
+  {
+   "caseId": "case-the-murdered-famous-detective",
+   "field": "culprit",
+   "zhHans": "Toshiaki Tahara"
+  }
+ ]
+}

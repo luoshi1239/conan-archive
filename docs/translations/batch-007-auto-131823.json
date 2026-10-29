@@ -1,0 +1,52 @@
+{
+ "batch": 7,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-suspected-infidelity-of-the-triple-collab",
+   "field": "culprit",
+   "zhHans": "Yasuko Aijima"
+  },
+  {
+   "caseId": "case-the-suspected-infidelity-of-the-triple-collab",
+   "field": "motive",
+   "zhHans": "Yasuko 知道 Tokumi 会坐哪把椅子，因为在他们拍过的每一张合照里，Tokumi 总是站在右边，认为从那个角度看自己更好看。事后，江户川柯南（Conan Edogawa）向灰原哀（Ai Haibara）透露，千叶和伸（Kazunobu Chiba）、白鸟任三郎（Ninzaburo Shiratori）、Shukichi、Naeko、Kobayashi 和 Yumi 一直在那家餐厅碰面的原因，是三个女孩告诉了自己的男友，她们 8 日要碰面参加一个特别活动。当 Yasuko 提到 Sumika 与另一支乐队出轨时，Yumi 和 Naeko 立刻看向千叶和伸和白鸟任三郎。在 Kobayashi、Yumi 和 Naeko 谈起她们都熟悉的那张王牌之后，江户川柯南打了个喷嚏，随后灰原哀希望案子能尽快解决，这样她就能知道这三对情侣的戏码如何收场。"
+  },
+  {
+   "caseId": "case-the-suspected-infidelity-of-the-triple-collab",
+   "field": "method",
+   "zhHans": "Yasuko 用毒杀死了 Tokumi，而那毒最终随着 Tokumi 吃下的水果奶油泡芙被她自己吃了下去。Yasuko 实际上在 Tokumi 最初坐的那把椅子上下了毒，还故意把椅子弄得摇晃不稳。但这样做之后，Tokumi 的手上就沾到了毒。在把那把有毒的椅子与旁边桌子的椅子调换之后，那把有毒的椅子因为位于另一张桌子，现在会被认为与谋杀无关，被检查是否下毒的可能性也就更小。她还通过预订那张桌子，确保一行人会坐在放有毒椅子的那张桌子旁。"
+  },
+  {
+   "caseId": "case-the-suspected-infidelity-of-the-triple-collab",
+   "field": "evidence",
+   "zhHans": "他的女友被揭露是 Yasuko，而在他的恋情被公开之后，他的名声被毁，他也发现更难制作音乐、更难拉到赞助。然而令她震惊的是，那名粉丝透露，她是从 Tokumi 那里得知 Kenya 的下落的。"
+  },
+  {
+   "caseId": "case-the-suspected-infidelity-of-the-triple-collab",
+   "field": "resolution",
+   "zhHans": "犯人是 Yasuko Aijima。Yasuko 用毒杀死了 Tokumi，而那毒最终随着 Tokumi 吃下的水果奶油泡芙被她自己吃了下去。Yasuko 实际上在 Tokumi 最初坐的那把椅子上下了毒，还故意把椅子弄得摇晃不稳。当 Tokumi 注意到椅子摇晃时，她会以为自己的体重把椅子弄坏了，于是会偷偷地换到另一把椅子上。当灯光为一个小女孩的生日庆祝蛋糕而熄灭时，Tokumi 开始换椅子，她抓住椅子底部，把椅子紧贴着自己的腿和臀部，这样就避免了拖动椅子发出的声响。但这样做之后，Tokumi 的手上就沾到了毒。在把那把有毒的椅子与旁边桌子的椅子调换之后，那把有毒的椅子因为位于另一张桌子，现在会被认为与谋杀无关，被检查是否下毒的可能性也就更小。"
+  },
+  {
+   "caseId": "case-the-treasure-chest-filled-with-fruits",
+   "field": "culprit",
+   "zhHans": "Wataru Furuya"
+  },
+  {
+   "caseId": "case-the-wedding-reception-and-the-two-gunshots",
+   "field": "culprit",
+   "zhHans": "Yoshifumi Ito"
+  },
+  {
+   "caseId": "case-the-man-who-was-betrayed-by-the-sea",
+   "field": "culprit",
+   "zhHans": "Nao Takiguchi"
+  },
+  {
+   "caseId": "case-mirage-of-the-disappearing-angel",
+   "field": "culprit",
+   "zhHans": "Taro Hayashi"
+  }
+ ]
+}

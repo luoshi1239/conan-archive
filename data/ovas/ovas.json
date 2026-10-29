@@ -1,0 +1,561 @@
+[
+  {
+    "id": "ova-01",
+    "number": 1,
+    "kind": "secret-file",
+    "status": "released",
+    "title": {
+      "zhHans": "柯南VS基德VS阿剑！宝刀争夺大作战！",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2000-12-11",
+    "movieLink": null,
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "ova-02",
+    "number": 2,
+    "kind": "secret-file",
+    "status": "released",
+    "title": {
+      "zhHans": "16名嫌疑犯！？",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2001-12-17",
+    "movieLink": "movie-04",
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "ova-03",
+    "number": 3,
+    "kind": "secret-file",
+    "status": "released",
+    "title": {
+      "zhHans": "柯南、平次与消失的少年",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2002-12-18",
+    "movieLink": "movie-07",
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "ova-04",
+    "number": 4,
+    "kind": "secret-file",
+    "status": "released",
+    "title": {
+      "zhHans": "柯南、基德与水晶之母",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2003-12-17",
+    "movieLink": "movie-08",
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "ova-05",
+    "number": 5,
+    "kind": "secret-file",
+    "status": "released",
+    "title": {
+      "zhHans": "目标是小五郎！少年侦探团的秘密调查",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2004-12-17",
+    "movieLink": "movie-09",
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "ova-06",
+    "number": 6,
+    "kind": "secret-file",
+    "status": "released",
+    "title": {
+      "zhHans": "追踪消失的钻石！柯南·平次VS基德！",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2005-12-16",
+    "movieLink": "movie-10",
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "ova-07",
+    "number": 7,
+    "kind": "secret-file",
+    "status": "released",
+    "title": {
+      "zhHans": "来自阿笠的挑战书！阿笠VS柯南&少年侦探团",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2006-12-15",
+    "movieLink": "movie-11",
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "ova-08",
+    "number": 8,
+    "kind": "secret-file",
+    "status": "released",
+    "title": {
+      "zhHans": "女高中生侦探 铃木园子的事件簿",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2007-12-14",
+    "movieLink": "movie-12",
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "ova-09",
+    "number": 9,
+    "kind": "secret-file",
+    "status": "released",
+    "title": {
+      "zhHans": "十年后的陌生人",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2009-05-25",
+    "movieLink": null,
+    "spoiler": 2,
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "ova-10",
+    "number": 10,
+    "kind": "secret-file",
+    "status": "released",
+    "title": {
+      "zhHans": "怪盗基德在陷阱岛",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2010-04-14",
+    "movieLink": "movie-14",
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "ova-11",
+    "number": 11,
+    "kind": "secret-file",
+    "status": "released",
+    "title": {
+      "zhHans": "来自伦敦的秘密指令",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2011-06-24",
+    "movieLink": null,
+    "spoiler": 2,
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "ova-12",
+    "number": 12,
+    "kind": "secret-file",
+    "status": "released",
+    "title": {
+      "zhHans": "奇迹般的Excalibur",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2012-04-11",
+    "movieLink": null,
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "magic-file-01",
+    "number": 1,
+    "kind": "magic-file",
+    "status": "released",
+    "title": {
+      "zhHans": "Magic File 1",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2007-04-11",
+    "movieLink": null,
+    "spoiler": 1,
+    "note": "收录既有电视动画，无新故事。",
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "magic-file-02",
+    "number": 2,
+    "kind": "magic-file",
+    "status": "released",
+    "title": {
+      "zhHans": "工藤新一 谜之墙与黑色拉布拉多犬事件",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2008-04-19",
+    "movieLink": "movie-12",
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "magic-file-03",
+    "number": 3,
+    "kind": "magic-file",
+    "status": "released",
+    "title": {
+      "zhHans": "新一与兰·麻将牌与七夕的回忆",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2009-04-18",
+    "movieLink": "movie-13",
+    "spoiler": 2,
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "magic-file-04",
+    "number": 4,
+    "kind": "magic-file",
+    "status": "released",
+    "title": {
+      "zhHans": "通往大阪烧的艰难之路",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2010-04-17",
+    "movieLink": "movie-14",
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "magic-file-05",
+    "number": 5,
+    "kind": "magic-file",
+    "status": "released",
+    "title": {
+      "zhHans": "新潟～东京 礼物狂骚曲",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2011-04-16",
+    "movieLink": "movie-15",
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "bonus-file-01",
+    "number": 1,
+    "kind": "bonus-file",
+    "status": "released",
+    "title": {
+      "zhHans": "9号半之花",
+      "zhHant": null,
+      "ja": null,
+      "en": null
+    },
+    "releaseDate": "2012-04-14",
+    "movieLink": "movie-16",
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-ovas"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  }
+]

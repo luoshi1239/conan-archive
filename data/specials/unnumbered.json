@@ -1,0 +1,46 @@
+[
+  {
+    "id": "special-raw-1202",
+    "kind": "special-record",
+    "number": null,
+    "overseasNumber": 1262,
+    "title": {
+      "ja": "はなまるな真実",
+      "zhHans": null,
+      "zhHant": "完美的答案",
+      "en": null,
+      "aliases": []
+    },
+    "year": 2026,
+    "airDate": null,
+    "mangaRefs": [],
+    "adaptation": "anime-original",
+    "arc": null,
+    "arcRefs": [],
+    "caseRefs": [],
+    "locationRefs": [],
+    "spoiler": 1,
+    "status": "catalog",
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "gadgets": [],
+    "caseTypes": [],
+    "sources": [
+      "src-abiting-conan-database"
+    ],
+    "detailStatus": "catalog",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    },
+    "raw": {
+      "manga": "動畫原創",
+      "specialLabel": "光之美少女特別篇",
+      "rawIndex": 1202
+    }
+  }
+]

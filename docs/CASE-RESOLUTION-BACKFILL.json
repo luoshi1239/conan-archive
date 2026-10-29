@@ -1,0 +1,24 @@
+{
+ "generatedBy": "scripts/backfill-case-resolution.py",
+ "policy": "只补已完成 L3 四字段的空 resolution；DCW 原文；不翻译不覆盖",
+ "filled": 0,
+ "blocked": 3,
+ "items": [],
+ "blockedItems": [
+  {
+   "caseId": "case-conan-and-megure-s-two-hostages",
+   "dcwPage": "Conan_and_Megure's_Two_Hostages",
+   "reason": "no_resolution_block"
+  },
+  {
+   "caseId": "case-the-17-year-old-truth",
+   "dcwPage": "The_17-Year-Old_Truth",
+   "reason": "no_resolution_block"
+  },
+  {
+   "caseId": "case-the-streetcar-s-sudden-stopping-case",
+   "dcwPage": "The_Streetcar's_Sudden_Stopping_Case",
+   "reason": "resolution_too_short"
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+[
+  {
+    "id": "special-movie-lupin-2013",
+    "kind": "crossover-movie",
+    "status": "released",
+    "title": {
+      "zhHans": "鲁邦三世VS名侦探柯南 THE MOVIE",
+      "zhHant": "魯邦三世VS名偵探柯南 THE MOVIE",
+      "ja": "ルパン三世VS名探偵コナン THE MOVIE",
+      "en": "Lupin III vs. Detective Conan: The Movie"
+    },
+    "releaseDate": "2013-12-07",
+    "runtimeMinutes": 107,
+    "boxOfficeBillionYen": 4.26,
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-movies",
+      "src-conanpedia-movies"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "special-movie-scarlet-alibi",
+    "kind": "compilation-movie",
+    "status": "released",
+    "title": {
+      "zhHans": "绯色的不在场证明",
+      "zhHant": "緋色的不在場證明",
+      "ja": "緋色の不在証明",
+      "en": "The Scarlet Alibi"
+    },
+    "releaseDate": "2021-02-11",
+    "runtimeMinutes": 110,
+    "boxOfficeBillionYen": 1.3,
+    "spoiler": 2,
+    "sources": [
+      "src-detective-conan-world-movies",
+      "src-conanpedia-movies"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "special-movie-haibara-mystery-train",
+    "kind": "compilation-movie",
+    "status": "released",
+    "title": {
+      "zhHans": "灰原哀物语～黑铁的神秘列车～",
+      "zhHant": "灰原哀物語～黑鐵的神秘列車～",
+      "ja": "灰原哀物語～黒鉄のミステリートレイン～",
+      "en": "The Story of Ai Haibara ~Black Iron Mystery Train~"
+    },
+    "releaseDate": "2023-01-06",
+    "runtimeMinutes": 90,
+    "boxOfficeBillionYen": 0.73,
+    "spoiler": 2,
+    "sources": [
+      "src-detective-conan-world-movies",
+      "src-conanpedia-movies"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "special-movie-conan-kid",
+    "kind": "compilation-movie",
+    "status": "released",
+    "title": {
+      "zhHans": "名侦探柯南VS怪盗基德",
+      "zhHant": "名偵探柯南VS怪盜基德",
+      "ja": "名探偵コナンVS怪盗キッド",
+      "en": "Detective Conan vs. Kid the Phantom Thief"
+    },
+    "releaseDate": "2024-01-05",
+    "runtimeMinutes": 81,
+    "boxOfficeBillionYen": 0.61,
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-movies",
+      "src-conanpedia-movies"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "movie-3d-01",
+    "kind": "3d-short",
+    "status": "released",
+    "title": {
+      "zhHans": "柯南VS基德：鲨鱼与珠宝",
+      "zhHant": "柯南VS基德：鯊魚與珠寶",
+      "ja": "コナンVSキッド SHARK & JEWEL",
+      "en": "Conan vs. Kid: Shark & Jewel"
+    },
+    "releaseDate": "2005-07-29",
+    "runtimeMinutes": 16,
+    "boxOfficeBillionYen": null,
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-movies"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  },
+  {
+    "id": "movie-3d-02",
+    "kind": "3d-short",
+    "status": "released",
+    "title": {
+      "zhHans": "柯南VS基德：漆黑的狙击手",
+      "zhHant": "柯南VS基德：漆黑的狙擊手",
+      "ja": "コナンVSキッド 漆黒の狙撃者",
+      "en": "Conan vs. Kid: The Pitch-Black Sniper"
+    },
+    "releaseDate": "2006-07-28",
+    "runtimeMinutes": 16,
+    "boxOfficeBillionYen": null,
+    "spoiler": 1,
+    "sources": [
+      "src-detective-conan-world-movies"
+    ],
+    "summary": null,
+    "characters": [],
+    "organizations": [],
+    "locations": [],
+    "caseRefs": [],
+    "arc": null,
+    "detailStatus": "reviewed",
+    "coverage": {
+      "directory": true,
+      "basicFacts": true,
+      "structure": false,
+      "deepSpoilers": false
+    }
+  }
+]

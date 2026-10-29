@@ -1,0 +1,32 @@
+{
+ "batch": 6,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-kendo-tournament-of-love-and-mystery",
+   "field": "culprit",
+   "zhHans": "Nenji Norimura"
+  },
+  {
+   "caseId": "case-the-kendo-tournament-of-love-and-mystery",
+   "field": "motive",
+   "zhHans": "他是唯一可能犯下这起杀人案的人，因为犯人是一名有段位的剑士，故意把护具的裙甲反着穿，让人以为是不懂剑道的人所为，而这与 Norimura 的描述相符。事实上，“cutter”这个词是关西腔，意思是衬衫；原来 Nukitani 当时正在打电话给妻子，让她再带一件衬衫来，因为他的衬衫沾了血——在之前 Okita 参加的一场比赛中，他的对手把 Nukitani 推得很重，害他流了鼻血。平次嘲笑柯南，因为解开案子的人是他。Norimura 用了竹剑，因为他想用儿子的剑为他报仇。结果他被取消资格、输掉了比赛，他深感愧疚，因为他觉得自己因为一个简单的失误就让整个学校失望了。尽管悲痛，他起初认为儿子的自杀不能怪裁判 Nukitani，但在比赛中，他看到 Nukitani 无视了 Tohto Senshin High School 一名学生做出的胜利姿势。于是他上前与他交谈，而 Nukitani 因为两人都来自关西而表现出偏袒，这让他想要杀死 Nukitani。"
+  },
+  {
+   "caseId": "case-the-kendo-tournament-of-love-and-mystery",
+   "field": "method",
+   "zhHans": "凶器实际上就是他的竹剑：他取出一片竹片，把它削尖做成利器，然后横向挥动，让离心力割开对方的喉咙。Norimura 用了竹剑，因为他想用儿子的剑为他报仇。"
+  },
+  {
+   "caseId": "case-the-kendo-tournament-of-love-and-mystery",
+   "field": "evidence",
+   "zhHans": "事实上，“cutter”这个词是关西腔，意思是衬衫；原来 Nukitani 当时正在打电话给妻子，让她再带一件衬衫来，因为他的衬衫沾了血——在之前 Okita 参加的一场比赛中，他的对手把 Nukitani 推得很重，害他流了鼻血。凶器实际上就是他的竹剑：他取出一片竹片，把它削尖做成利器，然后横向挥动，让离心力割开对方的喉咙。人们在洗手间听到的声音，其实是 Norimura 在墙上把剑尖磨钝，这意味着证据（血迹）很容易就会在他剑袋内侧被发现。"
+  },
+  {
+   "caseId": "case-the-kendo-tournament-of-love-and-mystery",
+   "field": "resolution",
+   "zhHans": "犯人是 Nenji Norimura。他是唯一可能犯下这起杀人案的人，因为犯人是一名有段位的剑士，故意把护具的裙甲反着穿，让人以为是不懂剑道的人所为，而这与 Norimura 的描述相符。在平次解释他的推理时，和叶和大阪学校的队伍正想找到平次，于是她试着打电话给小兰，好让他们在比赛开始前赶回来，但小兰没有接这通电话。"
+  }
+ ]
+}

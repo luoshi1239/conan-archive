@@ -1,0 +1,92 @@
+{
+ "batch": 10,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-deadly-pork-soup-signal",
+   "field": "culprit",
+   "zhHans": "Satoshi Komaki"
+  },
+  {
+   "caseId": "case-the-man-who-camped-out-at-the-police-station",
+   "field": "culprit",
+   "zhHans": "Yosuke Katsuki"
+  },
+  {
+   "caseId": "case-yoko-okino-and-the-locked-attic",
+   "field": "culprit",
+   "zhHans": "Himi Baba"
+  },
+  {
+   "caseId": "case-detectives-don-t-sleep",
+   "field": "culprit",
+   "zhHans": "Kae Nishiwaki"
+  },
+  {
+   "caseId": "case-the-detective-boys-pursuit-of-the-purse-snatcher",
+   "field": "culprit",
+   "zhHans": "Shousaku Kume"
+  },
+  {
+   "caseId": "case-the-sweet-voice-heard-through-the-phone",
+   "field": "culprit",
+   "zhHans": "Kyoko Yufunezawa"
+  },
+  {
+   "caseId": "case-the-alley-of-sad-betrayal",
+   "field": "culprit",
+   "zhHans": "Yuji Yonezawa"
+  },
+  {
+   "caseId": "case-the-freezing-cold-men",
+   "field": "culprit",
+   "zhHans": "Masaru Bando"
+  },
+  {
+   "caseId": "case-chihaya-and-jugo-s-matchmaking-party",
+   "field": "culprit",
+   "zhHans": "Itaru Kaburagi"
+  },
+  {
+   "caseId": "case-momiji-ooka-s-sweet-trap",
+   "field": "culprit",
+   "zhHans": "Reisuke Inaba"
+  },
+  {
+   "caseId": "case-the-sister-troubled-by-her-naughty-brother",
+   "field": "culprit",
+   "zhHans": "Satsuki Makabe"
+  },
+  {
+   "caseId": "case-the-detective-boys-and-the-traditional-dream-house",
+   "field": "culprit",
+   "zhHans": "Akito Haga"
+  },
+  {
+   "caseId": "case-the-detective-boys-and-the-two-leaders",
+   "field": "culprit",
+   "zhHans": "Maika Kayaki"
+  },
+  {
+   "caseId": "case-the-mouri-family-house-sits",
+   "field": "culprit",
+   "zhHans": "Takahiko Kamiyu"
+  },
+  {
+   "caseId": "case-the-yamahime-of-yakushima",
+   "field": "culprit",
+   "zhHans": "Kasumi Kokusho"
+  },
+  {
+   "caseId": "case-the-case-of-ayumi-s-illustrated-diary-5",
+   "field": "culprit",
+   "zhHans": "Aoi Inukai"
+  },
+  {
+   "caseId": "case-the-counting-song-heard-in-the-dark",
+   "field": "culprit",
+   "zhHans": "Shinya Kadokura"
+  }
+ ]
+}

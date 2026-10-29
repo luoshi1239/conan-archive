@@ -1,0 +1,13 @@
+{
+  "batchId": "p4-case-blocked-fog-tengu-01",
+  "scope": "雾天狗传说杀人事件来源核对",
+  "targetLayer": "deepSpoilers",
+  "status": "blocked",
+  "reason": "标准 Detective Conan World 页面路径返回404，搜索结果无法提供可验证正文；未写入犯人、动机、手法、证据或结局。",
+  "attemptedUrls": [
+    "https://detectiveconanworld.com/wiki/Fog_Tengu_Legend_Murder_Case",
+    "https://detectiveconanworld.com/wiki/Fog_Tengu_Murder_Case",
+    "https://detectiveconanworld.com/wiki/Fog_Tengu_Legend_Case"
+  ],
+  "createdAt": "2026-10-27"
+}

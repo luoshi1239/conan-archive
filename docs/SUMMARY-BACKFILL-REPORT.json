@@ -1,0 +1,6973 @@
+{
+ "generatedBy": "scripts/backfill-episode-summaries-v2.py",
+ "source": "data/raw/dcw-page-sections.json (id-anchored <p>/<li>/<dd>/div text from cached DCW pages)",
+ "policy": "英文原文搬运，不翻译不总结；只填空值；zhHans/zhHant 留空等人工",
+ "totalEpisodes": 1217,
+ "filledThisRun": 1,
+ "repairedMetadataPrefix": 10,
+ "filledCumulative": 1151,
+ "blockedThisRun": 5,
+ "withEnSummaryAfter": 1212,
+ "withoutEnSummaryAfter": 5,
+ "filled": [
+  {
+   "episode": "episode-0939",
+   "number": 939,
+   "page": "The_Dangerous_Fossil_Finding_Trip",
+   "section": "situation",
+   "chars": 565,
+   "shortFromSource": false,
+   "hadZhOnly": false
+  }
+ ],
+ "cumulativeFilled": [
+  {
+   "episode": "episode-0002",
+   "number": 2,
+   "page": "Company_President's_Daughter_Kidnapping_Case",
+   "chars": 1254
+  },
+  {
+   "episode": "episode-0003",
+   "number": 3,
+   "page": "An_Idol's_Locked_Room_Murder_Case",
+   "chars": 1054
+  },
+  {
+   "episode": "episode-0004",
+   "number": 4,
+   "page": "The_Coded_Map_of_the_City_Case",
+   "chars": 694
+  },
+  {
+   "episode": "episode-0005",
+   "number": 5,
+   "page": "The_Shinkansen's_Bomb_Case",
+   "chars": 333
+  },
+  {
+   "episode": "episode-0006",
+   "number": 6,
+   "page": "Valentine_Murder_Case",
+   "chars": 477
+  },
+  {
+   "episode": "episode-0007",
+   "number": 7,
+   "page": "Once-A-Month_Present_Threat_Case",
+   "chars": 472
+  },
+  {
+   "episode": "episode-0008",
+   "number": 8,
+   "page": "Art_Museum_Owner_Murder_Case",
+   "chars": 3917
+  },
+  {
+   "episode": "episode-0009",
+   "number": 9,
+   "page": "Tenkaichi_Night_Festival_Murder_Case",
+   "chars": 2106
+  },
+  {
+   "episode": "episode-0010",
+   "number": 10,
+   "page": "Pro_Soccer_Player_Blackmail_Case",
+   "chars": 1515
+  },
+  {
+   "episode": "episode-0012",
+   "number": 12,
+   "page": "Ayumi-chan_Kidnapping_Case",
+   "chars": 155
+  },
+  {
+   "episode": "episode-0013",
+   "number": 13,
+   "page": "The_Strange_Person_Hunt_Murder_Case",
+   "chars": 858
+  },
+  {
+   "episode": "episode-0014",
+   "number": 14,
+   "page": "The_Mysterious_Shooting_Message_Case",
+   "chars": 867
+  },
+  {
+   "episode": "episode-0015",
+   "number": 15,
+   "page": "Missing_Corpse_Murder_Case",
+   "chars": 869
+  },
+  {
+   "episode": "episode-0016",
+   "number": 16,
+   "page": "The_Antique_Collector_Murder_Case",
+   "chars": 266
+  },
+  {
+   "episode": "episode-0017",
+   "number": 17,
+   "page": "Hijacked_Department_Store_Case",
+   "chars": 289
+  },
+  {
+   "episode": "episode-0018",
+   "number": 18,
+   "page": "A_June_Bride_Murder_Case",
+   "chars": 1077
+  },
+  {
+   "episode": "episode-0019",
+   "number": 19,
+   "page": "An_Elevator_Murder_Case",
+   "chars": 697
+  },
+  {
+   "episode": "episode-0020",
+   "number": 20,
+   "page": "A_Haunted_Mansion_Murder_Case",
+   "chars": 739
+  },
+  {
+   "episode": "episode-0021",
+   "number": 21,
+   "page": "On_Location,_TV_Drama_Murder_Case",
+   "chars": 656
+  },
+  {
+   "episode": "episode-0022",
+   "number": 22,
+   "page": "Luxury_Liner_Serial_Murder_Case",
+   "chars": 1127
+  },
+  {
+   "episode": "episode-0023",
+   "number": 23,
+   "page": "Luxury_Liner_Serial_Murder_Case",
+   "chars": 1306
+  },
+  {
+   "episode": "episode-0024",
+   "number": 24,
+   "page": "The_Mysterious_Woman_With_Amnesia_Case",
+   "chars": 768
+  },
+  {
+   "episode": "episode-0025",
+   "number": 25,
+   "page": "The_False_Kidnapping_and_Hostage_Case",
+   "chars": 1203
+  },
+  {
+   "episode": "episode-0026",
+   "number": 26,
+   "page": "Pet_Dog_John_Murder_Case",
+   "chars": 366
+  },
+  {
+   "episode": "episode-0027",
+   "number": 27,
+   "page": "Kogoro's_Class_Reunion_Murder_Case",
+   "chars": 1447
+  },
+  {
+   "episode": "episode-0028",
+   "number": 28,
+   "page": "Kogoro's_Class_Reunion_Murder_Case",
+   "chars": 246
+  },
+  {
+   "episode": "episode-0029",
+   "number": 29,
+   "page": "Computer_Murder_Case",
+   "chars": 119
+  },
+  {
+   "episode": "episode-0030",
+   "number": 30,
+   "page": "Alibi_Testimony_Murder_Case",
+   "chars": 1484
+  },
+  {
+   "episode": "episode-0031",
+   "number": 31,
+   "page": "TV_Station_Murder_Case",
+   "chars": 3080
+  },
+  {
+   "episode": "episode-0032",
+   "number": 32,
+   "page": "Coffee_Shop_Murder_Case",
+   "chars": 3478
+  },
+  {
+   "episode": "episode-0033",
+   "number": 33,
+   "page": "Detective_Boys_Survival_Case",
+   "chars": 326
+  },
+  {
+   "episode": "episode-0034",
+   "number": 34,
+   "page": "Mountain_Villa_Bandaged_Man_Murder_Case",
+   "chars": 1045
+  },
+  {
+   "episode": "episode-0035",
+   "number": 35,
+   "page": "Mountain_Villa_Bandaged_Man_Murder_Case",
+   "chars": 1418
+  },
+  {
+   "episode": "episode-0036",
+   "number": 36,
+   "page": "Monday_Night_7_30_p.m._Murder_Case",
+   "chars": 384
+  },
+  {
+   "episode": "episode-0037",
+   "number": 37,
+   "page": "Cactus's_Flower_Murder_Case",
+   "chars": 738
+  },
+  {
+   "episode": "episode-0038",
+   "number": 38,
+   "page": "Akaoni_Village_Fire_Festival_Murder_Case",
+   "chars": 717
+  },
+  {
+   "episode": "episode-0039",
+   "number": 39,
+   "page": "Wealthy_Daughter_Murder_Case",
+   "chars": 905
+  },
+  {
+   "episode": "episode-0040",
+   "number": 40,
+   "page": "Wealthy_Daughter_Murder_Case",
+   "chars": 241
+  },
+  {
+   "episode": "episode-0041",
+   "number": 41,
+   "page": "Victory_Flag_Tearing_Case",
+   "chars": 431
+  },
+  {
+   "episode": "episode-0042",
+   "number": 42,
+   "page": "Karaoke_Box_Murder_Case",
+   "chars": 844
+  },
+  {
+   "episode": "episode-0043",
+   "number": 43,
+   "page": "Conan_Edogawa_Kidnapping_Case",
+   "chars": 2195
+  },
+  {
+   "episode": "episode-0044",
+   "number": 44,
+   "page": "Three_Hotta_Siblings_Murder_Case",
+   "chars": 555
+  },
+  {
+   "episode": "episode-0045",
+   "number": 45,
+   "page": "Facial_Mask_Murder_Case",
+   "chars": 421
+  },
+  {
+   "episode": "episode-0046",
+   "number": 46,
+   "page": "Alpine_Hut_in_the_Snowy_Mountain_Murder_Case",
+   "chars": 1892
+  },
+  {
+   "episode": "episode-0047",
+   "number": 47,
+   "page": "Sports_Club_Murder_Case",
+   "chars": 421
+  },
+  {
+   "episode": "episode-0048",
+   "number": 48,
+   "page": "Diplomat_Murder_Case",
+   "chars": 1316
+  },
+  {
+   "episode": "episode-0049",
+   "number": 49,
+   "page": "Diplomat_Murder_Case",
+   "chars": 541
+  },
+  {
+   "episode": "episode-0051",
+   "number": 51,
+   "page": "The_Golf_Driving_Range_Murder_Case",
+   "chars": 579
+  },
+  {
+   "episode": "episode-0053",
+   "number": 53,
+   "page": "The_Mystery_Weapon_Murder_Case",
+   "chars": 669
+  },
+  {
+   "episode": "episode-0054",
+   "number": 54,
+   "page": "Game_Company_Murder_Case",
+   "chars": 593
+  },
+  {
+   "episode": "episode-0055",
+   "number": 55,
+   "page": "The_Train_Trick_Murder_Case",
+   "chars": 725
+  },
+  {
+   "episode": "episode-0056",
+   "number": 56,
+   "page": "The_Ojamanbou_Murder_Case",
+   "chars": 900
+  },
+  {
+   "episode": "episode-0057",
+   "number": 57,
+   "page": "Holmes_Freak_Murder_Case",
+   "chars": 1323
+  },
+  {
+   "episode": "episode-0058",
+   "number": 58,
+   "page": "Holmes_Freak_Murder_Case",
+   "chars": 376
+  },
+  {
+   "episode": "episode-0059",
+   "number": 59,
+   "page": "The_First_Errand_Murder_Case",
+   "chars": 515
+  },
+  {
+   "episode": "episode-0060",
+   "number": 60,
+   "page": "An_Illustrator_Murder_Case",
+   "chars": 694
+  },
+  {
+   "episode": "episode-0061",
+   "number": 61,
+   "page": "A_Ghost_Ship_Murder_Case",
+   "chars": 1467
+  },
+  {
+   "episode": "episode-0062",
+   "number": 62,
+   "page": "A_Ghost_Ship_Murder_Case",
+   "chars": 1192
+  },
+  {
+   "episode": "episode-0063",
+   "number": 63,
+   "page": "Big_Monster_Gomera_Murder_Case",
+   "chars": 667
+  },
+  {
+   "episode": "episode-0064",
+   "number": 64,
+   "page": "The_Third_Fingerprint_Murder_Case",
+   "chars": 216
+  },
+  {
+   "episode": "episode-0065",
+   "number": 65,
+   "page": "A_Crab_and_Whale_Kidnapping_Case",
+   "chars": 537
+  },
+  {
+   "episode": "episode-0066",
+   "number": 66,
+   "page": "Night_Road_Murder_Case",
+   "chars": 913
+  },
+  {
+   "episode": "episode-0067",
+   "number": 67,
+   "page": "Stage_Actress_Murder_Case",
+   "chars": 423
+  },
+  {
+   "episode": "episode-0068",
+   "number": 68,
+   "page": "Night_Baron_Murder_Case",
+   "chars": 13825
+  },
+  {
+   "episode": "episode-0069",
+   "number": 69,
+   "page": "Night_Baron_Murder_Case",
+   "chars": 13825
+  },
+  {
+   "episode": "episode-0070",
+   "number": 70,
+   "page": "Night_Baron_Murder_Case",
+   "chars": 13825
+  },
+  {
+   "episode": "episode-0071",
+   "number": 71,
+   "page": "A_Stalker's_Murder_Case",
+   "chars": 779
+  },
+  {
+   "episode": "episode-0072",
+   "number": 72,
+   "page": "The_Triplet's_Country_Home_Murder_Case",
+   "chars": 773
+  },
+  {
+   "episode": "episode-0073",
+   "number": 73,
+   "page": "The_Detective_Boys'_Disaster_Case",
+   "chars": 599
+  },
+  {
+   "episode": "episode-0074",
+   "number": 74,
+   "page": "The_Death_God_Jinnai_Murder_Case",
+   "chars": 758
+  },
+  {
+   "episode": "episode-0075",
+   "number": 75,
+   "page": "Loan_Company_President's_Murder_Case",
+   "chars": 597
+  },
+  {
+   "episode": "episode-0077",
+   "number": 77,
+   "page": "Distinguished_Family's_Consecutive_Accidental_Death_Case",
+   "chars": 1027
+  },
+  {
+   "episode": "episode-0078",
+   "number": 78,
+   "page": "Distinguished_Family's_Consecutive_Accidental_Death_Case",
+   "chars": 1096
+  },
+  {
+   "episode": "episode-0079",
+   "number": 79,
+   "page": "The_Bank_Heist_Murder_Case",
+   "chars": 839
+  },
+  {
+   "episode": "episode-0080",
+   "number": 80,
+   "page": "The_Wandering_Artist_Murder_Case",
+   "chars": 2431
+  },
+  {
+   "episode": "episode-0081",
+   "number": 81,
+   "page": "The_Kidnapping_of_a_Popular_Artist_Case",
+   "chars": 669
+  },
+  {
+   "episode": "episode-0082",
+   "number": 82,
+   "page": "The_Kidnapping_of_a_Popular_Artist_Case",
+   "chars": 368
+  },
+  {
+   "episode": "episode-0083",
+   "number": 83,
+   "page": "General_Hospital_Murder_Case",
+   "chars": 2987
+  },
+  {
+   "episode": "episode-0084",
+   "number": 84,
+   "page": "Ski_Lodge_Murder_Case",
+   "chars": 949
+  },
+  {
+   "episode": "episode-0085",
+   "number": 85,
+   "page": "Ski_Lodge_Murder_Case",
+   "chars": 1184
+  },
+  {
+   "episode": "episode-0086",
+   "number": 86,
+   "page": "The_Kidnapping_Location_Case",
+   "chars": 479
+  },
+  {
+   "episode": "episode-0087",
+   "number": 87,
+   "page": "The_Crane's_Return_of_a_Favor_Murder_Case",
+   "chars": 560
+  },
+  {
+   "episode": "episode-0088",
+   "number": 88,
+   "page": "Dracula's_Villa_Murder_Case",
+   "chars": 604
+  },
+  {
+   "episode": "episode-0089",
+   "number": 89,
+   "page": "Dracula's_Villa_Murder_Case",
+   "chars": 252
+  },
+  {
+   "episode": "episode-0090",
+   "number": 90,
+   "page": "The_Flower_Scent_Murder_Case",
+   "chars": 423
+  },
+  {
+   "episode": "episode-0091",
+   "number": 91,
+   "page": "The_Bank_Robber's_Hospitalization_Case",
+   "chars": 417
+  },
+  {
+   "episode": "episode-0092",
+   "number": 92,
+   "page": "The_Fearful_Traversing_Murder_Case",
+   "chars": 1310
+  },
+  {
+   "episode": "episode-0093",
+   "number": 93,
+   "page": "The_Fearful_Traversing_Murder_Case",
+   "chars": 1230
+  },
+  {
+   "episode": "episode-0094",
+   "number": 94,
+   "page": "Snow_Woman's_Legend_Murder_Case",
+   "chars": 453
+  },
+  {
+   "episode": "episode-0095",
+   "number": 95,
+   "page": "Kogoro's_Date_Murder_Case",
+   "chars": 417
+  },
+  {
+   "episode": "episode-0096",
+   "number": 96,
+   "page": "The_Cornered_Famous_Detective!_Two_Big_Murder_Cases",
+   "chars": 1551
+  },
+  {
+   "episode": "episode-0097",
+   "number": 97,
+   "page": "The_Farewell_Wine_Murder_Case",
+   "chars": 846
+  },
+  {
+   "episode": "episode-0098",
+   "number": 98,
+   "page": "The_Famous_Potter_Murder_Case",
+   "chars": 348
+  },
+  {
+   "episode": "episode-0099",
+   "number": 99,
+   "page": "The_Famous_Potter_Murder_Case",
+   "chars": 158
+  },
+  {
+   "episode": "episode-0100",
+   "number": 100,
+   "page": "The_Memories_of_First_Love_Case",
+   "chars": 1213
+  },
+  {
+   "episode": "episode-0101",
+   "number": 101,
+   "page": "The_Memories_of_First_Love_Case",
+   "chars": 1049
+  },
+  {
+   "episode": "episode-0102",
+   "number": 102,
+   "page": "The_Historical_Actor_Murder_Case",
+   "chars": 591
+  },
+  {
+   "episode": "episode-0103",
+   "number": 103,
+   "page": "The_Historical_Actor_Murder_Case",
+   "chars": 384
+  },
+  {
+   "episode": "episode-0104",
+   "number": 104,
+   "page": "The_Mysterious_Mansion_of_a_Band_of_Thieves_Case",
+   "chars": 394
+  },
+  {
+   "episode": "episode-0105",
+   "number": 105,
+   "page": "The_Mysterious_Mansion_of_a_Band_of_Thieves_Case",
+   "chars": 353
+  },
+  {
+   "episode": "episode-0106",
+   "number": 106,
+   "page": "Scoop_Picture_Murder_Case",
+   "chars": 5781
+  },
+  {
+   "episode": "episode-0107",
+   "number": 107,
+   "page": "The_Mysterious_Mole_Alien_Case",
+   "chars": 1290
+  },
+  {
+   "episode": "episode-0108",
+   "number": 108,
+   "page": "The_Mysterious_Mole_Alien_Case",
+   "chars": 275
+  },
+  {
+   "episode": "episode-0109",
+   "number": 109,
+   "page": "Detective_Club_Pursuit_Case",
+   "chars": 4357
+  },
+  {
+   "episode": "episode-0110",
+   "number": 110,
+   "page": "Cooking_Classroom_Murder_Case",
+   "chars": 828
+  },
+  {
+   "episode": "episode-0111",
+   "number": 111,
+   "page": "Cooking_Classroom_Murder_Case",
+   "chars": 236
+  },
+  {
+   "episode": "episode-0112",
+   "number": 112,
+   "page": "The_Seven_Mysteries_of_Teitan_Elementary_School_Case",
+   "chars": 753
+  },
+  {
+   "episode": "episode-0113",
+   "number": 113,
+   "page": "The_White_Sandy_Beach_Murder_Case",
+   "chars": 612
+  },
+  {
+   "episode": "episode-0114",
+   "number": 114,
+   "page": "Scuba_Diving_Murder_Case",
+   "chars": 334
+  },
+  {
+   "episode": "episode-0115",
+   "number": 115,
+   "page": "Scuba_Diving_Murder_Case",
+   "chars": 99
+  },
+  {
+   "episode": "episode-0116",
+   "number": 116,
+   "page": "The_Mystery_Writer_Disappearance_Case",
+   "chars": 837
+  },
+  {
+   "episode": "episode-0117",
+   "number": 117,
+   "page": "The_Mystery_Writer_Disappearance_Case",
+   "chars": 398
+  },
+  {
+   "episode": "episode-0118",
+   "number": 118,
+   "page": "The_Naniwa_Serial_Murder_Case",
+   "chars": 4857
+  },
+  {
+   "episode": "episode-0119",
+   "number": 119,
+   "page": "The_Kamen_Yaiba_Murder_Case",
+   "chars": 684
+  },
+  {
+   "episode": "episode-0120",
+   "number": 120,
+   "page": "A_Honey_Cocktail_Murder_Case",
+   "chars": 580
+  },
+  {
+   "episode": "episode-0121",
+   "number": 121,
+   "page": "The_Locked_Bathroom_Murder_Case",
+   "chars": 466
+  },
+  {
+   "episode": "episode-0122",
+   "number": 122,
+   "page": "The_Locked_Bathroom_Murder_Case",
+   "chars": 284
+  },
+  {
+   "episode": "episode-0123",
+   "number": 123,
+   "page": "The_Weather_Girl_Kidnapping_Case",
+   "chars": 321
+  },
+  {
+   "episode": "episode-0124",
+   "number": 124,
+   "page": "A_Mysterious_Sniper_Murder_Case",
+   "chars": 739
+  },
+  {
+   "episode": "episode-0125",
+   "number": 125,
+   "page": "A_Mysterious_Sniper_Murder_Case",
+   "chars": 435
+  },
+  {
+   "episode": "episode-0126",
+   "number": 126,
+   "page": "The_Traveling_Drama_Troupe_Murder_Case",
+   "chars": 947
+  },
+  {
+   "episode": "episode-0127",
+   "number": 127,
+   "page": "The_Traveling_Drama_Troupe_Murder_Case",
+   "chars": 578
+  },
+  {
+   "episode": "episode-0128",
+   "number": 128,
+   "page": "The_Black_Organization__One_Billion_Yen_Robbery_Case",
+   "chars": 571
+  },
+  {
+   "episode": "episode-0130",
+   "number": 130,
+   "page": "The_Indiscriminate_Stadium_Threatening_Case",
+   "chars": 230
+  },
+  {
+   "episode": "episode-0131",
+   "number": 131,
+   "page": "The_Indiscriminate_Stadium_Threatening_Case",
+   "chars": 568
+  },
+  {
+   "episode": "episode-0132",
+   "number": 132,
+   "page": "Magic_Lover's_Murder_Case",
+   "chars": 1888
+  },
+  {
+   "episode": "episode-0133",
+   "number": 133,
+   "page": "Magic_Lover's_Murder_Case",
+   "chars": 1888
+  },
+  {
+   "episode": "episode-0134",
+   "number": 134,
+   "page": "Magic_Lover's_Murder_Case",
+   "chars": 1888
+  },
+  {
+   "episode": "episode-0135",
+   "number": 135,
+   "page": "The_Disappearing_Weapon_Search_Case",
+   "chars": 1672
+  },
+  {
+   "episode": "episode-0136",
+   "number": 136,
+   "page": "The_Old_Blue_Castle_Investigation_Case",
+   "chars": 1482
+  },
+  {
+   "episode": "episode-0137",
+   "number": 137,
+   "page": "The_Old_Blue_Castle_Investigation_Case",
+   "chars": 580
+  },
+  {
+   "episode": "episode-0138",
+   "number": 138,
+   "page": "The_Final_Screening_Murder_Case",
+   "chars": 463
+  },
+  {
+   "episode": "episode-0139",
+   "number": 139,
+   "page": "The_Final_Screening_Murder_Case",
+   "chars": 1065
+  },
+  {
+   "episode": "episode-0140",
+   "number": 140,
+   "page": "SOS!_Messages_from_Ayumi",
+   "chars": 2380
+  },
+  {
+   "episode": "episode-0141",
+   "number": 141,
+   "page": "The_Night_Before_the_Wedding_Locked_Room_Case",
+   "chars": 365
+  },
+  {
+   "episode": "episode-0142",
+   "number": 142,
+   "page": "The_Night_Before_the_Wedding_Locked_Room_Case",
+   "chars": 128
+  },
+  {
+   "episode": "episode-0143",
+   "number": 143,
+   "page": "The_Suspicious_Astronomical_Observation",
+   "chars": 545
+  },
+  {
+   "episode": "episode-0144",
+   "number": 144,
+   "page": "The_North_Star_No.3_Express_Leaving_Ueno",
+   "chars": 519
+  },
+  {
+   "episode": "episode-0145",
+   "number": 145,
+   "page": "The_North_Star_No.3_Express_Leaving_Ueno",
+   "chars": 449
+  },
+  {
+   "episode": "episode-0146",
+   "number": 146,
+   "page": "Metropolitan_Police_Detective_Love_Story",
+   "chars": 1387
+  },
+  {
+   "episode": "episode-0147",
+   "number": 147,
+   "page": "Metropolitan_Police_Detective_Love_Story",
+   "chars": 321
+  },
+  {
+   "episode": "episode-0148",
+   "number": 148,
+   "page": "The_Streetcar's_Sudden_Stopping_Case",
+   "chars": 1057
+  },
+  {
+   "episode": "episode-0149",
+   "number": 149,
+   "page": "The_Amusement_Park_Bungee_Jumping_Case",
+   "chars": 844
+  },
+  {
+   "episode": "episode-0150",
+   "number": 150,
+   "page": "The_Truth_Behind_the_Car_Explosion_Case",
+   "chars": 586
+  },
+  {
+   "episode": "episode-0151",
+   "number": 151,
+   "page": "The_Truth_Behind_the_Car_Explosion_Case",
+   "chars": 72
+  },
+  {
+   "episode": "episode-0152",
+   "number": 152,
+   "page": "The_Mysterious_Old_Man_Disappearance_Case",
+   "chars": 413
+  },
+  {
+   "episode": "episode-0153",
+   "number": 153,
+   "page": "Sonoko's_Dangerous_Summer_Story",
+   "chars": 990
+  },
+  {
+   "episode": "episode-0154",
+   "number": 154,
+   "page": "Sonoko's_Dangerous_Summer_Story",
+   "chars": 804
+  },
+  {
+   "episode": "episode-0155",
+   "number": 155,
+   "page": "Underwater_Key_in_the_Locked_Room_Case",
+   "chars": 589
+  },
+  {
+   "episode": "episode-0156",
+   "number": 156,
+   "page": "Metropolitan_Police_Detective_Love_Story_2",
+   "chars": 792
+  },
+  {
+   "episode": "episode-0157",
+   "number": 157,
+   "page": "Metropolitan_Police_Detective_Love_Story_2",
+   "chars": 92
+  },
+  {
+   "episode": "episode-0158",
+   "number": 158,
+   "page": "The_Silent_Loop_Line",
+   "chars": 603
+  },
+  {
+   "episode": "episode-0159",
+   "number": 159,
+   "page": "The_Legend_of_the_Mysterious_Five_Storied_Pagoda",
+   "chars": 1321
+  },
+  {
+   "episode": "episode-0160",
+   "number": 160,
+   "page": "The_Legend_of_the_Mysterious_Five_Storied_Pagoda",
+   "chars": 71
+  },
+  {
+   "episode": "episode-0161",
+   "number": 161,
+   "page": "The_Murder_Floating_in_the_Water_Stream_Restaurant",
+   "chars": 1727
+  },
+  {
+   "episode": "episode-0162",
+   "number": 162,
+   "page": "The_Locked_Room_in_the_Sky__Shinichi_Kudo's_First_Case",
+   "chars": 1237
+  },
+  {
+   "episode": "episode-0163",
+   "number": 163,
+   "page": "The_Secret_of_the_Moon,_the_Star,_and_the_Sun",
+   "chars": 1333
+  },
+  {
+   "episode": "episode-0164",
+   "number": 164,
+   "page": "The_Secret_of_the_Moon,_the_Star,_and_the_Sun",
+   "chars": 174
+  },
+  {
+   "episode": "episode-0165",
+   "number": 165,
+   "page": "The_Disappearing_Detective_Boys_Case",
+   "chars": 919
+  },
+  {
+   "episode": "episode-0166",
+   "number": 166,
+   "page": "Tottori_Spider_Mansion_Demon",
+   "chars": 4557
+  },
+  {
+   "episode": "episode-0167",
+   "number": 167,
+   "page": "Tottori_Spider_Mansion_Demon",
+   "chars": 4557
+  },
+  {
+   "episode": "episode-0168",
+   "number": 168,
+   "page": "Tottori_Spider_Mansion_Demon",
+   "chars": 4557
+  },
+  {
+   "episode": "episode-0169",
+   "number": 169,
+   "page": "Venus'_Kiss",
+   "chars": 782
+  },
+  {
+   "episode": "episode-0170",
+   "number": 170,
+   "page": "The_Blind_Spot_in_the_Darkness",
+   "chars": 1226
+  },
+  {
+   "episode": "episode-0171",
+   "number": 171,
+   "page": "The_Blind_Spot_in_the_Darkness",
+   "chars": 361
+  },
+  {
+   "episode": "episode-0172",
+   "number": 172,
+   "page": "The_Revival_of_the_Dying_Message",
+   "chars": 466
+  },
+  {
+   "episode": "episode-0173",
+   "number": 173,
+   "page": "The_Revival_of_the_Dying_Message",
+   "chars": 29
+  },
+  {
+   "episode": "episode-0174",
+   "number": 174,
+   "page": "The_Twenty_Year_Old_Murderous_Intent__The_Symphony_Serial_Murder_Case",
+   "chars": 539
+  },
+  {
+   "episode": "episode-0175",
+   "number": 175,
+   "page": "The_Man_Who_Was_Killed_Four_Times",
+   "chars": 536
+  },
+  {
+   "episode": "episode-0179",
+   "number": 179,
+   "page": "The_Coffee_Shop_Truck's_Wild_Entrance_Case",
+   "chars": 492
+  },
+  {
+   "episode": "episode-0180",
+   "number": 180,
+   "page": "The_Nocturne_of_Red_Murderous_Intent",
+   "chars": 480
+  },
+  {
+   "episode": "episode-0181",
+   "number": 181,
+   "page": "The_Nocturne_of_Red_Murderous_Intent",
+   "chars": 480
+  },
+  {
+   "episode": "episode-0182",
+   "number": 182,
+   "page": "The_Big_Investigation_of_the_Nine_Doors",
+   "chars": 475
+  },
+  {
+   "episode": "episode-0183",
+   "number": 183,
+   "page": "A_Dangerous_Recipe",
+   "chars": 446
+  },
+  {
+   "episode": "episode-0184",
+   "number": 184,
+   "page": "A_Cursed_Mask_Coldly_Laughs",
+   "chars": 1892
+  },
+  {
+   "episode": "episode-0185",
+   "number": 185,
+   "page": "The_Murdered_Famous_Detective",
+   "chars": 241
+  },
+  {
+   "episode": "episode-0186",
+   "number": 186,
+   "page": "The_Murdered_Famous_Detective",
+   "chars": 241
+  },
+  {
+   "episode": "episode-0187",
+   "number": 187,
+   "page": "The_Unknown_Gunshot_That_Rings_in_the_Dark",
+   "chars": 339
+  },
+  {
+   "episode": "episode-0188",
+   "number": 188,
+   "page": "The_Desperate_Revival",
+   "chars": 1641
+  },
+  {
+   "episode": "episode-0189",
+   "number": 189,
+   "page": "The_Desperate_Revival",
+   "chars": 1641
+  },
+  {
+   "episode": "episode-0190",
+   "number": 190,
+   "page": "The_Desperate_Revival",
+   "chars": 1641
+  },
+  {
+   "episode": "episode-0191",
+   "number": 191,
+   "page": "The_Desperate_Revival",
+   "chars": 1641
+  },
+  {
+   "episode": "episode-0192",
+   "number": 192,
+   "page": "The_Desperate_Revival",
+   "chars": 1641
+  },
+  {
+   "episode": "episode-0193",
+   "number": 193,
+   "page": "The_Desperate_Revival",
+   "chars": 1641
+  },
+  {
+   "episode": "episode-0194",
+   "number": 194,
+   "page": "The_Significant_Music_Box",
+   "chars": 725
+  },
+  {
+   "episode": "episode-0195",
+   "number": 195,
+   "page": "The_Significant_Music_Box",
+   "chars": 188
+  },
+  {
+   "episode": "episode-0196",
+   "number": 196,
+   "page": "The_Invisible_Weapon,_Ran's_First_Investigation",
+   "chars": 366
+  },
+  {
+   "episode": "episode-0197",
+   "number": 197,
+   "page": "The_Super_Car's_Trap",
+   "chars": 305
+  },
+  {
+   "episode": "episode-0198",
+   "number": 198,
+   "page": "The_Super_Car's_Trap",
+   "chars": 305
+  },
+  {
+   "episode": "episode-0199",
+   "number": 199,
+   "page": "Kogoro_Mouri,_Suspect",
+   "chars": 593
+  },
+  {
+   "episode": "episode-0200",
+   "number": 200,
+   "page": "Kogoro_Mouri,_Suspect",
+   "chars": 228
+  },
+  {
+   "episode": "episode-0201",
+   "number": 201,
+   "page": "The_Tenth_Passenger",
+   "chars": 253
+  },
+  {
+   "episode": "episode-0202",
+   "number": 202,
+   "page": "The_Tenth_Passenger",
+   "chars": 257
+  },
+  {
+   "episode": "episode-0203",
+   "number": 203,
+   "page": "The_Black_Wings_of_Icarus",
+   "chars": 631
+  },
+  {
+   "episode": "episode-0204",
+   "number": 204,
+   "page": "The_Black_Wings_of_Icarus",
+   "chars": 181
+  },
+  {
+   "episode": "episode-0205",
+   "number": 205,
+   "page": "Metropolitan_Police_Detective_Love_Story_3",
+   "chars": 636
+  },
+  {
+   "episode": "episode-0206",
+   "number": 206,
+   "page": "Metropolitan_Police_Detective_Love_Story_3",
+   "chars": 636
+  },
+  {
+   "episode": "episode-0207",
+   "number": 207,
+   "page": "The_Deduction_That_Was_Too_Good",
+   "chars": 439
+  },
+  {
+   "episode": "episode-0208",
+   "number": 208,
+   "page": "The_Entrance_to_the_Maze__The_Anger_of_the_Colossus",
+   "chars": 1128
+  },
+  {
+   "episode": "episode-0209",
+   "number": 209,
+   "page": "The_Falling_from_Mt._Ryujin_Case",
+   "chars": 1635
+  },
+  {
+   "episode": "episode-0210",
+   "number": 210,
+   "page": "The_Water_Palace_of_Five_Colors_Legend",
+   "chars": 407
+  },
+  {
+   "episode": "episode-0211",
+   "number": 211,
+   "page": "The_Water_Palace_of_Five_Colors_Legend",
+   "chars": 347
+  },
+  {
+   "episode": "episode-0212",
+   "number": 212,
+   "page": "Mushrooms,_Bears,_and_the_Detective_Boys",
+   "chars": 547
+  },
+  {
+   "episode": "episode-0213",
+   "number": 213,
+   "page": "Mushrooms,_Bears,_and_the_Detective_Boys",
+   "chars": 547
+  },
+  {
+   "episode": "episode-0214",
+   "number": 214,
+   "page": "The_Mysterious_Retro_Room_Case",
+   "chars": 1029
+  },
+  {
+   "episode": "episode-0215",
+   "number": 215,
+   "page": "The_Bay_of_Revenge",
+   "chars": 1149
+  },
+  {
+   "episode": "episode-0216",
+   "number": 216,
+   "page": "The_Bay_of_Revenge",
+   "chars": 537
+  },
+  {
+   "episode": "episode-0217",
+   "number": 217,
+   "page": "Megure's_Sealed_Secret",
+   "chars": 1469
+  },
+  {
+   "episode": "episode-0218",
+   "number": 218,
+   "page": "Megure's_Sealed_Secret",
+   "chars": 1336
+  },
+  {
+   "episode": "episode-0220",
+   "number": 220,
+   "page": "The_Client_Full_of_Lies",
+   "chars": 544
+  },
+  {
+   "episode": "episode-0221",
+   "number": 221,
+   "page": "The_Client_Full_of_Lies",
+   "chars": 544
+  },
+  {
+   "episode": "episode-0222",
+   "number": 222,
+   "page": "And_Then_There_Were_No_Mermaids",
+   "chars": 5788
+  },
+  {
+   "episode": "episode-0223",
+   "number": 223,
+   "page": "And_Then_There_Were_No_Mermaids",
+   "chars": 5788
+  },
+  {
+   "episode": "episode-0224",
+   "number": 224,
+   "page": "And_Then_There_Were_No_Mermaids",
+   "chars": 5788
+  },
+  {
+   "episode": "episode-0225",
+   "number": 225,
+   "page": "The_Secret_of_the_High_Sales",
+   "chars": 716
+  },
+  {
+   "episode": "episode-0226",
+   "number": 226,
+   "page": "The_Battle_Game_Trap",
+   "chars": 721
+  },
+  {
+   "episode": "episode-0227",
+   "number": 227,
+   "page": "The_Battle_Game_Trap",
+   "chars": 193
+  },
+  {
+   "episode": "episode-0228",
+   "number": 228,
+   "page": "The_Murderous_Pottery_Class",
+   "chars": 381
+  },
+  {
+   "episode": "episode-0229",
+   "number": 229,
+   "page": "The_Murderous_Pottery_Class",
+   "chars": 261
+  },
+  {
+   "episode": "episode-0230",
+   "number": 230,
+   "page": "The_Mysterious_Passenger",
+   "chars": 1149
+  },
+  {
+   "episode": "episode-0231",
+   "number": 231,
+   "page": "The_Mysterious_Passenger",
+   "chars": 1149
+  },
+  {
+   "episode": "episode-0232",
+   "number": 232,
+   "page": "The_Falling_from_the_Condo_Case",
+   "chars": 325
+  },
+  {
+   "episode": "episode-0233",
+   "number": 233,
+   "page": "The_Evidence_That_Didn't_Disappear",
+   "chars": 592
+  },
+  {
+   "episode": "episode-0234",
+   "number": 234,
+   "page": "The_Evidence_That_Didn't_Disappear",
+   "chars": 592
+  },
+  {
+   "episode": "episode-0235",
+   "number": 235,
+   "page": "The_Locked_Wine_Cellar",
+   "chars": 1753
+  },
+  {
+   "episode": "episode-0236",
+   "number": 236,
+   "page": "The_Nanki_Shirahama_Mystery_Tour",
+   "chars": 695
+  },
+  {
+   "episode": "episode-0237",
+   "number": 237,
+   "page": "The_Nanki_Shirahama_Mystery_Tour",
+   "chars": 695
+  },
+  {
+   "episode": "episode-0238",
+   "number": 238,
+   "page": "The_3_\"K\"s_of_Osaka_Case",
+   "chars": 1302
+  },
+  {
+   "episode": "episode-0239",
+   "number": 239,
+   "page": "The_3_\"K\"s_of_Osaka_Case",
+   "chars": 1061
+  },
+  {
+   "episode": "episode-0240",
+   "number": 240,
+   "page": "The_Shinkansen_Transport_Case",
+   "chars": 500
+  },
+  {
+   "episode": "episode-0241",
+   "number": 241,
+   "page": "The_Shinkansen_Transport_Case",
+   "chars": 500
+  },
+  {
+   "episode": "episode-0242",
+   "number": 242,
+   "page": "Boy_Genta's_Misfortune",
+   "chars": 3271
+  },
+  {
+   "episode": "episode-0243",
+   "number": 243,
+   "page": "Kogoro_Mouri's_Imposter",
+   "chars": 1526
+  },
+  {
+   "episode": "episode-0244",
+   "number": 244,
+   "page": "Kogoro_Mouri's_Imposter",
+   "chars": 1526
+  },
+  {
+   "episode": "episode-0245",
+   "number": 245,
+   "page": "The_Gunshot_at_the_Sunflower_Estate",
+   "chars": 671
+  },
+  {
+   "episode": "episode-0246",
+   "number": 246,
+   "page": "The_Mystery_in_the_Net",
+   "chars": 533
+  },
+  {
+   "episode": "episode-0247",
+   "number": 247,
+   "page": "The_Mystery_in_the_Net",
+   "chars": 533
+  },
+  {
+   "episode": "episode-0248",
+   "number": 248,
+   "page": "The_Alibi_of_the_Soothing_Forest",
+   "chars": 512
+  },
+  {
+   "episode": "episode-0249",
+   "number": 249,
+   "page": "The_Celebrities'_Secret",
+   "chars": 600
+  },
+  {
+   "episode": "episode-0250",
+   "number": 250,
+   "page": "The_Celebrities'_Secret",
+   "chars": 138
+  },
+  {
+   "episode": "episode-0251",
+   "number": 251,
+   "page": "The_Tragedy_at_the_OK_Corral",
+   "chars": 440
+  },
+  {
+   "episode": "episode-0252",
+   "number": 252,
+   "page": "The_Kidnapper_in_the_Picture",
+   "chars": 447
+  },
+  {
+   "episode": "episode-0253",
+   "number": 253,
+   "page": "Metropolitan_Police_Detective_Love_Story_4",
+   "chars": 966
+  },
+  {
+   "episode": "episode-0254",
+   "number": 254,
+   "page": "Metropolitan_Police_Detective_Love_Story_4",
+   "chars": 211
+  },
+  {
+   "episode": "episode-0255",
+   "number": 255,
+   "page": "The_14th_Round_of_the_Matsue_Tamatsukuri_Linked_Verse_Contest",
+   "chars": 255
+  },
+  {
+   "episode": "episode-0256",
+   "number": 256,
+   "page": "The_14th_Round_of_the_Matsue_Tamatsukuri_Linked_Verse_Contest",
+   "chars": 157
+  },
+  {
+   "episode": "episode-0257",
+   "number": 257,
+   "page": "The_Mysterious_Punishment_From_Heaven",
+   "chars": 801
+  },
+  {
+   "episode": "episode-0258",
+   "number": 258,
+   "page": "The_Man_from_Chicago",
+   "chars": 1084
+  },
+  {
+   "episode": "episode-0259",
+   "number": 259,
+   "page": "The_Man_from_Chicago",
+   "chars": 252
+  },
+  {
+   "episode": "episode-0260",
+   "number": 260,
+   "page": "The_Shaking_Restaurant",
+   "chars": 921
+  },
+  {
+   "episode": "episode-0261",
+   "number": 261,
+   "page": "The_Fearful_Legend_of_the_Snowy_Night",
+   "chars": 1468
+  },
+  {
+   "episode": "episode-0262",
+   "number": 262,
+   "page": "The_Fearful_Legend_of_the_Snowy_Night",
+   "chars": 309
+  },
+  {
+   "episode": "episode-0263",
+   "number": 263,
+   "page": "The_Osaka_Double_Mystery_-_The_Naniwa_Swordsman_and_Toyotomi's_Castle",
+   "chars": 438
+  },
+  {
+   "episode": "episode-0264",
+   "number": 264,
+   "page": "Courtroom_Confrontation__Kisaki_vs._Kogoro",
+   "chars": 907
+  },
+  {
+   "episode": "episode-0265",
+   "number": 265,
+   "page": "Courtroom_Confrontation__Kisaki_vs._Kogoro",
+   "chars": 188
+  },
+  {
+   "episode": "episode-0266",
+   "number": 266,
+   "page": "The_Truth_Behind_Valentine's",
+   "chars": 1148
+  },
+  {
+   "episode": "episode-0267",
+   "number": 267,
+   "page": "The_Truth_Behind_Valentine's",
+   "chars": 1148
+  },
+  {
+   "episode": "episode-0268",
+   "number": 268,
+   "page": "The_Truth_Behind_Valentine's",
+   "chars": 1148
+  },
+  {
+   "episode": "episode-0269",
+   "number": 269,
+   "page": "The_Forgotten_Memento_from_the_Crime",
+   "chars": 931
+  },
+  {
+   "episode": "episode-0270",
+   "number": 270,
+   "page": "The_Forgotten_Memento_from_the_Crime",
+   "chars": 375
+  },
+  {
+   "episode": "episode-0271",
+   "number": 271,
+   "page": "The_Secret_Rushed_Omission",
+   "chars": 696
+  },
+  {
+   "episode": "episode-0272",
+   "number": 272,
+   "page": "The_Secret_Rushed_Omission",
+   "chars": 173
+  },
+  {
+   "episode": "episode-0273",
+   "number": 273,
+   "page": "Riddle_Granny_Disappearance_Case",
+   "chars": 1137
+  },
+  {
+   "episode": "episode-0274",
+   "number": 274,
+   "page": "The_Truth_of_the_Haunted_House",
+   "chars": 1052
+  },
+  {
+   "episode": "episode-0275",
+   "number": 275,
+   "page": "The_Truth_of_the_Haunted_House",
+   "chars": 355
+  },
+  {
+   "episode": "episode-0276",
+   "number": 276,
+   "page": "The_Policeman's_Missing_Notebook_Case",
+   "chars": 453
+  },
+  {
+   "episode": "episode-0277",
+   "number": 277,
+   "page": "English_Teacher_vs._Great_Western_Detective",
+   "chars": 825
+  },
+  {
+   "episode": "episode-0278",
+   "number": 278,
+   "page": "English_Teacher_vs._Great_Western_Detective",
+   "chars": 248
+  },
+  {
+   "episode": "episode-0279",
+   "number": 279,
+   "page": "Hooligan's_Labyrinth",
+   "chars": 1371
+  },
+  {
+   "episode": "episode-0280",
+   "number": 280,
+   "page": "Hooligan's_Labyrinth",
+   "chars": 300
+  },
+  {
+   "episode": "episode-0281",
+   "number": 281,
+   "page": "The_Small_Eye-Witnesses",
+   "chars": 3599
+  },
+  {
+   "episode": "episode-0282",
+   "number": 282,
+   "page": "The_Mystery_of_the_Water-Flowing_Stone_Garden",
+   "chars": 1396
+  },
+  {
+   "episode": "episode-0283",
+   "number": 283,
+   "page": "The_Mystery_of_the_Water-Flowing_Stone_Garden",
+   "chars": 814
+  },
+  {
+   "episode": "episode-0284",
+   "number": 284,
+   "page": "Chinatown_Deja_Vu_in_the_Rain",
+   "chars": 929
+  },
+  {
+   "episode": "episode-0285",
+   "number": 285,
+   "page": "Chinatown_Deja_Vu_in_the_Rain",
+   "chars": 246
+  },
+  {
+   "episode": "episode-0286",
+   "number": 286,
+   "page": "Shinichi_Kudo's_New_York_Case",
+   "chars": 2145
+  },
+  {
+   "episode": "episode-0287",
+   "number": 287,
+   "page": "Shinichi_Kudo's_New_York_Case",
+   "chars": 2145
+  },
+  {
+   "episode": "episode-0288",
+   "number": 288,
+   "page": "Shinichi_Kudo's_New_York_Case",
+   "chars": 2145
+  },
+  {
+   "episode": "episode-0289",
+   "number": 289,
+   "page": "Mitsuhiko's_Mystifying_Forest",
+   "chars": 1481
+  },
+  {
+   "episode": "episode-0290",
+   "number": 290,
+   "page": "Mitsuhiko's_Mystifying_Forest",
+   "chars": 1052
+  },
+  {
+   "episode": "episode-0291",
+   "number": 291,
+   "page": "Solitary_Island_of_the_Princess_and_the_Dragon_King's_Palace",
+   "chars": 3095
+  },
+  {
+   "episode": "episode-0292",
+   "number": 292,
+   "page": "Solitary_Island_of_the_Princess_and_the_Dragon_King's_Palace",
+   "chars": 3095
+  },
+  {
+   "episode": "episode-0293",
+   "number": 293,
+   "page": "Solitary_Island_of_the_Princess_and_the_Dragon_King's_Palace",
+   "chars": 3095
+  },
+  {
+   "episode": "episode-0294",
+   "number": 294,
+   "page": "The_Smash_of_Determination_and_Love",
+   "chars": 1058
+  },
+  {
+   "episode": "episode-0295",
+   "number": 295,
+   "page": "The_Smash_of_Determination_and_Love",
+   "chars": 482
+  },
+  {
+   "episode": "episode-0296",
+   "number": 296,
+   "page": "Houseboat_Fishing_Shock",
+   "chars": 546
+  },
+  {
+   "episode": "episode-0297",
+   "number": 297,
+   "page": "Courtroom_Confrontation_II__Kisaki_vs._Kujo",
+   "chars": 1148
+  },
+  {
+   "episode": "episode-0298",
+   "number": 298,
+   "page": "Courtroom_Confrontation_II__Kisaki_vs._Kujo",
+   "chars": 155
+  },
+  {
+   "episode": "episode-0299",
+   "number": 299,
+   "page": "The_Kanmon_Strait_of_Friendship_and_Murderous_Intent",
+   "chars": 1255
+  },
+  {
+   "episode": "episode-0300",
+   "number": 300,
+   "page": "The_Kanmon_Strait_of_Friendship_and_Murderous_Intent",
+   "chars": 542
+  },
+  {
+   "episode": "episode-0301",
+   "number": 301,
+   "page": "Parade_of_Malice_and_Saint",
+   "chars": 730
+  },
+  {
+   "episode": "episode-0302",
+   "number": 302,
+   "page": "Parade_of_Malice_and_Saint",
+   "chars": 171
+  },
+  {
+   "episode": "episode-0303",
+   "number": 303,
+   "page": "The_Victim_Who_Came_Back",
+   "chars": 644
+  },
+  {
+   "episode": "episode-0304",
+   "number": 304,
+   "page": "The_Trembling_Police_Headquarters__12_Million_Hostages",
+   "chars": 1239
+  },
+  {
+   "episode": "episode-0305",
+   "number": 305,
+   "page": "The_Unseen_Suspect",
+   "chars": 1107
+  },
+  {
+   "episode": "episode-0306",
+   "number": 306,
+   "page": "The_Unseen_Suspect",
+   "chars": 146
+  },
+  {
+   "episode": "episode-0307",
+   "number": 307,
+   "page": "On_the_Trail_of_a_Silent_Witness",
+   "chars": 1130
+  },
+  {
+   "episode": "episode-0308",
+   "number": 308,
+   "page": "On_the_Trail_of_a_Silent_Witness",
+   "chars": 447
+  },
+  {
+   "episode": "episode-0309",
+   "number": 309,
+   "page": "Contact_with_the_Black_Organization",
+   "chars": 709
+  },
+  {
+   "episode": "episode-0310",
+   "number": 310,
+   "page": "Contact_with_the_Black_Organization",
+   "chars": 692
+  },
+  {
+   "episode": "episode-0311",
+   "number": 311,
+   "page": "Contact_with_the_Black_Organization",
+   "chars": 123
+  },
+  {
+   "episode": "episode-0312",
+   "number": 312,
+   "page": "Festival_Dolls_Dyed_in_the_Setting_Sun",
+   "chars": 1471
+  },
+  {
+   "episode": "episode-0313",
+   "number": 313,
+   "page": "Festival_Dolls_Dyed_in_the_Setting_Sun",
+   "chars": 849
+  },
+  {
+   "episode": "episode-0314",
+   "number": 314,
+   "page": "The_Scenic_Lookout_with_the_Broken_Fence",
+   "chars": 356
+  },
+  {
+   "episode": "episode-0315",
+   "number": 315,
+   "page": "Place_Exposed_to_the_Sun",
+   "chars": 474
+  },
+  {
+   "episode": "episode-0316",
+   "number": 316,
+   "page": "The_Sullied_Masked_Hero",
+   "chars": 592
+  },
+  {
+   "episode": "episode-0317",
+   "number": 317,
+   "page": "The_Sullied_Masked_Hero",
+   "chars": 91
+  },
+  {
+   "episode": "episode-0318",
+   "number": 318,
+   "page": "The_Lucky_Cigar_Case",
+   "chars": 1580
+  },
+  {
+   "episode": "episode-0319",
+   "number": 319,
+   "page": "The_Lucky_Cigar_Case",
+   "chars": 1580
+  },
+  {
+   "episode": "episode-0320",
+   "number": 320,
+   "page": "The_Art_of_Ninja_Alibi_Craft",
+   "chars": 713
+  },
+  {
+   "episode": "episode-0321",
+   "number": 321,
+   "page": "The_Kidnapper's_Disappearing_Getaway_Car",
+   "chars": 813
+  },
+  {
+   "episode": "episode-0322",
+   "number": 322,
+   "page": "The_Kidnapper's_Disappearing_Getaway_Car",
+   "chars": 425
+  },
+  {
+   "episode": "episode-0323",
+   "number": 323,
+   "page": "Heiji_Hattori's_Desperate_Situation!",
+   "chars": 1030
+  },
+  {
+   "episode": "episode-0324",
+   "number": 324,
+   "page": "Heiji_Hattori's_Desperate_Situation!",
+   "chars": 362
+  },
+  {
+   "episode": "episode-0325",
+   "number": 325,
+   "page": "The_Red_Horse_within_the_Flames",
+   "chars": 2076
+  },
+  {
+   "episode": "episode-0326",
+   "number": 326,
+   "page": "The_Red_Horse_within_the_Flames",
+   "chars": 2076
+  },
+  {
+   "episode": "episode-0327",
+   "number": 327,
+   "page": "The_Red_Horse_within_the_Flames",
+   "chars": 2076
+  },
+  {
+   "episode": "episode-0328",
+   "number": 328,
+   "page": "The_Birthday_Wine_Mystery",
+   "chars": 353
+  },
+  {
+   "episode": "episode-0329",
+   "number": 329,
+   "page": "A_Friendship_That_Can't_Be_Bought",
+   "chars": 1275
+  },
+  {
+   "episode": "episode-0330",
+   "number": 330,
+   "page": "A_Friendship_That_Can't_Be_Bought",
+   "chars": 108
+  },
+  {
+   "episode": "episode-0331",
+   "number": 331,
+   "page": "The_Suspicious_Spicy_Curry",
+   "chars": 356
+  },
+  {
+   "episode": "episode-0332",
+   "number": 332,
+   "page": "The_Suspicious_Spicy_Curry",
+   "chars": 45
+  },
+  {
+   "episode": "episode-0333",
+   "number": 333,
+   "page": "The_Similar_Princesses",
+   "chars": 1205
+  },
+  {
+   "episode": "episode-0334",
+   "number": 334,
+   "page": "The_Similar_Princesses",
+   "chars": 91
+  },
+  {
+   "episode": "episode-0335",
+   "number": 335,
+   "page": "Secret_of_the_Tohto_Film_Development_Studio",
+   "chars": 759
+  },
+  {
+   "episode": "episode-0336",
+   "number": 336,
+   "page": "Secret_of_the_Tohto_Film_Development_Studio",
+   "chars": 413
+  },
+  {
+   "episode": "episode-0337",
+   "number": 337,
+   "page": "Hidden_Circumstances_of_the_Falling_Incident",
+   "chars": 464
+  },
+  {
+   "episode": "episode-0338",
+   "number": 338,
+   "page": "The_Four_Porsches",
+   "chars": 809
+  },
+  {
+   "episode": "episode-0339",
+   "number": 339,
+   "page": "The_Four_Porsches",
+   "chars": 296
+  },
+  {
+   "episode": "episode-0340",
+   "number": 340,
+   "page": "Hidden_Bathroom_Secret",
+   "chars": 749
+  },
+  {
+   "episode": "episode-0341",
+   "number": 341,
+   "page": "Hidden_Bathroom_Secret",
+   "chars": 749
+  },
+  {
+   "episode": "episode-0342",
+   "number": 342,
+   "page": "The_Bride_of_Huis_ten_Bosch",
+   "chars": 1235
+  },
+  {
+   "episode": "episode-0343",
+   "number": 343,
+   "page": "The_Convenience_Store_Trap",
+   "chars": 424
+  },
+  {
+   "episode": "episode-0344",
+   "number": 344,
+   "page": "The_Convenience_Store_Trap",
+   "chars": 161
+  },
+  {
+   "episode": "episode-0345",
+   "number": 345,
+   "page": "Head-to-Head_Match_with_the_Black_Organization__A_Dual_Mystery_on_a_Full_Moon_Night",
+   "chars": 1216
+  },
+  {
+   "episode": "episode-0346",
+   "number": 346,
+   "page": "Find_the_Buttock's_Mark",
+   "chars": 956
+  },
+  {
+   "episode": "episode-0347",
+   "number": 347,
+   "page": "Find_the_Buttock's_Mark",
+   "chars": 584
+  },
+  {
+   "episode": "episode-0348",
+   "number": 348,
+   "page": "Love,_Ghosts,_and_World_Heritage",
+   "chars": 531
+  },
+  {
+   "episode": "episode-0349",
+   "number": 349,
+   "page": "Love,_Ghosts,_and_World_Heritage",
+   "chars": 93
+  },
+  {
+   "episode": "episode-0350",
+   "number": 350,
+   "page": "The_Forgotten_Cell_Phone",
+   "chars": 438
+  },
+  {
+   "episode": "episode-0351",
+   "number": 351,
+   "page": "The_Forgotten_Cell_Phone",
+   "chars": 283
+  },
+  {
+   "episode": "episode-0352",
+   "number": 352,
+   "page": "The_Fishing_Tournament_Tragedy",
+   "chars": 441
+  },
+  {
+   "episode": "episode-0353",
+   "number": 353,
+   "page": "The_Fishing_Tournament_Tragedy",
+   "chars": 226
+  },
+  {
+   "episode": "episode-0354",
+   "number": 354,
+   "page": "A_Small_Client",
+   "chars": 1322
+  },
+  {
+   "episode": "episode-0355",
+   "number": 355,
+   "page": "A_Small_Client",
+   "chars": 330
+  },
+  {
+   "episode": "episode-0357",
+   "number": 357,
+   "page": "Sweetheart_is_an_Illusion_of_Spring",
+   "chars": 1719
+  },
+  {
+   "episode": "episode-0358",
+   "number": 358,
+   "page": "Metropolitan_Police_Detective_Love_Story_5",
+   "chars": 1521
+  },
+  {
+   "episode": "episode-0359",
+   "number": 359,
+   "page": "Metropolitan_Police_Detective_Love_Story_5",
+   "chars": 74
+  },
+  {
+   "episode": "episode-0360",
+   "number": 360,
+   "page": "A_Mysterious_Spring_Beetle",
+   "chars": 616
+  },
+  {
+   "episode": "episode-0361",
+   "number": 361,
+   "page": "Teitan_High_School's_Ghost_Story",
+   "chars": 1345
+  },
+  {
+   "episode": "episode-0362",
+   "number": 362,
+   "page": "Teitan_High_School's_Ghost_Story",
+   "chars": 1345
+  },
+  {
+   "episode": "episode-0363",
+   "number": 363,
+   "page": "The_City_Crows",
+   "chars": 539
+  },
+  {
+   "episode": "episode-0364",
+   "number": 364,
+   "page": "The_Synchronicity_Case",
+   "chars": 1076
+  },
+  {
+   "episode": "episode-0365",
+   "number": 365,
+   "page": "The_Synchronicity_Case",
+   "chars": 1298
+  },
+  {
+   "episode": "episode-0366",
+   "number": 366,
+   "page": "The_Tragedy_of_the_Pier_in_Plain_Sight",
+   "chars": 70
+  },
+  {
+   "episode": "episode-0367",
+   "number": 367,
+   "page": "The_Tragedy_of_the_Pier_in_Plain_Sight",
+   "chars": 63
+  },
+  {
+   "episode": "episode-0368",
+   "number": 368,
+   "page": "The_Candy_House_the_Witch_Lives_In",
+   "chars": 728
+  },
+  {
+   "episode": "episode-0369",
+   "number": 369,
+   "page": "A_Lucky_Man's_Suspense",
+   "chars": 630
+  },
+  {
+   "episode": "episode-0370",
+   "number": 370,
+   "page": "The_Runaway_Video_Game",
+   "chars": 4864
+  },
+  {
+   "episode": "episode-0371",
+   "number": 371,
+   "page": "A_Course_Without_Protest",
+   "chars": 556
+  },
+  {
+   "episode": "episode-0372",
+   "number": 372,
+   "page": "A_Course_Without_Protest",
+   "chars": 556
+  },
+  {
+   "episode": "episode-0373",
+   "number": 373,
+   "page": "Deadly_Poisonous_Spider_Trap",
+   "chars": 419
+  },
+  {
+   "episode": "episode-0374",
+   "number": 374,
+   "page": "A_Code_of_Stars_and_Tobacco",
+   "chars": 947
+  },
+  {
+   "episode": "episode-0375",
+   "number": 375,
+   "page": "A_Code_of_Stars_and_Tobacco",
+   "chars": 827
+  },
+  {
+   "episode": "episode-0376",
+   "number": 376,
+   "page": "The_Time_Limit_is_15_00!",
+   "chars": 635
+  },
+  {
+   "episode": "episode-0377",
+   "number": 377,
+   "page": "Momotarou_Mystery_Solving_Tour",
+   "chars": 156
+  },
+  {
+   "episode": "episode-0378",
+   "number": 378,
+   "page": "Momotarou_Mystery_Solving_Tour",
+   "chars": 127
+  },
+  {
+   "episode": "episode-0379",
+   "number": 379,
+   "page": "The_Case_of_the_Furisode_at_the_Hidden_Hot_Spring_on_a_Snowy_Night",
+   "chars": 453
+  },
+  {
+   "episode": "episode-0380",
+   "number": 380,
+   "page": "The_Case_of_the_Furisode_at_the_Hidden_Hot_Spring_on_a_Snowy_Night",
+   "chars": 1286
+  },
+  {
+   "episode": "episode-0381",
+   "number": 381,
+   "page": "Which_One's_Deduction_Show",
+   "chars": 661
+  },
+  {
+   "episode": "episode-0382",
+   "number": 382,
+   "page": "Which_One's_Deduction_Show",
+   "chars": 191
+  },
+  {
+   "episode": "episode-0383",
+   "number": 383,
+   "page": "Miracle_at_Koshien_Ball_Park!_The_Defiants_Face_the_Dark_Demon",
+   "chars": 1473
+  },
+  {
+   "episode": "episode-0384",
+   "number": 384,
+   "page": "The_Target_is_Kogoro_Mouri",
+   "chars": 499
+  },
+  {
+   "episode": "episode-0385",
+   "number": 385,
+   "page": "The_Dissonance_of_the_Stradivarius",
+   "chars": 1796
+  },
+  {
+   "episode": "episode-0386",
+   "number": 386,
+   "page": "The_Dissonance_of_the_Stradivarius",
+   "chars": 1796
+  },
+  {
+   "episode": "episode-0387",
+   "number": 387,
+   "page": "The_Dissonance_of_the_Stradivarius",
+   "chars": 1796
+  },
+  {
+   "episode": "episode-0388",
+   "number": 388,
+   "page": "Kogoro_Gets_Drunk_in_Satsuma",
+   "chars": 626
+  },
+  {
+   "episode": "episode-0389",
+   "number": 389,
+   "page": "Kogoro_Gets_Drunk_in_Satsuma",
+   "chars": 514
+  },
+  {
+   "episode": "episode-0390",
+   "number": 390,
+   "page": "Metropolitan_Police_Detective_Love_Story_6",
+   "chars": 777
+  },
+  {
+   "episode": "episode-0391",
+   "number": 391,
+   "page": "Metropolitan_Police_Detective_Love_Story_6",
+   "chars": 777
+  },
+  {
+   "episode": "episode-0392",
+   "number": 392,
+   "page": "The_Mysterious_Height_Difference_of_20cm",
+   "chars": 553
+  },
+  {
+   "episode": "episode-0393",
+   "number": 393,
+   "page": "A_Kidnapping_Case..._So_It_Seems",
+   "chars": 847
+  },
+  {
+   "episode": "episode-0394",
+   "number": 394,
+   "page": "Big_Adventure_in_the_Eccentric_Mansion",
+   "chars": 1953
+  },
+  {
+   "episode": "episode-0395",
+   "number": 395,
+   "page": "Big_Adventure_in_the_Eccentric_Mansion",
+   "chars": 1953
+  },
+  {
+   "episode": "episode-0396",
+   "number": 396,
+   "page": "Big_Adventure_in_the_Eccentric_Mansion",
+   "chars": 1953
+  },
+  {
+   "episode": "episode-0397",
+   "number": 397,
+   "page": "Hot,_Bitter,_Sweet_Soup",
+   "chars": 1348
+  },
+  {
+   "episode": "episode-0398",
+   "number": 398,
+   "page": "The_Strange_Family's_Request",
+   "chars": 936
+  },
+  {
+   "episode": "episode-0399",
+   "number": 399,
+   "page": "The_Strange_Family's_Request",
+   "chars": 1469
+  },
+  {
+   "episode": "episode-0400",
+   "number": 400,
+   "page": "Ran's_Suspicions",
+   "chars": 1150
+  },
+  {
+   "episode": "episode-0401",
+   "number": 401,
+   "page": "A_Jewel_Thief_Caught_Red-Handed",
+   "chars": 1003
+  },
+  {
+   "episode": "episode-0402",
+   "number": 402,
+   "page": "A_Jewel_Thief_Caught_Red-Handed",
+   "chars": 1003
+  },
+  {
+   "episode": "episode-0403",
+   "number": 403,
+   "page": "The_Mysterious_Angel's_Mansion",
+   "chars": 672
+  },
+  {
+   "episode": "episode-0404",
+   "number": 404,
+   "page": "The_Mysterious_Angel's_Mansion",
+   "chars": 930
+  },
+  {
+   "episode": "episode-0405",
+   "number": 405,
+   "page": "The_Man_Who_Called_for_an_Ambulance",
+   "chars": 304
+  },
+  {
+   "episode": "episode-0406",
+   "number": 406,
+   "page": "Conan_and_Heiji's_Deduction_Magic",
+   "chars": 774
+  },
+  {
+   "episode": "episode-0407",
+   "number": 407,
+   "page": "Conan_and_Heiji's_Deduction_Magic",
+   "chars": 774
+  },
+  {
+   "episode": "episode-0408",
+   "number": 408,
+   "page": "Conan_and_Heiji's_Deduction_Magic",
+   "chars": 774
+  },
+  {
+   "episode": "episode-0409",
+   "number": 409,
+   "page": "The_Simultaneous_Stage_Advance_and_Kidnapping",
+   "chars": 386
+  },
+  {
+   "episode": "episode-0410",
+   "number": 410,
+   "page": "The_Simultaneous_Stage_Advance_and_Kidnapping",
+   "chars": 397
+  },
+  {
+   "episode": "episode-0411",
+   "number": 411,
+   "page": "The_Shinto_Shrine_Torii's_Surprising_Code",
+   "chars": 442
+  },
+  {
+   "episode": "episode-0412",
+   "number": 412,
+   "page": "The_Shinto_Shrine_Torii's_Surprising_Code",
+   "chars": 442
+  },
+  {
+   "episode": "episode-0413",
+   "number": 413,
+   "page": "The_Half_Completed_Crime_Mystery",
+   "chars": 552
+  },
+  {
+   "episode": "episode-0414",
+   "number": 414,
+   "page": "The_Detective_Boys'_Bluebird_Chase",
+   "chars": 723
+  },
+  {
+   "episode": "episode-0415",
+   "number": 415,
+   "page": "The_Evil_Spirit_Appears_on_An_Unlucky_Day",
+   "chars": 1360
+  },
+  {
+   "episode": "episode-0416",
+   "number": 416,
+   "page": "The_Evil_Spirit_Appears_on_An_Unlucky_Day",
+   "chars": 1360
+  },
+  {
+   "episode": "episode-0417",
+   "number": 417,
+   "page": "The_Evil_Spirit_Appears_on_An_Unlucky_Day",
+   "chars": 1360
+  },
+  {
+   "episode": "episode-0418",
+   "number": 418,
+   "page": "Home_of_Beika's_Grenier",
+   "chars": 721
+  },
+  {
+   "episode": "episode-0419",
+   "number": 419,
+   "page": "Sword_of_the_Eight-Headed_Serpent",
+   "chars": 1350
+  },
+  {
+   "episode": "episode-0420",
+   "number": 420,
+   "page": "Sword_of_the_Eight-Headed_Serpent",
+   "chars": 799
+  },
+  {
+   "episode": "episode-0421",
+   "number": 421,
+   "page": "Ginkgo-Colored_First_Love",
+   "chars": 382
+  },
+  {
+   "episode": "episode-0422",
+   "number": 422,
+   "page": "Ginkgo-Colored_First_Love",
+   "chars": 171
+  },
+  {
+   "episode": "episode-0423",
+   "number": 423,
+   "page": "The_Detective_Boys_and_the_Four_Caterpillar_Brothers",
+   "chars": 484
+  },
+  {
+   "episode": "episode-0424",
+   "number": 424,
+   "page": "Photo_E-mail_from_the_Clown",
+   "chars": 399
+  },
+  {
+   "episode": "episode-0427",
+   "number": 427,
+   "page": "Super_Secret_of_the_Road_to_School",
+   "chars": 421
+  },
+  {
+   "episode": "episode-0428",
+   "number": 428,
+   "page": "Super_Secret_of_the_Road_to_School",
+   "chars": 235
+  },
+  {
+   "episode": "episode-0429",
+   "number": 429,
+   "page": "Two_People_Who_Can't_Return",
+   "chars": 852
+  },
+  {
+   "episode": "episode-0430",
+   "number": 430,
+   "page": "Two_People_Who_Can't_Return",
+   "chars": 60
+  },
+  {
+   "episode": "episode-0431",
+   "number": 431,
+   "page": "Metropolitan_Police_Detective_Love_Story_7",
+   "chars": 726
+  },
+  {
+   "episode": "episode-0432",
+   "number": 432,
+   "page": "Metropolitan_Police_Detective_Love_Story_7",
+   "chars": 726
+  },
+  {
+   "episode": "episode-0433",
+   "number": 433,
+   "page": "Conan__A_Strange_Child",
+   "chars": 1198
+  },
+  {
+   "episode": "episode-0435",
+   "number": 435,
+   "page": "Information_Gathered_About_the_Detective_Boys",
+   "chars": 658
+  },
+  {
+   "episode": "episode-0436",
+   "number": 436,
+   "page": "Information_Gathered_About_the_Detective_Boys",
+   "chars": 548
+  },
+  {
+   "episode": "episode-0437",
+   "number": 437,
+   "page": "Aya_Ueto_and_Shinichi_-_The_Promise_from_4_Years_Ago",
+   "chars": 190
+  },
+  {
+   "episode": "episode-0438",
+   "number": 438,
+   "page": "The_Pursuit_of_the_Fish_E-mail",
+   "chars": 366
+  },
+  {
+   "episode": "episode-0442",
+   "number": 442,
+   "page": "The_Man_Obstructed_by_the_Steel_Frame",
+   "chars": 487
+  },
+  {
+   "episode": "episode-0443",
+   "number": 443,
+   "page": "Clam_Digging_With_a_Sigh",
+   "chars": 216
+  },
+  {
+   "episode": "episode-0444",
+   "number": 444,
+   "page": "Clam_Digging_With_a_Sigh",
+   "chars": 65
+  },
+  {
+   "episode": "episode-0445",
+   "number": 445,
+   "page": "Secret_of_the_Russian_Blue",
+   "chars": 569
+  },
+  {
+   "episode": "episode-0446",
+   "number": 446,
+   "page": "The_Sealed_Western-Style_Window",
+   "chars": 1473
+  },
+  {
+   "episode": "episode-0447",
+   "number": 447,
+   "page": "The_Sealed_Western-Style_Window",
+   "chars": 244
+  },
+  {
+   "episode": "episode-0450",
+   "number": 450,
+   "page": "Trick_vs._Magic",
+   "chars": 600
+  },
+  {
+   "episode": "episode-0451",
+   "number": 451,
+   "page": "Trick_vs._Magic",
+   "chars": 187
+  },
+  {
+   "episode": "episode-0453",
+   "number": 453,
+   "page": "Preview_Screening_of_Fate_and_Friendship",
+   "chars": 318
+  },
+  {
+   "episode": "episode-0454",
+   "number": 454,
+   "page": "The_Overturned_Conclusion",
+   "chars": 673
+  },
+  {
+   "episode": "episode-0455",
+   "number": 455,
+   "page": "The_Overturned_Conclusion",
+   "chars": 322
+  },
+  {
+   "episode": "episode-0457",
+   "number": 457,
+   "page": "Sonoko's_Red_Handkerchief",
+   "chars": 1249
+  },
+  {
+   "episode": "episode-0458",
+   "number": 458,
+   "page": "Sonoko's_Red_Handkerchief",
+   "chars": 930
+  },
+  {
+   "episode": "episode-0461",
+   "number": 461,
+   "page": "The_Missing_Page",
+   "chars": 670
+  },
+  {
+   "episode": "episode-0466",
+   "number": 466,
+   "page": "The_Unsmashable_Snowman",
+   "chars": 1219
+  },
+  {
+   "episode": "episode-0467",
+   "number": 467,
+   "page": "The_Unsmashable_Snowman",
+   "chars": 176
+  },
+  {
+   "episode": "episode-0468",
+   "number": 468,
+   "page": "Mysterious_Case_Near_the_Pond",
+   "chars": 775
+  },
+  {
+   "episode": "episode-0469",
+   "number": 469,
+   "page": "Kaitou_Kid_and_the_Four_Masterpieces",
+   "chars": 851
+  },
+  {
+   "episode": "episode-0470",
+   "number": 470,
+   "page": "Kaitou_Kid_and_the_Four_Masterpieces",
+   "chars": 851
+  },
+  {
+   "episode": "episode-0472",
+   "number": 472,
+   "page": "Shinichi_Kudo's_Childhood_Adventure",
+   "chars": 1278
+  },
+  {
+   "episode": "episode-0473",
+   "number": 473,
+   "page": "Shinichi_Kudo's_Childhood_Adventure",
+   "chars": 940
+  },
+  {
+   "episode": "episode-0474",
+   "number": 474,
+   "page": "The_Love_of_Lawyer_Eri_Kisaki",
+   "chars": 638
+  },
+  {
+   "episode": "episode-0476",
+   "number": 476,
+   "page": "Genta's_Certain_Kill_Shot",
+   "chars": 738
+  },
+  {
+   "episode": "episode-0477",
+   "number": 477,
+   "page": "Genta's_Certain_Kill_Shot",
+   "chars": 46
+  },
+  {
+   "episode": "episode-0481",
+   "number": 481,
+   "page": "Mountain_Witch's_Cutlery",
+   "chars": 733
+  },
+  {
+   "episode": "episode-0482",
+   "number": 482,
+   "page": "Mountain_Witch's_Cutlery",
+   "chars": 360
+  },
+  {
+   "episode": "episode-0483",
+   "number": 483,
+   "page": "The_Vanished_Policeman",
+   "chars": 481
+  },
+  {
+   "episode": "episode-0484",
+   "number": 484,
+   "page": "Whereabouts_of_the_Dark_Photograph",
+   "chars": 567
+  },
+  {
+   "episode": "episode-0485",
+   "number": 485,
+   "page": "Whereabouts_of_the_Dark_Photograph",
+   "chars": 100
+  },
+  {
+   "episode": "episode-0487",
+   "number": 487,
+   "page": "Metropolitan_Police_Detective_Love_Story_8__The_Left_Hand's_Ring_Finger",
+   "chars": 1241
+  },
+  {
+   "episode": "episode-0489",
+   "number": 489,
+   "page": "Courtroom_Confrontation_III__Prosecutor_as_Eyewitness",
+   "chars": 448
+  },
+  {
+   "episode": "episode-0490",
+   "number": 490,
+   "page": "Heiji_Hattori_vs._Shinichi_Kudo__Deduction_Battle_on_the_Ski_Slope!",
+   "chars": 483
+  },
+  {
+   "episode": "episode-0505",
+   "number": 505,
+   "page": "Lawyer_Eri_Kisaki's_Testimony",
+   "chars": 918
+  },
+  {
+   "episode": "episode-0506",
+   "number": 506,
+   "page": "Lawyer_Eri_Kisaki's_Testimony",
+   "chars": 249
+  },
+  {
+   "episode": "episode-0507",
+   "number": 507,
+   "page": "The_Blind_Spot_in_the_Karaoke_Box",
+   "chars": 1142
+  },
+  {
+   "episode": "episode-0508",
+   "number": 508,
+   "page": "The_Blind_Spot_in_the_Karaoke_Box",
+   "chars": 260
+  },
+  {
+   "episode": "episode-0509",
+   "number": 509,
+   "page": "Conan_vs._Double_Code_Mystery",
+   "chars": 1589
+  },
+  {
+   "episode": "episode-0510",
+   "number": 510,
+   "page": "Conan_vs._Double_Code_Mystery",
+   "chars": 1589
+  },
+  {
+   "episode": "episode-0512",
+   "number": 512,
+   "page": "The_Broken_Horoscope",
+   "chars": 812
+  },
+  {
+   "episode": "episode-0513",
+   "number": 513,
+   "page": "Coffee_Aroma_with_Murderous_Intention",
+   "chars": 1087
+  },
+  {
+   "episode": "episode-0514",
+   "number": 514,
+   "page": "Coffee_Aroma_with_Murderous_Intention",
+   "chars": 512
+  },
+  {
+   "episode": "episode-0516",
+   "number": 516,
+   "page": "Furinkazan",
+   "chars": 3494
+  },
+  {
+   "episode": "episode-0517",
+   "number": 517,
+   "page": "Furinkazan",
+   "chars": 3494
+  },
+  {
+   "episode": "episode-0518",
+   "number": 518,
+   "page": "Meiji_Restoration_Mystery_Tour",
+   "chars": 2648
+  },
+  {
+   "episode": "episode-0519",
+   "number": 519,
+   "page": "Meiji_Restoration_Mystery_Tour",
+   "chars": 2648
+  },
+  {
+   "episode": "episode-0520",
+   "number": 520,
+   "page": "Red_Wine_Indictment",
+   "chars": 1331
+  },
+  {
+   "episode": "episode-0521",
+   "number": 521,
+   "page": "Murderer,_Shinichi_Kudo",
+   "chars": 1149
+  },
+  {
+   "episode": "episode-0522",
+   "number": 522,
+   "page": "Murderer,_Shinichi_Kudo",
+   "chars": 1149
+  },
+  {
+   "episode": "episode-0523",
+   "number": 523,
+   "page": "Murderer,_Shinichi_Kudo",
+   "chars": 1149
+  },
+  {
+   "episode": "episode-0524",
+   "number": 524,
+   "page": "The_Blue_Spark_of_Hate",
+   "chars": 969
+  },
+  {
+   "episode": "episode-0525",
+   "number": 525,
+   "page": "The_Blue_Spark_of_Hate",
+   "chars": 199
+  },
+  {
+   "episode": "episode-0526",
+   "number": 526,
+   "page": "A_Present_from_the_True_Culprit",
+   "chars": 506
+  },
+  {
+   "episode": "episode-0527",
+   "number": 527,
+   "page": "The_Malice_Hidden_Behind_the_Masque",
+   "chars": 933
+  },
+  {
+   "episode": "episode-0528",
+   "number": 528,
+   "page": "Might_Over_Mystery",
+   "chars": 654
+  },
+  {
+   "episode": "episode-0529",
+   "number": 529,
+   "page": "Might_Over_Mystery",
+   "chars": 254
+  },
+  {
+   "episode": "episode-0530",
+   "number": 530,
+   "page": "The_Truth_Behind_the_Urban_Legend",
+   "chars": 1471
+  },
+  {
+   "episode": "episode-0531",
+   "number": 531,
+   "page": "The_Truth_Behind_the_Urban_Legend",
+   "chars": 116
+  },
+  {
+   "episode": "episode-0532",
+   "number": 532,
+   "page": "The_Scar_that_Evokes_the_Past",
+   "chars": 4930
+  },
+  {
+   "episode": "episode-0533",
+   "number": 533,
+   "page": "The_Scar_that_Evokes_the_Past",
+   "chars": 4930
+  },
+  {
+   "episode": "episode-0534",
+   "number": 534,
+   "page": "The_Scar_that_Evokes_the_Past",
+   "chars": 4930
+  },
+  {
+   "episode": "episode-0535",
+   "number": 535,
+   "page": "The_Scar_that_Evokes_the_Past",
+   "chars": 4930
+  },
+  {
+   "episode": "episode-0536",
+   "number": 536,
+   "page": "The_Secret_of_the_Vanished_Masterpiece",
+   "chars": 864
+  },
+  {
+   "episode": "episode-0537",
+   "number": 537,
+   "page": "Kaitou_Kid_vs._the_Strongest_Safe",
+   "chars": 1087
+  },
+  {
+   "episode": "episode-0538",
+   "number": 538,
+   "page": "Kaitou_Kid_vs._the_Strongest_Safe",
+   "chars": 544
+  },
+  {
+   "episode": "episode-0539",
+   "number": 539,
+   "page": "A_Fool's_Inheritance",
+   "chars": 598
+  },
+  {
+   "episode": "episode-0540",
+   "number": 540,
+   "page": "The_Day_Kogoro_Mouri_Ceased_Being_a_Detective",
+   "chars": 1316
+  },
+  {
+   "episode": "episode-0541",
+   "number": 541,
+   "page": "The_Day_Kogoro_Mouri_Ceased_Being_a_Detective",
+   "chars": 1244
+  },
+  {
+   "episode": "episode-0542",
+   "number": 542,
+   "page": "Ikkaku_Rock's_Disappearing_Fish",
+   "chars": 743
+  },
+  {
+   "episode": "episode-0543",
+   "number": 543,
+   "page": "Ikkaku_Rock's_Disappearing_Fish",
+   "chars": 240
+  },
+  {
+   "episode": "episode-0544",
+   "number": 544,
+   "page": "The_Hand_That_Plays_in_Dissonance",
+   "chars": 797
+  },
+  {
+   "episode": "episode-0545",
+   "number": 545,
+   "page": "The_Witch_Enshrouded_by_Fog",
+   "chars": 962
+  },
+  {
+   "episode": "episode-0546",
+   "number": 546,
+   "page": "The_Witch_Enshrouded_by_Fog",
+   "chars": 140
+  },
+  {
+   "episode": "episode-0547",
+   "number": 547,
+   "page": "Two_Days_with_the_Culprit",
+   "chars": 2251
+  },
+  {
+   "episode": "episode-0548",
+   "number": 548,
+   "page": "Two_Days_with_the_Culprit",
+   "chars": 2251
+  },
+  {
+   "episode": "episode-0549",
+   "number": 549,
+   "page": "The_Revolving_Sushi_Mystery",
+   "chars": 560
+  },
+  {
+   "episode": "episode-0550",
+   "number": 550,
+   "page": "The_Revolving_Sushi_Mystery",
+   "chars": 560
+  },
+  {
+   "episode": "episode-0551",
+   "number": 551,
+   "page": "The_Culprit_is_Genta's_Dad",
+   "chars": 1126
+  },
+  {
+   "episode": "episode-0552",
+   "number": 552,
+   "page": "The_Culprit_is_Genta's_Dad",
+   "chars": 681
+  },
+  {
+   "episode": "episode-0553",
+   "number": 553,
+   "page": "The_Interrogation_Room",
+   "chars": 966
+  },
+  {
+   "episode": "episode-0554",
+   "number": 554,
+   "page": "Stork_Mystery_Tour",
+   "chars": 2197
+  },
+  {
+   "episode": "episode-0555",
+   "number": 555,
+   "page": "Stork_Mystery_Tour",
+   "chars": 2197
+  },
+  {
+   "episode": "episode-0556",
+   "number": 556,
+   "page": "Intersection_of_Fear",
+   "chars": 981
+  },
+  {
+   "episode": "episode-0557",
+   "number": 557,
+   "page": "A_Dangerous_Party_of_Two",
+   "chars": 6111
+  },
+  {
+   "episode": "episode-0558",
+   "number": 558,
+   "page": "The_Mansion_of_Death_and_the_Red_Wall",
+   "chars": 3178
+  },
+  {
+   "episode": "episode-0559",
+   "number": 559,
+   "page": "The_Mansion_of_Death_and_the_Red_Wall",
+   "chars": 3178
+  },
+  {
+   "episode": "episode-0560",
+   "number": 560,
+   "page": "The_Mansion_of_Death_and_the_Red_Wall",
+   "chars": 3178
+  },
+  {
+   "episode": "episode-0561",
+   "number": 561,
+   "page": "The_Mansion_of_Death_and_the_Red_Wall",
+   "chars": 3178
+  },
+  {
+   "episode": "episode-0562",
+   "number": 562,
+   "page": "Rainbow_Color_Kidnapping",
+   "chars": 1019
+  },
+  {
+   "episode": "episode-0563",
+   "number": 563,
+   "page": "Detective_Boys_vs._Robber_Group",
+   "chars": 2629
+  },
+  {
+   "episode": "episode-0564",
+   "number": 564,
+   "page": "Detective_Boys_vs._Robber_Group",
+   "chars": 2629
+  },
+  {
+   "episode": "episode-0565",
+   "number": 565,
+   "page": "The_Eyewitness_Who_Did_Not_See",
+   "chars": 562
+  },
+  {
+   "episode": "episode-0566",
+   "number": 566,
+   "page": "The_Partner_is_Santa-san",
+   "chars": 1655
+  },
+  {
+   "episode": "episode-0567",
+   "number": 567,
+   "page": "Murderous_Intent_Raining_on_an_Outdoor_Spa",
+   "chars": 743
+  },
+  {
+   "episode": "episode-0568",
+   "number": 568,
+   "page": "Inspector_Shiratori,_Memories_of_the_Cherry_Blossom",
+   "chars": 1450
+  },
+  {
+   "episode": "episode-0569",
+   "number": 569,
+   "page": "Inspector_Shiratori,_Memories_of_the_Cherry_Blossom",
+   "chars": 994
+  },
+  {
+   "episode": "episode-0570",
+   "number": 570,
+   "page": "The_Crime_with_Zero_Possibility_to_be_Proven",
+   "chars": 861
+  },
+  {
+   "episode": "episode-0571",
+   "number": 571,
+   "page": "Battle_of_the_Haunted_Warehouse's_Treasure",
+   "chars": 1221
+  },
+  {
+   "episode": "episode-0572",
+   "number": 572,
+   "page": "Battle_of_the_Haunted_Warehouse's_Treasure",
+   "chars": 338
+  },
+  {
+   "episode": "episode-0573",
+   "number": 573,
+   "page": "The_Whereabouts_of_the_Embarrassing_Charm",
+   "chars": 724
+  },
+  {
+   "episode": "episode-0574",
+   "number": 574,
+   "page": "The_Whereabouts_of_the_Embarrassing_Charm",
+   "chars": 134
+  },
+  {
+   "episode": "episode-0575",
+   "number": 575,
+   "page": "The_Alibi_of_the_Black_Dress",
+   "chars": 1139
+  },
+  {
+   "episode": "episode-0576",
+   "number": 576,
+   "page": "The_Alibi_of_the_Black_Dress",
+   "chars": 263
+  },
+  {
+   "episode": "episode-0577",
+   "number": 577,
+   "page": "The_Truth_Lit_Up_By_the_Fireflies",
+   "chars": 732
+  },
+  {
+   "episode": "episode-0578",
+   "number": 578,
+   "page": "The_Crisis_Beckoned_by_the_Red_Omen",
+   "chars": 2343
+  },
+  {
+   "episode": "episode-0579",
+   "number": 579,
+   "page": "The_Crisis_Beckoned_by_the_Red_Omen",
+   "chars": 2343
+  },
+  {
+   "episode": "episode-0580",
+   "number": 580,
+   "page": "The_Crisis_Beckoned_by_the_Red_Omen",
+   "chars": 2343
+  },
+  {
+   "episode": "episode-0581",
+   "number": 581,
+   "page": "The_Crisis_Beckoned_by_the_Red_Omen",
+   "chars": 2343
+  },
+  {
+   "episode": "episode-0582",
+   "number": 582,
+   "page": "The_Night_the_Zombie_Died",
+   "chars": 434
+  },
+  {
+   "episode": "episode-0583",
+   "number": 583,
+   "page": "Kobayashi-sensei's_Love",
+   "chars": 8997
+  },
+  {
+   "episode": "episode-0584",
+   "number": 584,
+   "page": "Kobayashi-sensei's_Love",
+   "chars": 8997
+  },
+  {
+   "episode": "episode-0585",
+   "number": 585,
+   "page": "Kobayashi-sensei's_Love",
+   "chars": 8997
+  },
+  {
+   "episode": "episode-0586",
+   "number": 586,
+   "page": "The_Kirin's_Horn_That_Vanished_into_the_Dark",
+   "chars": 1711
+  },
+  {
+   "episode": "episode-0588",
+   "number": 588,
+   "page": "The_Trap_of_the_Rooftop_Farm",
+   "chars": 411
+  },
+  {
+   "episode": "episode-0589",
+   "number": 589,
+   "page": "The_Worst_Birthday",
+   "chars": 1218
+  },
+  {
+   "episode": "episode-0590",
+   "number": 590,
+   "page": "The_Worst_Birthday",
+   "chars": 242
+  },
+  {
+   "episode": "episode-0591",
+   "number": 591,
+   "page": "The_House_with_the_Aquarium",
+   "chars": 726
+  },
+  {
+   "episode": "episode-0592",
+   "number": 592,
+   "page": "The_Detective_Memoir_of_Monkey_and_Rake",
+   "chars": 1270
+  },
+  {
+   "episode": "episode-0593",
+   "number": 593,
+   "page": "The_Detective_Memoir_of_Monkey_and_Rake",
+   "chars": 67
+  },
+  {
+   "episode": "episode-0594",
+   "number": 594,
+   "page": "The_Seven_Wonders_of_the_Hiroshima_Miyajima_Tour",
+   "chars": 2921
+  },
+  {
+   "episode": "episode-0595",
+   "number": 595,
+   "page": "The_Seven_Wonders_of_the_Hiroshima_Miyajima_Tour",
+   "chars": 2921
+  },
+  {
+   "episode": "episode-0596",
+   "number": 596,
+   "page": "The_Alibi_of_the_Fall",
+   "chars": 1094
+  },
+  {
+   "episode": "episode-0597",
+   "number": 597,
+   "page": "The_Scenario_of_the_Steaming_Locked_Room",
+   "chars": 905
+  },
+  {
+   "episode": "episode-0598",
+   "number": 598,
+   "page": "The_Scenario_of_the_Steaming_Locked_Room",
+   "chars": 321
+  },
+  {
+   "episode": "episode-0599",
+   "number": 599,
+   "page": "A_Friend_of_Justice",
+   "chars": 900
+  },
+  {
+   "episode": "episode-0600",
+   "number": 600,
+   "page": "The_Dream_the_Kappa_Saw",
+   "chars": 963
+  },
+  {
+   "episode": "episode-0601",
+   "number": 601,
+   "page": "The_Dream_the_Kappa_Saw",
+   "chars": 194
+  },
+  {
+   "episode": "episode-0602",
+   "number": 602,
+   "page": "The_Devil_Hidden_in_the_Tennis_Court",
+   "chars": 1052
+  },
+  {
+   "episode": "episode-0603",
+   "number": 603,
+   "page": "The_Séance's_Double_Locked_Room_Mystery_Case",
+   "chars": 3875
+  },
+  {
+   "episode": "episode-0604",
+   "number": 604,
+   "page": "The_Séance's_Double_Locked_Room_Mystery_Case",
+   "chars": 3875
+  },
+  {
+   "episode": "episode-0605",
+   "number": 605,
+   "page": "The_Séance's_Double_Locked_Room_Mystery_Case",
+   "chars": 3875
+  },
+  {
+   "episode": "episode-0606",
+   "number": 606,
+   "page": "Courtroom_Confrontation_IV__Juror_Sumiko_Kobayashi",
+   "chars": 1409
+  },
+  {
+   "episode": "episode-0607",
+   "number": 607,
+   "page": "Courtroom_Confrontation_IV__Juror_Sumiko_Kobayashi",
+   "chars": 1409
+  },
+  {
+   "episode": "episode-0608",
+   "number": 608,
+   "page": "White_Day_of_Betrayal",
+   "chars": 744
+  },
+  {
+   "episode": "episode-0609",
+   "number": 609,
+   "page": "White_Day_of_Betrayal",
+   "chars": 222
+  },
+  {
+   "episode": "episode-0610",
+   "number": 610,
+   "page": "The_Victim_is_Shinichi_Kudo",
+   "chars": 1656
+  },
+  {
+   "episode": "episode-0611",
+   "number": 611,
+   "page": "Inubushi_Castle,_The_Ablazed_Demon_Dog",
+   "chars": 2178
+  },
+  {
+   "episode": "episode-0612",
+   "number": 612,
+   "page": "Inubushi_Castle,_The_Ablazed_Demon_Dog",
+   "chars": 2178
+  },
+  {
+   "episode": "episode-0613",
+   "number": 613,
+   "page": "Inubushi_Castle,_The_Ablazed_Demon_Dog",
+   "chars": 2178
+  },
+  {
+   "episode": "episode-0614",
+   "number": 614,
+   "page": "The_Secret_Played_by_the_Diary",
+   "chars": 721
+  },
+  {
+   "episode": "episode-0615",
+   "number": 615,
+   "page": "The_Secret_Played_by_the_Diary",
+   "chars": 85
+  },
+  {
+   "episode": "episode-0616",
+   "number": 616,
+   "page": "Holmes'_Revelation",
+   "chars": 6320
+  },
+  {
+   "episode": "episode-0617",
+   "number": 617,
+   "page": "Holmes'_Revelation",
+   "chars": 6320
+  },
+  {
+   "episode": "episode-0618",
+   "number": 618,
+   "page": "Holmes'_Revelation",
+   "chars": 6320
+  },
+  {
+   "episode": "episode-0619",
+   "number": 619,
+   "page": "Holmes'_Revelation",
+   "chars": 6320
+  },
+  {
+   "episode": "episode-0620",
+   "number": 620,
+   "page": "Holmes'_Revelation",
+   "chars": 6320
+  },
+  {
+   "episode": "episode-0621",
+   "number": 621,
+   "page": "Holmes'_Revelation",
+   "chars": 6320
+  },
+  {
+   "episode": "episode-0622",
+   "number": 622,
+   "page": "Emergency_Situation_252",
+   "chars": 1256
+  },
+  {
+   "episode": "episode-0623",
+   "number": 623,
+   "page": "Emergency_Situation_252",
+   "chars": 1367
+  },
+  {
+   "episode": "episode-0624",
+   "number": 624,
+   "page": "A_Video_Letter_of_First_Love",
+   "chars": 553
+  },
+  {
+   "episode": "episode-0625",
+   "number": 625,
+   "page": "The_Screaming_Operation_Room",
+   "chars": 1406
+  },
+  {
+   "episode": "episode-0626",
+   "number": 626,
+   "page": "The_Screaming_Operation_Room",
+   "chars": 63
+  },
+  {
+   "episode": "episode-0627",
+   "number": 627,
+   "page": "Conan_&_Kid's_Battle_For_Ryoma's_Treasure",
+   "chars": 1038
+  },
+  {
+   "episode": "episode-0628",
+   "number": 628,
+   "page": "Conan_&_Kid's_Battle_For_Ryoma's_Treasure",
+   "chars": 448
+  },
+  {
+   "episode": "episode-0629",
+   "number": 629,
+   "page": "The_Promo_Video_Shooting_Case",
+   "chars": 974
+  },
+  {
+   "episode": "episode-0630",
+   "number": 630,
+   "page": "The_Promo_Video_Shooting_Case",
+   "chars": 319
+  },
+  {
+   "episode": "episode-0631",
+   "number": 631,
+   "page": "What_the_Flower_Clock_Knew",
+   "chars": 778
+  },
+  {
+   "episode": "episode-0632",
+   "number": 632,
+   "page": "The_Guardian_of_Time's_Sword",
+   "chars": 607
+  },
+  {
+   "episode": "episode-0633",
+   "number": 633,
+   "page": "The_Guardian_of_Time's_Sword",
+   "chars": 161
+  },
+  {
+   "episode": "episode-0634",
+   "number": 634,
+   "page": "The_Super_Narrow_Shop_Crime_Scene",
+   "chars": 827
+  },
+  {
+   "episode": "episode-0635",
+   "number": 635,
+   "page": "Beware_of_Dieting",
+   "chars": 350
+  },
+  {
+   "episode": "episode-0636",
+   "number": 636,
+   "page": "The_Most_Useful_School_in_the_World_Case",
+   "chars": 408
+  },
+  {
+   "episode": "episode-0637",
+   "number": 637,
+   "page": "The_Most_Useful_School_in_the_World_Case",
+   "chars": 408
+  },
+  {
+   "episode": "episode-0638",
+   "number": 638,
+   "page": "Solving_Mysteries_at_the_Red_Leaf_Palace",
+   "chars": 703
+  },
+  {
+   "episode": "episode-0639",
+   "number": 639,
+   "page": "Solving_Mysteries_at_the_Red_Leaf_Palace",
+   "chars": 245
+  },
+  {
+   "episode": "episode-0640",
+   "number": 640,
+   "page": "The_Memory_Trip_of_the_Eight_Sketches",
+   "chars": 1412
+  },
+  {
+   "episode": "episode-0641",
+   "number": 641,
+   "page": "The_Memory_Trip_of_the_Eight_Sketches",
+   "chars": 1412
+  },
+  {
+   "episode": "episode-0642",
+   "number": 642,
+   "page": "Grabbing_Karuta_Cards_in_Dire_Straits",
+   "chars": 1189
+  },
+  {
+   "episode": "episode-0643",
+   "number": 643,
+   "page": "Grabbing_Karuta_Cards_in_Dire_Straits",
+   "chars": 609
+  },
+  {
+   "episode": "episode-0644",
+   "number": 644,
+   "page": "Ramen_So_Good,_It's_to_Die_For",
+   "chars": 1457
+  },
+  {
+   "episode": "episode-0645",
+   "number": 645,
+   "page": "Ramen_So_Good,_It's_to_Die_For",
+   "chars": 245
+  },
+  {
+   "episode": "episode-0646",
+   "number": 646,
+   "page": "Deduction_Showdown_at_the_Haunted_Hotel",
+   "chars": 1115
+  },
+  {
+   "episode": "episode-0647",
+   "number": 647,
+   "page": "Deduction_Showdown_at_the_Haunted_Hotel",
+   "chars": 56
+  },
+  {
+   "episode": "episode-0648",
+   "number": 648,
+   "page": "The_Case_of_the_Besieged_Detective_Agency",
+   "chars": 3396
+  },
+  {
+   "episode": "episode-0649",
+   "number": 649,
+   "page": "The_Case_of_the_Besieged_Detective_Agency",
+   "chars": 3396
+  },
+  {
+   "episode": "episode-0650",
+   "number": 650,
+   "page": "The_Case_of_the_Besieged_Detective_Agency",
+   "chars": 3396
+  },
+  {
+   "episode": "episode-0651",
+   "number": 651,
+   "page": "Conan_vs._Heiji,_Deduction_Battle_Between_the_Detectives_of_the_East_and_West",
+   "chars": 1179
+  },
+  {
+   "episode": "episode-0652",
+   "number": 652,
+   "page": "The_Design_of_Poison_and_Mirage",
+   "chars": 4712
+  },
+  {
+   "episode": "episode-0653",
+   "number": 653,
+   "page": "The_Design_of_Poison_and_Mirage",
+   "chars": 4712
+  },
+  {
+   "episode": "episode-0654",
+   "number": 654,
+   "page": "The_Design_of_Poison_and_Mirage",
+   "chars": 4712
+  },
+  {
+   "episode": "episode-0655",
+   "number": 655,
+   "page": "The_Design_of_Poison_and_Mirage",
+   "chars": 4712
+  },
+  {
+   "episode": "episode-0656",
+   "number": 656,
+   "page": "The_Professor's_Video_Site",
+   "chars": 1485
+  },
+  {
+   "episode": "episode-0657",
+   "number": 657,
+   "page": "The_Professor's_Video_Site",
+   "chars": 1485
+  },
+  {
+   "episode": "episode-0658",
+   "number": 658,
+   "page": "The_Hot_Chocolate_Trap",
+   "chars": 995
+  },
+  {
+   "episode": "episode-0659",
+   "number": 659,
+   "page": "Co-Investigating_with_a_First_Love",
+   "chars": 1459
+  },
+  {
+   "episode": "episode-0660",
+   "number": 660,
+   "page": "Co-Investigating_with_a_First_Love",
+   "chars": 1459
+  },
+  {
+   "episode": "episode-0661",
+   "number": 661,
+   "page": "Kogoro-san_is_a_Good_Man",
+   "chars": 1465
+  },
+  {
+   "episode": "episode-0662",
+   "number": 662,
+   "page": "Kogoro-san_is_a_Good_Man",
+   "chars": 1046
+  },
+  {
+   "episode": "episode-0663",
+   "number": 663,
+   "page": "Chase_the_Miyama_Stag_Beetle",
+   "chars": 5600
+  },
+  {
+   "episode": "episode-0664",
+   "number": 664,
+   "page": "The_Great_Dog_Coeur's_Triumph_2",
+   "chars": 8390
+  },
+  {
+   "episode": "episode-0665",
+   "number": 665,
+   "page": "The_Suspicious_Initial_K",
+   "chars": 6516
+  },
+  {
+   "episode": "episode-0666",
+   "number": 666,
+   "page": "The_Rainy_Night_Menace",
+   "chars": 5790
+  },
+  {
+   "episode": "episode-0667",
+   "number": 667,
+   "page": "Wedding_Eve",
+   "chars": 1059
+  },
+  {
+   "episode": "episode-0668",
+   "number": 668,
+   "page": "Wedding_Eve",
+   "chars": 100
+  },
+  {
+   "episode": "episode-0669",
+   "number": 669,
+   "page": "The_Dark_Tower's_Hidden_Treasure",
+   "chars": 406
+  },
+  {
+   "episode": "episode-0670",
+   "number": 670,
+   "page": "The_Dark_Tower's_Hidden_Treasure",
+   "chars": 406
+  },
+  {
+   "episode": "episode-0671",
+   "number": 671,
+   "page": "Detectives'_Nocturne",
+   "chars": 3774
+  },
+  {
+   "episode": "episode-0672",
+   "number": 672,
+   "page": "Detectives'_Nocturne",
+   "chars": 3774
+  },
+  {
+   "episode": "episode-0673",
+   "number": 673,
+   "page": "Detectives'_Nocturne",
+   "chars": 3774
+  },
+  {
+   "episode": "episode-0675",
+   "number": 675,
+   "page": "Won't_Forgive_Even_One_Millimeter",
+   "chars": 414
+  },
+  {
+   "episode": "episode-0676",
+   "number": 676,
+   "page": "Won't_Forgive_Even_One_Millimeter",
+   "chars": 414
+  },
+  {
+   "episode": "episode-0677",
+   "number": 677,
+   "page": "The_Footprintless_Beach",
+   "chars": 5232
+  },
+  {
+   "episode": "episode-0678",
+   "number": 678,
+   "page": "Nagasaki_Mystery_Theatre",
+   "chars": 12267
+  },
+  {
+   "episode": "episode-0679",
+   "number": 679,
+   "page": "Nagasaki_Mystery_Theatre",
+   "chars": 12267
+  },
+  {
+   "episode": "episode-0680",
+   "number": 680,
+   "page": "Cactus_Capriccio",
+   "chars": 6737
+  },
+  {
+   "episode": "episode-0681",
+   "number": 681,
+   "page": "The_Life-Threatening_Broadcast_of_Love",
+   "chars": 8067
+  },
+  {
+   "episode": "episode-0682",
+   "number": 682,
+   "page": "The_Life-Threatening_Broadcast_of_Love",
+   "chars": 8067
+  },
+  {
+   "episode": "episode-0683",
+   "number": 683,
+   "page": "The_Life-Threatening_Broadcast_of_Love",
+   "chars": 8067
+  },
+  {
+   "episode": "episode-0684",
+   "number": 684,
+   "page": "Froth,_Steam,_and_Smoke",
+   "chars": 1356
+  },
+  {
+   "episode": "episode-0685",
+   "number": 685,
+   "page": "Froth,_Steam,_and_Smoke",
+   "chars": 1356
+  },
+  {
+   "episode": "episode-0686",
+   "number": 686,
+   "page": "A_Car_Carrying_a_Time_Bomb",
+   "chars": 7276
+  },
+  {
+   "episode": "episode-0687",
+   "number": 687,
+   "page": "The_Unsolvable_Ice_Trap",
+   "chars": 4379
+  },
+  {
+   "episode": "episode-0688",
+   "number": 688,
+   "page": "Detective_Takagi_Finds_30_Million_Yen",
+   "chars": 8232
+  },
+  {
+   "episode": "episode-0689",
+   "number": 689,
+   "page": "The_Client's_Message",
+   "chars": 6953
+  },
+  {
+   "episode": "episode-0690",
+   "number": 690,
+   "page": "Yusaku_Kudo's_Cold_Case",
+   "chars": 776
+  },
+  {
+   "episode": "episode-0691",
+   "number": 691,
+   "page": "Yusaku_Kudo's_Cold_Case",
+   "chars": 238
+  },
+  {
+   "episode": "episode-0692",
+   "number": 692,
+   "page": "The_Evening_Cherry_Blossom_Viewing_Route_on_Sumida_River",
+   "chars": 1290
+  },
+  {
+   "episode": "episode-0693",
+   "number": 693,
+   "page": "The_Evening_Cherry_Blossom_Viewing_Route_on_Sumida_River",
+   "chars": 848
+  },
+  {
+   "episode": "episode-0694",
+   "number": 694,
+   "page": "The_Missing_Sweets_in_the_Old_Shop",
+   "chars": 897
+  },
+  {
+   "episode": "episode-0695",
+   "number": 695,
+   "page": "The_Roses_in_the_Vineyard",
+   "chars": 195
+  },
+  {
+   "episode": "episode-0696",
+   "number": 696,
+   "page": "The_Flowerbed_Vandal's_Scheme",
+   "chars": 114
+  },
+  {
+   "episode": "episode-0697",
+   "number": 697,
+   "page": "The_Window_at_the_Girls'_School",
+   "chars": 1661
+  },
+  {
+   "episode": "episode-0698",
+   "number": 698,
+   "page": "Unbelievable!_The_Case_of_the_Crashed_UFO",
+   "chars": 210
+  },
+  {
+   "episode": "episode-0699",
+   "number": 699,
+   "page": "The_Shadow_Approaching_Haibara's_Secret",
+   "chars": 881
+  },
+  {
+   "episode": "episode-0700",
+   "number": 700,
+   "page": "The_Shadow_Approaching_Haibara's_Secret",
+   "chars": 881
+  },
+  {
+   "episode": "episode-0705",
+   "number": 705,
+   "page": "Conan_in_a_Locked_Room",
+   "chars": 1100
+  },
+  {
+   "episode": "episode-0707",
+   "number": 707,
+   "page": "The_Framed_Great_Detective",
+   "chars": 1207
+  },
+  {
+   "episode": "episode-0708",
+   "number": 708,
+   "page": "The_Man_Who_Fell_Slowly",
+   "chars": 1183
+  },
+  {
+   "episode": "episode-0709",
+   "number": 709,
+   "page": "An_Unconfirmed_Shocking_Case",
+   "chars": 931
+  },
+  {
+   "episode": "episode-0710",
+   "number": 710,
+   "page": "Everyone_Saw",
+   "chars": 875
+  },
+  {
+   "episode": "episode-0711",
+   "number": 711,
+   "page": "Everyone_Saw",
+   "chars": 875
+  },
+  {
+   "episode": "episode-0712",
+   "number": 712,
+   "page": "Heiji_Hattori_and_the_Vampire_Mansion",
+   "chars": 429
+  },
+  {
+   "episode": "episode-0715",
+   "number": 715,
+   "page": "Heiji_Hattori_and_the_Vampire_Mansion",
+   "chars": 429
+  },
+  {
+   "episode": "episode-0716",
+   "number": 716,
+   "page": "Dancing_Demon_at_the_Noh_Mask_Mansion",
+   "chars": 833
+  },
+  {
+   "episode": "episode-0717",
+   "number": 717,
+   "page": "Dancing_Demon_at_the_Noh_Mask_Mansion",
+   "chars": 160
+  },
+  {
+   "episode": "episode-0718",
+   "number": 718,
+   "page": "The_Devil's_Circuit",
+   "chars": 800
+  },
+  {
+   "episode": "episode-0719",
+   "number": 719,
+   "page": "A_Dispute_Over_a_Platinum_Ticket",
+   "chars": 832
+  },
+  {
+   "episode": "episode-0720",
+   "number": 720,
+   "page": "Fire_and_Water_Mystery_Tour",
+   "chars": 4342
+  },
+  {
+   "episode": "episode-0721",
+   "number": 721,
+   "page": "Fire_and_Water_Mystery_Tour",
+   "chars": 4342
+  },
+  {
+   "episode": "episode-0722",
+   "number": 722,
+   "page": "Sweet_and_Cold_Delivery_Service",
+   "chars": 507
+  },
+  {
+   "episode": "episode-0723",
+   "number": 723,
+   "page": "Sweet_and_Cold_Delivery_Service",
+   "chars": 334
+  },
+  {
+   "episode": "episode-0724",
+   "number": 724,
+   "page": "Kaitou_Kid_and_the_Blush_Mermaid",
+   "chars": 171
+  },
+  {
+   "episode": "episode-0725",
+   "number": 725,
+   "page": "Kaitou_Kid_and_the_Blush_Mermaid",
+   "chars": 171
+  },
+  {
+   "episode": "episode-0726",
+   "number": 726,
+   "page": "A_Happy_E-mail_Brings_Sadness",
+   "chars": 104
+  },
+  {
+   "episode": "episode-0727",
+   "number": 727,
+   "page": "The_Treasure_Chest_Filled_with_Fruits",
+   "chars": 1349
+  },
+  {
+   "episode": "episode-0728",
+   "number": 728,
+   "page": "The_Treasure_Chest_Filled_with_Fruits",
+   "chars": 1120
+  },
+  {
+   "episode": "episode-0729",
+   "number": 729,
+   "page": "The_Diamond,_the_Painting,_and_the_Great_Actress",
+   "chars": 735
+  },
+  {
+   "episode": "episode-0730",
+   "number": 730,
+   "page": "The_Figure_That_Was_Too_Good",
+   "chars": 142
+  },
+  {
+   "episode": "episode-0731",
+   "number": 731,
+   "page": "The_Ex-Boyfriend_Living_Next_to_a_Crime_Scene",
+   "chars": 730
+  },
+  {
+   "episode": "episode-0732",
+   "number": 732,
+   "page": "The_Ex-Boyfriend_Living_Next_to_a_Crime_Scene",
+   "chars": 318
+  },
+  {
+   "episode": "episode-0733",
+   "number": 733,
+   "page": "The_Wedding_Reception_and_the_Two_Gunshots",
+   "chars": 1638
+  },
+  {
+   "episode": "episode-0734",
+   "number": 734,
+   "page": "Jodie's_Memories_and_the_Cherry_Blossom_Viewing_Trap",
+   "chars": 2384
+  },
+  {
+   "episode": "episode-0735",
+   "number": 735,
+   "page": "The_Coded_Invitation",
+   "chars": 1649
+  },
+  {
+   "episode": "episode-0736",
+   "number": 736,
+   "page": "The_Secret_of_the_Statue_of_Kogoro_Mouri",
+   "chars": 705
+  },
+  {
+   "episode": "episode-0737",
+   "number": 737,
+   "page": "The_Suspicious_Walking_Path",
+   "chars": 655
+  },
+  {
+   "episode": "episode-0738",
+   "number": 738,
+   "page": "Kogoro_in_the_Bar",
+   "chars": 566
+  },
+  {
+   "episode": "episode-0739",
+   "number": 739,
+   "page": "Kogoro_in_the_Bar",
+   "chars": 566
+  },
+  {
+   "episode": "episode-0740",
+   "number": 740,
+   "page": "Bathroom_Where_Ran_Collapsed_As_Well",
+   "chars": 758
+  },
+  {
+   "episode": "episode-0741",
+   "number": 741,
+   "page": "Bathroom_Where_Ran_Collapsed_As_Well",
+   "chars": 758
+  },
+  {
+   "episode": "episode-0742",
+   "number": 742,
+   "page": "Promise_with_a_J-Leaguer",
+   "chars": 259
+  },
+  {
+   "episode": "episode-0743",
+   "number": 743,
+   "page": "Two_Coincidental_Successes",
+   "chars": 362
+  },
+  {
+   "episode": "episode-0744",
+   "number": 744,
+   "page": "The_Suspect_is_Makoto_Kyogoku",
+   "chars": 1019
+  },
+  {
+   "episode": "episode-0745",
+   "number": 745,
+   "page": "The_Suspect_is_Makoto_Kyogoku",
+   "chars": 1019
+  },
+  {
+   "episode": "episode-0746",
+   "number": 746,
+   "page": "Kaitou_Kid_VS_Makoto_Kyogoku",
+   "chars": 1082
+  },
+  {
+   "episode": "episode-0747",
+   "number": 747,
+   "page": "Kaitou_Kid_VS_Makoto_Kyogoku",
+   "chars": 1082
+  },
+  {
+   "episode": "episode-0748",
+   "number": 748,
+   "page": "Metropolitan_Police_Detective_Love_Story_9",
+   "chars": 2133
+  },
+  {
+   "episode": "episode-0749",
+   "number": 749,
+   "page": "Metropolitan_Police_Detective_Love_Story_9",
+   "chars": 2133
+  },
+  {
+   "episode": "episode-0750",
+   "number": 750,
+   "page": "The_Man_Who_Was_Betrayed_by_the_Sea",
+   "chars": 609
+  },
+  {
+   "episode": "episode-0751",
+   "number": 751,
+   "page": "The_Case_of_the_Lucky_Calico",
+   "chars": 368
+  },
+  {
+   "episode": "episode-0752",
+   "number": 752,
+   "page": "The_Case_of_the_Lucky_Calico",
+   "chars": 368
+  },
+  {
+   "episode": "episode-0753",
+   "number": 753,
+   "page": "The_Blind_Spot_in_the_Share_House",
+   "chars": 129
+  },
+  {
+   "episode": "episode-0754",
+   "number": 754,
+   "page": "The_Tragedy_of_the_Red_Woman",
+   "chars": 8058
+  },
+  {
+   "episode": "episode-0755",
+   "number": 755,
+   "page": "The_Tragedy_of_the_Red_Woman",
+   "chars": 8058
+  },
+  {
+   "episode": "episode-0756",
+   "number": 756,
+   "page": "The_Tragedy_of_the_Red_Woman",
+   "chars": 8058
+  },
+  {
+   "episode": "episode-0757",
+   "number": 757,
+   "page": "The_Comedian_Who_Turned_Himself_In",
+   "chars": 531
+  },
+  {
+   "episode": "episode-0758",
+   "number": 758,
+   "page": "The_Comedian_Who_Turned_Himself_In",
+   "chars": 389
+  },
+  {
+   "episode": "episode-0759",
+   "number": 759,
+   "page": "The_Romance_Novel_with_the_Unexpected_Conclusion",
+   "chars": 667
+  },
+  {
+   "episode": "episode-0760",
+   "number": 760,
+   "page": "The_Romance_Novel_with_the_Unexpected_Conclusion",
+   "chars": 1309
+  },
+  {
+   "episode": "episode-0761",
+   "number": 761,
+   "page": "Kaga_Hyakumangoku_Mystery_Tour",
+   "chars": 5420
+  },
+  {
+   "episode": "episode-0762",
+   "number": 762,
+   "page": "Kaga_Hyakumangoku_Mystery_Tour",
+   "chars": 5420
+  },
+  {
+   "episode": "episode-0763",
+   "number": 763,
+   "page": "Conan_and_Heiji,_Code_of_Love",
+   "chars": 595
+  },
+  {
+   "episode": "episode-0764",
+   "number": 764,
+   "page": "Conan_and_Heiji,_Code_of_Love",
+   "chars": 351
+  },
+  {
+   "episode": "episode-0765",
+   "number": 765,
+   "page": "Teimuzu_River_Kite_Flying_Case",
+   "chars": 425
+  },
+  {
+   "episode": "episode-0766",
+   "number": 766,
+   "page": "Teimuzu_River_Kite_Flying_Case",
+   "chars": 425
+  },
+  {
+   "episode": "episode-0767",
+   "number": 767,
+   "page": "The_Lover_Gone_Missing_in_a_Snowstorm",
+   "chars": 2134
+  },
+  {
+   "episode": "episode-0769",
+   "number": 769,
+   "page": "The_Troublesome_Emergency_Patient",
+   "chars": 635
+  },
+  {
+   "episode": "episode-0770",
+   "number": 770,
+   "page": "The_Tense_Tea_Party",
+   "chars": 1087
+  },
+  {
+   "episode": "episode-0771",
+   "number": 771,
+   "page": "The_Tense_Tea_Party",
+   "chars": 1087
+  },
+  {
+   "episode": "episode-0772",
+   "number": 772,
+   "page": "Shinichi_Kudo's_Aquarium_Case",
+   "chars": 1375
+  },
+  {
+   "episode": "episode-0773",
+   "number": 773,
+   "page": "Shinichi_Kudo's_Aquarium_Case",
+   "chars": 1375
+  },
+  {
+   "episode": "episode-0774",
+   "number": 774,
+   "page": "Munch's_Missing_Scream",
+   "chars": 1137
+  },
+  {
+   "episode": "episode-0775",
+   "number": 775,
+   "page": "The_Manipulated_Great_Detective",
+   "chars": 1124
+  },
+  {
+   "episode": "episode-0776",
+   "number": 776,
+   "page": "The_Manipulated_Great_Detective",
+   "chars": 232
+  },
+  {
+   "episode": "episode-0777",
+   "number": 777,
+   "page": "The_Detective_Boys_VS_The_Silver_Detectives",
+   "chars": 509
+  },
+  {
+   "episode": "episode-0778",
+   "number": 778,
+   "page": "Mirage_of_the_Disappearing_Angel",
+   "chars": 51
+  },
+  {
+   "episode": "episode-0779",
+   "number": 779,
+   "page": "The_Scarlet_Return",
+   "chars": 10196
+  },
+  {
+   "episode": "episode-0780",
+   "number": 780,
+   "page": "The_Scarlet_Return",
+   "chars": 10196
+  },
+  {
+   "episode": "episode-0781",
+   "number": 781,
+   "page": "The_Scarlet_Return",
+   "chars": 10196
+  },
+  {
+   "episode": "episode-0782",
+   "number": 782,
+   "page": "The_Scarlet_Return",
+   "chars": 10196
+  },
+  {
+   "episode": "episode-0783",
+   "number": 783,
+   "page": "The_Scarlet_Return",
+   "chars": 10196
+  },
+  {
+   "episode": "episode-0784",
+   "number": 784,
+   "page": "Welcome_to_Club_Orihime",
+   "chars": 1873
+  },
+  {
+   "episode": "episode-0785",
+   "number": 785,
+   "page": "Taiko_Meijin's_Match_of_Love",
+   "chars": 1117
+  },
+  {
+   "episode": "episode-0786",
+   "number": 786,
+   "page": "Taiko_Meijin's_Match_of_Love",
+   "chars": 1031
+  },
+  {
+   "episode": "episode-0787",
+   "number": 787,
+   "page": "The_Mystery_Sinking_in_the_Midsummer_Pool",
+   "chars": 1226
+  },
+  {
+   "episode": "episode-0788",
+   "number": 788,
+   "page": "The_Mystery_Sinking_in_the_Midsummer_Pool",
+   "chars": 1322
+  },
+  {
+   "episode": "episode-0789",
+   "number": 789,
+   "page": "The_Queen's_Weather_Forecast",
+   "chars": 2233
+  },
+  {
+   "episode": "episode-0790",
+   "number": 790,
+   "page": "Bekapon's_Bleeding_Service",
+   "chars": 173
+  },
+  {
+   "episode": "episode-0791",
+   "number": 791,
+   "page": "Detective_Takagi_On_the_Run_in_Handcuffs",
+   "chars": 435
+  },
+  {
+   "episode": "episode-0792",
+   "number": 792,
+   "page": "Three_First_Discoverers",
+   "chars": 1179
+  },
+  {
+   "episode": "episode-0793",
+   "number": 793,
+   "page": "Three_First_Discoverers",
+   "chars": 1179
+  },
+  {
+   "episode": "episode-0794",
+   "number": 794,
+   "page": "Bodyguard_Kogoro_Mouri",
+   "chars": 3123
+  },
+  {
+   "episode": "episode-0795",
+   "number": 795,
+   "page": "The_Secret_of_the_Missing_Young_Lady",
+   "chars": 1291
+  },
+  {
+   "episode": "episode-0796",
+   "number": 796,
+   "page": "The_Lovebirds'_Ruse",
+   "chars": 294
+  },
+  {
+   "episode": "episode-0797",
+   "number": 797,
+   "page": "The_Dreaming_Girl's_Confused_Deduction",
+   "chars": 1160
+  },
+  {
+   "episode": "episode-0798",
+   "number": 798,
+   "page": "The_Moving_Target",
+   "chars": 4681
+  },
+  {
+   "episode": "episode-0799",
+   "number": 799,
+   "page": "Detective_Boys'_Locked_Room_Mystery_Battle",
+   "chars": 1104
+  },
+  {
+   "episode": "episode-0800",
+   "number": 800,
+   "page": "After_That_Hundred_Million_Yen",
+   "chars": 938
+  },
+  {
+   "episode": "episode-0801",
+   "number": 801,
+   "page": "Tottori_Sand_Dunes_Mystery_Tour",
+   "chars": 6379
+  },
+  {
+   "episode": "episode-0802",
+   "number": 802,
+   "page": "Tottori_Sand_Dunes_Mystery_Tour",
+   "chars": 6379
+  },
+  {
+   "episode": "episode-0803",
+   "number": 803,
+   "page": "The_Pitfall_of_Fire_Precautions",
+   "chars": 4745
+  },
+  {
+   "episode": "episode-0804",
+   "number": 804,
+   "page": "Conan_and_Ebizo's_Kabuki_Jūhachiban_Mystery",
+   "chars": 1108
+  },
+  {
+   "episode": "episode-0805",
+   "number": 805,
+   "page": "Conan_and_Ebizo's_Kabuki_Jūhachiban_Mystery",
+   "chars": 881
+  },
+  {
+   "episode": "episode-0806",
+   "number": 806,
+   "page": "The_Ventriloquist's_Illusion",
+   "chars": 1157
+  },
+  {
+   "episode": "episode-0807",
+   "number": 807,
+   "page": "The_Ventriloquist's_Illusion",
+   "chars": 1157
+  },
+  {
+   "episode": "episode-0808",
+   "number": 808,
+   "page": "The_Kamaitachi_Inn",
+   "chars": 1459
+  },
+  {
+   "episode": "episode-0809",
+   "number": 809,
+   "page": "The_Kamaitachi_Inn",
+   "chars": 756
+  },
+  {
+   "episode": "episode-0810",
+   "number": 810,
+   "page": "The_Darkness_of_the_Prefectural_Police",
+   "chars": 485
+  },
+  {
+   "episode": "episode-0811",
+   "number": 811,
+   "page": "The_Darkness_of_the_Prefectural_Police",
+   "chars": 859
+  },
+  {
+   "episode": "episode-0812",
+   "number": 812,
+   "page": "The_Darkness_of_the_Prefectural_Police",
+   "chars": 541
+  },
+  {
+   "episode": "episode-0813",
+   "number": 813,
+   "page": "The_Shadow_Approaching_Amuro",
+   "chars": 565
+  },
+  {
+   "episode": "episode-0814",
+   "number": 814,
+   "page": "The_Actress_Blogger's_Locked_Room_Case",
+   "chars": 706
+  },
+  {
+   "episode": "episode-0815",
+   "number": 815,
+   "page": "The_Actress_Blogger's_Locked_Room_Case",
+   "chars": 791
+  },
+  {
+   "episode": "episode-0816",
+   "number": 816,
+   "page": "The_Disappointing_and_Kind_Alien",
+   "chars": 4398
+  },
+  {
+   "episode": "episode-0817",
+   "number": 817,
+   "page": "The_Missing_Fiancée",
+   "chars": 1638
+  },
+  {
+   "episode": "episode-0818",
+   "number": 818,
+   "page": "Kogoro's_Pursuit_of_Rage",
+   "chars": 493
+  },
+  {
+   "episode": "episode-0819",
+   "number": 819,
+   "page": "Kogoro's_Pursuit_of_Rage",
+   "chars": 380
+  },
+  {
+   "episode": "episode-0820",
+   "number": 820,
+   "page": "The_Seven_People_in_the_Waiting_Room",
+   "chars": 1114
+  },
+  {
+   "episode": "episode-0821",
+   "number": 821,
+   "page": "The_Hidden_Secret_of_Dongaraji_Temple",
+   "chars": 2009
+  },
+  {
+   "episode": "episode-0822",
+   "number": 822,
+   "page": "The_Suspects_Are_a_Passionate_Couple",
+   "chars": 1316
+  },
+  {
+   "episode": "episode-0823",
+   "number": 823,
+   "page": "The_Suspects_Are_a_Passionate_Couple",
+   "chars": 79
+  },
+  {
+   "episode": "episode-0824",
+   "number": 824,
+   "page": "The_Detective_Boys_Get_Out_of_the_Rain",
+   "chars": 334
+  },
+  {
+   "episode": "episode-0825",
+   "number": 825,
+   "page": "The_Tidal_Park_Comeback_Case",
+   "chars": 710
+  },
+  {
+   "episode": "episode-0826",
+   "number": 826,
+   "page": "The_Beauty,_The_Lies,_and_The_Secrets",
+   "chars": 871
+  },
+  {
+   "episode": "episode-0827",
+   "number": 827,
+   "page": "Ramen_So_Good,_It's_to_Die_For_2",
+   "chars": 542
+  },
+  {
+   "episode": "episode-0828",
+   "number": 828,
+   "page": "Ramen_So_Good,_It's_to_Die_For_2",
+   "chars": 994
+  },
+  {
+   "episode": "episode-0829",
+   "number": 829,
+   "page": "The_Mysterious_Boy",
+   "chars": 3306
+  },
+  {
+   "episode": "episode-0830",
+   "number": 830,
+   "page": "A_Cottage_Surrounded_by_Zombies",
+   "chars": 833
+  },
+  {
+   "episode": "episode-0831",
+   "number": 831,
+   "page": "A_Cottage_Surrounded_by_Zombies",
+   "chars": 312
+  },
+  {
+   "episode": "episode-0832",
+   "number": 832,
+   "page": "A_Cottage_Surrounded_by_Zombies",
+   "chars": 31
+  },
+  {
+   "episode": "episode-0833",
+   "number": 833,
+   "page": "The_Great_Detective's_Weakness",
+   "chars": 1739
+  },
+  {
+   "episode": "episode-0834",
+   "number": 834,
+   "page": "The_Man_Who_Died_Twice",
+   "chars": 1355
+  },
+  {
+   "episode": "episode-0835",
+   "number": 835,
+   "page": "The_Man_Who_Died_Twice",
+   "chars": 1355
+  },
+  {
+   "episode": "episode-0836",
+   "number": 836,
+   "page": "The_Unfriendly_Girls_Band",
+   "chars": 776
+  },
+  {
+   "episode": "episode-0837",
+   "number": 837,
+   "page": "The_Unfriendly_Girls_Band",
+   "chars": 406
+  },
+  {
+   "episode": "episode-0838",
+   "number": 838,
+   "page": "Mysterious_Case_in_a_Hot_Air_Balloon",
+   "chars": 921
+  },
+  {
+   "episode": "episode-0839",
+   "number": 839,
+   "page": "You_Can_Hear_The_Tengu's_Voice",
+   "chars": 110
+  },
+  {
+   "episode": "episode-0840",
+   "number": 840,
+   "page": "The_Last_Gift",
+   "chars": 168
+  },
+  {
+   "episode": "episode-0841",
+   "number": 841,
+   "page": "The_Rainy_Bus_Stop",
+   "chars": 238
+  },
+  {
+   "episode": "episode-0842",
+   "number": 842,
+   "page": "Turning_Point_on_a_Driving_Date",
+   "chars": 108
+  },
+  {
+   "episode": "episode-0843",
+   "number": 843,
+   "page": "The_Detective_Boys_in_a_Grove",
+   "chars": 1299
+  },
+  {
+   "episode": "episode-0844",
+   "number": 844,
+   "page": "The_Detective_Boys_in_a_Grove",
+   "chars": 1299
+  },
+  {
+   "episode": "episode-0845",
+   "number": 845,
+   "page": "Conan_Cornered_in_the_Darkness",
+   "chars": 818
+  },
+  {
+   "episode": "episode-0846",
+   "number": 846,
+   "page": "Conan_Cornered_in_the_Darkness",
+   "chars": 1107
+  },
+  {
+   "episode": "episode-0847",
+   "number": 847,
+   "page": "Chiba's_Difficult_UFO_Case",
+   "chars": 1113
+  },
+  {
+   "episode": "episode-0848",
+   "number": 848,
+   "page": "Chiba's_Difficult_UFO_Case",
+   "chars": 1113
+  },
+  {
+   "episode": "episode-0849",
+   "number": 849,
+   "page": "The_Marriage_Registration's_Password",
+   "chars": 1141
+  },
+  {
+   "episode": "episode-0850",
+   "number": 850,
+   "page": "The_Marriage_Registration's_Password",
+   "chars": 1141
+  },
+  {
+   "episode": "episode-0851",
+   "number": 851,
+   "page": "The_Descent_Into_Hell_Tour_of_Love",
+   "chars": 4886
+  },
+  {
+   "episode": "episode-0852",
+   "number": 852,
+   "page": "The_Descent_Into_Hell_Tour_of_Love",
+   "chars": 4886
+  },
+  {
+   "episode": "episode-0853",
+   "number": 853,
+   "page": "Memories_from_Sakura_Class",
+   "chars": 9195
+  },
+  {
+   "episode": "episode-0854",
+   "number": 854,
+   "page": "Memories_from_Sakura_Class",
+   "chars": 9195
+  },
+  {
+   "episode": "episode-0855",
+   "number": 855,
+   "page": "The_Mystery_of_the_Vanished_Black_Belt",
+   "chars": 26
+  },
+  {
+   "episode": "episode-0856",
+   "number": 856,
+   "page": "The_Secret_of_the_Celebrity_Couple",
+   "chars": 179
+  },
+  {
+   "episode": "episode-0857",
+   "number": 857,
+   "page": "The_Shifting_Mystery_of_Beika_City",
+   "chars": 627
+  },
+  {
+   "episode": "episode-0858",
+   "number": 858,
+   "page": "The_Shifting_Mystery_of_Beika_City",
+   "chars": 627
+  },
+  {
+   "episode": "episode-0859",
+   "number": 859,
+   "page": "The_Dark_Mountain_Route",
+   "chars": 243
+  },
+  {
+   "episode": "episode-0860",
+   "number": 860,
+   "page": "The_Security_System's_Pitfall",
+   "chars": 148
+  },
+  {
+   "episode": "episode-0861",
+   "number": 861,
+   "page": "Just_Like_a_17_Years_Old_Crime_Scene",
+   "chars": 1071
+  },
+  {
+   "episode": "episode-0862",
+   "number": 862,
+   "page": "Just_Like_a_17_Years_Old_Crime_Scene",
+   "chars": 1071
+  },
+  {
+   "episode": "episode-0863",
+   "number": 863,
+   "page": "The_Spirit_Detective's_Murder",
+   "chars": 1151
+  },
+  {
+   "episode": "episode-0864",
+   "number": 864,
+   "page": "The_Spirit_Detective's_Murder",
+   "chars": 1151
+  },
+  {
+   "episode": "episode-0865",
+   "number": 865,
+   "page": "The_Foul-Mouthed_Myna_Bird",
+   "chars": 657
+  },
+  {
+   "episode": "episode-0866",
+   "number": 866,
+   "page": "The_Betrayal's_Stage",
+   "chars": 408
+  },
+  {
+   "episode": "episode-0867",
+   "number": 867,
+   "page": "The_Betrayal's_Stage",
+   "chars": 408
+  },
+  {
+   "episode": "episode-0868",
+   "number": 868,
+   "page": "The_Whistling_Bookstore",
+   "chars": 60
+  },
+  {
+   "episode": "episode-0869",
+   "number": 869,
+   "page": "Conan_Disappeared_on_the_Cliff",
+   "chars": 522
+  },
+  {
+   "episode": "episode-0870",
+   "number": 870,
+   "page": "Conan_Disappeared_on_the_Cliff",
+   "chars": 522
+  },
+  {
+   "episode": "episode-0871",
+   "number": 871,
+   "page": "The_Nobunaga_450_Case",
+   "chars": 705
+  },
+  {
+   "episode": "episode-0872",
+   "number": 872,
+   "page": "Conan_and_Heiji's_Nue_Legend",
+   "chars": 5572
+  },
+  {
+   "episode": "episode-0873",
+   "number": 873,
+   "page": "Conan_and_Heiji's_Nue_Legend",
+   "chars": 5572
+  },
+  {
+   "episode": "episode-0874",
+   "number": 874,
+   "page": "Conan_and_Heiji's_Nue_Legend",
+   "chars": 5572
+  },
+  {
+   "episode": "episode-0875",
+   "number": 875,
+   "page": "The_Mysterious_Prophetic_Buddha",
+   "chars": 154
+  },
+  {
+   "episode": "episode-0876",
+   "number": 876,
+   "page": "The_Mechanical_Witness",
+   "chars": 32
+  },
+  {
+   "episode": "episode-0877",
+   "number": 877,
+   "page": "A_Pair_of_Crossing_Fates",
+   "chars": 1255
+  },
+  {
+   "episode": "episode-0878",
+   "number": 878,
+   "page": "The_Blind_Spot_in_the_Dressing_Room",
+   "chars": 700
+  },
+  {
+   "episode": "episode-0879",
+   "number": 879,
+   "page": "The_Blind_Spot_in_the_Dressing_Room",
+   "chars": 149
+  },
+  {
+   "episode": "episode-0880",
+   "number": 880,
+   "page": "The_Detective_Boys_and_the_Ghost_Mansion",
+   "chars": 868
+  },
+  {
+   "episode": "episode-0881",
+   "number": 881,
+   "page": "The_Wizard_of_the_Ripples",
+   "chars": 868
+  },
+  {
+   "episode": "episode-0883",
+   "number": 883,
+   "page": "The_Pop-up_Book_Bomber",
+   "chars": 1353
+  },
+  {
+   "episode": "episode-0884",
+   "number": 884,
+   "page": "The_Pop-up_Book_Bomber",
+   "chars": 128
+  },
+  {
+   "episode": "episode-0885",
+   "number": 885,
+   "page": "Solving_Mysteries_at_the_Poirot_Café",
+   "chars": 946
+  },
+  {
+   "episode": "episode-0886",
+   "number": 886,
+   "page": "Solving_Mysteries_at_the_Poirot_Café",
+   "chars": 946
+  },
+  {
+   "episode": "episode-0887",
+   "number": 887,
+   "page": "Kaitou_Kid_and_the_Trick_Box",
+   "chars": 259
+  },
+  {
+   "episode": "episode-0888",
+   "number": 888,
+   "page": "Kaitou_Kid_and_the_Trick_Box",
+   "chars": 62
+  },
+  {
+   "episode": "episode-0889",
+   "number": 889,
+   "page": "The_New_Teacher's_Skeleton_Case",
+   "chars": 931
+  },
+  {
+   "episode": "episode-0890",
+   "number": 890,
+   "page": "The_New_Teacher's_Skeleton_Case",
+   "chars": 931
+  },
+  {
+   "episode": "episode-0891",
+   "number": 891,
+   "page": "Bakumatsu_Revolution_Mystery_Tour",
+   "chars": 485
+  },
+  {
+   "episode": "episode-0892",
+   "number": 892,
+   "page": "Bakumatsu_Revolution_Mystery_Tour",
+   "chars": 485
+  },
+  {
+   "episode": "episode-0893",
+   "number": 893,
+   "page": "The_Mystery_of_the_Michelin_Starred_Restaurant",
+   "chars": 52
+  },
+  {
+   "episode": "episode-0894",
+   "number": 894,
+   "page": "The_Tokyo-Style_Detective_Show_Next_Door",
+   "chars": 1320
+  },
+  {
+   "episode": "episode-0895",
+   "number": 895,
+   "page": "The_Tokyo-Style_Detective_Show_Next_Door",
+   "chars": 200
+  },
+  {
+   "episode": "episode-0896",
+   "number": 896,
+   "page": "The_Woman_with_White_Hands",
+   "chars": 1143
+  },
+  {
+   "episode": "episode-0897",
+   "number": 897,
+   "page": "The_Woman_with_White_Hands",
+   "chars": 993
+  },
+  {
+   "episode": "episode-0898",
+   "number": 898,
+   "page": "The_Melting_Cake!",
+   "chars": 1703
+  },
+  {
+   "episode": "episode-0899",
+   "number": 899,
+   "page": "The_Real_Culprit's_Scream",
+   "chars": 2222
+  },
+  {
+   "episode": "episode-0900",
+   "number": 900,
+   "page": "Solving_Mysteries_in_a_Locked_Room",
+   "chars": 424
+  },
+  {
+   "episode": "episode-0901",
+   "number": 901,
+   "page": "Lawyer_Kisaki's_SOS",
+   "chars": 952
+  },
+  {
+   "episode": "episode-0902",
+   "number": 902,
+   "page": "Lawyer_Kisaki's_SOS",
+   "chars": 586
+  },
+  {
+   "episode": "episode-0903",
+   "number": 903,
+   "page": "Birds_of_a_Feather_at_Loggerheads",
+   "chars": 445
+  },
+  {
+   "episode": "episode-0904",
+   "number": 904,
+   "page": "Result_of_the_Draw",
+   "chars": 66
+  },
+  {
+   "episode": "episode-0905",
+   "number": 905,
+   "page": "Eyewitness_Testimony_Seven_Years_Later",
+   "chars": 312
+  },
+  {
+   "episode": "episode-0906",
+   "number": 906,
+   "page": "Eyewitness_Testimony_Seven_Years_Later",
+   "chars": 206
+  },
+  {
+   "episode": "episode-0907",
+   "number": 907,
+   "page": "The_J_League_Bodyguard",
+   "chars": 1275
+  },
+  {
+   "episode": "episode-0908",
+   "number": 908,
+   "page": "Friendship_Washed_Away_in_the_Riverbed",
+   "chars": 973
+  },
+  {
+   "episode": "episode-0909",
+   "number": 909,
+   "page": "Mystery_of_the_Burning_Tent",
+   "chars": 976
+  },
+  {
+   "episode": "episode-0910",
+   "number": 910,
+   "page": "Mystery_of_the_Burning_Tent",
+   "chars": 150
+  },
+  {
+   "episode": "episode-0911",
+   "number": 911,
+   "page": "The_Job_Request_from_Inspector_Megure",
+   "chars": 1009
+  },
+  {
+   "episode": "episode-0912",
+   "number": 912,
+   "page": "The_Detective_Boys_Become_Models",
+   "chars": 85
+  },
+  {
+   "episode": "episode-0913",
+   "number": 913,
+   "page": "Conan_Kidnapped",
+   "chars": 848
+  },
+  {
+   "episode": "episode-0914",
+   "number": 914,
+   "page": "Conan_Kidnapped",
+   "chars": 52
+  },
+  {
+   "episode": "episode-0915",
+   "number": 915,
+   "page": "High_School_Girl_Detective_Sonoko_Suzuki",
+   "chars": 3229
+  },
+  {
+   "episode": "episode-0916",
+   "number": 916,
+   "page": "The_Kendo_Tournament_of_Love_and_Mystery",
+   "chars": 1303
+  },
+  {
+   "episode": "episode-0917",
+   "number": 917,
+   "page": "The_Kendo_Tournament_of_Love_and_Mystery",
+   "chars": 217
+  },
+  {
+   "episode": "episode-0918",
+   "number": 918,
+   "page": "The_Mini_Patrol_Car_Police's_Big_Chase",
+   "chars": 2592
+  },
+  {
+   "episode": "episode-0919",
+   "number": 919,
+   "page": "The_High_School_Girl_Trio's_Secret_Café",
+   "chars": 527
+  },
+  {
+   "episode": "episode-0920",
+   "number": 920,
+   "page": "The_High_School_Girl_Trio's_Secret_Café",
+   "chars": 110
+  },
+  {
+   "episode": "episode-0921",
+   "number": 921,
+   "page": "The_Murderous_Carpool",
+   "chars": 220
+  },
+  {
+   "episode": "episode-0922",
+   "number": 922,
+   "page": "The_Disappeared_Detective_Boys",
+   "chars": 1321
+  },
+  {
+   "episode": "episode-0923",
+   "number": 923,
+   "page": "A_Day_Without_Conan",
+   "chars": 378
+  },
+  {
+   "episode": "episode-0924",
+   "number": 924,
+   "page": "The_Sun_Sets_in_Tangerine_Fields",
+   "chars": 284
+  },
+  {
+   "episode": "episode-0925",
+   "number": 925,
+   "page": "The_Heartfelt_Strap",
+   "chars": 890
+  },
+  {
+   "episode": "episode-0926",
+   "number": 926,
+   "page": "The_Heartfelt_Strap",
+   "chars": 229
+  },
+  {
+   "episode": "episode-0927",
+   "number": 927,
+   "page": "The_Scarlet_School_Trip",
+   "chars": 3457
+  },
+  {
+   "episode": "episode-0928",
+   "number": 928,
+   "page": "The_Scarlet_School_Trip",
+   "chars": 3457
+  },
+  {
+   "episode": "episode-0929",
+   "number": 929,
+   "page": "A_Woman_Standing_by_the_Window",
+   "chars": 983
+  },
+  {
+   "episode": "episode-0930",
+   "number": 930,
+   "page": "A_Woman_Standing_by_the_Window",
+   "chars": 3115
+  },
+  {
+   "episode": "episode-0931",
+   "number": 931,
+   "page": "The_Northern_Kyushu_Mystery_Tour",
+   "chars": 807
+  },
+  {
+   "episode": "episode-0932",
+   "number": 932,
+   "page": "The_Northern_Kyushu_Mystery_Tour",
+   "chars": 807
+  },
+  {
+   "episode": "episode-0933",
+   "number": 933,
+   "page": "Thoroughbred_Kidnapping_Case",
+   "chars": 731
+  },
+  {
+   "episode": "episode-0934",
+   "number": 934,
+   "page": "Thoroughbred_Kidnapping_Case",
+   "chars": 731
+  },
+  {
+   "episode": "episode-0935",
+   "number": 935,
+   "page": "The_Fortuneteller_and_the_Three_Customers",
+   "chars": 841
+  },
+  {
+   "episode": "episode-0936",
+   "number": 936,
+   "page": "Intrigue_at_the_Food_Court",
+   "chars": 1054
+  },
+  {
+   "episode": "episode-0937",
+   "number": 937,
+   "page": "The_Killer_Fist_of_Talos",
+   "chars": 295
+  },
+  {
+   "episode": "episode-0938",
+   "number": 938,
+   "page": "The_Killer_Fist_of_Talos",
+   "chars": 295
+  },
+  {
+   "episode": "episode-0939",
+   "number": 939,
+   "page": "The_Dangerous_Fossil_Finding_Trip",
+   "chars": 565
+  },
+  {
+   "episode": "episode-0940",
+   "number": 940,
+   "page": "The_Missing_Girlfriend",
+   "chars": 919
+  },
+  {
+   "episode": "episode-0941",
+   "number": 941,
+   "page": "Search_for_Maria-chan!",
+   "chars": 1120
+  },
+  {
+   "episode": "episode-0942",
+   "number": 942,
+   "page": "Search_for_Maria-chan!",
+   "chars": 1039
+  },
+  {
+   "episode": "episode-0943",
+   "number": 943,
+   "page": "The_Tokyo_Barls_Collection",
+   "chars": 163
+  },
+  {
+   "episode": "episode-0944",
+   "number": 944,
+   "page": "The_Cost_of_Likes",
+   "chars": 1456
+  },
+  {
+   "episode": "episode-0945",
+   "number": 945,
+   "page": "The_Cost_of_Likes",
+   "chars": 1456
+  },
+  {
+   "episode": "episode-0946",
+   "number": 946,
+   "page": "The_Cursed_Tears_of_Borgia",
+   "chars": 1072
+  },
+  {
+   "episode": "episode-0947",
+   "number": 947,
+   "page": "The_Cursed_Tears_of_Borgia",
+   "chars": 1072
+  },
+  {
+   "episode": "episode-0948",
+   "number": 948,
+   "page": "The_Man_Crushed_by_a_Dinosaur",
+   "chars": 204
+  },
+  {
+   "episode": "episode-0949",
+   "number": 949,
+   "page": "The_Radio_Questions_and_Concerns_Show",
+   "chars": 162
+  },
+  {
+   "episode": "episode-0950",
+   "number": 950,
+   "page": "The_Radio_Questions_and_Concerns_Show",
+   "chars": 162
+  },
+  {
+   "episode": "episode-0951",
+   "number": 951,
+   "page": "The_Whistling_Bookstore_2",
+   "chars": 173
+  },
+  {
+   "episode": "episode-0952",
+   "number": 952,
+   "page": "The_Unsolved_Cocktail_Case",
+   "chars": 757
+  },
+  {
+   "episode": "episode-0953",
+   "number": 953,
+   "page": "The_Unsolved_Cocktail_Case",
+   "chars": 890
+  },
+  {
+   "episode": "episode-0954",
+   "number": 954,
+   "page": "The_Unsolved_Cocktail_Case",
+   "chars": 192
+  },
+  {
+   "episode": "episode-0955",
+   "number": 955,
+   "page": "The_Secret_of_the_Insect_Man",
+   "chars": 2756
+  },
+  {
+   "episode": "episode-0956",
+   "number": 956,
+   "page": "The_Mystery-Solving_Water_Taxi",
+   "chars": 581
+  },
+  {
+   "episode": "episode-0957",
+   "number": 957,
+   "page": "The_Mystery-Solving_Water_Taxi",
+   "chars": 581
+  },
+  {
+   "episode": "episode-0958",
+   "number": 958,
+   "page": "The_Poodle_and_the_Shotgun",
+   "chars": 839
+  },
+  {
+   "episode": "episode-0959",
+   "number": 959,
+   "page": "The_Poodle_and_the_Shotgun",
+   "chars": 118
+  },
+  {
+   "episode": "episode-0960",
+   "number": 960,
+   "page": "Miss_Lonely_and_the_Detective_Boys",
+   "chars": 403
+  },
+  {
+   "episode": "episode-0961",
+   "number": 961,
+   "page": "The_Glamping_Mystery",
+   "chars": 564
+  },
+  {
+   "episode": "episode-0962",
+   "number": 962,
+   "page": "Kogoro_Mouri's_Grand_Lecture",
+   "chars": 1413
+  },
+  {
+   "episode": "episode-0963",
+   "number": 963,
+   "page": "Kogoro_Mouri's_Grand_Lecture",
+   "chars": 1330
+  },
+  {
+   "episode": "episode-0964",
+   "number": 964,
+   "page": "Kogoro_Mouri's_Grand_Lecture",
+   "chars": 443
+  },
+  {
+   "episode": "episode-0965",
+   "number": 965,
+   "page": "Kaiju_Gomera_vs._Kamen_Yaiba",
+   "chars": 5881
+  },
+  {
+   "episode": "episode-0966",
+   "number": 966,
+   "page": "Kaiju_Gomera_vs._Kamen_Yaiba",
+   "chars": 5881
+  },
+  {
+   "episode": "episode-0967",
+   "number": 967,
+   "page": "Kaiju_Gomera_vs._Kamen_Yaiba",
+   "chars": 5881
+  },
+  {
+   "episode": "episode-0968",
+   "number": 968,
+   "page": "Kaiju_Gomera_vs._Kamen_Yaiba",
+   "chars": 5881
+  },
+  {
+   "episode": "episode-0969",
+   "number": 969,
+   "page": "The_Young_Kaga_Lady's_Mystery_Tour",
+   "chars": 1129
+  },
+  {
+   "episode": "episode-0970",
+   "number": 970,
+   "page": "The_Young_Kaga_Lady's_Mystery_Tour",
+   "chars": 1000
+  },
+  {
+   "episode": "episode-0971",
+   "number": 971,
+   "page": "The_Target_is_the_Metropolitan_Police_Traffic_Department",
+   "chars": 1206
+  },
+  {
+   "episode": "episode-0972",
+   "number": 972,
+   "page": "The_Target_is_the_Metropolitan_Police_Traffic_Department",
+   "chars": 1216
+  },
+  {
+   "episode": "episode-0973",
+   "number": 973,
+   "page": "The_Target_is_the_Metropolitan_Police_Traffic_Department",
+   "chars": 1247
+  },
+  {
+   "episode": "episode-0974",
+   "number": 974,
+   "page": "The_Target_is_the_Metropolitan_Police_Traffic_Department",
+   "chars": 1206
+  },
+  {
+   "episode": "episode-0975",
+   "number": 975,
+   "page": "The_Secret_of_the_Search_for_his_Wife",
+   "chars": 1883
+  },
+  {
+   "episode": "episode-0976",
+   "number": 976,
+   "page": "Follow_Them!_Detective_Taxi",
+   "chars": 3346
+  },
+  {
+   "episode": "episode-0977",
+   "number": 977,
+   "page": "The_Broken_Fishbowl",
+   "chars": 713
+  },
+  {
+   "episode": "episode-0978",
+   "number": 978,
+   "page": "The_Case_On_the_Opposite_Shore",
+   "chars": 581
+  },
+  {
+   "episode": "episode-0979",
+   "number": 979,
+   "page": "Leading_a_Detective_Around_By_the_Nose",
+   "chars": 857
+  },
+  {
+   "episode": "episode-0980",
+   "number": 980,
+   "page": "An_Encouragement_of_the_Perfect_Crime",
+   "chars": 524
+  },
+  {
+   "episode": "episode-0981",
+   "number": 981,
+   "page": "Welcome_to_Bocchan_Restaurant",
+   "chars": 1083
+  },
+  {
+   "episode": "episode-0982",
+   "number": 982,
+   "page": "Welcome_to_Bocchan_Restaurant",
+   "chars": 74
+  },
+  {
+   "episode": "episode-0983",
+   "number": 983,
+   "page": "Kid_vs._Komei__The_Targeted_Lips",
+   "chars": 1393
+  },
+  {
+   "episode": "episode-0984",
+   "number": 984,
+   "page": "Kid_vs._Komei__The_Targeted_Lips",
+   "chars": 180
+  },
+  {
+   "episode": "episode-0985",
+   "number": 985,
+   "page": "The_Two_Faces",
+   "chars": 1070
+  },
+  {
+   "episode": "episode-0986",
+   "number": 986,
+   "page": "The_Two_Faces",
+   "chars": 164
+  },
+  {
+   "episode": "episode-0987",
+   "number": 987,
+   "page": "The_Company_Dissolution_Party",
+   "chars": 836
+  },
+  {
+   "episode": "episode-0988",
+   "number": 988,
+   "page": "The_Feuding_Girls",
+   "chars": 711
+  },
+  {
+   "episode": "episode-0989",
+   "number": 989,
+   "page": "The_Case_of_Ayumi's_Illustrated_Diary",
+   "chars": 764
+  },
+  {
+   "episode": "episode-0990",
+   "number": 990,
+   "page": "The_Automatic_Tragedy",
+   "chars": 911
+  },
+  {
+   "episode": "episode-0991",
+   "number": 991,
+   "page": "The_Automatic_Tragedy",
+   "chars": 193
+  },
+  {
+   "episode": "episode-0992",
+   "number": 992,
+   "page": "Murder_at_the_Townhouse_Café",
+   "chars": 576
+  },
+  {
+   "episode": "episode-0993",
+   "number": 993,
+   "page": "Makoto_Kyogoku_the_Understudy",
+   "chars": 1325
+  },
+  {
+   "episode": "episode-0994",
+   "number": 994,
+   "page": "Makoto_Kyogoku_the_Understudy",
+   "chars": 666
+  },
+  {
+   "episode": "episode-0995",
+   "number": 995,
+   "page": "Makoto_Kyogoku_the_Understudy",
+   "chars": 566
+  },
+  {
+   "episode": "episode-0996",
+   "number": 996,
+   "page": "The_Skilled_Hawk_Hides_His_Crime",
+   "chars": 1077
+  },
+  {
+   "episode": "episode-0997",
+   "number": 997,
+   "page": "Intrigue_at_Smile_Village",
+   "chars": 735
+  },
+  {
+   "episode": "episode-0998",
+   "number": 998,
+   "page": "The_Frying_Pan_of_Hatred",
+   "chars": 1080
+  },
+  {
+   "episode": "episode-0999",
+   "number": 999,
+   "page": "Troublesome_Kindness",
+   "chars": 416
+  },
+  {
+   "episode": "episode-1000",
+   "number": 1000,
+   "page": "The_Moonlight_Sonata_Murder",
+   "chars": 1423
+  },
+  {
+   "episode": "episode-1001",
+   "number": 1001,
+   "page": "The_Moonlight_Sonata_Murder",
+   "chars": 853
+  },
+  {
+   "episode": "episode-1002",
+   "number": 1002,
+   "page": "The_Beika_City_Shopping_Center_Garbage_Bin_Mystery",
+   "chars": 789
+  },
+  {
+   "episode": "episode-1003",
+   "number": 1003,
+   "page": "The_36-Cell_Perfect_Game",
+   "chars": 1024
+  },
+  {
+   "episode": "episode-1004",
+   "number": 1004,
+   "page": "The_36-Cell_Perfect_Game",
+   "chars": 1373
+  },
+  {
+   "episode": "episode-1005",
+   "number": 1005,
+   "page": "The_36-Cell_Perfect_Game",
+   "chars": 250
+  },
+  {
+   "episode": "episode-1006",
+   "number": 1006,
+   "page": "Who_Poisoned_the_Victim",
+   "chars": 1146
+  },
+  {
+   "episode": "episode-1007",
+   "number": 1007,
+   "page": "Out_for_Revenge",
+   "chars": 1444
+  },
+  {
+   "episode": "episode-1008",
+   "number": 1008,
+   "page": "Out_for_Revenge",
+   "chars": 406
+  },
+  {
+   "episode": "episode-1009",
+   "number": 1009,
+   "page": "The_Lost_Article_That_Smells_Like_a_Case",
+   "chars": 942
+  },
+  {
+   "episode": "episode-1010",
+   "number": 1010,
+   "page": "The_Idol_Whose_Smile_Disappeared",
+   "chars": 1328
+  },
+  {
+   "episode": "episode-1011",
+   "number": 1011,
+   "page": "Picking_Wild_Plants_and_Clovers",
+   "chars": 903
+  },
+  {
+   "episode": "episode-1012",
+   "number": 1012,
+   "page": "Picking_Wild_Plants_and_Clovers",
+   "chars": 283
+  },
+  {
+   "episode": "episode-1013",
+   "number": 1013,
+   "page": "The_Man_Who_Loved_Too_Much",
+   "chars": 454
+  },
+  {
+   "episode": "episode-1014",
+   "number": 1014,
+   "page": "The_Novelist_Known_as_the_Demon_King",
+   "chars": 3740
+  },
+  {
+   "episode": "episode-1015",
+   "number": 1015,
+   "page": "Stakeout",
+   "chars": 879
+  },
+  {
+   "episode": "episode-1016",
+   "number": 1016,
+   "page": "The_Monorail_Sniper_Case",
+   "chars": 687
+  },
+  {
+   "episode": "episode-1017",
+   "number": 1017,
+   "page": "The_Monorail_Sniper_Case",
+   "chars": 966
+  },
+  {
+   "episode": "episode-1018",
+   "number": 1018,
+   "page": "The_Antique_Tray_Can't_Be_Hidden",
+   "chars": 1265
+  },
+  {
+   "episode": "episode-1019",
+   "number": 1019,
+   "page": "The_Antique_Tray_Can't_Be_Hidden",
+   "chars": 1104
+  },
+  {
+   "episode": "episode-1020",
+   "number": 1020,
+   "page": "The_Antique_Tray_Can't_Be_Hidden",
+   "chars": 574
+  },
+  {
+   "episode": "episode-1021",
+   "number": 1021,
+   "page": "Rondo_in_Bad_Company",
+   "chars": 1379
+  },
+  {
+   "episode": "episode-1022",
+   "number": 1022,
+   "page": "The_Cursed_Museum",
+   "chars": 1486
+  },
+  {
+   "episode": "episode-1023",
+   "number": 1023,
+   "page": "The_Whistling_Bookstore_3",
+   "chars": 1153
+  },
+  {
+   "episode": "episode-1024",
+   "number": 1024,
+   "page": "Momiji_Ooka's_Challenge",
+   "chars": 1111
+  },
+  {
+   "episode": "episode-1025",
+   "number": 1025,
+   "page": "Momiji_Ooka's_Challenge",
+   "chars": 698
+  },
+  {
+   "episode": "episode-1026",
+   "number": 1026,
+   "page": "The_Wordless_Witness",
+   "chars": 1086
+  },
+  {
+   "episode": "episode-1027",
+   "number": 1027,
+   "page": "Beyond_the_Curtain",
+   "chars": 1156
+  },
+  {
+   "episode": "episode-1028",
+   "number": 1028,
+   "page": "Ballad_of_the_Woman_Who_Loved_Cake",
+   "chars": 1254
+  },
+  {
+   "episode": "episode-1029",
+   "number": 1029,
+   "page": "Police_Academy_Arc_Wild_Police_Story_CASE._Jinpei_Matsuda",
+   "chars": 1316
+  },
+  {
+   "episode": "episode-1030",
+   "number": 1030,
+   "page": "The_Blank_Year",
+   "chars": 1258
+  },
+  {
+   "episode": "episode-1031",
+   "number": 1031,
+   "page": "The_Blank_Year",
+   "chars": 1338
+  },
+  {
+   "episode": "episode-1032",
+   "number": 1032,
+   "page": "Ran_Mouri,_The_Model",
+   "chars": 1384
+  },
+  {
+   "episode": "episode-1033",
+   "number": 1033,
+   "page": "Taiko_Meijin's_Shogi_Board",
+   "chars": 7451
+  },
+  {
+   "episode": "episode-1034",
+   "number": 1034,
+   "page": "Taiko_Meijin's_Shogi_Board",
+   "chars": 7451
+  },
+  {
+   "episode": "episode-1035",
+   "number": 1035,
+   "page": "Taiko_Meijin's_Shogi_Board",
+   "chars": 7451
+  },
+  {
+   "episode": "episode-1036",
+   "number": 1036,
+   "page": "Whiteout",
+   "chars": 1488
+  },
+  {
+   "episode": "episode-1037",
+   "number": 1037,
+   "page": "Whiteout",
+   "chars": 1272
+  },
+  {
+   "episode": "episode-1038",
+   "number": 1038,
+   "page": "Police_Academy_Arc_Wild_Police_Story_CASE._Wataru_Date",
+   "chars": 1235
+  },
+  {
+   "episode": "episode-1039",
+   "number": 1039,
+   "page": "The_Flying_Jack-o'-lantern",
+   "chars": 1236
+  },
+  {
+   "episode": "episode-1040",
+   "number": 1040,
+   "page": "The_Case_of_Ayumi's_Illustrated_Diary_2",
+   "chars": 1443
+  },
+  {
+   "episode": "episode-1041",
+   "number": 1041,
+   "page": "The_Unstated_Alibi",
+   "chars": 4262
+  },
+  {
+   "episode": "episode-1042",
+   "number": 1042,
+   "page": "Police_Academy_Arc_Wild_Police_Story_CASE._Kenji_Hagiwara",
+   "chars": 1444
+  },
+  {
+   "episode": "episode-1043",
+   "number": 1043,
+   "page": "The_Figure_of_Revenge",
+   "chars": 937
+  },
+  {
+   "episode": "episode-1044",
+   "number": 1044,
+   "page": "The_Deadly_Pork_Soup_Signal",
+   "chars": 2544
+  },
+  {
+   "episode": "episode-1045",
+   "number": 1045,
+   "page": "The_Birthday_Party_of_Divine_Punishment",
+   "chars": 1371
+  },
+  {
+   "episode": "episode-1046",
+   "number": 1046,
+   "page": "The_Birthday_Party_of_Divine_Punishment",
+   "chars": 1268
+  },
+  {
+   "episode": "episode-1047",
+   "number": 1047,
+   "page": "The_Red_Sheep's_Eerie_Game",
+   "chars": 1298
+  },
+  {
+   "episode": "episode-1048",
+   "number": 1048,
+   "page": "The_Red_Sheep's_Eerie_Game",
+   "chars": 83
+  },
+  {
+   "episode": "episode-1049",
+   "number": 1049,
+   "page": "The_Threat_to_Megure's_Police_Career",
+   "chars": 1958
+  },
+  {
+   "episode": "episode-1050",
+   "number": 1050,
+   "page": "Intrigue_at_Morikawa_Mansion",
+   "chars": 1097
+  },
+  {
+   "episode": "episode-1051",
+   "number": 1051,
+   "page": "Intrigue_at_Morikawa_Mansion",
+   "chars": 929
+  },
+  {
+   "episode": "episode-1052",
+   "number": 1052,
+   "page": "The_Detective_Boys'_Test_of_Courage",
+   "chars": 1633
+  },
+  {
+   "episode": "episode-1053",
+   "number": 1053,
+   "page": "The_Spark_That_Fell_on_the_Ranch",
+   "chars": 1301
+  },
+  {
+   "episode": "episode-1054",
+   "number": 1054,
+   "page": "The_Spark_That_Fell_on_the_Ranch",
+   "chars": 1210
+  },
+  {
+   "episode": "episode-1055",
+   "number": 1055,
+   "page": "The_Ghost's_Revenge",
+   "chars": 2462
+  },
+  {
+   "episode": "episode-1056",
+   "number": 1056,
+   "page": "I_Want_My_Husband_Back",
+   "chars": 2023
+  },
+  {
+   "episode": "episode-1057",
+   "number": 1057,
+   "page": "Bad_Guys",
+   "chars": 1735
+  },
+  {
+   "episode": "episode-1058",
+   "number": 1058,
+   "page": "The_Man_Who_Camped_Out_at_the_Police_Station",
+   "chars": 370
+  },
+  {
+   "episode": "episode-1059",
+   "number": 1059,
+   "page": "Yoko_Okino_and_the_Locked_Attic",
+   "chars": 888
+  },
+  {
+   "episode": "episode-1060",
+   "number": 1060,
+   "page": "Yoko_Okino_and_the_Locked_Attic",
+   "chars": 304
+  },
+  {
+   "episode": "episode-1062",
+   "number": 1062,
+   "page": "The_Spiral_of_Rain_and_Malice",
+   "chars": 2835
+  },
+  {
+   "episode": "episode-1063",
+   "number": 1063,
+   "page": "The_Targeted_Chicken_Sexer",
+   "chars": 357
+  },
+  {
+   "episode": "episode-1064",
+   "number": 1064,
+   "page": "The_Dreamy-Eyed_Woman's_Last_Shot_at_Love",
+   "chars": 41
+  },
+  {
+   "episode": "episode-1065",
+   "number": 1065,
+   "page": "Detectives_Don't_Sleep",
+   "chars": 1427
+  },
+  {
+   "episode": "episode-1066",
+   "number": 1066,
+   "page": "'Til_Death_Do_Us_Part",
+   "chars": 693
+  },
+  {
+   "episode": "episode-1067",
+   "number": 1067,
+   "page": "The_Shopping_Center_in_Love",
+   "chars": 666
+  },
+  {
+   "episode": "episode-1068",
+   "number": 1068,
+   "page": "Mitsuhiko_Tsuburaya's_Detective_Notes",
+   "chars": 1158
+  },
+  {
+   "episode": "episode-1069",
+   "number": 1069,
+   "page": "The_Sweet_Voice_Heard_Through_the_Phone",
+   "chars": 470
+  },
+  {
+   "episode": "episode-1070",
+   "number": 1070,
+   "page": "The_Surprise_That_Leads_to_Tragedy",
+   "chars": 605
+  },
+  {
+   "episode": "episode-1071",
+   "number": 1071,
+   "page": "Yusaku_Kudo's_Detective_Show",
+   "chars": 1280
+  },
+  {
+   "episode": "episode-1072",
+   "number": 1072,
+   "page": "Yusaku_Kudo's_Detective_Show",
+   "chars": 138
+  },
+  {
+   "episode": "episode-1073",
+   "number": 1073,
+   "page": "The_Detective_Boys'_Pursuit_of_the_Purse-snatcher",
+   "chars": 824
+  },
+  {
+   "episode": "episode-1074",
+   "number": 1074,
+   "page": "The_Boiled_Fugu_Mystery_Tour_Showdown",
+   "chars": 1384
+  },
+  {
+   "episode": "episode-1075",
+   "number": 1075,
+   "page": "The_Boiled_Fugu_Mystery_Tour_Showdown",
+   "chars": 584
+  },
+  {
+   "episode": "episode-1076",
+   "number": 1076,
+   "page": "The_Charismatic_CEO's_Secret_Plan",
+   "chars": 3200
+  },
+  {
+   "episode": "episode-1080",
+   "number": 1080,
+   "page": "The_Cameras_Targeting_Haibara",
+   "chars": 538
+  },
+  {
+   "episode": "episode-1081",
+   "number": 1081,
+   "page": "My_Beloved_Dog_Pan-kun_Is_a_Good_Boy",
+   "chars": 184
+  },
+  {
+   "episode": "episode-1082",
+   "number": 1082,
+   "page": "The_Alley_of_Sad_Betrayal",
+   "chars": 1829
+  },
+  {
+   "episode": "episode-1083",
+   "number": 1083,
+   "page": "Behind_the_Scenes_of_the_J_League_Finals",
+   "chars": 3752
+  },
+  {
+   "episode": "episode-1084",
+   "number": 1084,
+   "page": "The_Freezing_Cold_Men",
+   "chars": 8053
+  },
+  {
+   "episode": "episode-1085",
+   "number": 1085,
+   "page": "The_Inauspicious_Matchmaking",
+   "chars": 661
+  },
+  {
+   "episode": "episode-1086",
+   "number": 1086,
+   "page": "The_Inauspicious_Matchmaking",
+   "chars": 1472
+  },
+  {
+   "episode": "episode-1087",
+   "number": 1087,
+   "page": "The_Case_of_Ayumi's_Illustrated_Diary_3",
+   "chars": 5031
+  },
+  {
+   "episode": "episode-1088",
+   "number": 1088,
+   "page": "The_Unfortunate_and_Suspicious_Victim",
+   "chars": 6994
+  },
+  {
+   "episode": "episode-1089",
+   "number": 1089,
+   "page": "The_Genius_Restaurant",
+   "chars": 7709
+  },
+  {
+   "episode": "episode-1090",
+   "number": 1090,
+   "page": "The_Culprit_Who_Disappeared_Into_the_Sleeping_Town",
+   "chars": 6809
+  },
+  {
+   "episode": "episode-1091",
+   "number": 1091,
+   "page": "Girls_Day_Mystery",
+   "chars": 6605
+  },
+  {
+   "episode": "episode-1092",
+   "number": 1092,
+   "page": "Stakeout_2",
+   "chars": 3842
+  },
+  {
+   "episode": "episode-1093",
+   "number": 1093,
+   "page": "Akemi_Miyano's_Time_Capsule",
+   "chars": 1578
+  },
+  {
+   "episode": "episode-1094",
+   "number": 1094,
+   "page": "Akemi_Miyano's_Time_Capsule",
+   "chars": 1846
+  },
+  {
+   "episode": "episode-1095",
+   "number": 1095,
+   "page": "The_Missing_Man's_Dream",
+   "chars": 5500
+  },
+  {
+   "episode": "episode-1096",
+   "number": 1096,
+   "page": "Mitsuhiko_Tsuburaya's_Detective_Notes_2",
+   "chars": 4448
+  },
+  {
+   "episode": "episode-1097",
+   "number": 1097,
+   "page": "Did_I_Do_It_",
+   "chars": 1478
+  },
+  {
+   "episode": "episode-1098",
+   "number": 1098,
+   "page": "Chihaya_Hagiwara,_Goddess_of_the_Wind",
+   "chars": 1567
+  },
+  {
+   "episode": "episode-1099",
+   "number": 1099,
+   "page": "Chihaya_Hagiwara,_Goddess_of_the_Wind",
+   "chars": 1374
+  },
+  {
+   "episode": "episode-1100",
+   "number": 1100,
+   "page": "The_Troublesome_20_Million_Yen",
+   "chars": 5214
+  },
+  {
+   "episode": "episode-1101",
+   "number": 1101,
+   "page": "Pride_of_the_Immortal_Man",
+   "chars": 7853
+  },
+  {
+   "episode": "episode-1102",
+   "number": 1102,
+   "page": "The_Akabeko_and_the_Three_Lucky_Men",
+   "chars": 4721
+  },
+  {
+   "episode": "episode-1103",
+   "number": 1103,
+   "page": "The_Teen_Novel_That_Smells_Like_Guilt",
+   "chars": 6101
+  },
+  {
+   "episode": "episode-1104",
+   "number": 1104,
+   "page": "The_True_Culprit_is_On_the_Run",
+   "chars": 3279
+  },
+  {
+   "episode": "episode-1105",
+   "number": 1105,
+   "page": "Kid_vs._Amuro__Queen's_Bang",
+   "chars": 1293
+  },
+  {
+   "episode": "episode-1106",
+   "number": 1106,
+   "page": "Kid_vs._Amuro__Queen's_Bang",
+   "chars": 1027
+  },
+  {
+   "episode": "episode-1107",
+   "number": 1107,
+   "page": "I_Was_Set_Up",
+   "chars": 5770
+  },
+  {
+   "episode": "episode-1108",
+   "number": 1108,
+   "page": "The_Secret_Hidden_By_the_Cards",
+   "chars": 4195
+  },
+  {
+   "episode": "episode-1109",
+   "number": 1109,
+   "page": "Takagi_and_Date_and_the_Notebook_Promise",
+   "chars": 1138
+  },
+  {
+   "episode": "episode-1110",
+   "number": 1110,
+   "page": "Takagi_and_Date_and_the_Notebook_Promise",
+   "chars": 1388
+  },
+  {
+   "episode": "episode-1111",
+   "number": 1111,
+   "page": "Rube_Goldberg_Machine",
+   "chars": 1669
+  },
+  {
+   "episode": "episode-1112",
+   "number": 1112,
+   "page": "Rube_Goldberg_Machine",
+   "chars": 1226
+  },
+  {
+   "episode": "episode-1113",
+   "number": 1113,
+   "page": "Last_Dinner_For_You",
+   "chars": 3244
+  },
+  {
+   "episode": "episode-1114",
+   "number": 1114,
+   "page": "The_Holed-Up_Sensation",
+   "chars": 10032
+  },
+  {
+   "episode": "episode-1115",
+   "number": 1115,
+   "page": "Chihaya_and_Jugo's_Matchmaking_Party",
+   "chars": 843
+  },
+  {
+   "episode": "episode-1116",
+   "number": 1116,
+   "page": "Chihaya_and_Jugo's_Matchmaking_Party",
+   "chars": 1435
+  },
+  {
+   "episode": "episode-1117",
+   "number": 1117,
+   "page": "Karate_Teacher_Ran_Mouri",
+   "chars": 4360
+  },
+  {
+   "episode": "episode-1118",
+   "number": 1118,
+   "page": "Girls_Day_Mystery_2",
+   "chars": 4216
+  },
+  {
+   "episode": "episode-1119",
+   "number": 1119,
+   "page": "The_Four-Person_Class_Reunion",
+   "chars": 1762
+  },
+  {
+   "episode": "episode-1120",
+   "number": 1120,
+   "page": "Mystery_of_the_Lost_Treasure",
+   "chars": 1370
+  },
+  {
+   "episode": "episode-1121",
+   "number": 1121,
+   "page": "The_Dangerous_Melon_Field",
+   "chars": 5831
+  },
+  {
+   "episode": "episode-1122",
+   "number": 1122,
+   "page": "Stakeout_3",
+   "chars": 1527
+  },
+  {
+   "episode": "episode-1123",
+   "number": 1123,
+   "page": "The_Body_on_the_Gunma-Nagano_Border",
+   "chars": 735
+  },
+  {
+   "episode": "episode-1124",
+   "number": 1124,
+   "page": "The_Body_on_the_Gunma-Nagano_Border",
+   "chars": 879
+  },
+  {
+   "episode": "episode-1125",
+   "number": 1125,
+   "page": "The_Case_of_Ayumi's_Illustrated_Diary_4",
+   "chars": 3122
+  },
+  {
+   "episode": "episode-1126",
+   "number": 1126,
+   "page": "The_Detective_Who_Lost_His_Mind",
+   "chars": 4108
+  },
+  {
+   "episode": "episode-1127",
+   "number": 1127,
+   "page": "The_Interrogation_Room_2",
+   "chars": 7227
+  },
+  {
+   "episode": "episode-1128",
+   "number": 1128,
+   "page": "Conan_and_Megure's_Two_Hostages",
+   "chars": 1159
+  },
+  {
+   "episode": "episode-1129",
+   "number": 1129,
+   "page": "Conan_and_Megure's_Two_Hostages",
+   "chars": 1385
+  },
+  {
+   "episode": "episode-1130",
+   "number": 1130,
+   "page": "The_Suspected_Infidelity_of_the_Triple_Collab",
+   "chars": 1391
+  },
+  {
+   "episode": "episode-1131",
+   "number": 1131,
+   "page": "The_Suspected_Infidelity_of_the_Triple_Collab",
+   "chars": 631
+  },
+  {
+   "episode": "episode-1132",
+   "number": 1132,
+   "page": "Mitsuhiko_Tsuburaya's_Detective_Notes_3",
+   "chars": 3298
+  },
+  {
+   "episode": "episode-1133",
+   "number": 1133,
+   "page": "Best_Husband",
+   "chars": 1529
+  },
+  {
+   "episode": "episode-1134",
+   "number": 1134,
+   "page": "Misfortune_of_the_Positive_Man",
+   "chars": 2692
+  },
+  {
+   "episode": "episode-1135",
+   "number": 1135,
+   "page": "Momiji_Ooka's_Sweet_Trap",
+   "chars": 900
+  },
+  {
+   "episode": "episode-1136",
+   "number": 1136,
+   "page": "Momiji_Ooka's_Sweet_Trap",
+   "chars": 1019
+  },
+  {
+   "episode": "episode-1137",
+   "number": 1137,
+   "page": "The_Secret_of_the_Popular_Restaurant's_Changing_Flavor",
+   "chars": 3033
+  },
+  {
+   "episode": "episode-1138",
+   "number": 1138,
+   "page": "The_Moving_Police_Box",
+   "chars": 2286
+  },
+  {
+   "episode": "episode-1139",
+   "number": 1139,
+   "page": "The_Sister_Troubled_By_Her_Naughty_Brother",
+   "chars": 2498
+  },
+  {
+   "episode": "episode-1140",
+   "number": 1140,
+   "page": "Girls_Day_Mystery_3",
+   "chars": 2283
+  },
+  {
+   "episode": "episode-1141",
+   "number": 1141,
+   "page": "The_Mouri_Family_House_Sits",
+   "chars": 2813
+  },
+  {
+   "episode": "episode-1142",
+   "number": 1142,
+   "page": "The_Ranpo_Mansion_Murder_Case",
+   "chars": 1392
+  },
+  {
+   "episode": "episode-1143",
+   "number": 1143,
+   "page": "The_Ranpo_Mansion_Murder_Case",
+   "chars": 1490
+  },
+  {
+   "episode": "episode-1144",
+   "number": 1144,
+   "page": "The_Hotel_Serial_Bombing_Case",
+   "chars": 1008
+  },
+  {
+   "episode": "episode-1145",
+   "number": 1145,
+   "page": "The_Hotel_Serial_Bombing_Case",
+   "chars": 1106
+  },
+  {
+   "episode": "episode-1146",
+   "number": 1146,
+   "page": "The_Whistling_Bookstore_4",
+   "chars": 3689
+  },
+  {
+   "episode": "episode-1147",
+   "number": 1147,
+   "page": "Stakeout_4",
+   "chars": 3708
+  },
+  {
+   "episode": "episode-1148",
+   "number": 1148,
+   "page": "The_Detective_Boys_and_the_Two_Leaders",
+   "chars": 1186
+  },
+  {
+   "episode": "episode-1149",
+   "number": 1149,
+   "page": "The_Detective_Boys_and_the_Two_Leaders",
+   "chars": 1453
+  },
+  {
+   "episode": "episode-1150",
+   "number": 1150,
+   "page": "Kaitou_Kid_and_the_Crown_Trick",
+   "chars": 908
+  },
+  {
+   "episode": "episode-1151",
+   "number": 1151,
+   "page": "Kaitou_Kid_and_the_Crown_Trick",
+   "chars": 526
+  },
+  {
+   "episode": "episode-1152",
+   "number": 1152,
+   "page": "Last_Dance",
+   "chars": 4524
+  },
+  {
+   "episode": "episode-1153",
+   "number": 1153,
+   "page": "The_Yamahime_of_Yakushima",
+   "chars": 1252
+  },
+  {
+   "episode": "episode-1154",
+   "number": 1154,
+   "page": "The_Yamahime_of_Yakushima",
+   "chars": 1235
+  },
+  {
+   "episode": "episode-1155",
+   "number": 1155,
+   "page": "Follow_Them!_Detective_Taxi_2",
+   "chars": 3077
+  },
+  {
+   "episode": "episode-1156",
+   "number": 1156,
+   "page": "The_Ishikawa_Yorumasshi_Mystery",
+   "chars": 1285
+  },
+  {
+   "episode": "episode-1157",
+   "number": 1157,
+   "page": "The_Ishikawa_Yorumasshi_Mystery",
+   "chars": 752
+  },
+  {
+   "episode": "episode-1158",
+   "number": 1158,
+   "page": "The_Detective_Boys_and_the_Traditional_Dream_House",
+   "chars": 1622
+  },
+  {
+   "episode": "episode-1159",
+   "number": 1159,
+   "page": "The_Whereabouts_of_the_Goodbye",
+   "chars": 2495
+  },
+  {
+   "episode": "episode-1160",
+   "number": 1160,
+   "page": "When_the_Shishi-odoshi_Sounds",
+   "chars": 2923
+  },
+  {
+   "episode": "episode-1161",
+   "number": 1161,
+   "page": "The_Secret's_Afterimage",
+   "chars": 5969
+  },
+  {
+   "episode": "episode-1162",
+   "number": 1162,
+   "page": "The_Case_of_Ayumi's_Illustrated_Diary_5",
+   "chars": 2924
+  },
+  {
+   "episode": "episode-1163",
+   "number": 1163,
+   "page": "The_Counting_Song_Heard_in_the_Dark",
+   "chars": 2554
+  },
+  {
+   "episode": "episode-1164",
+   "number": 1164,
+   "page": "The_17-Year-Old_Truth",
+   "chars": 7777
+  },
+  {
+   "episode": "episode-1165",
+   "number": 1165,
+   "page": "The_17-Year-Old_Truth",
+   "chars": 7777
+  },
+  {
+   "episode": "episode-1166",
+   "number": 1166,
+   "page": "The_17-Year-Old_Truth",
+   "chars": 7777
+  },
+  {
+   "episode": "episode-1167",
+   "number": 1167,
+   "page": "The_17-Year-Old_Truth",
+   "chars": 7777
+  },
+  {
+   "episode": "episode-1168",
+   "number": 1168,
+   "page": "Genta's_Casebook_of_the_Eel",
+   "chars": 2869
+  },
+  {
+   "episode": "episode-1169",
+   "number": 1169,
+   "page": "The_Mystery_of_the_Man-Eating_Classroom",
+   "chars": 1144
+  },
+  {
+   "episode": "episode-1170",
+   "number": 1170,
+   "page": "The_Mystery_of_the_Man-Eating_Classroom",
+   "chars": 1313
+  },
+  {
+   "episode": "episode-1171",
+   "number": 1171,
+   "page": "The_Reason_He_Became_a_Butler",
+   "chars": 1073
+  },
+  {
+   "episode": "episode-1172",
+   "number": 1172,
+   "page": "The_Reason_He_Became_a_Butler",
+   "chars": 529
+  },
+  {
+   "episode": "episode-1173",
+   "number": 1173,
+   "page": "It's_a_Ghost!",
+   "chars": 3390
+  },
+  {
+   "episode": "episode-1174",
+   "number": 1174,
+   "page": "The_Glassy_Water's_Surface",
+   "chars": 1479
+  },
+  {
+   "episode": "episode-1175",
+   "number": 1175,
+   "page": "The_Glassy_Water's_Surface",
+   "chars": 1265
+  },
+  {
+   "episode": "episode-1176",
+   "number": 1176,
+   "page": "The_Hero_of_Ishinomaki",
+   "chars": 1948
+  },
+  {
+   "episode": "episode-1177",
+   "number": 1177,
+   "page": "Find_the_Phantom_Giant",
+   "chars": 2667
+  },
+  {
+   "episode": "episode-1178",
+   "number": 1178,
+   "page": "The_Crimson_Skeleton_of_Mt._Washio",
+   "chars": 1007
+  },
+  {
+   "episode": "episode-1179",
+   "number": 1179,
+   "page": "The_Crimson_Skeleton_of_Mt._Washio",
+   "chars": 304
+  },
+  {
+   "episode": "episode-1180",
+   "number": 1180,
+   "page": "The_Lucky_Cat_Saw_Everything",
+   "chars": 3101
+  },
+  {
+   "episode": "episode-1181",
+   "number": 1181,
+   "page": "Buchi_Returns_a_Favor",
+   "chars": 3097
+  },
+  {
+   "episode": "episode-1182",
+   "number": 1182,
+   "page": "Arrest_That_Face",
+   "chars": 1343
+  },
+  {
+   "episode": "episode-1183",
+   "number": 1183,
+   "page": "The_Interrogation_Room_3",
+   "chars": 784
+  },
+  {
+   "episode": "episode-1184",
+   "number": 1184,
+   "page": "The_Red-Brick_Warehouse_and_the_Vanishing_Kidnapper",
+   "chars": 1342
+  },
+  {
+   "episode": "episode-1185",
+   "number": 1185,
+   "page": "The_Red-Brick_Warehouse_and_the_Vanishing_Kidnapper",
+   "chars": 479
+  },
+  {
+   "episode": "episode-1186",
+   "number": 1186,
+   "page": "Girls_Day_Mystery_4",
+   "chars": 2919
+  },
+  {
+   "episode": "episode-1188",
+   "number": 1188,
+   "page": "Follow_Them!_Detective_Taxi_3",
+   "chars": 2118
+  },
+  {
+   "episode": "episode-1189",
+   "number": 1189,
+   "page": "Double_Alibi",
+   "chars": 4186
+  },
+  {
+   "episode": "episode-1190",
+   "number": 1190,
+   "page": "The_Lover_Who_Vanished_on_Pont_Koitani",
+   "chars": 5218
+  },
+  {
+   "episode": "episode-1191",
+   "number": 1191,
+   "page": "The_Lover_Who_Vanished_on_Pont_Koitani",
+   "chars": 5218
+  },
+  {
+   "episode": "episode-1192",
+   "number": 1192,
+   "page": "Mitsuhiko_Tsuburaya's_Detective_Notes_4",
+   "chars": 3970
+  },
+  {
+   "episode": "episode-1193",
+   "number": 1193,
+   "page": "Kid_VS_Hakuba__The_Azure_Throne",
+   "chars": 1431
+  },
+  {
+   "episode": "episode-1194",
+   "number": 1194,
+   "page": "Kid_VS_Hakuba__The_Azure_Throne",
+   "chars": 998
+  },
+  {
+   "episode": "episode-1195",
+   "number": 1195,
+   "page": "The_Spiral_Mansion_Mystery",
+   "chars": 1449
+  },
+  {
+   "episode": "episode-1196",
+   "number": 1196,
+   "page": "The_Spiral_Mansion_Mystery",
+   "chars": 1468
+  },
+  {
+   "episode": "episode-1197",
+   "number": 1197,
+   "page": "The_Cosplay_Rider_of_the_Wind",
+   "chars": 2851
+  },
+  {
+   "episode": "episode-1198",
+   "number": 1198,
+   "page": "Cinderella's_Shoe",
+   "chars": 2516
+  },
+  {
+   "episode": "episode-1199",
+   "number": 1199,
+   "page": "The_Detective_Boys_VS_The_Silver_Detectives_2",
+   "chars": 3619
+  },
+  {
+   "episode": "episode-1200",
+   "number": 1200,
+   "page": "The_Porch_Pirate_Epidemic",
+   "chars": 2358
+  },
+  {
+   "episode": "episode-1201",
+   "number": 1201,
+   "page": "I'm_the_Culprit",
+   "chars": 2240
+  },
+  {
+   "episode": "episode-1202",
+   "number": 1202,
+   "page": "I_Cannot_Lie_to_Archery",
+   "chars": 1300
+  },
+  {
+   "episode": "episode-1203",
+   "number": 1203,
+   "page": "Sonoko_and_Conan's_Spooky_Story_Night",
+   "chars": 4044
+  },
+  {
+   "episode": "episode-1204",
+   "number": 1204,
+   "page": "Who_Kidnapped_Conan_and_Azusa_",
+   "chars": 572
+  },
+  {
+   "episode": "episode-1205",
+   "number": 1205,
+   "page": "Who_Kidnapped_Conan_and_Azusa_",
+   "chars": 946
+  },
+  {
+   "episode": "episode-1206",
+   "number": 1206,
+   "page": "The_Man_Who_Came_Falling_Down",
+   "chars": 2581
+  },
+  {
+   "episode": "episode-1207",
+   "number": 1207,
+   "page": "The_J.League_Starting_Whistle",
+   "chars": 2683
+  },
+  {
+   "episode": "episode-1208",
+   "number": 1208,
+   "page": "Welcome_to_the_Stone_Age_Village",
+   "chars": 3220
+  },
+  {
+   "episode": "episode-1209",
+   "number": 1209,
+   "page": "Who's_the_Target_",
+   "chars": 1206
+  },
+  {
+   "episode": "episode-1210",
+   "number": 1210,
+   "page": "The_Cursed_Neighbor's_House",
+   "chars": 4678
+  },
+  {
+   "episode": "episode-1211",
+   "number": 1211,
+   "page": "The_Birdman_Rally_Bombing",
+   "chars": 1417
+  },
+  {
+   "episode": "episode-1212",
+   "number": 1212,
+   "page": "The_Birdman_Rally_Bombing",
+   "chars": 1417
+  },
+  {
+   "episode": "episode-1213",
+   "number": 1213,
+   "page": "Ran_Mouri_the_Eyewitness",
+   "chars": 1766
+  },
+  {
+   "episode": "episode-1214",
+   "number": 1214,
+   "page": "The_Crimson_Closing_Day",
+   "chars": 12426
+  },
+  {
+   "episode": "episode-1215",
+   "number": 1215,
+   "page": "The_Crimson_Closing_Day",
+   "chars": 12426
+  },
+  {
+   "episode": "episode-1216",
+   "number": 1216,
+   "page": "The_Crimson_Closing_Day",
+   "chars": 12426
+  },
+  {
+   "episode": "episode-1217",
+   "number": 1217,
+   "page": "The_Hands_Pushing_Their_Back",
+   "chars": 92
+  }
+ ],
+ "blocked": [
+  {
+   "episode": "episode-0713",
+   "number": 713,
+   "pages": [
+    "Heiji_Hattori_and_the_Vampire_Mansion"
+   ],
+   "reason": "no_story_text_or_too_short"
+  },
+  {
+   "episode": "episode-0714",
+   "number": 714,
+   "pages": [
+    "Heiji_Hattori_and_the_Vampire_Mansion"
+   ],
+   "reason": "no_story_text_or_too_short"
+  },
+  {
+   "episode": "episode-0882",
+   "number": 882,
+   "pages": [
+    "The_Wizard_of_the_Ripples"
+   ],
+   "reason": "no_story_text_or_too_short"
+  },
+  {
+   "episode": "episode-1061",
+   "number": 1061,
+   "pages": [
+    "Police_Academy_Arc_Wild_Police_Story_CASE._Hiromitsu_Morofushi"
+   ],
+   "reason": "no_story_text_or_too_short"
+  },
+  {
+   "episode": "episode-1187",
+   "number": 1187,
+   "pages": [
+    "Episode_\"ZERO\"_The_Shinichi_Kudo_Aquarium_Case"
+   ],
+   "reason": "no_story_text_or_too_short"
+  }
+ ]
+}

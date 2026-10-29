@@ -1,0 +1,87 @@
+{
+ "batch": 4,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-detective-boys-vs-the-silver-detectives",
+   "field": "culprit",
+   "zhHans": "Eitaro Tokunaga"
+  },
+  {
+   "caseId": "case-the-detective-boys-vs-the-silver-detectives",
+   "field": "motive",
+   "zhHans": "他想为一位老太太复仇，Kiyomasa Kuroda 开车撞了她，好骗取她的钱财。"
+  },
+  {
+   "caseId": "case-the-detective-boys-vs-the-silver-detectives",
+   "field": "method",
+   "zhHans": "他组建了银色侦探团，从而策划了整个阴谋，借此为谋杀案制造不在场证明，并在过程中篡改任何证据。"
+  },
+  {
+   "caseId": "case-the-detective-boys-vs-the-silver-detectives",
+   "field": "evidence",
+   "zhHans": "他组建了银色侦探团，从而策划了整个阴谋，借此为谋杀案制造不在场证明，并在过程中篡改任何证据。"
+  },
+  {
+   "caseId": "case-the-detective-boys-vs-the-silver-detectives",
+   "field": "resolution",
+   "zhHans": "犯人是 Eitaro Tokunaga。他想为一位老太太复仇，Kiyomasa Kuroda 开车撞了她，好骗取她的钱财。一段时间之后，Kuroda 把她推下通往火车站的楼梯，将其杀害。他组建了银色侦探团，从而策划了整个阴谋，借此为谋杀案制造不在场证明，并在过程中篡改任何证据。谋杀未遂（过去） 地点：街道"
+  },
+  {
+   "caseId": "case-the-troublesome-emergency-patient",
+   "field": "culprit",
+   "zhHans": "Tatsuhiko Kido"
+  },
+  {
+   "caseId": "case-the-troublesome-emergency-patient",
+   "field": "motive",
+   "zhHans": "BGM列表 # 曲名 罗马字 译名 原声带 0:01 - 0:26 昼下がりの天使たち'07 Hirusagari no Tenshitachi '07 午后时分的天使 '07 名侦探柯南 TV原创原声带精选集 0:31 - 0:53 オーバーウェッジ Ōbā Wejji Over Wedge 名侦探柯南《第十一人的前锋》原创原声带 2:55 - 3:29 廃棄船 Haiki-sen 废弃船 名侦探柯南《水平线上的阴谋》原创原声带 3:42 - 4:27 アンダーグラウンド Andāguraundo 地下 名侦探柯南《第十一人的前锋》原创原声带 5:32 - 6:01 フォース Fōsu Force 名侦探柯南《深海的海盗》原创原声带 6:19 - 6:53 スズランの花 Suzuran no Hana 铃兰花 名侦探柯南《漆黑的追踪者》原创原声带 7:58 - 9:01 ディテクティブボーイズ Ditekutibu Bōizu 少年侦探团 名侦探柯南《天空的遇难船》原创原声带 10:59 - 12:04 しなやかな刑事たち Shinayakana Keijitachi 柔韧的刑警们 名侦探柯南《漆黑的追踪者》原创原声带 12:54 - 13:37 現金輸送車(回想) Genkin Yusōsha (Kaisō) 现金运输车（回想） 名侦探柯南《侦探们的镇魂歌》原创原声带 13:59 - 13:14 不透明な果実４ Futōmeina Kajitsu 4 不透明的果实4 名侦探柯南《漆黑的追踪者》原创原声带 14:34 - 14:47 14:54 - 15:58 16:21 - 17:51 18:28 - 20:08 20:23 - 20:40 20:52 - 21:23 展開B Tenkai B 展开B 名侦探柯南《水平线上的阴谋》原创原声带 21:29 - 21:40 なじむ想い Najimu Omoi 熟悉的思念 名侦探柯南《沉默的15分钟》原创原声带 23:00 - 23:27 アイコンタクト Ai Kontakuto 眼神交流 名侦探柯南《第十一人的前锋》原创原声带 23:37 - 23:42"
+  },
+  {
+   "caseId": "case-the-troublesome-emergency-patient",
+   "field": "method",
+   "zhHans": "Kido 假装自己不是医生，或者更确切地说，是被与他同行的那个女人拦住了。"
+  },
+  {
+   "caseId": "case-the-troublesome-emergency-patient",
+   "field": "evidence",
+   "zhHans": "证据是粘在犯人和被害人身上油漆的气味。进一步的证据是，被害人的指纹与在犯人车窗上发现的指纹相符。小五郎借柯南之口指出，动机是那份杂志剪报，剪报背面是一本医学书籍的广告。Dr. 然而，这名男子后来发现 Dr."
+  },
+  {
+   "caseId": "case-the-troublesome-emergency-patient",
+   "field": "resolution",
+   "zhHans": "犯人是 Tatsuhiko Kido。证据是粘在犯人和被害人身上油漆的气味。两人在一张刚涂过漆的长椅旁扭打，未干的油漆粘在了他们身上。逃跑的犯人试图把被害人从自己的车上甩掉时，被害人的纽扣被扯了下来。那名男子被甩到地上，头部撞上了长椅。随后，那人下楼梯前往下方的空地去打出租车追赶他。进一步的证据是，被害人的指纹与在犯人车窗上发现的指纹相符。"
+  },
+  {
+   "caseId": "case-bodyguard-kogoro-mouri",
+   "field": "culprit",
+   "zhHans": "Arimasa Dobashi"
+  },
+  {
+   "caseId": "case-bodyguard-kogoro-mouri",
+   "field": "motive",
+   "zhHans": "因此，她的女儿在第二天试图自杀。Reina 得知了 Dobashi 女儿自杀未遂的事，并连续三天前往医院探望她，而这一切 Dobashi 都因一心复仇而错过了。"
+  },
+  {
+   "caseId": "case-bodyguard-kogoro-mouri",
+   "field": "method",
+   "zhHans": "在雾气笼罩该区域时，于湖边现身让兰和柯南看到之后，他乘坐事先准备好的摩托艇登上小岛，布置好埋伏。"
+  },
+  {
+   "caseId": "case-bodyguard-kogoro-mouri",
+   "field": "evidence",
+   "zhHans": "还揭示出小五郎锻炼的最终动机，是成为冲野洋子的保镖。"
+  },
+  {
+   "caseId": "case-bodyguard-kogoro-mouri",
+   "field": "resolution",
+   "zhHans": "犯人是 Arimasa Dobashi。在“消毒”该区域期间，他有充足的时间研究湖面特殊的气候特性，包括风的走向，以及会把任何船只推向小岛的特性。在雾气笼罩该区域时，于湖边现身让兰和柯南看到之后，他乘坐事先准备好的摩托艇登上小岛，布置好埋伏。他想伪装成 Ryo 试图杀害 Reina，然后再杀死小五郎，最后自杀。"
+  },
+  {
+   "caseId": "case-miracle-at-koshien-ball-park-the-defiants-face-the-dark-demon",
+   "field": "culprit",
+   "zhHans": "Yukio Torimitsu"
+  }
+ ]
+}

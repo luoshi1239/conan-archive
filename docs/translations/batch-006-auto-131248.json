@@ -1,0 +1,32 @@
+{
+ "batch": 6,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-mystery-of-the-burning-tent",
+   "field": "culprit",
+   "zhHans": "Sumito Ashizawa"
+  },
+  {
+   "caseId": "case-mystery-of-the-burning-tent",
+   "field": "motive",
+   "zhHans": "勒索（过去）地点：露营地及其他场所 受害者：Sumito Ashizawa 年龄：22岁 犯人：Fumiaki Urushibara 因为 Danno 受了伤，Fumiaki 要求 Sumito 给他钱，好在他成为全明星时保持沉默，并说如果不给，他就会把一切说出去。"
+  },
+  {
+   "caseId": "case-mystery-of-the-burning-tent",
+   "field": "method",
+   "zhHans": "别忘了他用来从内部锁住帐篷后逃生的美工刀，刀刃上大概沾有帆布纤维。人质事件 地点：露营地 受害者：吉田步美 年龄：6-7岁 凶器：美工刀 犯人：Sumito Ashizawa 诡计被揭穿后，Sumito 抢过美工刀，威胁说要杀掉 Ayumi 和自己，然后跳下露营地附近的峡谷。因为柯南把主要道具都留在了帐篷里而完全无能为力，Rumi 走近 Ashizawa，命令他放开自己的学生，如果他那么想动手的话，就立刻捅她。"
+  },
+  {
+   "caseId": "case-mystery-of-the-burning-tent",
+   "field": "evidence",
+   "zhHans": "这意味着警方将在没有烧毁的石膏上发现 Ashizawa 的头发和指纹，以及 DNA 和皮肤碎屑。人质事件 地点：露营地 受害者：吉田步美 年龄：6-7岁 凶器：美工刀 犯人：Sumito Ashizawa 诡计被揭穿后，Sumito 抢过美工刀，威胁说要杀掉 Ayumi 和自己，然后跳下露营地附近的峡谷。有人发现 Rumi 在口袋里藏着一个三角形形状的东西。"
+  },
+  {
+   "caseId": "case-mystery-of-the-burning-tent",
+   "field": "resolution",
+   "zhHans": "犯人是 Sumito Ashizawa。他用蜡烛做了一种摇臂装置，以便在 Urushibara 睡着、而他离开帐篷时稍后点燃帐篷。因此他诱导其他人相信蜡烛的移动实际上是 Urushibara 在帐篷里做深蹲所致，暗示他还活着，并且只有 Danno 才可能是凶手，因为深蹲之后他来到了帐篷。Ashizawa 让受害者保持坐姿，用他自己的胶带把双手绑在脑后，以防止他在燃烧的帐篷将他弄醒时逃脱。这意味着警方将在没有烧毁的石膏上发现 Ashizawa 的头发和指纹，以及 DNA 和皮肤碎屑。别忘了他用来从内部锁住帐篷后逃生的美工刀，刀刃上大概沾有帆布纤维。地点：篮球场"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "batch": 7,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-inauspicious-matchmaking",
+   "field": "culprit",
+   "zhHans": "Tsurumi Shamoto"
+  },
+  {
+   "caseId": "case-the-inauspicious-matchmaking",
+   "field": "motive",
+   "zhHans": "那是因为桶里的冰融化了，这产生了动量的变化，对雪人的头部施加了力，导致眼睛掉落。最终，Heiji 的闹剧被拆穿，真正的 Komoto 出现在了神社，而 Kazuha 说从一开始她就一眼认出了 Heiji，因为他们从小就认识。"
+  },
+  {
+   "caseId": "case-the-inauspicious-matchmaking",
+   "field": "method",
+   "zhHans": "手铐逃脱戏法 点击查看戏法演示。Conan 演示了这个戏法：利用手铐的缝隙；把线缆从底部穿上去；把拳头穿过线缆的环；把线缆拉过去。用这个戏法，她可以从路灯柱逃脱，并在回来时装作一直被困住的样子。此外，为了隐藏这件凶器，她把桶倒扣在雪人的头上，假装那是给雪人的装饰帽子。她只是伪装成没有认出、也没有看见 Heiji 的进一步举动，Heiji 解释说他来这里是为了求神帮助他的姻缘，但 Kazuha 不知道 Heiji 是在为谁求姻缘，但那显然是她自己。"
+  },
+  {
+   "caseId": "case-the-inauspicious-matchmaking",
+   "field": "evidence",
+   "zhHans": "旗杆是误导所有人的红鲱鱼（诱饵），它不是杀死被害人的真正凶器。Tsurumi 先用真正的凶器将被害人击倒，然后推他，让他滑下台阶。实际上，Tsurumi 最初只想偷走手铐后逃跑，然而，当她走向出口、靠近台阶时，再次被被害人发现，被害人声称要再次抓住她。真正的凶器 真正的凶器恰好是一个原本留在水龙头旁的水桶。"
+  },
+  {
+   "caseId": "case-the-inauspicious-matchmaking",
+   "field": "resolution",
+   "zhHans": "凶手是 Tsurumi Shamoto。旗杆是误导所有人的红鲱鱼（诱饵），它不是杀死被害人的真正凶器。Tsurumi 先用真正的凶器将被害人击倒，然后推他，让他滑下台阶。接着她从现场拿走附近的一面旗子，用被害人的血染污它，让它看起来像是在袭击过程中沾上的血。旗杆是事先被取出放进箱子里的，箱子里放着那面新旗子。制造出凶手带着旗杆逃跑的假象。"
+  },
+  {
+   "caseId": "case-the-window-at-the-girls-school",
+   "field": "culprit",
+   "zhHans": "Toichiro Shibagaki"
+  },
+  {
+   "caseId": "case-an-unconfirmed-shocking-case",
+   "field": "culprit",
+   "zhHans": "Naoki Murase"
+  },
+  {
+   "caseId": "case-mystery-train",
+   "field": "culprit",
+   "zhHans": "Satoru Ando"
+  },
+  {
+   "caseId": "case-the-akabeko-and-the-three-lucky-men",
+   "field": "culprit",
+   "zhHans": "Toshiharu Fukumoto"
+  },
+  {
+   "caseId": "case-the-akabeko-and-the-three-lucky-men",
+   "field": "motive",
+   "zhHans": "原来赤福牛原本是儿童玩具，用来防止感染天花疾病并保护他们。"
+  },
+  {
+   "caseId": "case-the-akabeko-and-the-three-lucky-men",
+   "field": "method",
+   "zhHans": "Sonoko 要求嫌疑人脱下裤子，发现这三人都穿着兜裆布，只是 Fukumoto 的比其他人的长得多，就这样凶器被发现了。Conan 在追着他到卫生间时，确定这就是被用作凶器的东西，他听到 Fukumoto 进去的那个隔间里有沙沙作响的声音，那是他摩擦兜裆布的声音。面对她时，Motoko 回答说赤福牛的艺术是她的，Fukumoto 应该感激没有被赶走；Fukumoto 暴怒，终于崩溃并将她勒死。"
+  },
+  {
+   "caseId": "case-the-akabeko-and-the-three-lucky-men",
+   "field": "evidence",
+   "zhHans": "Sonoko 要求嫌疑人脱下裤子，发现这三人都穿着兜裆布，只是 Fukumoto 的比其他人的长得多，就这样凶器被发现了。Conan 在追着他到卫生间时，确定这就是被用作凶器的东西，他听到 Fukumoto 进去的那个隔间里有沙沙作响的声音，那是他摩擦兜裆布的声音。Fukumoto 试图为自己辩护，但决定性的证据是他兜裆布上的一处血迹，那是行凶时留下的。直到 Fukumoto 发现她签署了一份不含他的新生意合同。"
+  },
+  {
+   "caseId": "case-the-akabeko-and-the-three-lucky-men",
+   "field": "resolution",
+   "zhHans": "Conan 让 Sonoko 镇静下来，开始了推理。"
+  }
+ ]
+}

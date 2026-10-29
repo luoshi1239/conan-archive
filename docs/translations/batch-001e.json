@@ -1,0 +1,108 @@
+{
+ "batch": 1,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "note": "语义不符字段不译；专名未收录保留罗马字",
+ "items": [
+  {
+   "caseId": "case-the-3-k-s-of-osaka-case",
+   "field": "culprit",
+   "zhHans": "Ray Curtis"
+  },
+  {
+   "caseId": "case-the-3-k-s-of-osaka-case",
+   "field": "motive",
+   "zhHans": "柯南没有当着众人的面推理，而是让平次单独把他叫到案发现场，因为他想亲自面对 Ray，声称「他最忠实的粉丝」正在等他。为了在那么短的时间内杀死 McCay，Ray 先打开了他负责的几层共四个房间的所有灯，再去敲 McCay 的房门。这样一来，警方就不会怀疑他是凶手，因为「在开完灯后跑到被害人房间、开枪打死 McCay、再冲回最右下角的房间」时间根本不够。由于 McCay 的房间在二楼，Ricardo 和 Mike 都不可能在不被 Ray 察觉的情况下作案，于是 Ray 本人成了唯一有可能作案的嫌疑人。然而 Ray 接不住那颗球，因为吸毒导致他关节疼痛。【动机】Ray 作案的动机是复仇：McCay 那篇诬指他吸毒的文章，害得他妻子自杀。为了把 McCay 引出来，Ray 真的用了毒品；但那终究也是他用来承受丧妻之痛的方式。"
+  },
+  {
+   "caseId": "case-the-3-k-s-of-osaka-case",
+   "field": "method",
+   "zhHans": "Ray 事先在最右下角的房间里用一把拖把和一扇柜门设下了机关，让他能在案发时为自己制造不在场证明。用上述手法并让兰确认了他的不在场证明之后，他冲到 McCay 所在的房间杀了他，随即跑下楼到最右下角的房间，让所有人都以为他一直待在那里。开枪打死 McCay 后，他先穿回外套才露面，并利用警方赶到前的时间把衣服翻面、洗掉手上和脸上残留的火药。为了那个接球的手法，Ray 必须穿着鞋，而且作案后没有洗鞋。不过 Ray 纠正了这一说法，指出他是在案子在法庭上审结之后才开始吸毒的。为了把 McCay 引出来，Ray 真的用了毒品；但那终究也是他用来承受丧妻之痛的方式。"
+  },
+  {
+   "caseId": "case-the-3-k-s-of-osaka-case",
+   "field": "evidence",
+   "zhHans": "决定性的证据是他开过左轮手枪后鞋上留下的火药。警方一旦在他鞋上查出火药残留，就毫无疑问能证明他是凶手。听到柯南的推理后，Ray 决定去把鞋擦干净，「除掉把自己和案件联系起来的最后一件证据」，却被柯南拦下——柯南用增强威力鞋踢出一记足球打中了他。"
+  },
+  {
+   "caseId": "case-the-3-k-s-of-osaka-case",
+   "field": "resolution",
+   "zhHans": "犯人是 Ray Curtis。柯南没有当着众人的面推理，而是让平次单独把他叫到案发现场，因为他想亲自面对 Ray，声称「他最忠实的粉丝」正在等他。Ray 事先在最右下角的房间里用一把拖把和一扇柜门设下了机关。他站在与 McCay 所在房间同层的楼梯顶端踢出一球撞开拖把，从而能在三秒内开灯并射杀 McCay，让他得以在案发时为自己制造不在场证明。"
+  },
+  {
+   "caseId": "case-the-battle-game-trap",
+   "field": "culprit",
+   "zhHans": "Takayasu Shimizu"
+  },
+  {
+   "caseId": "case-the-battle-game-trap",
+   "field": "motive",
+   "zhHans": "在收尾时，Shimizu 没有选择干脆取胜，而是故意让比赛打成平手，这样他的屏幕上就不会显示他是赢家、Bito 是输家。由于 Bito 已经死了，Shimizu 只能自己往 Bito 的机器里投币，好开始他们最后一场对局。【动机】Bito 是个常年欠债的赌徒，而 Shimizu 的姐姐一直不停地做工替他还债。Shimizu 与 Bito 约定：只要他在格斗游戏里用 Haido Lucas 打赢 Bito，Bito 就离开他姐姐，并说自己后悔这么做，因为他再也没有机会赢过他。"
+  },
+  {
+   "caseId": "case-the-battle-game-trap",
+   "field": "method",
+   "zhHans": "柯南指出，在最后那场对局里，操纵 Bito 那个角色的其实是 Shimizu，目的是掩盖 Bito 早已死亡的事实。至于处理凶器，柯南解释说 Shimizu 把涂了毒的针尖藏进一支香烟里，再把那支烟放在一张口香糖包装纸上，中间夹着一块嚼过的口香糖。"
+  },
+  {
+   "caseId": "case-the-battle-game-trap",
+   "field": "evidence",
+   "zhHans": "至于处理凶器，柯南解释说 Shimizu 把涂了毒的针尖藏进一支香烟里，再把那支烟放在一张口香糖包装纸上，中间夹着一块嚼过的口香糖。碰巧是 Dejima 的人会不小心踩到那张纸，把凶器带离现场。决定性证据是 Bito 的游戏机上那枚留有 Shimizu 指纹的硬币。"
+  },
+  {
+   "caseId": "case-the-battle-game-trap",
+   "field": "resolution",
+   "zhHans": "犯人是 Takayasu Shimizu。在那场对局里，男性角色彻底压制了女性角色，让所有人都以为是高木赢了兰。事实恰恰相反：高木戴上领带当眼罩、套在游戏头盔底下，操作的其实是女性角色。柯南指出，在最后那场对局里，操纵 Bito 那个角色的其实是 Shimizu，目的是掩盖 Bito 早已死亡的事实。在收尾时，Shimizu 没有选择干脆取胜，而是故意让比赛打成平手，这样他的屏幕上就不会显示他是赢家、Bito 是输家。"
+  },
+  {
+   "caseId": "case-kogoro-mouri-s-imposter",
+   "field": "culprit",
+   "zhHans": "Masao Jinbo"
+  },
+  {
+   "caseId": "case-kogoro-mouri-s-imposter",
+   "field": "motive",
+   "zhHans": "他们随后决定把钱装进一只公文包，留在旅馆保管，靠它生利息。那名褐发男子觉得同伙会为了独吞这笔钱而杀他，于是把纸币转移到了藏起来的地方，并在一只罐子里留下了一封带有威胁意味的「死后留言」。如今装着钱的那只公文包落在旅馆老板手里。抢劫（旧案）。地点：糕点公司。时间：五年前。金额：一亿日元。犯人：Masao Jinbo 与穿红外套的男子。Jinbo 认定，如今他唯一能拿到这笔钱的办法，就是到那家旅馆去当雇员。"
+  },
+  {
+   "caseId": "case-kogoro-mouri-s-imposter",
+   "field": "method",
+   "zhHans": "几年后，他发现了一具自杀的尸体，从尸体上偷走香烟、牛奶和食谱，再把它们放到已死同伙的尸体上，伪造出尸体的死亡时间——那是尸体将被发现时的样子。"
+  },
+  {
+   "caseId": "case-kogoro-mouri-s-imposter",
+   "field": "evidence",
+   "zhHans": "几年后，他发现了一具自杀的尸体，从尸体上偷走香烟、牛奶和食谱，再把它们放到已死同伙的尸体上，伪造出尸体的死亡时间——那是尸体将被发现时的样子。因此 Jinbo 也暴露了：他从一开始就知道小五郎才是真正的「沉睡的小五郎」。"
+  },
+  {
+   "caseId": "case-kogoro-mouri-s-imposter",
+   "field": "resolution",
+   "zhHans": "犯人是 Masao Jinbo。Jinbo 与那名褐发男子五年前在「自杀者之森」被杀——他们曾卷入一起侵占案，从一家糕点企业骗取了两百亿日元。他们随后决定把钱装进一只公文包，留在旅馆保管，靠它生利息。那名褐发男子觉得同伙会为了独吞这笔钱而杀他，于是把纸币转移到了藏起来的地方，并在一只罐子里留下了一封带有威胁意味的「死后留言」。如今装着钱的那只公文包落在旅馆老板手里。地点：糕点公司。时间：五年前。"
+  },
+  {
+   "caseId": "case-the-14th-round-of-the-matsue-tamatsukuri-linked-verse-contest",
+   "field": "culprit",
+   "zhHans": "Ryosuke Shiina"
+  },
+  {
+   "caseId": "case-the-14th-round-of-the-matsue-tamatsukuri-linked-verse-contest",
+   "field": "motive",
+   "zhHans": "Ryosuke 供认，并揭示 Ushikubo 一直在骗他们的钱，他无法原谅他。"
+  },
+  {
+   "caseId": "case-the-14th-round-of-the-matsue-tamatsukuri-linked-verse-contest",
+   "field": "method",
+   "zhHans": "要知道那种事轻而易举：只要装几台摄像机——在树篱底下，柯南发现了三脚架的痕迹；他早上去了庭园美术馆，在池边架了一台摄像机。他当时操控了抽签，让 Ushikubo 抽到容易下手的地点，而给自己最远、最容易制造不在场证明的地方。"
+  },
+  {
+   "caseId": "case-the-14th-round-of-the-matsue-tamatsukuri-linked-verse-contest",
+   "field": "evidence",
+   "zhHans": "证据是 Ryosuke 说过的一句话：「我喜欢有情感的句子，比如父亲对女儿的爱。」要知道那种事轻而易举：只要装几台摄像机——在树篱底下，柯南发现了三脚架的痕迹；他早上去了庭园美术馆，在池边架了一台摄像机。之后，你把八木泽的眼药放在 Ushikubo 的手指旁，再把雨衣和凶器扔到月照寺，取回庭园美术馆的录像，若无其事地回到旅馆。证据是 Ushikubo 的临终留言——那既不是指向竹子，也不是指向武士宅邸。"
+  },
+  {
+   "caseId": "case-the-14th-round-of-the-matsue-tamatsukuri-linked-verse-contest",
+   "field": "resolution",
+   "zhHans": "犯人是 Ryosuke Shiina。首先，他在你们吟诵的句子里埋了暗号：第七句的第七个字、第九句的第九个字、第十一句的第十一个字，连起来读是「我就是犯人」。接着，他一边吟诵挑衅的句子，一边在潜意识里认罪说那就是 Ryosuke Shiina 所为。把自己的讯息嵌进你的句子里，把 小五郎 和警方都嘲弄了一番，暗自窃笑。小五郎从他的这种性格判断：只要条件合适，他一定会把从 Ushikubo 那里偷来的句子当作自己的作品吟出来——理由很简单，因为他真的很喜欢那句。证据是 Ryosuke 说过的一句话：「我喜欢有情感的句子，比如父亲对女儿的爱。」而所需的条件是：先把八木泽当作嫌疑人拘押，再让上一句末尾的「花」以接龙方式与第十三句相连。正如小五郎借柯南之口预测的那样，他把从 Ushikubo 那里偷来的句子吟了出来，仿佛亲自展示自己的胜利。要知道那种事轻而易举：只要装几台摄像机——在树篱底下，柯南发现了三脚架的痕迹；他早上去了庭园美术馆，在池边架了一台摄像机。他用偷来的 Ushikubo 备用手机给八木泽发了一条短信，于是八木泽去了松江城并杀死了 Ushikubo。之后，他把八木泽的眼药放在 Ushikubo 的手指旁，再把雨衣和凶器扔到月照寺，取回庭园美术馆的录像，若无其事地回到旅馆。证据是 Ushikubo 的临终留言——那既不是指向竹子，也不是指向武士宅邸。那个留言是数字「1」，指的是连歌的第一句「发句」。随后，椿刑警被问到，他观察的结果是 Ryosuke 的鞋：左脚、最上方的鞋钩上，确认留有 Ushikubo 伸出的、带血食指的指纹。换句话说，他的临终留言指的就是你鞋上的鞋钩。他的心大概已被 Ushikubo 笔记本里的句子夺走，没注意到对方碰到了你鞋上的鞋钩。小五郎最初怀疑 Ryosuke 的最后一个依据，是前一晚抽签时的情形：通常制作签的人最后才抽，但他第二个就抽了，还说「接下来按年龄排，轮到我了」。他当时操控了抽签，让 Ushikubo 抽到容易下手的地点，而给自己最远、最容易制造不在场证明的地方。Ryosuke 供认，并揭示 Ushikubo 一直在骗他们的钱，他无法原谅他。"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "batch": 1,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "note": "语义不符字段不译（登记 flagged.json）；专名未收录保留罗马字",
+ "items": [
+  {
+   "caseId": "case-underwater-key-in-the-locked-room-case",
+   "field": "culprit",
+   "zhHans": "Yoshihiko Kido"
+  },
+  {
+   "caseId": "case-underwater-key-in-the-locked-room-case",
+   "field": "evidence",
+   "zhHans": "证据是 Yoshihiko 的手帕，上面沾满了 Mitsue 那天下午带到公寓来的自制果汁。"
+  },
+  {
+   "caseId": "case-underwater-key-in-the-locked-room-case",
+   "field": "resolution",
+   "zhHans": "犯人是 Yoshihiko Kido。他锁上大门后，把钥匙系在由卫生纸搓成的绳子上，绑在一只甲虫身上，从投信口投了进去。他在玄关地砖上铺了一件毛衣，好让甲虫爬得更顺；又给模型顶部涂上能吸引雄性甲虫的气味，用来引导它。甲虫走过那座“桥”时，钥匙掉进模型的护城河里，纸绳随即溶掉，钥匙便留在了那里。之后甲虫被屋外的光吸引，从窗户飞出房间。他就这样制造出了密室。证据是 Yoshihiko 的手帕，上面沾满了 Mitsue 那天下午带到公寓来的自制果汁。他事先还打扫过公寓，免得甲虫被果汁的浓烈气味引开。"
+  },
+  {
+   "caseId": "case-the-nocturne-of-red-murderous-intent",
+   "field": "culprit",
+   "zhHans": "Misaki Kana"
+  },
+  {
+   "caseId": "case-the-nocturne-of-red-murderous-intent",
+   "field": "motive",
+   "zhHans": "Tenma 发现自己被抛弃、被背叛后，用《红色夜想曲》的手稿威胁 Misaki——那首歌词里嵌着代表背叛与憎恨的花朵。她因此主动配合这场“勒索”，包括上演贝多芬雕像的那出戏、并请毛利小五郎来帮忙，只为维持自己是受害者的印象。她把自己的丈夫栽成杀害 Tenma 的凶手，是为了保护他不被 Masayo 诱惑、以致拱手让出公司：他在狱中就能摆脱她的影响，而 Misaki 会一直经营、守住公司直到他出狱。"
+  },
+  {
+   "caseId": "case-the-nocturne-of-red-murderous-intent",
+   "field": "method",
+   "zhHans": "案件告破：袭击妻子的那个神秘男子，其实是用钓竿吊在阳台外的一尊雕像。"
+  },
+  {
+   "caseId": "case-the-nocturne-of-red-murderous-intent",
+   "field": "evidence",
+   "zhHans": "案件告破：袭击妻子的那个神秘男子，其实是用钓竿吊在阳台外的一尊雕像。犯人被揭示为 Misaki Kana。悲剧的是，随后又揭示 Gerard 原谅了她——因为他看到是自己把她变成了杀人犯，而他本来真心想改善她丈夫的公司。"
+  },
+  {
+   "caseId": "case-the-nocturne-of-red-murderous-intent",
+   "field": "resolution",
+   "zhHans": "案件告破：袭击妻子的那个神秘男子，其实是用钓竿吊在阳台外的一尊雕像。犯人被揭示为 Misaki Kana。在遇见 Yoshinori 之前，她其实已在夏威夷与 Gerard Tenma 订婚。Tenma 发现自己被抛弃、被背叛后，用《红色夜想曲》的手稿威胁 Misaki——那首歌词里嵌着代表背叛与憎恨的花朵。她感到性命受威胁，便把 Gerard 叫到悬崖边推了下去，以为他死了。后来发现他活了下来，而且正与她丈夫的公司建立关系，她担心 Gerard Tenma 会威胁揭发自己那次杀人未遂、并杀了她。她因此主动配合这场“勒索”，包括上演贝多芬雕像的那出戏、并请毛利小五郎来帮忙，只为维持自己是受害者的印象。她把自己的丈夫栽成杀害 Tenma 的凶手，是为了保护他不被 Masayo 诱惑、以致拱手让出公司：他在狱中就能摆脱她的影响，而 Misaki 会一直经营、守住公司直到他出狱。悲剧的是，随后又揭示 Gerard 原谅了她——因为他看到是自己把她变成了杀人犯，而他本来真心想改善她丈夫的公司。他甚至重写了《红色夜想曲》的歌词来表达对她的哀伤。Misaki 泪流满面。之后，柯南送花给兰，兰把那些花解读成“无敌”的意思，于是对柯南发起火来。"
+  },
+  {
+   "caseId": "case-the-revival-of-the-dying-message",
+   "field": "culprit",
+   "zhHans": "Izumi Sano"
+  },
+  {
+   "caseId": "case-the-revival-of-the-dying-message",
+   "field": "method",
+   "zhHans": "柯南解开案件，指出犯人通过（错误地）模仿烟花爆响的声音来制造不在场证明，并抓住被害人的手指写下血字 S，企图把嫌疑从自己身上引开。这种“故布疑阵”的手法后来在多起案件中被使用，例如《园子的危险夏日物语》里那位无辜的被害人；从《小小的委托人》起在动画中被完整运用，只有《兰也倒下的浴室》因剧情需要算是例外。"
+  },
+  {
+   "caseId": "case-the-revival-of-the-dying-message",
+   "field": "evidence",
+   "zhHans": "她犯下此案的证据在她的冰刀刃上——她在不知不觉中踩到了被害人的血。【动机】面对这项证据，凶手供认：她杀死千寻，是因为千寻与 Narita 交往后又无情地甩了他，逼得他自杀（但其他朋友以为他只是在擦枪时发生了致命意外）。"
+  },
+  {
+   "caseId": "case-the-revival-of-the-dying-message",
+   "field": "resolution",
+   "zhHans": "柯南解开案件，指出犯人通过（错误地）模仿烟花爆响的声音来制造不在场证明，并抓住被害人的手指写下血字 S，企图把嫌疑从自己身上引开。他指出，那个 S 并不是临终留言——真正的留言是那部电话：除了 Oda 之外，所有朋友（包括已故、曾是其中一员的 Narita）的姓氏都对应着设有机场的城市。现场的目暮和高木由此想到，留言是「KIX」（关西国际机场的机场代码，该机场位于泉佐野），也就是说犯人就是 Izumi Sano。她犯下此案的证据在她的冰刀刃上——她在不知不觉中踩到了被害人的血。"
+  },
+  {
+   "caseId": "case-the-twenty-year-old-murderous-intent-the-symphony-serial-murder-case",
+   "field": "culprit",
+   "zhHans": "Sadao Kujirai"
+  },
+  {
+   "caseId": "case-the-twenty-year-old-murderous-intent-the-symphony-serial-murder-case",
+   "field": "motive",
+   "zhHans": "此后，Ebina 一直在寻找那伙劫匪，并打算用炸弹把他们全部炸死，为他心爱的 Yoshimi 复仇。在他、Kanie 和 Kameda 杀害 Saizo Kano 之后，他杀害同伙的动机是独吞劫匪抢来的全部钱款，并报复已死的 Kano——Kano 曾羞辱过 Kujirai、把他当成傻瓜。Samezaki 指出，Kujirai 之所以失败，是因为他在抢劫案追诉时效刚过就动手杀人，结果除了原来的抢劫罪，如今还要为杀人罪负被捕之责。Samezaki 又说，Kujirai 从来没有赢过 Saizo Kano 的可能——他被骗了整整二十年。此外还注意到，Kujirai 用香烟来布置各种机关，例如烧掉旗帜等场景。"
+  },
+  {
+   "caseId": "case-the-twenty-year-old-murderous-intent-the-symphony-serial-murder-case",
+   "field": "method",
+   "zhHans": "表面上 Kujirai 手臂中了一枪，但那也是他自导自演——他在杀害 Kanie 时先朝自己开了一枪。Samezaki 指出，报纸上用的那个化名其实就是「Saizo Kano」这几个字把汉字倒过来写的。他脱掉了身上所有衣物以免溺水，只留下裤子与和叶做的护身符，并用手电筒发出灯光信号。"
+  },
+  {
+   "caseId": "case-the-twenty-year-old-murderous-intent-the-symphony-serial-murder-case",
+   "field": "evidence",
+   "zhHans": "经揭示，Nagisa Isogai 是 Kano 的女儿；而 Minoru Ebina 与 Toji Samezaki 的女儿 Yoshimi 有过恋情，Yoshimi 在二十年前的抢劫案中被枪杀，Samezaki 认出他就是葬礼上从头哭到尾的那个年轻人。所幸炸弹被柯南发现，并在距船 100 码处被引爆。平次无意中发现了 Kanie 的尸体，Kujirai 因此想杀他，平次被抛入海中。最终揭示，平次被抛入海中后活了下来。"
+  },
+  {
+   "caseId": "case-the-twenty-year-old-murderous-intent-the-symphony-serial-murder-case",
+   "field": "resolution",
+   "zhHans": "最终，在目睹一场爆炸、并发现两具尸体之后，柯南解开案件，意识到犯人有两人：一人是炸弹犯，一人是杀人犯。经揭示，Nagisa Isogai 是 Kano 的女儿；而 Minoru Ebina 与 Toji Samezaki 的女儿 Yoshimi 有过恋情，Yoshimi 在二十年前的抢劫案中被枪杀，Samezaki 认出他就是葬礼上从头哭到尾的那个年轻人。此后，Ebina 一直在寻找那伙劫匪，并打算用炸弹把他们全部炸死，为他心爱的 Yoshimi 复仇。所幸炸弹被柯南发现，并在距船 100 码处被引爆。"
+  }
+ ]
+}

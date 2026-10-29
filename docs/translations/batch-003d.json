@@ -1,0 +1,78 @@
+{
+ "batch": 3,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "suffix": "d",
+ "items": [
+  {
+   "caseId": "case-the-roses-in-the-vineyard",
+   "field": "culprit",
+   "zhHans": "Yurika Suwayama"
+  },
+  {
+   "caseId": "case-the-roses-in-the-vineyard",
+   "field": "motive",
+   "zhHans": "这是因为下午 1:30 到 2:30 之间，系统在北边的田里喷洒了天然农药木醋液，而酸性液体会让银氧化。Yurika 供认，Kengo 打算跟她离婚，因为他说 Yurika 对葡萄酒生意一窍不通，这让她怒不可遏。"
+  },
+  {
+   "caseId": "case-the-roses-in-the-vineyard",
+   "field": "method",
+   "zhHans": "她用来实施这起谋杀的手法被称为 Ebi-Sora：她把一件和服衣带系在 Kengo 的脖子上，并让他趴着把身体蜷起来。Yurika 这样做是为了在死亡发生的时段制造不在场证明，因为她知道他迟早会死。"
+  },
+  {
+   "caseId": "case-the-roses-in-the-vineyard",
+   "field": "evidence",
+   "zhHans": "证明这一点的，是 Kengo 脖子上多道绳痕——那是他试图阻止自己窒息时留下的。"
+  },
+  {
+   "caseId": "case-the-roses-in-the-vineyard",
+   "field": "resolution",
+   "zhHans": "凶手是 Yurika Suwayama。最关键的线索是她的发饰。一整天下来它都是漂亮的银色，如今却变成了黯淡的黑色！这是因为下午 1:30 到 2:30 之间，系统在北边的田里喷洒了天然农药木醋液，而酸性液体会让银氧化。她用来实施这起谋杀的手法被称为 Ebi-Sora：她把一件和服衣带系在 Kengo 的脖子上，并让他趴着把身体蜷起来。随后她把绳子的另一端绑在他的脚踝上，迫使他一直保持蜷缩的姿势，以免他自己勒住自己。最终他等不到救援、精疲力竭，还是窒息而死。证明这一点的，是 Kengo 脖子上多道绳痕——那是他试图阻止自己窒息时留下的。Yurika 这样做是为了在死亡发生的时段制造不在场证明，因为她知道他迟早会死。Yurika 供认，Kengo 打算跟她离婚，因为他说 Yurika 对葡萄酒生意一窍不通，这让她怒不可遏。她高喊 Kengo 爱葡萄酒胜过爱她，又加了一句：「葡萄才没有更重要！葡萄酒根本无足轻重！」随后崩溃痛哭。"
+  },
+  {
+   "caseId": "case-a-dispute-over-a-platinum-ticket",
+   "field": "culprit",
+   "zhHans": "Kaori Kosuda"
+  },
+  {
+   "caseId": "case-a-dispute-over-a-platinum-ticket",
+   "field": "motive",
+   "zhHans": "她觊觎那张稀有门票，是想在她男朋友——一名吉他手——生日那天给他一个惊喜。Kosuda 试图让这场意外看起来像是窃贼所为，为了配合这个骗局，她把自己的围裙换成了 Mooka 的。"
+  },
+  {
+   "caseId": "case-a-dispute-over-a-platinum-ticket",
+   "field": "method",
+   "zhHans": "然而，Mooka 忽略了 Kosuda 围裙口袋里的一支红色圆珠笔（咖啡馆里用来记录顾客点单的），围裙被清洗时，笔里的墨水被泡开溢出，染脏了洗衣机里 Mooka 的其他衣物。"
+  },
+  {
+   "caseId": "case-a-dispute-over-a-platinum-ticket",
+   "field": "evidence",
+   "zhHans": "她在把围裙放进洗衣机之前就找到了那张门票，并且正打算拿到网上去卖。"
+  },
+  {
+   "caseId": "case-a-dispute-over-a-platinum-ticket",
+   "field": "resolution",
+   "zhHans": "凶手是 Kaori Kosuda。她觊觎那张稀有门票，是想在她男朋友——一名吉他手——生日那天给他一个惊喜。然而，在毛利兰和铃木园子造访咖啡馆那天，她无意中听见 Kona 跟朋友说，她自己的男朋友也是吉他手，而且生日恰好是同一天，这说明她的男人其实是个脚踏两条船、占尽便宜的家伙。不止如此，那男人还打算用 Kosuda 买好的那两张门票，带 Kona——他的另一个女人——去听演唱会。于是 Kosuda 实施了偷窃。"
+  },
+  {
+   "caseId": "case-dancing-demon-at-the-noh-mask-mansion",
+   "field": "culprit",
+   "zhHans": "Hatsuho Toba"
+  },
+  {
+   "caseId": "case-dancing-demon-at-the-noh-mask-mansion",
+   "field": "method",
+   "zhHans": "她在品尝奶酪时把毒药涂在勺子背面，这样除了自己尝过的那一小块，奶酪的其余部分都会沾上毒。接着她在擦去 Jisaburou 衣服上掉落的奶酪时，趁机把勺子换掉。她趁 Moyono Mibu（此前曾想杀死 Jisaburou 以继承他的财产）不备，用一根铁签刺杀了她。随后她把两根铁签接在一起刺向 Jisaburou，好让伤口看起来像是凿子造成的。然而，由于柯南间接提醒了他以防万一、让他提防刺伤，她最终没能杀死 Jisaburou。"
+  },
+  {
+   "caseId": "case-dancing-demon-at-the-noh-mask-mansion",
+   "field": "evidence",
+   "zhHans": "她给毛利小五郎写了那封信，好让他能证明她的清白。"
+  },
+  {
+   "caseId": "case-dancing-demon-at-the-noh-mask-mansion",
+   "field": "resolution",
+   "zhHans": "凶手是 Hatsuho Toba。她在品尝奶酪时把毒药涂在勺子背面，这样除了自己尝过的那一小块，奶酪的其余部分都会沾上毒。接着她在擦去 Jisaburou 衣服上掉落的奶酪时，趁机把勺子换掉。她趁 Moyono Mibu（此前曾想杀死 Jisaburou 以继承他的财产）不备，用一根铁签刺杀了她。随后她把两根铁签接在一起刺向 Jisaburou，好让伤口看起来像是凿子造成的。她给毛利小五郎写了那封信，好让他能证明她的清白。Hatsuho 恼火地供认，她痛恨 Moyono——作为 Jisaburou 的情人过着奢华生活，而她和母亲却不得不受苦；痛恨 Akaza——因为他试图引诱她；也痛恨 Jisaburou 本人——因为他偷偷变卖她父亲的能面，连整座博物馆也一并卖掉。然而，由于柯南间接提醒了他以防万一、让他提防刺伤，她最终没能杀死 Jisaburou。"
+  }
+ ]
+}

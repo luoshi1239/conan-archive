@@ -1,0 +1,108 @@
+{
+ "batch": 1,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "note": "语义不符字段不译；专名未收录保留罗马字",
+ "items": [
+  {
+   "caseId": "case-a-cursed-mask-coldly-laughs",
+   "field": "culprit",
+   "zhHans": "Touya Aikawa"
+  },
+  {
+   "caseId": "case-a-cursed-mask-coldly-laughs",
+   "field": "motive",
+   "zhHans": "外界一直认为 Aikawa 之死是自杀。他得知母亲对那起事故并无责任——事发当天她正陪他过生日——于是决定向 Suou 复仇，并把罪名栽给同样牵涉 Suou 慈善诈骗案的 Inaba。"
+  },
+  {
+   "caseId": "case-a-cursed-mask-coldly-laughs",
+   "field": "method",
+   "zhHans": "柯南解开了密室杀人的手法：把 200 张肖贝尔面具串成一件长达 3 米的凶器，最前端绑着刀。"
+  },
+  {
+   "caseId": "case-a-cursed-mask-coldly-laughs",
+   "field": "evidence",
+   "zhHans": "柯南解开了密室杀人的手法：把 200 张肖贝尔面具串成一件长达 3 米的凶器，最前端绑着刀。"
+  },
+  {
+   "caseId": "case-a-cursed-mask-coldly-laughs",
+   "field": "resolution",
+   "zhHans": "犯人是 Touya Aikawa。柯南解开了密室杀人的手法：把 200 张肖贝尔面具串成一件长达 3 米的凶器，最前端绑着刀。证据是其中一张面具上血迹分布不均，随后的血迹只溅在其他面具的嘴部周围。Touya 认罪，并交代他的母亲曾被指责为一起肇事逃逸的肇事者——那起事故其实是 Suou 本人造成的，Katagiri 的妻子因此身亡，之后又被 Suou 杀害，而 Suou 是靠办慈善博取名声与利益起家的。外界一直认为 Aikawa 夫人之死是自杀。他得知母亲对那起事故并无责任——事发当天她正陪他过生日——于是决定向 Suou 复仇，并把罪名栽给同样牵涉 Suou 慈善诈骗案的 Inaba。"
+  },
+  {
+   "caseId": "case-a-dangerous-recipe",
+   "field": "culprit",
+   "zhHans": "Yasuo Murakami"
+  },
+  {
+   "caseId": "case-a-dangerous-recipe",
+   "field": "motive",
+   "zhHans": "他的动机是让那条凶恶又吵闹的狗不再出声，好让他能重新安静地走自己最爱的那条路。"
+  },
+  {
+   "caseId": "case-a-dangerous-recipe",
+   "field": "method",
+   "zhHans": "在城里走访了那名男子去过的店铺之后，少年侦探团大致锁定了他的住处，开始寻找装有车把灯、没有车筐的自行车。他们找到那名可疑男子并夜里跟踪他，发现 Yasuo Murakami 正试图毒杀邻居家的狗。杀人未遂。地点：邻居家。被害人：邻居家的狗。年龄：约 2 岁。下手方式：鼠药。犯人：Yasuo Murakami。夜里，Murakami 设下两个陷阱，想毒死邻居家的德国牧羊犬，但被柯南查了出来。"
+  },
+  {
+   "caseId": "case-a-dangerous-recipe",
+   "field": "evidence",
+   "zhHans": "犯人的面目被揭开：Yasuo Murakami。"
+  },
+  {
+   "caseId": "case-a-dangerous-recipe",
+   "field": "resolution",
+   "zhHans": "在城里走访了那名男子去过的店铺之后，少年侦探团大致锁定了他的住处，开始寻找装有车把灯、没有车筐的自行车。他们找到那名可疑男子并夜里跟踪他，发现 Yasuo Murakami 正试图毒杀邻居家的狗。（杀人未遂）"
+  },
+  {
+   "caseId": "case-kogoro-mouri-suspect",
+   "field": "culprit",
+   "zhHans": "Norifumi Saku"
+  },
+  {
+   "caseId": "case-kogoro-mouri-suspect",
+   "field": "motive",
+   "zhHans": "如果她“只是”做好本职工作，他是不会杀她的；但在发现她企图趁小五郎被安眠药迷倒时制造出小五郎出轨的假象之后，他更加愤怒——那桩计划会造出最大的丑闻，用来毁掉英理的名声。事后，小五郎想请英理跟他回家，因为他对小兰做的菜已经吃腻了。"
+  },
+  {
+   "caseId": "case-kogoro-mouri-suspect",
+   "field": "method",
+   "zhHans": "他被骗进一个房间，以为那是被害人自己的房间，便开始辩解自己不是凶手。门把上挂着「请勿打扰」的牌子，说明他并不知道被害人约了一位名叫 Hayashi 的律师两点见面；他把写着「Hayashi，2」的便条误当成点了两份林氏盖饭的备忘，因为便条旁正放着一份菜单。勒死被害人之后，他把小五郎的手机放在门边，这样等众人赶到、有人打来电话时，小五郎就会成为头号嫌疑人。英理装作没听见；后来在事务所里，她又听了一遍小五郎求她回家的录音，仍不打算原谅他。"
+  },
+  {
+   "caseId": "case-kogoro-mouri-suspect",
+   "field": "evidence",
+   "zhHans": "如果她“只是”做好本职工作，他是不会杀她的；但在发现她企图趁小五郎被安眠药迷倒时制造出小五郎出轨的假象之后，他更加愤怒——那桩计划会造出最大的丑闻，用来毁掉英理的名声。他发誓说，等被害人手上那件案子办完，他就会自首并交出证据。"
+  },
+  {
+   "caseId": "case-kogoro-mouri-suspect",
+   "field": "resolution",
+   "zhHans": "犯人是 Norifumi Saku，他原本打算把现场布置成自杀案，但因案发时小五郎在场而受阻。他被骗进一个房间，以为那是被害人自己的房间，便开始辩解自己不是凶手。门把上挂着「请勿打扰」的牌子，说明他并不知道被害人约了一位名叫 Hayashi 的律师两点见面；他把写着「Hayashi，2」的便条误当成点了两份林氏盖饭的备忘，因为便条旁正放着一份菜单。门上另一张写着「稍后付款」的便条，指的正是那份并不存在的点单。勒死被害人之后，他把小五郎的手机放在门边，这样等众人赶到、有人打来电话时，小五郎就会成为头号嫌疑人。凶手杀人的动机，是要终止被害人那套阴险的盘算——靠压过英理、抢下律师的身份去“折磨村子”并博取名声。那桩丑闻影响过他的出生地，他希望该负责的人受到惩罚。如果她“只是”做好本职工作，他是不会杀她的；但在发现她企图趁小五郎被安眠药迷倒时制造出小五郎出轨的假象之后，他更加愤怒——那桩计划会造出最大的丑闻，用来毁掉英理的名声。他发誓说，等被害人手上那件案子办完，他就会自首并交出证据。事后，小五郎想请英理跟他回家，因为他对小兰做的菜已经吃腻了。英理装作没听见；后来在事务所里，她又听了一遍小五郎求她回家的录音，仍不打算原谅他。"
+  },
+  {
+   "caseId": "case-the-mysterious-retro-room-case",
+   "field": "culprit",
+   "zhHans": "Kuniko Yamamoto"
+  },
+  {
+   "caseId": "case-the-mysterious-retro-room-case",
+   "field": "motive",
+   "zhHans": "她讲得略有夸张，但事实是：她只因为一次喝多了酒就被解雇了。她觉得受了羞辱，并把这一切怪到 Naomi 头上，认为是 Naomi 夺走了她的幸福。"
+  },
+  {
+   "caseId": "case-the-mysterious-retro-room-case",
+   "field": "method",
+   "zhHans": "接着，她用衣袋里的手机拨了自己的号码，装作正在和 Fujimura 通话。本来该被选中的是她，但 Naomi 对教授施展女性魅力，把这个位置抢了过去；Yamamoto 一直不知情，直到有一次两人喝酒时教授说漏了嘴。"
+  },
+  {
+   "caseId": "case-the-mysterious-retro-room-case",
+   "field": "evidence",
+   "zhHans": "她唯一要做的，是在尸体被发现后的那片混乱中把手机还回去——并指出 Yamamoto 口袋里有一个塑料袋。塑料袋上留下了好几枚指纹，还有一个奇怪的竖形纹样；她还告诉 Yamamoto，她手机上的号码是 02058252805。拨这个号码只需按中间的按键，所以她隔着塑料袋按键时，才留下了竖排的指纹痕迹。"
+  },
+  {
+   "caseId": "case-the-mysterious-retro-room-case",
+   "field": "resolution",
+   "zhHans": "犯人是 Kuniko Yamamoto。作案后，她拿走 Naomi Fujimura 的手机，到车站与 Obayashi、Kaneda 碰面。接着，她用衣袋里的手机拨了自己的号码，装作正在和 Fujimura 通话。她唯一要做的，是在尸体被发现后的那片混乱中把手机还回去——并指出 Yamamoto 口袋里有一个塑料袋。她把 Naomi 的手机装进袋子带走。塑料袋上留下了好几枚指纹，还有一个奇怪的竖形纹样；她还被告知，她手机上的号码是 02058252805。拨这个号码只需按中间的按键，所以她隔着塑料袋按键时，才留下了竖排的指纹痕迹。"
+  }
+ ]
+}

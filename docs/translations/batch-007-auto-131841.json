@@ -1,0 +1,52 @@
+{
+ "batch": 7,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-suspected-infidelity-of-the-triple-collab",
+   "field": "culprit",
+   "zhHans": "Yasuko Aijima"
+  },
+  {
+   "caseId": "case-the-suspected-infidelity-of-the-triple-collab",
+   "field": "motive",
+   "zhHans": "Yasuko 知道 Tokumi 会坐哪一把椅子，因为她们拍过的每一张合照里，Tokumi 都站在右边，她相信自己从那个角度看起来更好看。后续：柯南向灰原哀透露，千叶、白鸟、Shukichi、Naeko、Kobayashi 和 Yumi 之所以一直在那家餐厅碰面，是因为那三个女孩告诉各自的男友，她们要在8号为一个特别活动碰面。当 Yasuko 提到 Sumika 和另一个乐团出轨时，Yumi 和 Naeko 立刻看向千叶和白鸟。在 Kobayashi、Yumi 和 Naeko 谈到她们都熟悉的杀手锏之后，柯南打了个喷嚏，接着灰原哀希望这个案子能尽快解决，好让她知道这三对情侣的纠葛会怎么收场。"
+  },
+  {
+   "caseId": "case-the-suspected-infidelity-of-the-triple-collab",
+   "field": "method",
+   "zhHans": "Yasuko 用毒药杀死了 Tokumi，而 Tokumi 最终随着她吃下的水果泡芙把毒药吞了下去。Yasuko 其实已经在 Tokumi 最初坐的那把椅子上涂了毒，还故意把它弄松动。但这样一来，Tokumi 的手上也沾到了毒药。把那把有毒的椅子与旁边桌子的椅子调换后，有毒的椅子因为在另一张桌子上，就会被视为与命案无关，被拿去检测毒药的几率也随之降低。她还特意为这群人预订了那张放有毒椅子的桌子，以确保他们会坐在那里。"
+  },
+  {
+   "caseId": "case-the-suspected-infidelity-of-the-triple-collab",
+   "field": "evidence",
+   "zhHans": "他的女友被证实是 Yasuko，而这段关系曝光后，他的声誉遭到毁坏，也更难做出音乐、拉到更多赞助。然而，令她震惊的是，那名粉丝透露自己是从 Tokumi 那里得知 Kenya 的下落的。"
+  },
+  {
+   "caseId": "case-the-suspected-infidelity-of-the-triple-collab",
+   "field": "resolution",
+   "zhHans": "犯人是 Yasuko Aijima。Yasuko 用毒药杀死了 Tokumi，而 Tokumi 最终随着她吃下的水果泡芙把毒药吞了下去。Yasuko 其实已经在 Tokumi 最初坐的那把椅子上涂了毒，还故意把它弄松动。当 Tokumi 察觉到椅子松动时，会以为是自己的体重压坏了椅子，然后偷偷换到另一把椅子上。当灯光为一个小女孩的生日庆祝蛋糕熄灭时，Tokumi 开始换椅子，她抓住椅子底部、将其压在自己的腿和臀部上，以此避免拖动椅子产生的声音。但这样一来，Tokumi 的手上也沾到了毒药。把那把有毒的椅子与旁边桌子的椅子调换后，有毒的椅子因为在另一张桌子上，就会被视为与命案无关，被拿去检测毒药的几率也随之降低。"
+  },
+  {
+   "caseId": "case-the-treasure-chest-filled-with-fruits",
+   "field": "culprit",
+   "zhHans": "Wataru Furuya"
+  },
+  {
+   "caseId": "case-the-wedding-reception-and-the-two-gunshots",
+   "field": "culprit",
+   "zhHans": "Yoshifumi Ito"
+  },
+  {
+   "caseId": "case-the-man-who-was-betrayed-by-the-sea",
+   "field": "culprit",
+   "zhHans": "Nao Takiguchi"
+  },
+  {
+   "caseId": "case-mirage-of-the-disappearing-angel",
+   "field": "culprit",
+   "zhHans": "Taro Hayashi"
+  }
+ ]
+}

@@ -1,0 +1,352 @@
+{
+  "generatedFrom": "normalized JSON files",
+  "episodes": {
+    "total": 1217,
+    "adaptation": {
+      "manga": 641,
+      "anime-original": 576
+    },
+    "detailStatus": {
+      "catalog": 1217
+    },
+    "directory": {
+      "count": 1217,
+      "total": 1217,
+      "percent": 100.0
+    },
+    "basicFacts": {
+      "count": 1217,
+      "total": 1217,
+      "percent": 100.0
+    },
+    "structure": {
+      "count": 0,
+      "total": 1217,
+      "percent": 0.0
+    },
+    "deepSpoilers": {
+      "count": 0,
+      "total": 1217,
+      "percent": 0.0
+    },
+    "fields": {
+      "simplifiedTitle": {
+        "count": 1214,
+        "total": 1217,
+        "percent": 99.8
+      },
+      "traditionalTitle": {
+        "count": 1216,
+        "total": 1217,
+        "percent": 99.9
+      },
+      "mangaRefs": {
+        "count": 636,
+        "total": 1217,
+        "percent": 52.3
+      },
+      "mangaRefsKnown": {
+        "count": 636,
+        "total": 1217,
+        "percent": 52.3
+      },
+      "summary": {
+        "count": 1212,
+        "total": 1217,
+        "percent": 99.6
+      },
+      "characters": {
+        "count": 73,
+        "total": 1217,
+        "percent": 6.0
+      },
+      "caseTypes": {
+        "count": 73,
+        "total": 1217,
+        "percent": 6.0
+      }
+    }
+  },
+  "collections": {
+    "characters": {
+      "total": 14,
+      "status": {
+        "reviewed": 8,
+        "catalog": 6
+      },
+      "withSummary": {
+        "count": 14,
+        "total": 14,
+        "percent": 100.0
+      },
+      "withSources": {
+        "count": 14,
+        "total": 14,
+        "percent": 100.0
+      },
+      "detailStatus": {
+        "null": 14
+      },
+      "directory": {
+        "count": 0,
+        "total": 14,
+        "percent": 0.0
+      },
+      "basicFacts": {
+        "count": 0,
+        "total": 14,
+        "percent": 0.0
+      },
+      "structure": {
+        "count": 0,
+        "total": 14,
+        "percent": 0.0
+      }
+    },
+    "organizations": {
+      "total": 4,
+      "status": {
+        "reviewed": 3,
+        "catalog": 1
+      },
+      "withSummary": {
+        "count": 4,
+        "total": 4,
+        "percent": 100.0
+      },
+      "withSources": {
+        "count": 4,
+        "total": 4,
+        "percent": 100.0
+      },
+      "detailStatus": {
+        "null": 4
+      },
+      "directory": {
+        "count": 0,
+        "total": 4,
+        "percent": 0.0
+      },
+      "basicFacts": {
+        "count": 0,
+        "total": 4,
+        "percent": 0.0
+      },
+      "structure": {
+        "count": 0,
+        "total": 4,
+        "percent": 0.0
+      }
+    },
+    "cases": {
+      "total": 792,
+      "status": {
+        "reviewed": 49,
+        "catalog": 743
+      },
+      "withSummary": {
+        "count": 45,
+        "total": 792,
+        "percent": 5.7
+      },
+      "withSources": {
+        "count": 792,
+        "total": 792,
+        "percent": 100.0
+      },
+      "detailStatus": {
+        "catalog": 549,
+        "deepSpoilers": 149,
+        "partial": 94
+      },
+      "directory": {
+        "count": 0,
+        "total": 792,
+        "percent": 0.0
+      },
+      "basicFacts": {
+        "count": 0,
+        "total": 792,
+        "percent": 0.0
+      },
+      "structure": {
+        "count": 0,
+        "total": 792,
+        "percent": 0.0
+      }
+    },
+    "gadgets": {
+      "total": 8,
+      "status": {
+        "reviewed": 6,
+        "catalog": 2
+      },
+      "withSummary": {
+        "count": 8,
+        "total": 8,
+        "percent": 100.0
+      },
+      "withSources": {
+        "count": 8,
+        "total": 8,
+        "percent": 100.0
+      },
+      "detailStatus": {
+        "null": 8
+      },
+      "directory": {
+        "count": 0,
+        "total": 8,
+        "percent": 0.0
+      },
+      "basicFacts": {
+        "count": 0,
+        "total": 8,
+        "percent": 0.0
+      },
+      "structure": {
+        "count": 0,
+        "total": 8,
+        "percent": 0.0
+      }
+    },
+    "arcs": {
+      "total": 8,
+      "status": {
+        "reviewed": 6,
+        "catalog": 2
+      },
+      "withSummary": {
+        "count": 8,
+        "total": 8,
+        "percent": 100.0
+      },
+      "withSources": {
+        "count": 8,
+        "total": 8,
+        "percent": 100.0
+      },
+      "detailStatus": {
+        "null": 8
+      },
+      "directory": {
+        "count": 0,
+        "total": 8,
+        "percent": 0.0
+      },
+      "basicFacts": {
+        "count": 0,
+        "total": 8,
+        "percent": 0.0
+      },
+      "structure": {
+        "count": 0,
+        "total": 8,
+        "percent": 0.0
+      }
+    },
+    "mangaFiles": {
+      "total": 323,
+      "status": {
+        "catalog": 323
+      },
+      "withSummary": {
+        "count": 0,
+        "total": 323,
+        "percent": 0.0
+      },
+      "withSources": {
+        "count": 323,
+        "total": 323,
+        "percent": 100.0
+      },
+      "detailStatus": {
+        "null": 323
+      },
+      "directory": {
+        "count": 0,
+        "total": 323,
+        "percent": 0.0
+      },
+      "basicFacts": {
+        "count": 0,
+        "total": 323,
+        "percent": 0.0
+      },
+      "structure": {
+        "count": 0,
+        "total": 323,
+        "percent": 0.0
+      }
+    },
+    "movies": {
+      "total": 36,
+      "status": {
+        "released": 35,
+        "planned": 1
+      },
+      "withSummary": {
+        "count": 0,
+        "total": 36,
+        "percent": 0.0
+      },
+      "withSources": {
+        "count": 36,
+        "total": 36,
+        "percent": 100.0
+      },
+      "detailStatus": {
+        "reviewed": 36
+      },
+      "directory": {
+        "count": 36,
+        "total": 36,
+        "percent": 100.0
+      },
+      "basicFacts": {
+        "count": 36,
+        "total": 36,
+        "percent": 100.0
+      },
+      "structure": {
+        "count": 0,
+        "total": 36,
+        "percent": 0.0
+      }
+    },
+    "ovas": {
+      "total": 18,
+      "status": {
+        "released": 18
+      },
+      "withSummary": {
+        "count": 0,
+        "total": 18,
+        "percent": 0.0
+      },
+      "withSources": {
+        "count": 18,
+        "total": 18,
+        "percent": 100.0
+      },
+      "detailStatus": {
+        "reviewed": 18
+      },
+      "directory": {
+        "count": 18,
+        "total": 18,
+        "percent": 100.0
+      },
+      "basicFacts": {
+        "count": 18,
+        "total": 18,
+        "percent": 100.0
+      },
+      "structure": {
+        "count": 0,
+        "total": 18,
+        "percent": 0.0
+      }
+    }
+  }
+}

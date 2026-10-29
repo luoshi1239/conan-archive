@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="名侦探柯南结构化知识库：案件、人物、组织、地点、道具、动画、剧场版与真实关系图谱。">
+  <meta name="theme-color" content="#0b1116">
+  <title>名侦探柯南 · 案件档案</title>
+  <link rel="stylesheet" href="styles.css?v=bb5bfe">
+</head>
+<body>
+<div class="app">
+
+  <!-- ── 左侧常驻导航 ───────────────────────────────────── -->
+  <aside class="side">
+    <button class="brand" data-view="overview">
+      <span class="brand-mark">C</span>
+      <span class="brand-text"><b>柯南档案</b><small>CONAN ARCHIVE</small></span>
+    </button>
+
+    <nav class="side-nav" id="sideNav">
+      <p class="nav-group">浏览</p>
+      <button class="nav-item" data-view="cases"><span>案件</span><b data-count="cases">—</b></button>
+      <button class="nav-item" data-view="characters"><span>人物</span><b data-count="characters">—</b></button>
+      <button class="nav-item" data-view="organizations"><span>组织</span><b data-count="organizations">—</b></button>
+      <button class="nav-item" data-view="locations"><span>地点</span><b data-count="locations">—</b></button>
+      <button class="nav-item" data-view="gadgets"><span>道具</span><b data-count="gadgets">—</b></button>
+      <p class="nav-group">作品</p>
+      <button class="nav-item" data-view="episodes"><span>动画</span><b data-count="episodes">—</b></button>
+      <button class="nav-item" data-view="movies"><span>剧场版</span><b data-count="movies">—</b></button>
+      <button class="nav-item" data-view="ovas"><span>衍生</span><b data-count="ovas">—</b></button>
+      <p class="nav-group">结构</p>
+      <button class="nav-item" data-view="graph"><span>关系图</span></button>
+      <button class="nav-item" data-view="overview"><span>总览与导读</span></button>
+    </nav>
+
+    <div class="side-foot">
+      <button class="ghost-btn" id="patchBtn">修订 <b id="patchBadge">0</b></button>
+      <button class="ghost-btn" id="themeBtn">切换明暗</button>
+      <p class="side-note">非官方整理 · 数据持续补充</p>
+    </div>
+  </aside>
+
+  <!-- ── 主区 ─────────────────────────────────────────── -->
+  <main class="main">
+    <header class="topbar">
+      <div class="searchbox">
+        <span class="search-ico">⌕</span>
+        <input id="searchInput" type="search" placeholder="搜案件、人物、组织、地点、道具、集数…" autocomplete="off" aria-label="搜索档案">
+        <kbd>/</kbd>
+      </div>
+      <label class="ctl">剧透
+        <select id="spoilerSelect">
+          <option value="1">入门</option>
+          <option value="2">深入</option>
+          <option value="3">全剧透</option>
+        </select>
+      </label>
+      <label class="ctl">每页
+        <select id="pageSizeSelect">
+          <option value="30">30</option>
+          <option value="60">60</option>
+          <option value="120">120</option>
+        </select>
+      </label>
+      <button class="ghost-btn" id="randomBtn">随机一档</button>
+    </header>
+
+    <div class="statusbar">
+      <span id="resultLabel">载入中…</span>
+      <div class="sorts" id="sortBar">
+        <button class="sort-btn active" data-sort="default">默认</button>
+        <button class="sort-btn" data-sort="title">按名称</button>
+        <button class="sort-btn" data-sort="level">按剧透</button>
+      </div>
+    </div>
+
+    <!-- 总览 -->
+    <section class="view" id="view-overview">
+      <div class="block">
+        <h2 class="block-title">按主题进入</h2>
+        <div class="tiles" id="disciplineGrid"></div>
+      </div>
+      <div class="block">
+        <h2 class="block-title">先定目标</h2>
+        <div class="tiles tiles-sm" id="scenarioGrid"></div>
+      </div>
+      <div class="block">
+        <h2 class="block-title">主线骨架</h2>
+        <ol class="timeline" id="timelineList"></ol>
+      </div>
+      <div class="block">
+        <h2 class="block-title">编辑精选 <span class="block-hint">深度导读，非全量</span></h2>
+        <div class="rows" id="featuredGrid"></div>
+      </div>
+      <div class="block">
+        <h2 class="block-title">关键词</h2>
+        <div class="glossary" id="glossary"></div>
+      </div>
+    </section>
+
+    <!-- 列表 -->
+    <section class="view hidden" id="view-list">
+      <div class="table-head" id="tableHead"></div>
+      <div class="table" id="archiveGrid"></div>
+      <div class="empty-state hidden" id="emptyState">
+        <strong>没有匹配的档案</strong>
+        <span>换个关键词，或把剧透级别调高。</span>
+      </div>
+      <div id="archivePagination"></div>
+    </section>
+
+    <!-- 关系图 -->
+    <section class="view hidden" id="view-graph">
+      <div class="graph-bar">
+        <div class="seg" id="graphMode">
+          <button class="seg-btn active" data-mode="relations">人物关系</button>
+          <button class="seg-btn" data-mode="orgs">组织成员</button>
+          <button class="seg-btn" data-mode="cases">人物—案件</button>
+        </div>
+        <span class="graph-hint" id="graphHint"></span>
+        <div class="zoom-group">
+          <button class="ghost-btn icon-btn" id="graphZoomOut" title="缩小（也可滚轮）">−</button>
+          <span class="zoom-val" id="graphZoom">100%</span>
+          <button class="ghost-btn icon-btn" id="graphZoomIn" title="放大（也可滚轮）">+</button>
+        </div>
+        <button class="ghost-btn" id="graphReset">重置布局</button>
+      </div>
+      <div class="graph-stage" id="graphStage">
+        <canvas id="graphCanvas"></canvas>
+        <div class="graph-legend" id="graphLegend"></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ── 详情抽屉 ─────────────────────────────────────── -->
+  <aside class="drawer" id="drawer" aria-hidden="true">
+    <div class="drawer-head">
+      <span class="drawer-kicker" id="drawerKicker"></span>
+      <button class="drawer-close" id="drawerClose" aria-label="关闭">×</button>
+    </div>
+    <div class="drawer-body" id="drawerBody"></div>
+  </aside>
+  <div class="scrim" id="scrim"></div>
+
+  <!-- ── 修订面板（导入 / 导出爱好者补丁） ─────────────── -->
+  <div class="patch-modal" id="patchModal" aria-hidden="true">
+    <div class="pm-card">
+      <div class="pm-head">
+        <span>修订管理</span>
+        <button class="drawer-close" id="patchClose" aria-label="关闭">×</button>
+      </div>
+      <div class="pm-body">
+        <p class="pm-tip">所有修订只存在本机浏览器，不会上传。改完可导出 JSON 交给维护者合入正式数据。</p>
+        <p class="pm-stat">当前已修订 <b id="pmCount">0</b> 条</p>
+        <div class="pm-actions">
+          <button class="primary-btn" id="pmExport">导出补丁 JSON</button>
+          <button class="ghost-btn" id="pmImport">导入补丁…</button>
+          <button class="ghost-btn danger" id="pmClear">清空全部修订</button>
+        </div>
+        <input type="file" id="pmFile" accept="application/json,.json" hidden>
+        <ul class="pm-list" id="pmList"></ul>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="data.js"></script>
+<script src="edit.js?v=bb5bfe"></script>
+<script src="app.js?v=bb5bfe"></script>
+</body>
+</html>

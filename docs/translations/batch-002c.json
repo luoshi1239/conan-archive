@@ -1,0 +1,128 @@
+{
+ "batch": 2,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "note": "语义不符字段不译并登记 flagged；专名未收录保留罗马字",
+ "items": [
+  {
+   "caseId": "case-a-jewel-thief-caught-red-handed",
+   "field": "culprit",
+   "zhHans": "Sakanobu Nekota"
+  },
+  {
+   "caseId": "case-a-jewel-thief-caught-red-handed",
+   "field": "motive",
+   "zhHans": "由于 Nekota 出身铁人三项选手，完成那些动作毫无问题。又因为他必须尽快赶去和发现 Atomura 尸体的人会合，他来不及处理掉化装用品、绳索，以及抢劫时放在外套口袋里的那枚胸针。Nekota 不愿被勒索，于是决定让 Atomura 永远闭嘴。但他对杀害 Atomura 也怀着愧疚——从两人创立公司那天起，他们就一起吃苦、并肩工作；于是他决定先把胸针留着，等风波过去，再以「她亡夫生前留下的礼物」之名交给 Atomura 的妻子。"
+  },
+  {
+   "caseId": "case-a-jewel-thief-caught-red-handed",
+   "field": "method",
+   "zhHans": "在确认尸体落到卡车上之后，他架好逃跑用的绳索，让工人们继续搬东西。接着，他化装去抢劫珠宝店，并把高木引到旧事务所对面那栋楼的楼顶。又因为他必须尽快赶去和发现 Atomura 尸体的人会合，他来不及处理掉化装用品、绳索，以及抢劫时放在外套口袋里的那枚胸针。另一方面，由美又在盘算让另一位警官上她的当。"
+  },
+  {
+   "caseId": "case-a-jewel-thief-caught-red-handed",
+   "field": "evidence",
+   "zhHans": "经揭示，他们看到的那个强盗并不是 Atomura，真正的犯人其实是 Nekota。"
+  },
+  {
+   "caseId": "case-a-jewel-thief-caught-red-handed",
+   "field": "resolution",
+   "zhHans": "少年侦探团与柯南解开案件，向警方证明他们对整起事件的判断几乎全都错了。犯人是 Sakanobu Nekota。经揭示，他们看到的那个强盗并不是 Atomura，真正的犯人其实是 Nekota。首先，Nekota 把搬家工人叫到旧事务所的九楼，把 Atomura 推了下去。在确认尸体落到卡车上之后，他架好逃跑用的绳索，让工人们继续搬东西。"
+  },
+  {
+   "caseId": "case-clam-digging-with-a-sigh",
+   "field": "culprit",
+   "zhHans": "Shoko Hisazu"
+  },
+  {
+   "caseId": "case-clam-digging-with-a-sigh",
+   "field": "motive",
+   "zhHans": "她杀他，是因为不想让 Ushigome 为那起由他造成的事故而自首——那会毁掉她和她朋友们的名声。"
+  },
+  {
+   "caseId": "case-clam-digging-with-a-sigh",
+   "field": "method",
+   "zhHans": "她用一片薯片袋作遮挡，把瓶盖换成了她事先准备好的涂毒瓶盖，从而毒死了 Ushigome。"
+  },
+  {
+   "caseId": "case-clam-digging-with-a-sigh",
+   "field": "evidence",
+   "zhHans": "当年他们开车时，感觉好像撞到了什么东西；但下车搜寻时，显然既没找到什么、也没看到人。于是他们以为可能只是动物之类，然而 Shoko 其实在灌木丛里看到过一个男人，却什么也没说，认为他已经死了。后来他们听新闻说，在他们搜寻过的那个地方发现了一名死者的尸体，只当是巧合；但 Ushigome 心里明白，愧疚积压太久，他终于决定去自首。"
+  },
+  {
+   "caseId": "case-clam-digging-with-a-sigh",
+   "field": "resolution",
+   "zhHans": "犯人是 Shoko Hisazu。她用一片薯片袋作遮挡，把瓶盖换成了她事先准备好的涂毒瓶盖，从而毒死了 Ushigome。她杀他，是因为不想让 Ushigome 为那起由他造成的事故而自首——那会毁掉她和她朋友们的名声。当年他们开车时，感觉好像撞到了什么东西；但下车搜寻时，显然既没找到什么、也没看到人。于是他们以为可能只是动物之类，然而 Shoko 其实在灌木丛里看到过一个男人，却什么也没说，认为他已经死了。"
+  },
+  {
+   "caseId": "case-the-sealed-western-style-window",
+   "field": "culprit",
+   "zhHans": "Yoji Kuramoto"
+  },
+  {
+   "caseId": "case-the-sealed-western-style-window",
+   "field": "motive",
+   "zhHans": "哥哥修出那条暗道，是为了窥视一只鸟笼——那是他妻子和他弟弟用来互传幽会时间的信号。Yoji 承认有罪，并说自己是在一时激愤之下杀了伦子：她侮辱了他最喜欢的音乐家，还说他应该从头再来，因为他已经不合新潮了。证据是：由于柯南指出伦子房间书架最下层的百科全书排列没有按顺序，Yoji 夜里从暗道进去把它们换了回去——因为那些书挡住了暗道口——以免警方注意到这个奇怪之处，结果被园子、小兰、英佑、其他乐队成员和山村目击。最后，柯南在心里说，他没有让山村刑警或园子睡着，是因为他注意到英佑正在看着他。"
+  },
+  {
+   "caseId": "case-the-sealed-western-style-window",
+   "field": "method",
+   "zhHans": "他利用一条秘密通道逃出了她的房间——那是一个旧房主、一对富有兄弟中的长子修成的。哥哥修出那条暗道，是为了窥视一只鸟笼——那是他妻子和他弟弟用来互传幽会时间的信号。哥哥装作看见了妖魔，于是封上窗户、修了这条暗道。实际上他只封了窗户的左半边，在左侧装了一块假玻璃，把右半边留在暗道墙后，好让他能窥视两人。进到暗道之后，他看到了那条用来杀死哥哥妻子的绳索，便决定用它来杀伦子。"
+  },
+  {
+   "caseId": "case-the-sealed-western-style-window",
+   "field": "evidence",
+   "zhHans": "证据是：由于柯南指出伦子房间书架最下层的百科全书排列没有按顺序，Yoji 夜里从暗道进去把它们换了回去——因为那些书挡住了暗道口——以免警方注意到这个奇怪之处，结果被园子、小兰、英佑、其他乐队成员和山村目击。"
+  },
+  {
+   "caseId": "case-the-sealed-western-style-window",
+   "field": "resolution",
+   "zhHans": "柯南以小五郎的名义给山村刑警发邮件，告诉他真凶是谁。犯人是 Yoji Kuramoto。他利用一条秘密通道逃出了她的房间——那是一个旧房主、一对富有兄弟中的长子修成的。哥哥修出那条暗道，是为了窥视一只鸟笼——那是他妻子和他弟弟用来互传幽会时间的信号。哥哥装作看见了妖魔，于是封上窗户、修了这条暗道。实际上他只封了窗户的左半边，在左侧装了一块假玻璃，把右半边留在暗道墙后，好让他能窥视两人。他可能是出于愧疚杀了妻子后自杀。弟弟和他的妻子其实与那桩旧案无关，是清白的。Yoji 承认有罪，并说自己是在一时激愤之下杀了伦子：她侮辱了他最喜欢的音乐家，还说他应该从头再来，因为他已经不合新潮了。进到暗道之后，他看到了那条用来杀死哥哥妻子的绳索，便决定用它来杀伦子。证据是：由于柯南指出伦子房间书架最下层的百科全书排列没有按顺序，Yoji 夜里从暗道进去把它们换了回去——因为那些书挡住了暗道口——以免警方注意到这个奇怪之处，结果被园子、小兰、英佑、其他乐队成员和山村目击。最后，柯南在心里说，他没有让山村刑警或园子睡着，是因为他注意到英佑正在看着他。"
+  },
+  {
+   "caseId": "case-kaitou-kid-and-the-four-masterpieces",
+   "field": "culprit",
+   "zhHans": "Takeyori Oikawa"
+  },
+  {
+   "caseId": "case-kaitou-kid-and-the-four-masterpieces",
+   "field": "motive",
+   "zhHans": "Oikawa 供认，并揭示他原本只打算画三幅，但他父亲诈骗买第三幅画的顾客多付了钱，好让他再画第四幅。"
+  },
+  {
+   "caseId": "case-kaitou-kid-and-the-four-masterpieces",
+   "field": "method",
+   "zhHans": "Oikawa 因妻子去世而无法作画，便打算假称自己的画被盗，以保住事业。"
+  },
+  {
+   "caseId": "case-kaitou-kid-and-the-four-masterpieces",
+   "field": "resolution",
+   "zhHans": "经过彻底调查，柯南断定布后面从来就没有什么画，那幅画是被一根钓鱼线吊着的。柯南揭示，警方破门进入房间时，那根末端被石头压住的钓鱼线被拉到窗外，制造出有人从窗口跳出去的假象。犯人是 Takeyori Oikawa。Oikawa 供认，并揭示他原本只打算画三幅，但他父亲诈骗买第三幅画的顾客多付了钱，好让他再画第四幅。Oikawa 因妻子去世而无法作画，便打算假称自己的画被盗，以保住事业。但 Oikawa 认为父亲会把他的计划公之于众，从而毁掉他的画家生涯。柯南揭示，Oikawa 的父亲一直在练习模仿 Oikawa 的画风，已经把第四幅画完成了，他的打算是把它送给 Oikawa。Oikawa 随后为父亲因一场误会而死悲叹不已。后来揭示，那个「高木」其实是基德，在协助调查、洗清自己的嫌疑之后离开了宅邸。"
+  },
+  {
+   "caseId": "case-beckoning-cat-from-right-to-left",
+   "field": "culprit",
+   "zhHans": "Tamotsu Ishigami"
+  },
+  {
+   "caseId": "case-beckoning-cat-from-right-to-left",
+   "field": "motive",
+   "zhHans": "起初，Tamotsu 约在下午 1 点，但他太忙，去不成。接着，Ishigami 把自己买的招财猫送给他，但金丸拒收，因为那只猫举的是左手；Ishigami 于是发怒，夺回招财猫，又用它砸了金丸一下。不过，由于他今天还不上钱，金丸就打算把他的店收走。"
+  },
+  {
+   "caseId": "case-beckoning-cat-from-right-to-left",
+   "field": "method",
+   "zhHans": "随后他四处查看有无血迹溅落，把它们清理干净，收起大块碎片，再用吸尘器吸走小块碎片。"
+  },
+  {
+   "caseId": "case-beckoning-cat-from-right-to-left",
+   "field": "evidence",
+   "zhHans": "接着，柯南告诉警方沙发底下有东西，那是一块招财猫的碎片——是 Ishigami 砸金丸那件凶器上的一块碎片。不幸的是，他还是留下了几条证据。"
+  },
+  {
+   "caseId": "case-beckoning-cat-from-right-to-left",
+   "field": "resolution",
+   "zhHans": "麻醉小五郎之后，他指出犯人是 Tamotsu Ishigami。起初，Tamotsu 约在下午 1 点，但他太忙，去不成。但小五郎让柯南交出一样东西，那是一个带血的爪印——它的前爪受了伤，而社长办公室窗上的爪印应该与手帕上的那个相同。Ishigami 说自己没来过。可是 Cha-Cha 来过——但一只小猫开门进来实在难以想象。窗户是开着的，但有防盗格栅，所以就算是猫也不可能从外面跳进来。这只剩下一种可能：Cha-Cha 是跟 Ishigami 一起来的。Tamotsu 按便条所约，下午 1 点来到这里与健三见面。接着，柯南告诉警方沙发底下有东西，那是一块招财猫的碎片——是 Ishigami 砸金丸那件凶器上的一块碎片。换句话说，那块碎片来自另一只不属于这套收藏的招财猫。他还说明：Ishigami 买了一只举左手的招财猫，在 1 点约会之前稍早来到这里，那时他看见了千佳。被千佳砸中的金丸只是失去意识，很快又醒了过来。接着，Ishigami 把自己买的招财猫递给他，但金丸拒收，因为那只猫举的是左手；Ishigami 于是发怒，夺回招财猫，又用它砸了金丸一下。Cha-Cha 被这情形惊吓，伤了爪子，惊惧之下从窗户逃了出去。与此同时，他决定把罪名栽给千佳，把金丸的尸体拖到主厅。随后他四处查看有无血迹溅落，把它们清理干净，收起大块碎片，再用吸尘器吸走小块碎片。接着，他连同集尘袋一起把它们带走了。不幸的是，他还是留下了几条证据。Tamotsu 供认，并揭示健三正打算把他的店收走。但由于他今天还不上钱，金丸就要把他的店收走。"
+  }
+ ]
+}

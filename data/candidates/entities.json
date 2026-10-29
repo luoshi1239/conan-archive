@@ -1,0 +1,3186 @@
+[
+  {
+    "candidateId": "p3-case-relations-02-case-roller-coaster-murder-characters",
+    "targetId": "case-roller-coaster-murder",
+    "field": "characters",
+    "value": [
+      "character-shinichi-kudo",
+      "character-ran-mouri",
+      "character-conan-edogawa",
+      "character-gin",
+      "character-vodka"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "已保留并应用现有案件字段；仅用于关系覆盖，不新增剧情。"
+  },
+  {
+    "candidateId": "p3-case-relations-02-case-roller-coaster-murder-mangaRefs",
+    "targetId": "case-roller-coaster-murder",
+    "field": "mangaRefs",
+    "value": [
+      "file-001"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "已保留并应用现有案件字段；仅用于关系覆盖，不新增剧情。"
+  },
+  {
+    "candidateId": "p3-case-relations-02-case-moon-shadow-island-characters",
+    "targetId": "case-moon-shadow-island",
+    "field": "characters",
+    "value": [
+      "character-conan-edogawa"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "已保留并应用现有案件字段；仅用于关系覆盖，不新增剧情。"
+  },
+  {
+    "candidateId": "p3-case-relations-02-case-moon-shadow-island-locationRefs",
+    "targetId": "case-moon-shadow-island",
+    "field": "locationRefs",
+    "value": [
+      "location-moon-shadow-island"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已保留并应用现有案件字段；仅用于关系覆盖，不新增剧情。"
+  },
+  {
+    "candidateId": "p3-case-relations-02-case-moon-shadow-island-mangaRefs",
+    "targetId": "case-moon-shadow-island",
+    "field": "mangaRefs",
+    "value": [
+      "file-019-021"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "已保留并应用现有案件字段；仅用于关系覆盖，不新增剧情。"
+  },
+  {
+    "candidateId": "p3-case-relations-02-case-diplomat-murder-characters",
+    "targetId": "case-diplomat-murder",
+    "field": "characters",
+    "value": [
+      "character-conan-edogawa",
+      "character-heiji-hattori"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "已保留并应用现有案件字段；仅用于关系覆盖，不新增剧情。"
+  },
+  {
+    "candidateId": "p3-case-relations-02-case-diplomat-murder-mangaRefs",
+    "targetId": "case-diplomat-murder",
+    "field": "mangaRefs",
+    "value": [
+      "file-083-085"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "已保留并应用现有案件字段；仅用于关系覆盖，不新增剧情。"
+  },
+  {
+    "candidateId": "p3-case-relations-02-case-fog-monster-characters",
+    "targetId": "case-fog-monster",
+    "field": "characters",
+    "value": [
+      "character-conan-edogawa"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "已保留并应用现有案件字段；仅用于关系覆盖，不新增剧情。"
+  },
+  {
+    "candidateId": "p3-case-relations-02-case-fog-monster-mangaRefs",
+    "targetId": "case-fog-monster",
+    "field": "mangaRefs",
+    "value": [
+      "file-096-098"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "已保留并应用现有案件字段；仅用于关系覆盖，不新增剧情。"
+  },
+  {
+    "candidateId": "p3-case-relations-02-case-red-black-clash-characters",
+    "targetId": "case-red-black-clash",
+    "field": "characters",
+    "value": [
+      "character-conan-edogawa",
+      "character-shuichi-akai",
+      "character-gin"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "已保留并应用现有案件字段；仅用于关系覆盖，不新增剧情。"
+  },
+  {
+    "candidateId": "p3-case-relations-02-case-red-black-clash-mangaRefs",
+    "targetId": "case-red-black-clash",
+    "field": "mangaRefs",
+    "value": [
+      "file-595-621"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "已保留并应用现有案件字段；仅用于关系覆盖，不新增剧情。"
+  },
+  {
+    "candidateId": "p3-case-relations-02-case-mystery-train-characters",
+    "targetId": "case-mystery-train",
+    "field": "characters",
+    "value": [
+      "character-conan-edogawa",
+      "character-ai-haibara",
+      "character-gin",
+      "character-vermouth",
+      "character-rei-furuya",
+      "character-shuichi-akai"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "已保留并应用现有案件字段；仅用于关系覆盖，不新增剧情。"
+  },
+  {
+    "candidateId": "p3-case-relations-02-case-mystery-train-mangaRefs",
+    "targetId": "case-mystery-train",
+    "field": "mangaRefs",
+    "value": [
+      "file-818-824"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "已保留并应用现有案件字段；仅用于关系覆盖，不新增剧情。"
+  },
+  {
+    "candidateId": "p3-case-relations-02-case-rum-investigation-characters",
+    "targetId": "case-rum-investigation",
+    "field": "characters",
+    "value": [
+      "character-conan-edogawa",
+      "character-ai-haibara"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "已保留并应用现有案件字段；仅用于关系覆盖，不新增剧情。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-roller-coaster-murder-0001",
+    "targetId": "case-roller-coaster-murder",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0001"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-moon-shadow-island-0011",
+    "targetId": "case-moon-shadow-island",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0011"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-moon-shadow-island-0012",
+    "targetId": "case-moon-shadow-island",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0012"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-diplomat-murder-0049",
+    "targetId": "case-diplomat-murder",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0049"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-diplomat-murder-0050",
+    "targetId": "case-diplomat-murder",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0050"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-fog-monster-0052",
+    "targetId": "case-fog-monster",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0052"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-red-black-clash-0491",
+    "targetId": "case-red-black-clash",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0491"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-red-black-clash-0492",
+    "targetId": "case-red-black-clash",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0492"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-red-black-clash-0493",
+    "targetId": "case-red-black-clash",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0493"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-red-black-clash-0494",
+    "targetId": "case-red-black-clash",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0494"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-red-black-clash-0495",
+    "targetId": "case-red-black-clash",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0495"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-red-black-clash-0496",
+    "targetId": "case-red-black-clash",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0496"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-red-black-clash-0497",
+    "targetId": "case-red-black-clash",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0497"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-red-black-clash-0498",
+    "targetId": "case-red-black-clash",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0498"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-red-black-clash-0499",
+    "targetId": "case-red-black-clash",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0499"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-red-black-clash-0500",
+    "targetId": "case-red-black-clash",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0500"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-red-black-clash-0501",
+    "targetId": "case-red-black-clash",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0501"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-red-black-clash-0502",
+    "targetId": "case-red-black-clash",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0502"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-red-black-clash-0503",
+    "targetId": "case-red-black-clash",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0503"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-red-black-clash-0504",
+    "targetId": "case-red-black-clash",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0504"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-mystery-train-0701",
+    "targetId": "case-mystery-train",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0701"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-mystery-train-0702",
+    "targetId": "case-mystery-train",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0702"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-mystery-train-0703",
+    "targetId": "case-mystery-train",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0703"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-mystery-train-0704",
+    "targetId": "case-mystery-train",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-0704"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-rum-investigation-1077",
+    "targetId": "case-rum-investigation",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-1077"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-rum-investigation-1078",
+    "targetId": "case-rum-investigation",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-1078"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p3-case-relations-01-case-rum-investigation-1079",
+    "targetId": "case-rum-investigation",
+    "field": "relatedEpisodes",
+    "value": [
+      "episode-1079"
+    ],
+    "sourceRefs": [
+      "src-detective-conan-world-manga",
+      "src-detective-conan-world-anime"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "由案件 animeRefs 展开并核对；仅写入 relatedEpisodes 反向导航。"
+  },
+  {
+    "candidateId": "p4-deep-case-moonlight-01-culprit",
+    "targetId": "case-moon-shadow-island",
+    "field": "culprit",
+    "value": "浅井成实，真实身份为麻生成实；以女性身份在月影岛行医。",
+    "sourceRefs": [
+      "src-detective-conan-world-moonlight-sonata"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-moonlight-01-motive",
+    "targetId": "case-moon-shadow-island",
+    "field": "motive",
+    "value": "为十二年前被杀害的父亲麻生圭二及家人复仇；相关岛上人物曾利用父亲的国际演奏活动掩护毒品交易。",
+    "sourceRefs": [
+      "src-detective-conan-world-moonlight-sonata"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-moonlight-01-method",
+    "targetId": "case-moon-shadow-island",
+    "field": "method",
+    "value": "利用钢琴房、录音播放、月光奏鸣曲乐谱暗号、现场布置和伪造自杀痕迹制造连续案件与不在场效果。",
+    "sourceRefs": [
+      "src-detective-conan-world-moonlight-sonata"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-moonlight-01-evidence",
+    "targetId": "case-moon-shadow-island",
+    "field": "evidence",
+    "value": "乐谱暗号、钢琴调音痕迹、录音播放时间、现场拖拽痕迹以及与旧案和受害者关系相互印证。",
+    "sourceRefs": [
+      "src-detective-conan-world-moonlight-sonata"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-moonlight-01-resolution",
+    "targetId": "case-moon-shadow-island",
+    "field": "resolution",
+    "value": "身份和案件真相被柯南推理揭示后，成实在燃烧的钢琴房中自杀；临终将柯南抛出窗外，并留下感谢侦探的音乐暗号。",
+    "sourceRefs": [
+      "src-detective-conan-world-moonlight-sonata"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-diplomat-01-culprit",
+    "targetId": "case-diplomat-murder",
+    "field": "culprit",
+    "value": "津村公江（Kimie Tsujimura）。",
+    "sourceRefs": [
+      "src-detective-conan-world-diplomat-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "原页面正文与 MiMo 独立核对一致；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-diplomat-01-motive",
+    "targetId": "case-diplomat-murder",
+    "field": "motive",
+    "value": "为女儿雪子及山城家遭受的旧案复仇；她认为丈夫津村功曾参与毁掉山城家的人生。",
+    "sourceRefs": [
+      "src-detective-conan-world-diplomat-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "原页面正文与 MiMo 独立核对一致；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-diplomat-01-method",
+    "targetId": "case-diplomat-murder",
+    "field": "method",
+    "value": "先用安眠药使丈夫昏睡，再用藏在钥匙扣吊坠中的毒针刺杀；随后利用钥匙扣和鱼线布置假密室，制造受害者死于封闭房间的假象。",
+    "sourceRefs": [
+      "src-detective-conan-world-diplomat-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "原页面正文与 MiMo 独立核对一致；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-diplomat-01-evidence",
+    "targetId": "case-diplomat-murder",
+    "field": "evidence",
+    "value": "毒针与钥匙扣、安眠药、鱼线布置、假密室机关以及案件现场的时间和物证相互印证。",
+    "sourceRefs": [
+      "src-detective-conan-world-diplomat-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "原页面正文与 MiMo 独立核对一致；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-diplomat-01-resolution",
+    "targetId": "case-diplomat-murder",
+    "field": "resolution",
+    "value": "公江在推理揭示后认罪并向警方投案；她请求高志照顾雪子，高志答应，案件结束。",
+    "sourceRefs": [
+      "src-detective-conan-world-diplomat-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "原页面正文与 MiMo 独立核对一致；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-library-01-culprit",
+    "targetId": "case-library-murder",
+    "field": "culprit",
+    "value": "津川秀治。",
+    "sourceRefs": [
+      "src-detective-conan-world-library-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-library-01-motive",
+    "targetId": "case-library-murder",
+    "field": "motive",
+    "value": "津川在米花图书馆的无书脊伪书中藏匿毒品并逐批出售；馆长玉田发现了毒品，因此津川为灭口杀害玉田。",
+    "sourceRefs": [
+      "src-detective-conan-world-library-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-library-01-method",
+    "targetId": "case-library-murder",
+    "field": "method",
+    "value": "津川杀害玉田后，将尸体从电梯井抛下并藏在电梯箱顶部；同时把藏毒的无书脊伪书排成儿童区的第三排，制造书架排列异常。",
+    "sourceRefs": [
+      "src-detective-conan-world-library-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-library-01-evidence",
+    "targetId": "case-library-murder",
+    "field": "evidence",
+    "value": "电梯在载荷看似不足时触发超重警报，提示电梯箱顶部有尸体；儿童区书架出现由无书脊伪书形成的第三排，且书籍排列不齐；书中藏有毒品。",
+    "sourceRefs": [
+      "src-detective-conan-world-library-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-library-01-resolution",
+    "targetId": "case-library-murder",
+    "field": "resolution",
+    "value": "柯南根据电梯超重警报、尸体位置和藏毒伪书的排列机关识破案件，津川作为犯人被揭发。",
+    "sourceRefs": [
+      "src-detective-conan-world-library-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-golf-01-culprit",
+    "targetId": "case-golf-driving-range",
+    "field": "culprit",
+    "value": "南智史。",
+    "sourceRefs": [
+      "src-detective-conan-world-golf-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-golf-01-motive",
+    "targetId": "case-golf-driving-range",
+    "field": "motive",
+    "value": "南智史因上司忽视自己的才能，并偏袒对阿部稔，于是杀害上司并试图嫁祸阿部。",
+    "sourceRefs": [
+      "src-detective-conan-world-golf-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-golf-01-method",
+    "targetId": "case-golf-driving-range",
+    "field": "method",
+    "value": "把炸弹预先藏进修理过的球杆头内的高尔夫球中，使目标挥杆时发生爆炸；同时准备替代球，并假装胃痛让阿部收集目标要使用的球，以制造嫁祸条件。",
+    "sourceRefs": [
+      "src-detective-conan-world-golf-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-golf-01-evidence",
+    "targetId": "case-golf-driving-range",
+    "field": "evidence",
+    "value": "南智史曾连续两晚接触并维修目标的球杆；现场发现的高尔夫球只是替代物；真正的爆炸球藏在球杆头内，爆炸方式与球杆机关相互印证。",
+    "sourceRefs": [
+      "src-detective-conan-world-golf-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-golf-01-resolution",
+    "targetId": "case-golf-driving-range",
+    "field": "resolution",
+    "value": "柯南识破球杆头内高尔夫球炸弹和嫁祸阿部的计划，南智史作为犯人被揭发。",
+    "sourceRefs": [
+      "src-detective-conan-world-golf-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-weapon-01-culprit",
+    "targetId": "case-mystery-weapon",
+    "field": "culprit",
+    "value": "寺泽典夫（Norio Terasawa）。",
+    "sourceRefs": [
+      "src-detective-conan-world-weapon-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-weapon-01-motive",
+    "targetId": "case-mystery-weapon",
+    "field": "motive",
+    "value": "被害人井本龙介关闭了寺泽经营的钓具店，并准备将店址改作公司财产；在拒绝寺泽请求、又折断其珍贵鱼竿后，寺泽决定杀人。",
+    "sourceRefs": [
+      "src-detective-conan-world-weapon-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-weapon-01-method",
+    "targetId": "case-mystery-weapon",
+    "field": "method",
+    "value": "寺泽用钓鱼竿发射铅坠击中井本头部，并利用破碎的向日葵花盆制造被钝器直接击打的假象。",
+    "sourceRefs": [
+      "src-detective-conan-world-weapon-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-weapon-01-evidence",
+    "targetId": "case-mystery-weapon",
+    "field": "evidence",
+    "value": "邻室废弃公寓留下的深刻印记符合甩竿姿势；阳台栏杆有铅坠撞击痕迹，飞鸟也曾被误击；现场找到带有寺泽指纹的鱼竿握柄。",
+    "sourceRefs": [
+      "src-detective-conan-world-weapon-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-weapon-01-resolution",
+    "targetId": "case-mystery-weapon",
+    "field": "resolution",
+    "value": "柯南通过甩竿痕迹、栏杆撞击痕迹和带指纹的鱼竿握柄揭露寺泽为犯人。",
+    "sourceRefs": [
+      "src-detective-conan-world-weapon-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-game-01-culprit",
+    "targetId": "case-game-company-murder",
+    "field": "culprit",
+    "value": "竹下宏信（Hironobu Takeshita）。",
+    "sourceRefs": [
+      "src-detective-conan-world-game-company-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-game-01-motive",
+    "targetId": "case-game-company-murder",
+    "field": "motive",
+    "value": "竹下认为中岛秀明抛弃曾与两人交往的大学拳击部经理吉美，导致吉美自杀，因此杀害中岛并试图嫁祸。",
+    "sourceRefs": [
+      "src-detective-conan-world-game-company-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-game-01-method",
+    "targetId": "case-game-company-murder",
+    "field": "method",
+    "value": "竹下事先调换手提箱编号，使装有炸弹的箱子在中岛与 Tequila 交换时误交给 Tequila，利用爆炸杀死目标但实际造成 Tequila 误中。",
+    "sourceRefs": [
+      "src-detective-conan-world-game-company-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-game-01-evidence",
+    "targetId": "case-game-company-murder",
+    "field": "evidence",
+    "value": "中岛手提箱的钥匙能打开竹下手中的箱子；竹下在得知中岛箱内只有 Tequila 给的钱时表现出异常；酒店号码、调换编号和爆炸箱形成完整证据链。",
+    "sourceRefs": [
+      "src-detective-conan-world-game-company-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-game-01-resolution",
+    "targetId": "case-game-company-murder",
+    "field": "resolution",
+    "value": "柯南揭示手提箱调换和炸弹机关，竹下认罪；随后柯南前往 Tequila 的联络地点，发现琴酒和伏特加为灭口而引发爆炸。",
+    "sourceRefs": [
+      "src-detective-conan-world-game-company-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-train-01-culprit",
+    "targetId": "case-train-trick",
+    "field": "culprit",
+    "value": "伊达隆（Takashi Date）。",
+    "sourceRefs": [
+      "src-detective-conan-world-train-trick-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-train-01-motive",
+    "targetId": "case-train-trick",
+    "field": "motive",
+    "value": "受害者内海掌握伊达收受药企回扣的证据并以此勒索；伊达不想继续被勒索，因此决定杀死内海。",
+    "sourceRefs": [
+      "src-detective-conan-world-train-trick-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-train-01-method",
+    "targetId": "case-train-trick",
+    "field": "method",
+    "value": "伊达在水之川站下车后戴上假胡子和帽子、翻转外套伪装，再换乘受害者所在的列车；通过电话谎称遗失物品拖延列车，接近内海后用注射器注入诱发心脏病的药物，并抢走硬币伪装成随机抢劫。",
+    "sourceRefs": [
+      "src-detective-conan-world-train-trick-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-train-01-evidence",
+    "targetId": "case-train-trick",
+    "field": "evidence",
+    "value": "硬币原本由列车女服务员找零给内海，若硬币上出现女服务员指纹，就能证明硬币曾随内海转移到另一列车并证明伊达在案发列车上；假装借款和抢劫动机也无法解释这一指纹证据。",
+    "sourceRefs": [
+      "src-detective-conan-world-train-trick-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-train-01-resolution",
+    "targetId": "case-train-trick",
+    "field": "resolution",
+    "value": "柯南揭示跨线换车、伪装、拖延列车和硬币指纹证据，伊达在证据链面前崩溃并认罪。",
+    "sourceRefs": [
+      "src-detective-conan-world-train-trick-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-ojamanbou-01-culprit",
+    "targetId": "case-ojamanbou-murder",
+    "field": "culprit",
+    "value": "中山英之（Hideyuki Nakayama）。",
+    "sourceRefs": [
+      "src-detective-conan-world-ojamanbou-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-ojamanbou-01-motive",
+    "targetId": "case-ojamanbou-murder",
+    "field": "motive",
+    "value": "被害人藤井常久与中山的妹妹分手，导致妹妹退出小じゃマンボウ清洁公司，并在横滨工地工作时遭遇致命事故；中山从妹妹日记得知此事后决定复仇。",
+    "sourceRefs": [
+      "src-detective-conan-world-ojamanbou-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-ojamanbou-01-method",
+    "targetId": "case-ojamanbou-murder",
+    "field": "method",
+    "value": "中山把口琴放在地面诱使藤井弯腰，再把清洁公司卡车停在对面利用反光观察藤井的位置；他将屋顶钢梁与监控摄像机用钢丝连接，通过监控画面掌握时机远程放下钢梁。",
+    "sourceRefs": [
+      "src-detective-conan-world-ojamanbou-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-ojamanbou-01-evidence",
+    "targetId": "case-ojamanbou-murder",
+    "field": "evidence",
+    "value": "屋顶由中山公司安装的监控摄像机拍到了中山自己的倒影；口琴上没有藤井或犯人的指纹；摄像机与钢梁之间的钢丝机关说明中山具备并利用了作案条件。",
+    "sourceRefs": [
+      "src-detective-conan-world-ojamanbou-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-ojamanbou-01-resolution",
+    "targetId": "case-ojamanbou-murder",
+    "field": "resolution",
+    "value": "柯南根据监控画面中的倒影、口琴指纹缺失和钢梁远程机关揭露中山为犯人。",
+    "sourceRefs": [
+      "src-detective-conan-world-ojamanbou-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-holmes-freak-01-culprit",
+    "targetId": "case-holmes-freak-murder",
+    "field": "culprit",
+    "value": "户野健人（Kento Togano）。",
+    "sourceRefs": [
+      "src-detective-conan-world-holmes-freak-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取漫画改编案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-holmes-freak-01-motive",
+    "targetId": "case-holmes-freak-murder",
+    "field": "motive",
+    "value": "户野健人憎恨小说《Irene Adler Sneer》对艾琳·艾德勒的侮辱；该作品由广之和俊明创作，书中让福尔摩斯遭到艾琳嘲笑。",
+    "sourceRefs": [
+      "src-detective-conan-world-holmes-freak-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取漫画改编案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-holmes-freak-01-method",
+    "targetId": "case-holmes-freak-murder",
+    "field": "method",
+    "value": "户野先杀害广之，将尸体放入汽车并踩住刹车，开暖气、挂挡后打开车库使汽车驶入海中；将尸体抛下悬崖掩盖死亡时间。随后以漏油、断电和打火机制造车库火灾，并利用断电机会刺杀俊明。",
+    "sourceRefs": [
+      "src-detective-conan-world-holmes-freak-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取漫画改编案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-holmes-freak-01-evidence",
+    "targetId": "case-holmes-freak-murder",
+    "field": "evidence",
+    "value": "绫子试图抄写众人填写的问卷，却发现户野的问卷一题未答，说明他预先知道主人会死亡；汽车机关、车库火灾和断电时机共同指向户野。",
+    "sourceRefs": [
+      "src-detective-conan-world-holmes-freak-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取漫画改编案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-holmes-freak-01-resolution",
+    "targetId": "case-holmes-freak-murder",
+    "field": "resolution",
+    "value": "柯南揭示户野的多段伪装事故和问卷证据，户野在证据面前承认犯案；案件后柯南向服部平次说明自己缩小前后的真实身份。",
+    "sourceRefs": [
+      "src-detective-conan-world-holmes-freak-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取漫画改编案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-first-errand-01-culprit",
+    "targetId": "case-first-errand-murder",
+    "field": "culprit",
+    "value": "村濑（Murase）。",
+    "sourceRefs": [
+      "src-detective-conan-world-first-errand-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-first-errand-01-motive",
+    "targetId": "case-first-errand-murder",
+    "field": "motive",
+    "value": "村濑经营的商店即将被拆除，负责拆除的掮客要把店址推平；村濑因不愿失去商店而杀死了对方。",
+    "sourceRefs": [
+      "src-detective-conan-world-first-errand-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-first-errand-01-method",
+    "targetId": "case-first-errand-murder",
+    "field": "method",
+    "value": "村濑在废弃商店处杀害负责拆迁的掮客，并在孩子经过时误以为孩子看见了自己，从而试图灭口。",
+    "sourceRefs": [
+      "src-detective-conan-world-first-errand-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-first-errand-01-evidence",
+    "targetId": "case-first-errand-murder",
+    "field": "evidence",
+    "value": "村濑对孩子在废弃商店出现表现出异常恐惧；孩子只是去旧商店购买物品，并未真正看见杀人过程，村濑的反应反而暴露了其心理。",
+    "sourceRefs": [
+      "src-detective-conan-world-first-errand-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-first-errand-01-resolution",
+    "targetId": "case-first-errand-murder",
+    "field": "resolution",
+    "value": "柯南和少年侦探团救下孩子并揭示商店拆迁背景，村濑因意识到自己误判孩子目击情况而崩溃认罪。",
+    "sourceRefs": [
+      "src-detective-conan-world-first-errand-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-illustrator-01-culprit",
+    "targetId": "case-illustrator-murder",
+    "field": "culprit",
+    "value": "花冈健仁（Kenjin Hanaoka）。",
+    "sourceRefs": [
+      "src-detective-conan-world-illustrator-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-illustrator-01-motive",
+    "targetId": "case-illustrator-murder",
+    "field": "motive",
+    "value": "长野泉是花冈的幽灵画师和秘密情人，花冈的大部分作品实际由她创作；泉要求他离婚并以揭露关系和代笔事实施压，花冈因此失控杀人。",
+    "sourceRefs": [
+      "src-detective-conan-world-illustrator-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-illustrator-01-method",
+    "targetId": "case-illustrator-murder",
+    "field": "method",
+    "value": "花冈用水晶烟灰缸击打泉致死，把尸体倚在阳台并用鱼线、花盆和门上的钉子组成机关；开门后花盆脱落，鱼线和尸体被拉向排水口，制造自杀假象。",
+    "sourceRefs": [
+      "src-detective-conan-world-illustrator-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-illustrator-01-evidence",
+    "targetId": "case-illustrator-murder",
+    "field": "evidence",
+    "value": "泉作品中的蝴蝶标记、花冈脚趾甲上被指甲油留下的蝴蝶标记，以及阳台鱼线机关共同指向花冈；花冈声称从未到过现场也与机关矛盾。",
+    "sourceRefs": [
+      "src-detective-conan-world-illustrator-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-illustrator-01-resolution",
+    "targetId": "case-illustrator-murder",
+    "field": "resolution",
+    "value": "柯南通过蝴蝶标记和阳台机关揭穿花冈伪造自杀的计划，花冈最终承认因泉要求他面对婚姻和代笔事实而杀人。",
+    "sourceRefs": [
+      "src-detective-conan-world-illustrator-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-ghost-ship-01-culprit",
+    "targetId": "case-ghost-ship-murder",
+    "field": "culprit",
+    "value": "木下五郎（Goro Kinoshita）。",
+    "sourceRefs": [
+      "src-detective-conan-world-ghost-ship-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取首个两集TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-ghost-ship-01-motive",
+    "targetId": "case-ghost-ship-murder",
+    "field": "motive",
+    "value": "木下为寻找志木岛幽灵船失踪的黄金而追杀掌握线索的人，目标是独占被埋藏的巨额黄金。",
+    "sourceRefs": [
+      "src-detective-conan-world-ghost-ship-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取首个两集TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-ghost-ship-01-method",
+    "targetId": "case-ghost-ship-murder",
+    "field": "method",
+    "value": "木下为逼问滨田浩二而绑架并折磨他，随后杀害知情者；他伪造上原的枪击自杀，并试图把杀人罪嫁祸给毛利小五郎；之后又杀死上原并袭击柯南和三上铃。",
+    "sourceRefs": [
+      "src-detective-conan-world-ghost-ship-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取首个两集TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-ghost-ship-01-evidence",
+    "targetId": "case-ghost-ship-murder",
+    "field": "evidence",
+    "value": "上原的枪伤位于错误的一侧，枪被放在错误的手中；伤口附近有火药灼痕，说明枪击距离和方向与自杀不符；黄金砖块被苔藓覆盖，揭示其长期藏在洞穴废墟中。",
+    "sourceRefs": [
+      "src-detective-conan-world-ghost-ship-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取首个两集TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-ghost-ship-01-resolution",
+    "targetId": "case-ghost-ship-murder",
+    "field": "resolution",
+    "value": "柯南揭露伪造枪击、黄金藏匿和嫁祸计划，木下被制服；黄金原本埋在废墟中，岛民因此一直以为诅咒和债务已经结束。",
+    "sourceRefs": [
+      "src-detective-conan-world-ghost-ship-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取首个两集TV Original案件页面正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-gomera-01-culprit",
+    "targetId": "case-gomera-murder",
+    "field": "culprit",
+    "value": "松井秀豪（Shugo Matsui），即哥美拉皮套演员。",
+    "sourceRefs": [
+      "src-detective-conan-world-gomera-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-gomera-01-motive",
+    "targetId": "case-gomera-murder",
+    "field": "motive",
+    "value": "龟井散布“松井厌倦演哥美拉、想转向其他角色”的流言，松井得知后不愿最后一部哥美拉电影完成，于是杀害龟井。",
+    "sourceRefs": [
+      "src-detective-conan-world-gomera-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-gomera-01-method",
+    "targetId": "case-gomera-murder",
+    "field": "method",
+    "value": "松井事先用哥美拉皮套脚部印出脚印并涂上颜料，让人以为足立留下痕迹；行凶后在楼梯处脱下皮套，跑进楼下储物间把皮套从窗户丢出并点火，制造怪兽行凶的假象；他先用影视道具血伪装腿伤，事后又用另一把刀刺伤自己的腿并把刀藏进道具箱，还换掉衬衫以掩盖出汗痕迹。",
+    "sourceRefs": [
+      "src-detective-conan-world-gomera-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-gomera-01-evidence",
+    "targetId": "case-gomera-murder",
+    "field": "evidence",
+    "value": "地面只有哥美拉的脚印而没有尾痕；松井换过衬衫，而早前步美把果汁洒在他衣服上；腿伤前后矛盾、道具箱里的另一把刀，以及他与足立、智美的串供一起指向他。",
+    "sourceRefs": [
+      "src-detective-conan-world-gomera-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-gomera-01-resolution",
+    "targetId": "case-gomera-murder",
+    "field": "resolution",
+    "value": "柯南借助阿笠博士揭穿脚印与皮套调包手法，松井承认因流言而杀人；足立和智美此前是在替他隐瞒。",
+    "sourceRefs": [
+      "src-detective-conan-world-gomera-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-third-fingerprint-01-culprit",
+    "targetId": "case-third-fingerprint-murder",
+    "field": "culprit",
+    "value": "寺冈警部（Inspector Teraoka），警视厅搜查四课管理官，毛利小五郎的前上司。",
+    "sourceRefs": [
+      "src-detective-conan-world-third-fingerprint-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-third-fingerprint-01-motive",
+    "targetId": "case-third-fingerprint-murder",
+    "field": "motive",
+    "value": "松山以揭发寺冈收受贿赂、泄露警方行动情报为把柄勒索他，并索要资金以便从自己犯下的另一起杀人案中脱身、逃往国外，寺冈因此杀死松山。",
+    "sourceRefs": [
+      "src-detective-conan-world-third-fingerprint-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-third-fingerprint-01-method",
+    "targetId": "case-third-fingerprint-murder",
+    "field": "method",
+    "value": "寺冈在码头枪杀松山，试图把案件引向抢劫或意外方向；他随身携带的配枪藏在裤下枪套里，因此进入车内时发出金属碰撞声。",
+    "sourceRefs": [
+      "src-detective-conan-world-third-fingerprint-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-third-fingerprint-01-evidence",
+    "targetId": "case-third-fingerprint-murder",
+    "field": "evidence",
+    "value": "枪上出现的第三枚指纹属于寺冈的妻子美沙子，她无意中碰到寺冈藏起来的枪；柯南从寺冈上车时听到的异常金属声判断他使用的是自己的枪。",
+    "sourceRefs": [
+      "src-detective-conan-world-third-fingerprint-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-third-fingerprint-01-resolution",
+    "targetId": "case-third-fingerprint-murder",
+    "field": "resolution",
+    "value": "柯南查明第三枚指纹来自误触配枪的美沙子，也确认寺冈为灭口而杀人；寺冈在毛利面前承认受贿被勒索的事实。",
+    "sourceRefs": [
+      "src-detective-conan-world-third-fingerprint-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-crab-whale-01-culprit",
+    "targetId": "case-crab-whale-kidnapping",
+    "field": "culprit",
+    "value": "两名绑架者：一名男子与一名女子（页面人物表列为 Keita 的绑架者，未给出正式姓名）。",
+    "sourceRefs": [
+      "src-detective-conan-world-crab-whale-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-crab-whale-01-motive",
+    "targetId": "case-crab-whale-kidnapping",
+    "field": "motive",
+    "value": "两名绑架者以远藤圭太为人质向远藤圭吾勒索大笔日元，准备得手后携款潜逃。",
+    "sourceRefs": [
+      "src-detective-conan-world-crab-whale-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-crab-whale-01-method",
+    "targetId": "case-crab-whale-kidnapping",
+    "field": "method",
+    "value": "二人从远藤家前院绑走5岁的圭太，留下“孩子在我们手上，报警就杀了他，等我们联系”的字条，随后用电话遥控赎金交付流程，并在酒店准备逃跑。",
+    "sourceRefs": [
+      "src-detective-conan-world-crab-whale-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-crab-whale-01-evidence",
+    "targetId": "case-crab-whale-kidnapping",
+    "field": "evidence",
+    "value": "字条内容与赎金指示、绑匪对交付地点的选择，以及南水族馆相关线索帮助柯南锁定赎金交接与藏匿位置；两名绑架者在酒店准备出逃时被柯南当场击中制服。",
+    "sourceRefs": [
+      "src-detective-conan-world-crab-whale-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-crab-whale-01-resolution",
+    "targetId": "case-crab-whale-kidnapping",
+    "field": "resolution",
+    "value": "柯南在酒店制服两名绑架者，圭太被安全送回父亲身边，二人被逮捕。",
+    "sourceRefs": [
+      "src-detective-conan-world-crab-whale-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-night-road-01-culprit",
+    "targetId": "case-night-road-murder",
+    "field": "culprit",
+    "value": "竹野浩二（Kouji Takeno），米花大学二年级学生，常盘圭子的男友。",
+    "sourceRefs": [
+      "src-detective-conan-world-night-road-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-night-road-01-motive",
+    "targetId": "case-night-road-murder",
+    "field": "motive",
+    "value": "竹野与池田都爱慕常盘圭子；圭子在雪山事故中因脚伤被留在山上冻死。竹野后来得知池田是故意扰乱队伍、让圭子得不到及时救援，还曾在酒桌上向同样醉酒的日下炫耀此事，于是决定复仇。",
+    "sourceRefs": [
+      "src-detective-conan-world-night-road-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-night-road-01-method",
+    "targetId": "case-night-road-murder",
+    "field": "method",
+    "value": "竹野把水族馆的小溪石装进自己登山用的耐磨运动袜，装满石头后做成沉重钝器，用钓鱼绳绑好后从远处向站在街上抽烟的池田投掷，将其一击打死。",
+    "sourceRefs": [
+      "src-detective-conan-world-night-road-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-night-road-01-evidence",
+    "targetId": "case-night-road-murder",
+    "field": "evidence",
+    "value": "血液之所以溅到废弃大楼墙面、屋顶栏杆和上层公寓玻璃上，是因为装满石头的袜子在高强度撞击后反弹所致；水族馆石堆中残留的羊毛纤维，以及竹野没有换下的、沾有池田血迹的袜子成为决定性证据。",
+    "sourceRefs": [
+      "src-detective-conan-world-night-road-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-night-road-01-resolution",
+    "targetId": "case-night-road-murder",
+    "field": "resolution",
+    "value": "柯南揭穿“袜装溪石”的投掷手法和羊毛纤维来源，竹野承认是为圭子复仇而杀人；池田当年故意拖延救援的事实也随之曝光。",
+    "sourceRefs": [
+      "src-detective-conan-world-night-road-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-stage-actress-01-culprit",
+    "targetId": "case-stage-actress-murder",
+    "field": "culprit",
+    "value": "佐々木瞳（Hitomi Sasaki），大出祥子的经纪人。",
+    "sourceRefs": [
+      "src-detective-conan-world-stage-actress-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-stage-actress-01-motive",
+    "targetId": "case-stage-actress-murder",
+    "field": "motive",
+    "value": "宇田雄一原本是佐々木的恋人，后来为大出祥子与她分手；佐々木已经接受了这个结果。但祥子随即又甩掉宇田，说他无趣又迟钝，扬言要把他还给佐々木，还傲慢地笑着。佐々木无法原谅祥子根本没有认真对待这段感情、只是存心把宇田从她身边夺走。",
+    "sourceRefs": [
+      "src-detective-conan-world-stage-actress-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-stage-actress-01-method",
+    "targetId": "case-stage-actress-murder",
+    "field": "method",
+    "value": "佐々木利用舞台布景上方悬挂的星星道具作为定位点，用钓鱼线把毒液滴入祥子的杯子；杯子按剧本规定的位置预先摆好，滴毒因此能精准命中。",
+    "sourceRefs": [
+      "src-detective-conan-world-stage-actress-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-stage-actress-01-evidence",
+    "targetId": "case-stage-actress-murder",
+    "field": "evidence",
+    "value": "佐々木手上留有强行把钓鱼线从星星道具上扯下时的划痕，说明她当时慌了神；案发后毛利小五郎让所有人留在原地，那根用于作案的钓鱼线应该还在她的口袋里。",
+    "sourceRefs": [
+      "src-detective-conan-world-stage-actress-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-stage-actress-01-resolution",
+    "targetId": "case-stage-actress-murder",
+    "field": "resolution",
+    "value": "柯南揭穿钓鱼线滴毒手法，佐々木承认杀人；案件结束后盐田平八郎打算接手侦探事务所，却被妻子接回家。",
+    "sourceRefs": [
+      "src-detective-conan-world-stage-actress-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-night-baron-01-culprit",
+    "targetId": "case-night-baron-murder",
+    "field": "culprit",
+    "value": "狭山明子（Akiko Sayama），软件公司职员、前田聪的未婚妻。",
+    "sourceRefs": [
+      "src-detective-conan-world-night-baron-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-night-baron-01-motive",
+    "targetId": "case-night-baron-murder",
+    "field": "motive",
+    "value": "三年前她敬爱的兄长因江原时男入侵其公司系统、盗走他投入全部资金的程序而跳楼自杀；狭山为复仇策划了这场暗夜男爵谜题活动，并假称掌握传说中的暗夜男爵病毒，引江原参赛。",
+    "sourceRefs": [
+      "src-detective-conan-world-night-baron-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-night-baron-01-method",
+    "targetId": "case-night-baron-murder",
+    "field": "method",
+    "value": "晚餐后狭山以交付病毒为由把江原叫到自己的1901室，将他迷昏，再潜入江原房间放置手套、制造从内部反锁的密室；她给昏迷的江原换上男爵装束（省去假发），把尸体从背风的窗户抛下，让尸体恰好落在江原房间阳台正下方，看起来像是江原反锁房间、扮成男爵试图翻进下层房间时失足坠楼。",
+    "sourceRefs": [
+      "src-detective-conan-world-night-baron-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-night-baron-01-evidence",
+    "targetId": "case-night-baron-murder",
+    "field": "evidence",
+    "value": "当时唯一能使尸体落在江原阳台下方的方法，是从背风区域抛下，而该区域只有20层以下的房间能够进入，最终只能指向1901室；柯南让警方从各嫌疑人房间抛下绑有配重、系着被单冒充披风的卷起被褥，结果全部被“公主风”吹离各自阳台下方，反证江原不可能从自己阳台坠落；狭山从房间打到前台的电话记录也证明抛尸时她在案发现场。",
+    "sourceRefs": [
+      "src-detective-conan-world-night-baron-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-night-baron-01-resolution",
+    "targetId": "case-night-baron-murder",
+    "field": "resolution",
+    "value": "柯南借沉睡的小五郎揭穿密室与风向诡计，狭山被认定为凶手；未婚夫前田聪为替她制造不在场证明，偷走男爵装束假扮男爵，最终因妨碍调查被起诉，兰查证其不在场证明为他洗脱杀人嫌疑；狭山被带走时哭着让前田忘了她，前田承诺等她出狱。",
+    "sourceRefs": [
+      "src-detective-conan-world-night-baron-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Situation/Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-stalker-01-culprit",
+    "targetId": "case-stalker-murder",
+    "field": "culprit",
+    "value": "西谷美穂（Miho Nishitani），家庭餐厅店员、永井达也的跟踪受害对象。",
+    "sourceRefs": [
+      "src-detective-conan-world-stalker-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-stalker-01-motive",
+    "targetId": "case-stalker-murder",
+    "field": "motive",
+    "value": "永井长期跟踪西谷，在她报警后当众把她推下车站楼梯；西谷判断警察保护不了自己，认为永井迟早会杀了她，于是决定先下手。",
+    "sourceRefs": [
+      "src-detective-conan-world-stalker-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-stalker-01-method",
+    "targetId": "case-stalker-murder",
+    "field": "method",
+    "value": "西谷事先买好一瓶“Guts-man”运动饮料，投入磷酸毒物，再从自动贩卖机另买一瓶做样子，假装取出机器多给的那一瓶喝下，实际取出的是毒瓶；她把毒瓶留在栏杆上等永井喝，永井误以为是机器多送的而喝下毒发。",
+    "sourceRefs": [
+      "src-detective-conan-world-stalker-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-stalker-01-evidence",
+    "targetId": "case-stalker-murder",
+    "field": "evidence",
+    "value": "毒瓶上的贴纸宣传的是早已结束的抽奖活动，而且贩卖机里不太可能还留着旧货；毛利小五郎又在机器里发现了她真正付钱买的那一瓶，证明她事先准备了毒瓶。更关键的是，永井把隐藏摄像机装在自己的打火机里，拍下了西谷按柯南所述方式投毒的全过程。",
+    "sourceRefs": [
+      "src-detective-conan-world-stalker-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-stalker-01-resolution",
+    "targetId": "case-stalker-murder",
+    "field": "resolution",
+    "value": "柯南揭穿毒瓶与贴纸破绽，西谷承认杀人。由于是预谋投毒，正当防卫不成立；但柯南在她家门外灌木丛中发现装有多种危险工具的袋子，上面有永井的指纹，证明永井原本打算折磨她，西谷因此很可能获得从轻判决。事后毛利感叹，如果她没有杀人，本可以有别的路。",
+    "sourceRefs": [
+      "src-detective-conan-world-stalker-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-triplet-01-culprit",
+    "targetId": "case-triplet-country-home-murder",
+    "field": "culprit",
+    "value": "富泽太一（Taichi Tomizawa），富泽家长子、小说家。",
+    "sourceRefs": [
+      "src-detective-conan-world-triplet-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-triplet-01-motive",
+    "targetId": "case-triplet-country-home-murder",
+    "field": "motive",
+    "value": "太一靠写作维生，但工作量减少、收入下滑，向父亲要钱时才发现父亲一直在向编辑施压，让对方拒绝给他约稿；他误以为父亲要逼自己放弃写作、回公司接班。听说父亲这天要去看三子佑造未婚妻，他认为这是行凶的好机会。",
+    "sourceRefs": [
+      "src-detective-conan-world-triplet-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-triplet-01-method",
+    "targetId": "case-triplet-country-home-murder",
+    "field": "method",
+    "value": "太一提前把父亲答录机上的时钟调早，跟踪父亲回家后行凶，用石头砸死父亲，随后播放事先录好的留言，再把时钟调回；他还打坏了卫星天线，逼迫父亲到屋外，制造电话留言与作案时间吻合的假象。作案时他戴着假发伪装，并把窃听麦克风藏进父亲的手表，用来掌握比赛结束、父亲回家等一切动向，行凶后取走手表销毁证据。",
+    "sourceRefs": [
+      "src-detective-conan-world-triplet-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-triplet-01-evidence",
+    "targetId": "case-triplet-country-home-murder",
+    "field": "evidence",
+    "value": "案发时11:30有长达十分钟的停电，停电时答录机无法录音，只靠电池维持时钟与通话；太一那条“11:30打来”的留言与作案时刻恰好吻合，这需要不可能的运气，反证只有能改动答录机时钟的人才能做到。他自称11:30在弹珠店，但法律要求弹珠店11点前必须关门，不在场证明不成立。",
+    "sourceRefs": [
+      "src-detective-conan-world-triplet-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-triplet-01-resolution",
+    "targetId": "case-triplet-country-home-murder",
+    "field": "resolution",
+    "value": "柯南借铃木园子之口揭穿答录机时钟与停电诡计，指认太一为凶手。园子姐姐绫子的婚事因此告吹，但案件结束后康纳与兰仍为园子假装推理的表现感到好笑。",
+    "sourceRefs": [
+      "src-detective-conan-world-triplet-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-boys-disaster-01-culprit",
+    "targetId": "case-detective-boys-disaster",
+    "field": "culprit",
+    "value": "春日辉彦（Teruhiko Kasuga），春日集团继承人。",
+    "sourceRefs": [
+      "src-detective-conan-world-boys-disaster-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution / Motive 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-boys-disaster-01-motive",
+    "targetId": "case-detective-boys-disaster",
+    "field": "motive",
+    "value": "春日完全是奉父亲之命才与富家女忍订婚的，父亲要求他要娶富家女，否则就断绝经济援助。他想回到从前那种花心的日子，于是决定杀掉未婚妻，并伪装成意外事故。",
+    "sourceRefs": [
+      "src-detective-conan-world-boys-disaster-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution / Motive 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-boys-disaster-01-method",
+    "targetId": "case-detective-boys-disaster",
+    "field": "method",
+    "value": "春日把忍带到海边一处可以望见海的洞穴，让她喝下掺有安眠药的果汁，趁她昏睡时把她丢在洞里，打算让上涨的潮水把她淹死；随后他谎称洞中留下的SOS只是玩笑，试图拖住救援。",
+    "sourceRefs": [
+      "src-detective-conan-world-boys-disaster-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution / Motive 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-boys-disaster-01-evidence",
+    "targetId": "case-detective-boys-disaster",
+    "field": "evidence",
+    "value": "洞中留下的求救信号与忍的失踪直接矛盾，春日“只是玩笑”的说法站不住脚；柯南与少年侦探团在洞中找到了昏迷的忍。",
+    "sourceRefs": [
+      "src-detective-conan-world-boys-disaster-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution / Motive 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-boys-disaster-01-resolution",
+    "targetId": "case-detective-boys-disaster",
+    "field": "resolution",
+    "value": "柯南一行带着昏睡的忍往洞穴深处走，被潮水从另一处洞口冲到潮池，正好撞上在那里偷偷钓鱼的小五郎与春日。春日狗急跳墙，把步美当人质，威胁要杀掉在场所有人，被一位老人扔罐头打中，随后兰与管理员赶到将其制服逮捕。小五郎则因为在禁钓潮池钓鱼，被管理员训了整整一小时。",
+    "sourceRefs": [
+      "src-detective-conan-world-boys-disaster-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution / Motive 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-jinnai-01-culprit",
+    "targetId": "case-death-god-jinnai-murder",
+    "field": "culprit",
+    "value": "吉野里美（Satomi Yoshino），南条隼人的经纪人、前演员。",
+    "sourceRefs": [
+      "src-detective-conan-world-jinnai-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution / Motive 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-jinnai-01-motive",
+    "targetId": "case-death-god-jinnai-murder",
+    "field": "motive",
+    "value": "三年前北野弘之拿到了《死神阵内》的主演位置，嫉妒的南条诱骗他不带替身完成特技，并拆掉他车上的螺栓，导致车辆失控爆炸，北野身亡。某个夜晚吉野开车送醉酒的南条回家，他把这件事全部说了出来，吉野由此决定复仇。",
+    "sourceRefs": [
+      "src-detective-conan-world-jinnai-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution / Motive 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-jinnai-01-method",
+    "targetId": "case-death-god-jinnai-murder",
+    "field": "method",
+    "value": "吉野用乙烯胶带和钓鱼线在窗户上做出人体剪影，把线连到电灯开关与电梯上；电梯下行时先点亮房间的灯，再把胶带从窗户上扯掉，从楼下与外面看去就像房里有人走过。她以此制造“死神阵内现身”的假象，同时在七楼射杀南条。",
+    "sourceRefs": [
+      "src-detective-conan-world-jinnai-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution / Motive 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-jinnai-01-evidence",
+    "targetId": "case-death-god-jinnai-murder",
+    "field": "evidence",
+    "value": "柯南在电梯处被胶带绊倒，发现胶带与钓鱼线连动机关的痕迹；现场所谓“走动的人影”随电梯运行才出现，与真人行动不符。",
+    "sourceRefs": [
+      "src-detective-conan-world-jinnai-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution / Motive 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-jinnai-01-resolution",
+    "targetId": "case-death-god-jinnai-murder",
+    "field": "resolution",
+    "value": "柯南揭穿电梯联动的人体剪影诡计，指认吉野为凶手；吉野承认是为北野复仇，并说出南条醉酒后亲口承认三年前动手的经过。这话也说明三年前北野之死是南条所为，北野的旧案随之真相大白。",
+    "sourceRefs": [
+      "src-detective-conan-world-jinnai-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution / Motive 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-loan-company-01-culprit",
+    "targetId": "case-loan-company-president-murder",
+    "field": "culprit",
+    "value": "藤井贵子（Takako Fujii），Hida金融职员。",
+    "sourceRefs": [
+      "src-detective-conan-world-loan-company-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-loan-company-01-motive",
+    "targetId": "case-loan-company-president-murder",
+    "field": "motive",
+    "value": "贵子从大学毕业后三年一直因心脏病住院，父母已故、脾气不好又没朋友，只有男友来探望她。男友为她借了日田的钱，无力偿还后上吊自杀；贵子事后才知道男友是为她借钱，而合约就压在男友脚下。她进入公司从底层做起，只为等复仇的时机。",
+    "sourceRefs": [
+      "src-detective-conan-world-loan-company-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-loan-company-01-method",
+    "targetId": "case-loan-company-president-murder",
+    "field": "method",
+    "value": "贵子事先在厨房煤气灶旋钮的左侧涂上氰化钾，然后在离开办公室前把鸣笛水壶坐上火。水壶鸣笛时，多疑的日田慌着去关火，绝大多数灶具按右手习惯设计，他很自然会用右手拇指去拧旋钮左侧，毒物就这样沾在拇指上；他回办公室舔手指，随即中毒身亡。她原本打算第二天早上再擦掉毒物，尸体却被提前发现。",
+    "sourceRefs": [
+      "src-detective-conan-world-loan-company-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-loan-company-01-evidence",
+    "targetId": "case-loan-company-president-murder",
+    "field": "evidence",
+    "value": "毒物只出现在办公室门的内侧把手上，外侧没有，符合日田匆忙开门、沾毒、返回锁门的过程，也解释了房间反锁。案发后只有藤井贵子靠近过灶台，她借“泡茶”之机用手帕擦掉毒物；手帕是湿的但不是水，目暮在上面滴碘液后颜色消失，说明上面是漂白剂。漂白剂能中和氰化物，也能漂白痕迹，且不常在药店出售，却出现在女厕的柜子里。此外她惯用右手，取烟、点烟、拿东西都用右手，唯独那天用左手去拧旋钮，因为她抽烟时手指会碰嘴唇，怕残留毒物。",
+    "sourceRefs": [
+      "src-detective-conan-world-loan-company-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-loan-company-01-resolution",
+    "targetId": "case-loan-company-president-murder",
+    "field": "resolution",
+    "value": "柯南借沉睡的小五郎揭穿旋钮涂毒与漂白剂灭证，藤井贵子承认杀人。她把毒涂在左侧、用左手拧旋钮这两个细节，连同漂白剂手帕，一起构成了无法辩驳的证据链。",
+    "sourceRefs": [
+      "src-detective-conan-world-loan-company-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-conan-vs-kaitou-kid-01-culprit",
+    "targetId": "case-conan-vs-kaitou-kid",
+    "field": "culprit",
+    "value": "怪盗基德（黑羽快斗）；本集没有杀人凶手，作案目标为黑珍珠“漆黑之星”。",
+    "sourceRefs": [
+      "src-detective-conan-world-conan-vs-kaitou-kid"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-conan-vs-kaitou-kid-01-motive",
+    "targetId": "case-conan-vs-kaitou-kid",
+    "field": "motive",
+    "value": "基德盯上铃木财团收藏的世界最大黑珍珠“漆黑之星”，按预告函在愚人节动手；这一次既是为盗宝，也是他与柯南的第一次正式交锋。",
+    "sourceRefs": [
+      "src-detective-conan-world-conan-vs-kaitou-kid"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-conan-vs-kaitou-kid-01-method",
+    "targetId": "case-conan-vs-kaitou-kid",
+    "field": "method",
+    "value": "基德先用暗号预告函“四月一日，当月亮分成两半时，我将前来拜访漆黑之星之名起源之地，随海浪的呼唤”给出线索，在酒店天台与柯南初次见面时冒充中森警部的声音把警员都调上天台，再用闪光弹脱身；博物馆那次只是预演，他在船上伪装成铃木史郎混入，把真正的黑珍珠留在铃木朋子身上，让全员戴的复制品接连爆炸制造混乱，趁乱得手。",
+    "sourceRefs": [
+      "src-detective-conan-world-conan-vs-kaitou-kid"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-conan-vs-kaitou-kid-01-evidence",
+    "targetId": "case-conan-vs-kaitou-kid",
+    "field": "evidence",
+    "value": "柯南识破船上“铃木史郎”是基德假扮，因为园子打电话发现真正的父亲与姐姐还在家里；他又从朋子对珍珠“孔雀色”的描述、握持方式与因年代而黯淡的光泽，判断博物馆那颗太亮是赝品，从而锁定基德真正偷走的是朋子身上那颗。",
+    "sourceRefs": [
+      "src-detective-conan-world-conan-vs-kaitou-kid"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "p4-deep-case-conan-vs-kaitou-kid-01-resolution",
+    "targetId": "case-conan-vs-kaitou-kid",
+    "field": "resolution",
+    "value": "柯南在船上揭穿基德假扮成小兰，基德认输交还黑珍珠；柯南踩碎他的手机，防止他再用同样手法。基德临走谎称已剥走小兰的衣服，把柯南支开，实际只是在交给小兰前把礼服复制了一份，还留卡片向小兰道歉、夸她可爱。次日柯南被媒体捧为“守护黑珍珠的英雄”，他本人并不高兴；基德则因跳进冷海逃走而感冒，被青子笑骂。",
+    "sourceRefs": [
+      "src-detective-conan-world-conan-vs-kaitou-kid"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取案件页面 Case Situation / Resolution 正文并逐字段核对；L3全剧透字段。"
+  },
+  {
+    "candidateId": "cand-field-case-distinguished-family-consecutive-death-culprit",
+    "targetId": "case-distinguished-family-consecutive-death",
+    "field": "culprit",
+    "value": "日向美雪。她杀死长门三木昭，并参与藏匿长门秀臣的尸体；秀臣本人是自杀。三木昭另有独立计划：杀害岳父长门道三并嫁祸秀臣，以抓钩勒杀未遂。",
+    "sourceRefs": [
+      "src-detective-conan-world-distinguished-family-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取 Detective Conan Wiki 原页面正文并逐字段核对；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "cand-field-case-distinguished-family-consecutive-death-motive",
+    "targetId": "case-distinguished-family-consecutive-death",
+    "field": "motive",
+    "value": "二十年前那座小旅馆的大火由秀臣与三木昭引起，美雪的父母因此丧生、秀臣半张脸被烧伤。美雪得知真相后仍爱上秀臣，秀臣却在她求婚时因负罪而自杀。三木昭又当着美雪的面轻描淡写地谈那场纵火，美雪因此决定杀他，并让秀臣替他背下这桩命案。",
+    "sourceRefs": [
+      "src-detective-conan-world-distinguished-family-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取 Detective Conan Wiki 原页面正文并逐字段核对；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "cand-field-case-distinguished-family-consecutive-death-method",
+    "targetId": "case-distinguished-family-consecutive-death",
+    "field": "method",
+    "value": "三木昭先伪造秀臣的杀人现场：用注射器抽自己的血染绷带、戴泳帽再套毛线帽以免留下头发、把抓钩当作勒杀道三的器具，并以电话里假装被袭的喊声把所有人引到楼下。美雪在这个计划里反手杀他：她以“杀了道三就能当上新社长”为诱饵，在阳台上用旧钢笔刺伤他的手，让他松手坠落到栅栏上。秀臣的尸体此前由两人用庭院里的坑洞暂埋，后来以失踪的床单裹住投入池塘；案发前两天出现的“秀臣”，由美雪或三木昭穿他的衣服、缠他的绷带扮演。",
+    "sourceRefs": [
+      "src-detective-conan-world-distinguished-family-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取 Detective Conan Wiki 原页面正文并逐字段核对；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "cand-field-case-distinguished-family-consecutive-death-evidence",
+    "targetId": "case-distinguished-family-consecutive-death",
+    "field": "evidence",
+    "value": "三木昭手上一处小刺伤，与美雪那把笔尖弯折、已无法使用的旧钢笔对应；他坠落前抓住美雪的手腕，使她的手表脱落。阳台底部的抓钩痕迹也是连续几天“怪声”的来源。柯南另以秀臣素描对照宅内家具摆放、用一幅新买的名画破绽，逐项确认推断。",
+    "sourceRefs": [
+      "src-detective-conan-world-distinguished-family-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取 Detective Conan Wiki 原页面正文并逐字段核对；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "cand-field-case-distinguished-family-consecutive-death-resolution",
+    "targetId": "case-distinguished-family-consecutive-death",
+    "field": "resolution",
+    "value": "柯南借毛利小五郎揭穿美雪，服部平次以抓钩爬上阳台当场演示三木昭的嫁祸手法。美雪承认自己是为让秀臣“不再孤零零泡在冷水里”才动手，随后用装了苯的热水瓶和打火机试图与众人同归于尽并自杀；柯南与服部事先调换了热水瓶内容物，未能引爆。她崩溃哭喊后被带走。",
+    "sourceRefs": [
+      "src-detective-conan-world-distinguished-family-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取 Detective Conan Wiki 原页面正文并逐字段核对；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "cand-field-case-bank-heist-murder-culprit",
+    "targetId": "case-bank-heist-murder",
+    "field": "culprit",
+    "value": "谷口升。他是抢劫犯佐伯透的共犯，在佐伯开枪打伤前岛之后将其击毙灭口。",
+    "sourceRefs": [
+      "src-detective-conan-world-bank-heist-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取 Detective Conan Wiki 原页面正文并逐字段核对；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "cand-field-case-bank-heist-murder-motive",
+    "targetId": "case-bank-heist-murder",
+    "field": "motive",
+    "value": "灭口。佐伯意外打伤职员前岛哲也，事态失控；谷口担心佐伯被捕后供出自己，于是当场开枪打死同伙，再把现场包装成正当防卫。",
+    "sourceRefs": [
+      "src-detective-conan-world-bank-heist-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取 Detective Conan Wiki 原页面正文并逐字段核对；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "cand-field-case-bank-heist-murder-method",
+    "targetId": "case-bank-heist-murder",
+    "field": "method",
+    "value": "两人事先约定以电话铃声为暗号：佐伯遇到麻烦，谷口就拨他手机提醒。抢劫中谷口按约定拨号，但前岛正好从背后扑向佐伯，佐伯误以为响的是自己的手机而僵住，慌乱中开枪打伤前岛。谷口也随即慌了，索性开枪杀死佐伯，伪装成夺枪自卫。",
+    "sourceRefs": [
+      "src-detective-conan-world-bank-heist-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取 Detective Conan Wiki 原页面正文并逐字段核对；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "cand-field-case-bank-heist-murder-evidence",
+    "targetId": "case-bank-heist-murder",
+    "field": "evidence",
+    "value": "一批止咳润喉糖。谷口到银行前与佐伯见过面，见他感冒便分了一半糖条给他；后来又把这半条给了同样感冒的柯南。抢劫过程中佐伯的糖吃完，想起谷口还有，就把包装纸丢在地上翻找外套，而糖早不在谷口身上。两半包装纸拼合完全吻合，证明二人是共犯。另有被挟持者用录音机偷录的现场声音，与各人手机铃声逐一比对，确认响的是佐伯的手机，即谷口在作案期间确实给他打过电话。",
+    "sourceRefs": [
+      "src-detective-conan-world-bank-heist-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取 Detective Conan Wiki 原页面正文并逐字段核对；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "cand-field-case-bank-heist-murder-resolution",
+    "targetId": "case-bank-heist-murder",
+    "field": "resolution",
+    "value": "柯南借用园子的声音当场揭穿谷口是共犯并说明其杀人经过，警方将其逮捕。",
+    "sourceRefs": [
+      "src-detective-conan-world-bank-heist-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取 Detective Conan Wiki 原页面正文并逐字段核对；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "cand-field-case-wandering-artist-murder-culprit",
+    "targetId": "case-wandering-artist-murder",
+    "field": "culprit",
+    "value": "早濑喜美江。死者早濑达夫是她“死去”一年的丈夫。",
+    "sourceRefs": [
+      "src-detective-conan-world-wandering-artist-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取 Detective Conan Wiki 原页面正文并逐字段核对；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "cand-field-case-wandering-artist-murder-motive",
+    "targetId": "case-wandering-artist-murder",
+    "field": "motive",
+    "value": "早濑达夫在银行任职期间挪用公款，失踪后把罪责留给妻子独自承受社会指责，她因此恨他到极点。杀他既为报复，也为把那笔藏起来的公款据为己有——用她自己的说法，是要“把失去的时间买回来”。",
+    "sourceRefs": [
+      "src-detective-conan-world-wandering-artist-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取 Detective Conan Wiki 原页面正文并逐字段核对；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "cand-field-case-wandering-artist-murder-method",
+    "targetId": "case-wandering-artist-murder",
+    "field": "method",
+    "value": "一年前达夫在雪山失踪其实是伪装，他被妻子藏匿起来。他因失忆流落在外，靠素描本能反复画着自家房子，记忆逐渐恢复，最终循着素描找回自家门口，被妻子发现后勒死，尸体弃在山坡上。喜美江还专门请清洁公司彻底清扫屋内，并否认死者是自己的丈夫。",
+    "sourceRefs": [
+      "src-detective-conan-world-wandering-artist-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取 Detective Conan Wiki 原页面正文并逐字段核对；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "cand-field-case-wandering-artist-murder-evidence",
+    "targetId": "case-wandering-artist-murder",
+    "field": "evidence",
+    "value": "达夫恢复记忆后回家时在屋内留下的指纹，证明死者正是早濑达夫本人；喜美江客厅家具的摆放与素描中的位置不符，说明素描画的并非现在的房屋；她刚在画廊买下一幅昂贵的画，也与挪用款去向的追问相扣。",
+    "sourceRefs": [
+      "src-detective-conan-world-wandering-artist-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取 Detective Conan Wiki 原页面正文并逐字段核对；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "cand-field-case-wandering-artist-murder-resolution",
+    "targetId": "case-wandering-artist-murder",
+    "field": "resolution",
+    "value": "柯南把众人召集到早濑家当场说明真相，指出凶手是早濑喜美江，她承认杀人。柯南对她几乎没有同情，只说了一句：她在监狱里还有很多时间。",
+    "sourceRefs": [
+      "src-detective-conan-world-wandering-artist-case"
+    ],
+    "confidence": "medium",
+    "reviewStatus": "accepted",
+    "reviewNote": "已读取 Detective Conan Wiki 原页面正文并逐字段核对；L3 全剧透字段。"
+  },
+  {
+    "candidateId": "cand-ep-81-82-l3-culprit",
+    "targetId": "case-popular-artist-kidnapping",
+    "field": "culprit",
+    "value": "宫原悟史（Satoshi Miyahara）及其助手",
+    "sourceRefs": [
+      "src-detective-conan-world-popular-artist-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Plot/Resolution：Culprits 写作 Satoshi Miyahara and his assistant；Resol...[truncated]"
+  },
+  {
+    "candidateId": "cand-ep-81-82-l3-motive",
+    "targetId": "case-popular-artist-kidnapping",
+    "field": "motive",
+    "value": "灭口与销毁证据：宫原在跨年夜于正觉寺附近枪杀一名曾共同抢劫后逃往国外又回来勒索他的男子，Two-Mix 听到枪声后误当作烟花写进歌词，歌词意外暴露了作案细节；他绑架两人是要在警方找到她们前连人带样带一并毁掉。",
+    "sourceRefs": [
+      "src-detective-conan-world-popular-artist-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：歌词意外揭示其杀人真相，故决定 destroy the Two-Mix along with the demo tape。"
+  },
+  {
+    "candidateId": "cand-ep-81-82-l3-method",
+    "targetId": "case-popular-artist-kidnapping",
+    "field": "method",
+    "value": "先枪杀受害者，再把重新装填的枪塞进死者手中朝地面开一枪，使警方在其手上检出硝烟痕迹，从而被判定为正当防卫；助手在其报警期间带走一发子弹与第一枪的空弹壳。绑架阶段则在录音室外将两名成员强行押上车。",
+    "sourceRefs": [
+      "src-detective-conan-world-popular-artist-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：描述枪械布置、助手取走子弹与弹壳、以及绑架过程。"
+  },
+  {
+    "candidateId": "cand-ep-81-82-l3-evidence",
+    "targetId": "case-popular-artist-kidnapping",
+    "field": "evidence",
+    "value": "Two-Mix 的样带歌词与案发当夜所听到的时间、声响细节吻合；柯南借手机机关定位并救出人质；寺院住持虽是聋人整夜在寺中，仍看到过宫原的脸。",
+    "sourceRefs": [
+      "src-detective-conan-world-popular-artist-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：歌词来源、住持目击、柯南用手机机关救人。"
+  },
+  {
+    "candidateId": "cand-ep-81-82-l3-resolution",
+    "targetId": "case-popular-artist-kidnapping",
+    "field": "resolution",
+    "value": "柯南用手机机关救出少年侦探团与 Two-Mix 两名成员，30 分钟后警方逮捕两名绑架者；宫原供认杀人，被害人是当年抢劫同伙、回国后勒索他。演唱会得以按时开始。",
+    "sourceRefs": [
+      "src-detective-conan-world-popular-artist-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution 末段：人质获救、逮捕、供述、演唱会顺利举行。"
+  },
+  {
+    "candidateId": "cand-ep-83-86-l3-case-general-hospital-murder-culprit",
+    "targetId": "case-general-hospital-murder",
+    "field": "culprit",
+    "value": "外科医生白井光雄（Mitsuo Shirai）",
+    "sourceRefs": [
+      "src-detective-conan-world-general-hospital-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：The culprit who murdered Eto is Mitsuo Shirai。"
+  },
+  {
+    "candidateId": "cand-ep-83-86-l3-case-general-hospital-murder-motive",
+    "targetId": "case-general-hospital-murder",
+    "field": "motive",
+    "value": "被害人江藤胜敏长期嘲讽他，还以揭发手段逼他退出两人争抢的晋升名额，他遂起杀意。",
+    "sourceRefs": [
+      "src-detective-conan-world-general-hospital-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：was always mocked by his rival Eto…Eto tried to blackmail him into backing off the promotion。"
+  },
+  {
+    "candidateId": "cand-ep-83-86-l3-case-general-hospital-murder-method",
+    "targetId": "case-general-hospital-murder",
+    "field": "method",
+    "value": "先用 CPR 假人做前三夜的「幻影刺杀」：借对面房间的灯光把人影投到小五郎房的窗上，让人以为小五郎出现幻觉、精神失常，便于把罪栽给他；第四夜在对面房间真实刺杀江藤，再以钝器打昏小五郎并把刀塞进他手里。",
+    "sourceRefs": [
+      "src-detective-conan-world-general-hospital-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：light was reflecting the silhouettes…first three murders were in reality a CPR dummy…fourth and real murder occurred in the room opposite。"
+  },
+  {
+    "candidateId": "cand-ep-83-86-l3-case-general-hospital-murder-evidence",
+    "targetId": "case-general-hospital-murder",
+    "field": "evidence",
+    "value": "咖啡杯上没有他的指纹：他戴乳胶手套捏住杯把冲洗，护士的指纹却仍留在杯上；他称自己清洗过杯子，无法解释为何只洗掉自己的指纹。另查到他根本不在办公室，是用免提电话与护士通话制造在场假象。",
+    "sourceRefs": [
+      "src-detective-conan-world-general-hospital-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：指纹缺失、手套冲洗、免持电话制造不在场。"
+  },
+  {
+    "candidateId": "cand-ep-83-86-l3-case-general-hospital-murder-resolution",
+    "targetId": "case-general-hospital-murder",
+    "field": "resolution",
+    "value": "白井当面对质后认罪，交代动机与被打压的晋升竞争；小五郎洗清嫌疑。",
+    "sourceRefs": [
+      "src-detective-conan-world-general-hospital-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution 末段认罪。"
+  },
+  {
+    "candidateId": "cand-ep-83-86-l3-case-ski-lodge-murder-culprit",
+    "targetId": "case-ski-lodge-murder",
+    "field": "culprit",
+    "value": "米原晃子（Akiko Yonehara），帝丹小学前教师，被害者们的同事",
+    "sourceRefs": [
+      "src-detective-conan-world-ski-lodge-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：The killer is Akiko Yonehara。"
+  },
+  {
+    "candidateId": "cand-ep-83-86-l3-case-ski-lodge-murder-motive",
+    "targetId": "case-ski-lodge-murder",
+    "field": "motive",
+    "value": "三年前十二岁的持田美奈子在排球社教室被吊死，校方以考试压力自杀结案；晃子判断她是被杉山与另一名教师（岛田）灭口，遂以「合宿」名义把相关教师聚到山庄复仇。",
+    "sourceRefs": [
+      "src-detective-conan-world-ski-lodge-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：inspired by the death of the little Minako Mochizuki…deduced that she had been killed。"
+  },
+  {
+    "candidateId": "cand-ep-83-86-l3-case-ski-lodge-murder-method",
+    "targetId": "case-ski-lodge-murder",
+    "field": "method",
+    "value": "先杀音乐教师杉山并藏尸屋外让其冻僵，扰乱死亡时间；再袭园子制造不在场证明，随即假扮成被害人（园子看到的「晃子」其实是杉山尸体）；最后以假发编成的发辫勒杀，用完可收回头上、不留凶器。各处留下口红写的「美奈子」。",
+    "sourceRefs": [
+      "src-detective-conan-world-ski-lodge-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：藏尸冻僵、袭击园子做不在场证明、假发勒杀、口红留言。"
+  },
+  {
+    "candidateId": "cand-ep-83-86-l3-case-ski-lodge-murder-evidence",
+    "targetId": "case-ski-lodge-murder",
+    "field": "evidence",
+    "value": "死者岛田颈部有细小的血痕抓伤，假发上检出他的血迹；凶器始终搜不到，因为就是她头上的长假发。",
+    "sourceRefs": [
+      "src-detective-conan-world-ski-lodge-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：Ran says there were small bloody scratches on the dead Shimoda's neck…droplets of his blood in the wig。"
+  },
+  {
+    "candidateId": "cand-ep-83-86-l3-case-ski-lodge-murder-resolution",
+    "targetId": "case-ski-lodge-murder",
+    "field": "resolution",
+    "value": "晃子摘下假发认罪，说无法原谅背叛甚至杀害学生的教师，也承认自己伤及园子同样有罪；兰情绪崩溃跪抱柯南。暴风雪停后警方抵达。",
+    "sourceRefs": [
+      "src-detective-conan-world-ski-lodge-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution 末段。"
+  },
+  {
+    "candidateId": "cand-ep-83-86-l3-case-kidnapping-location-culprit",
+    "targetId": "case-kidnapping-location",
+    "field": "culprit",
+    "value": "Tomidokoro（富所），被绑架女孩准子的父亲所租住大楼的受害者家属",
+    "sourceRefs": [
+      "src-detective-conan-world-kidnapping-location-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki People：Tomidokoro — Junko's kidnapper。"
+  },
+  {
+    "candidateId": "cand-ep-83-86-l3-case-kidnapping-location-motive",
+    "targetId": "case-kidnapping-location",
+    "field": "motive",
+    "value": "他被租户（准子之父）的疏忽害死了幼女：大楼施工期间屋顶门锁损坏达一周无人修理，孩子从屋顶坠落身亡，而对方获判无罪，他无法接受遂行报复。",
+    "sourceRefs": [
+      "src-detective-conan-world-kidnapping-location-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：caused by his negligence…Since Junko's father was acquitted, he couldn't stand it and decided to take revenge。"
+  },
+  {
+    "candidateId": "cand-ep-83-86-l3-case-kidnapping-location-method",
+    "targetId": "case-kidnapping-location",
+    "field": "method",
+    "value": "绑架并捆绑准子，把她带到附近大楼的露台；用对讲机遥控指示准子之父行动，最后要求他自刎，否则杀死准子。",
+    "sourceRefs": [
+      "src-detective-conan-world-kidnapping-location-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：forced Junko's dad to do his bidding via walkie-talkie…wanted the other man to stab himself。"
+  },
+  {
+    "candidateId": "cand-ep-83-86-l3-case-kidnapping-location-evidence",
+    "targetId": "case-kidnapping-location",
+    "field": "evidence",
+    "value": "光彦的新无线电收音机截获了犯人与被害者家属的通话，据此锁定位置。",
+    "sourceRefs": [
+      "src-detective-conan-world-kidnapping-location-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Case Situation：radio transceiver intercepts a kidnap case；Resolution 由柯南与少年侦探团破局。"
+  },
+  {
+    "candidateId": "cand-ep-83-86-l3-case-kidnapping-location-resolution",
+    "targetId": "case-kidnapping-location",
+    "field": "resolution",
+    "value": "柯南把对讲机踢到犯人脸上将其击昏，救出准子并用对讲机告知其父，阻止了自杀；柯南因此错过兰的空手道比赛，还因谎称看到背踢取胜被兰识破。",
+    "sourceRefs": [
+      "src-detective-conan-world-kidnapping-location-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution 末段。"
+  },
+  {
+    "candidateId": "cand-ep-87-89-l3-case-crane-return-murder-culprit",
+    "targetId": "case-crane-return-murder",
+    "field": "culprit",
+    "value": "町田保（Tamotsu Machida），死者之弟，画家",
+    "sourceRefs": [
+      "src-detective-conan-world-crane-return-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：revealed the real culprit who is Tamotsu Machida。"
+  },
+  {
+    "candidateId": "cand-ep-87-89-l3-case-crane-return-murder-motive",
+    "targetId": "case-crane-return-murder",
+    "field": "motive",
+    "value": "他长期靠兄长接济，得知兄长要把全部财产捐给濒危鸟类保护后，为继承遗产而杀兄并嫁祸侄子博。",
+    "sourceRefs": [
+      "src-detective-conan-world-crane-return-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：mooching off Shuzo for money…decided to kill him and frame Hiroshi to inherit his wealth。"
+  },
+  {
+    "candidateId": "cand-ep-87-89-l3-case-crane-return-murder-method",
+    "targetId": "case-crane-return-murder",
+    "field": "method",
+    "value": "在壁炉烟囱内架好弩，用橡皮筋固定一块木片卡住扳机，木片与钓鱼线相连；等博朝标本鸟发射十字弓的同时拉动钓鱼线触发弩箭射死秀三，再用钓鱼线把弩从烟囱里拉出。",
+    "sourceRefs": [
+      "src-detective-conan-world-crane-return-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：bowgun in the chimney…wood behind trigger…rubberband…fishing wire…pulled the bowgun out。"
+  },
+  {
+    "candidateId": "cand-ep-87-89-l3-case-crane-return-murder-evidence",
+    "targetId": "case-crane-return-murder",
+    "field": "evidence",
+    "value": "准备替换破窗的玻璃上有一道划痕，来自博射出的十字弓；碎玻璃整齐排列说明被超弹性镜面挡住；烟囱内有钓鱼线留下的直线状空隙；他后裤袋里有一根来自烟囱顶鸟巢的羽毛。",
+    "sourceRefs": [
+      "src-detective-conan-world-crane-return-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：scratch on replacement glass…Super elastic mirror…void in chimney…bird feather in his back pocket。"
+  },
+  {
+    "candidateId": "cand-ep-87-89-l3-case-crane-return-murder-resolution",
+    "targetId": "case-crane-return-murder",
+    "field": "resolution",
+    "value": "柯南借小五郎之口推翻博的误杀自白，指认真凶町田保；秀三的两名子女最终决定按其遗愿把遗产捐给濒危鸟类。",
+    "sourceRefs": [
+      "src-detective-conan-world-crane-return-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution 末段。"
+  },
+  {
+    "candidateId": "cand-ep-87-89-l3-case-dracula-villa-murder-culprit",
+    "targetId": "case-dracula-villa-murder",
+    "field": "culprit",
+    "value": "田所俊哉（Toshiya Tadokoro），死者弟子兼实际代笔人",
+    "sourceRefs": [
+      "src-detective-conan-world-dracula-villa-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：the actual culprit: Toshiya Tadokoro。"
+  },
+  {
+    "candidateId": "cand-ep-87-89-l3-case-dracula-villa-murder-motive",
+    "targetId": "case-dracula-villa-murder",
+    "field": "motive",
+    "value": "妹妹香织患肾衰竭，寅仓以负担医疗费为条件让他做「影子写手」；寅仓却买通医生只维持不治愈以延长合作，最终香织一年前病亡，且长期谎称她仍在美洲住院。护士愧疚告知真相后他崩溃报仇。",
+    "sourceRefs": [
+      "src-detective-conan-world-dracula-villa-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：bribed the Tokyo doctor…keep her merely stable…caused young Kaori's death。"
+  },
+  {
+    "candidateId": "cand-ep-87-89-l3-case-dracula-villa-murder-method",
+    "targetId": "case-dracula-villa-murder",
+    "field": "method",
+    "value": "屋顶雪面未留脚印，因为他把梯子架在相邻屋顶之间跨过去；留声机胶片卷轴既营造恐怖气氛，又靠胶片一端系门实现离开后自动关门、且不留下指纹；事先在酒窖藏一支同样的木桩，解决无法从密室取走凶器的问题。",
+    "sourceRefs": [
+      "src-detective-conan-world-dracula-villa-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：ladder from one roof to the other…film strip tied to the door…duplicate stake in the cellar。"
+  },
+  {
+    "candidateId": "cand-ep-87-89-l3-case-dracula-villa-murder-evidence",
+    "targetId": "case-dracula-villa-murder",
+    "field": "evidence",
+    "value": "他声称在房内听到胶片卷轴的转动声，但该房间做了隔音处理，这一点只有真凶才说得出来；此外密室的门是靠胶片自动关上。",
+    "sourceRefs": [
+      "src-detective-conan-world-dracula-villa-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution：impossible as the door was soundproofed。"
+  },
+  {
+    "candidateId": "cand-ep-87-89-l3-case-dracula-villa-murder-resolution",
+    "targetId": "case-dracula-villa-murder",
+    "field": "resolution",
+    "value": "柯南识破胶片与屋顶梯子的机关，指出只有田所能说出「听到卷轴声」这一点，田所认罪。",
+    "sourceRefs": [
+      "src-detective-conan-world-dracula-villa-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "Wiki Resolution 末段。"
+  },
+  {
+    "candidateId": "cand-l3-case-flower-scent-murder-summary",
+    "targetId": "case-flower-scent-murder",
+    "field": "summary",
+    "value": "被害人：白木大辅（Daisuke Shiraki），58 岁，Bay Front 酒店老板；先被氯仿麻醉，再用领带勒死。",
+    "sourceRefs": [
+      "src-detective-conan-world-flower-scent-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-l3-case-flower-scent-murder-culprit",
+    "targetId": "case-flower-scent-murder",
+    "field": "culprit",
+    "value": "尾崎翠（Midori Ozaki），33 岁，理香的经纪人。",
+    "sourceRefs": [
+      "src-detective-conan-world-flower-scent-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-l3-case-flower-scent-murder-motive",
+    "targetId": "case-flower-scent-murder",
+    "field": "motive",
+    "value": "理香对外宣称的花道绝技实为其姐春香所创。理香与白木合谋窃取春香技艺并买通花道界赞助人，令春香被整个花道圈封杀、名声尽毁，春香最终在卧室用数十束花同时绽放释放毒物自杀。尾崎翠发现姐姐陈尸花丛后查出真相，遂以经纪人身份潜入理香身边，策划一并杀死理香与白木。",
+    "sourceRefs": [
+      "src-detective-conan-world-flower-scent-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-l3-case-flower-scent-murder-method",
+    "targetId": "case-flower-scent-murder",
+    "field": "method",
+    "value": "把氯仿与氰化钾各冻成小球，分别塞进经低温处理、退回花苞状态的鲜花里。赠送给宾客的花中放氯仿球，随时间推移花朵绽放、氯仿挥发令目标昏睡；舞台上的花中放氰化钾球，同理在表演时释放，企图杀死理香并在其中一并自尽。只有同时负责宾客用花与舞台用花的人才能完成这套布置。",
+    "sourceRefs": [
+      "src-detective-conan-world-flower-scent-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-l3-case-flower-scent-murder-evidence",
+    "targetId": "case-flower-scent-murder",
+    "field": "evidence",
+    "value": "柯南在被褥箱中发现氯仿（CHCl₃）与氰化钾（KCN）两瓶化学品，并从受害者的花上闻到氯仿气味；搜查理香随身物品时找到一瓶氯仿，确认为同一来源。因宾客收到的花本应已盛开、而舞台上的花仍是花苞，柯南据此判定第二批毒花针对的是理香本人；又因花由经纪人尾崎翠一人经手，锁定凶手。",
+    "sourceRefs": [
+      "src-detective-conan-world-flower-scent-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-l3-case-flower-scent-murder-resolution",
+    "targetId": "case-flower-scent-murder",
+    "field": "resolution",
+    "value": "柯南揭穿冰镇毒花球的机关，指出尾崎翠是把姐姐的绝技变成杀人手段。尾崎翠的计划是先杀白木、再在舞台上与理香同归于尽；理香获救，幕后旧案一并被揭开。",
+    "sourceRefs": [
+      "src-detective-conan-world-flower-scent-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-l3-case-bank-robber-hospitalization-summary",
+    "targetId": "case-bank-robber-hospitalization",
+    "field": "summary",
+    "value": "被害人：关口由美子（Yumiko Sekiguchi），被劫匪团伙挟持；住院的烧伤病人为团伙成员，是灭口对象。",
+    "sourceRefs": [
+      "src-detective-conan-world-bank-robber-hospital-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-l3-case-bank-robber-hospitalization-culprit",
+    "targetId": "case-bank-robber-hospitalization",
+    "field": "culprit",
+    "value": "劫匪团伙：首领山本、赤羽右卫门、英子、高垣，另有伪装成警察与护士的两人参与。直接胁迫者为该团伙，动手者被逼为银行职员关口义男。",
+    "sourceRefs": [
+      "src-detective-conan-world-bank-robber-hospital-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-l3-case-bank-robber-hospitalization-motive",
+    "targetId": "case-bank-robber-hospitalization",
+    "field": "motive",
+    "value": "团伙为撇清银行抢劫案，打算杀掉烧伤住院的同伙灭口，并把银行职员关口义男伪造成策划整起抢劫的主谋；为此挟持他的女儿关口由美子，逼他动手。",
+    "sourceRefs": [
+      "src-detective-conan-world-bank-robber-hospital-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-l3-case-bank-robber-hospitalization-method",
+    "targetId": "case-bank-robber-hospitalization",
+    "field": "method",
+    "value": "把枪藏在糖果盒里交给义男，让他用里面的武器杀死烧伤病人；同时用手机在院内多处监视义男的行动，由同伙在商场楼顶露台用望远镜远程观察，一旦他迟疑就威胁对其女儿下手。",
+    "sourceRefs": [
+      "src-detective-conan-world-bank-robber-hospital-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-l3-case-bank-robber-hospitalization-evidence",
+    "targetId": "case-bank-robber-hospitalization",
+    "field": "evidence",
+    "value": "柯南注意到义男声称很忙却一直提着糖果盒在院内走动，而糖果盒本不该是给父亲的礼物（其父为糖尿病人，不能吃糖）；院内禁止使用手机，却有数人一直打电话并注视义男。他又屡次望向商场方向并低声念女儿名字——柯南据此判断女儿被挟持在商场楼顶露台，因为从那里可以用望远镜清楚观察他们的动静。",
+    "sourceRefs": [
+      "src-detective-conan-world-bank-robber-hospital-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-l3-case-bank-robber-hospitalization-resolution",
+    "targetId": "case-bank-robber-hospitalization",
+    "field": "resolution",
+    "value": "柯南当面拦下义男并道破胁迫结构。义男承认被设局。柯南从糖果盒里取出枪，引起伪装警察与持报男子注意，随即用增强踢力鞋踢出足球制服二人；又用麻醉手表放倒伪装护士及看守女儿的woman，其余少年侦探团成员配合行动。父女团聚，劫匪团伙全部被捕。",
+    "sourceRefs": [
+      "src-detective-conan-world-bank-robber-hospital-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-l3-case-fearful-traversing-murder-summary",
+    "targetId": "case-fearful-traversing-murder",
+    "field": "summary",
+    "value": "被害人：平井健一（Kenichi Hirai），22 岁，登山向导；被飞刀擦伤脸颊后失去平衡坠崖，头部撞石致死。",
+    "sourceRefs": [
+      "src-detective-conan-world-fearful-traverse-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-l3-case-fearful-traversing-murder-culprit",
+    "targetId": "case-fearful-traversing-murder",
+    "field": "culprit",
+    "value": "代号「狐狸」的职业杀手，本作中冒充山间小屋管理员岩田重吉（Juukichi Iwata）。",
+    "sourceRefs": [
+      "src-detective-conan-world-fearful-traverse-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-l3-case-fearful-traversing-murder-motive",
+    "targetId": "case-fearful-traversing-murder",
+    "field": "motive",
+    "value": "平井长期往返该山道，认识真正的岩田重吉，是「狐狸」冒名顶替计划中的变数，因此在计划推进前被灭口。「狐狸」本身是受雇杀手，与牛尾文三之间另有因果：半年前他在刺杀某企业社长时令对方车辆失控撞上校车，造成牛尾年仅 5 岁的女儿千纱死亡，「狐狸」由此隐姓埋名避风头。",
+    "sourceRefs": [
+      "src-detective-conan-world-fearful-traverse-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-l3-case-fearful-traversing-murder-method",
+    "targetId": "case-fearful-traversing-murder",
+    "field": "method",
+    "value": "在登山途中向平井投掷小刀；平井仓促躲闪只被划伤脸颊，但失去平衡坠下高崖。「狐狸」事前已将真正的管理员岩田重吉绑架并囚禁在附近洞穴，自己以管理员身份在小屋接待一行人，掌握所有人的动向。",
+    "sourceRefs": [
+      "src-detective-conan-world-fearful-traverse-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-l3-case-fearful-traversing-murder-evidence",
+    "targetId": "case-fearful-traversing-murder",
+    "field": "evidence",
+    "value": "柯南与毛利小五郎下崖验尸，发现平井后脑撞在岩石上，但脸颊另有一道刀割伤，且近处有一把带血的小刀——说明有人先向他掷刀，他勉强避开却被划伤、失衡坠亡，并非单纯失足。其后文三目睹「老人」岩田在滑坡中把川边推下悬崖后健步逃走，才判断这个「管理员」就是「狐狸」本人。",
+    "sourceRefs": [
+      "src-detective-conan-world-fearful-traverse-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-l3-case-fearful-traversing-murder-resolution",
+    "targetId": "case-fearful-traversing-murder",
+    "field": "resolution",
+    "value": "文三坦承整趟登山都是他设的局：他从未生病、也不想寻死，一切只为亲手杀掉害死女儿千纱的「狐狸」。他一度举枪，柯南拿出他钱包里千纱的照片请他不要弄脏自己的手，文三放下枪；「狐狸」抢枪欲杀众人，被柯南踢飞，逃跑时被小五郎以柔道摔倒，伪装脱落、真面目远比外表年轻。「狐狸」、文三与川边肇三人被捕；离开前文三向柯南道谢并含笑告别。",
+    "sourceRefs": [
+      "src-detective-conan-world-fearful-traverse-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "字段取自 detectiveconanworld.com wiki 页面正文，逐条核对。"
+  },
+  {
+    "candidateId": "cand-case-snow-woman-legend-murder-summary",
+    "targetId": "case-snow-woman-legend-murder",
+    "field": "summary",
+    "value": "被害人：绢田亚希子（Akiko Kinoshita），26 岁，以「雪女」一角走红的电影女星，死于低温失温（hypothermia），遗体被埋在雪中。",
+    "sourceRefs": [
+      "src-detective-conan-world-snow-woman-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "被害人身份、死因与现场，取自 Case Situation／案情信息框。"
+  },
+  {
+    "candidateId": "cand-case-snow-woman-legend-murder-culprit",
+    "targetId": "case-snow-woman-legend-murder",
+    "field": "culprit",
+    "value": "被害人的专属替身演员、同岁同伴浅沼洋子（Yoko Asanuma）。",
+    "sourceRefs": [
+      "src-detective-conan-world-snow-woman-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "真凶及冒名／身份关系，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-snow-woman-legend-murder-motive",
+    "targetId": "case-snow-woman-legend-murder",
+    "field": "motive",
+    "value": "嫉妒。亚希子始终拿到关注与名声，而洋子作为替身最多只能做她的影子，永远站在二线。",
+    "sourceRefs": [
+      "src-detective-conan-world-snow-woman-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "动机链条，取自 Resolution 段落，保留原文因果不断章。"
+  },
+  {
+    "candidateId": "cand-case-snow-woman-legend-murder-method",
+    "targetId": "case-snow-woman-legend-murder",
+    "field": "method",
+    "value": "洋子先伪造一封亚希子自称生病、想自杀的信，再预订自己多年前打工过的山形温泉旅馆房间，安排两人同住。次日滑雪途中给亚希子下药使其昏睡，脱下她的滑雪服换上一身白色和服，把人埋进雪里造成失温死亡；随后自己穿上亚希子含全脸面罩的滑雪装返回旅馆，此后一人分饰两角。因熟悉旅馆地形，众人一直以为亚希子只是「生病」待在房间。",
+    "sourceRefs": [
+      "src-detective-conan-world-snow-woman-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "作案手法时间线，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-snow-woman-legend-murder-evidence",
+    "targetId": "case-snow-woman-legend-murder",
+    "field": "evidence",
+    "value": "众人先因那封伪造信认定亚希子是想自杀出走，直到雪中挖出遗体也以「自杀」收场。柯南从一人分饰两角时无法同时出现在两处、以及旅馆动线与入住安排上的破绽反推出真相，把「雪女」的传说外观还原成一场人为的低温杀人。",
+    "sourceRefs": [
+      "src-detective-conan-world-snow-woman-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "决定性证据与推理切入点，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-snow-woman-legend-murder-resolution",
+    "targetId": "case-snow-woman-legend-murder",
+    "field": "resolution",
+    "value": "柯南揭穿洋子的替身身份与分饰两角的手法，说明那封「自杀信」是她伪造的、白色的和服与雪地是故意制造的雪女意象。真相在旅馆众人面前公开，洋子的嫉妒动机与其长期作为影子的处境一并被点明。",
+    "sourceRefs": [
+      "src-detective-conan-world-snow-woman-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "收束与结局，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-kogoro-date-murder-summary",
+    "targetId": "case-kogoro-date-murder",
+    "field": "summary",
+    "value": "被害人：竹中一美（Kazumi Takenaka），29 岁，公司职员，胸口中刀死于自宅公寓。",
+    "sourceRefs": [
+      "src-detective-conan-world-kogoro-date-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "被害人身份、死因与现场，取自 Case Situation／案情信息框。"
+  },
+  {
+    "candidateId": "cand-case-kogoro-date-murder-culprit",
+    "targetId": "case-kogoro-date-murder",
+    "field": "culprit",
+    "value": "被害人的室友、进口商品销售总监岛村幸子（Sachiko Shimamura）。",
+    "sourceRefs": [
+      "src-detective-conan-world-kogoro-date-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "真凶及冒名／身份关系，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-kogoro-date-murder-motive",
+    "targetId": "case-kogoro-date-murder",
+    "field": "motive",
+    "value": "灭口。一美掌握幸子在日本销售违禁商品的把柄，并以此勒索，威胁向警方举报。",
+    "sourceRefs": [
+      "src-detective-conan-world-kogoro-date-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "动机链条，取自 Resolution 段落，保留原文因果不断章。"
+  },
+  {
+    "candidateId": "cand-case-kogoro-date-murder-method",
+    "targetId": "case-kogoro-date-murder",
+    "field": "method",
+    "value": "命案发生前二十分钟，幸子刻意让快递员把邮件交给一美签收，并当场确认圆珠笔还留有墨水——这封签收单就此成为她「不久后一美还活着」的时间证据。二十分钟后她持刀刺死一美，尸体倒地时圆珠笔滚落，她慌乱间抓起笔，随后把笔放进自己车里。",
+    "sourceRefs": [
+      "src-detective-conan-world-kogoro-date-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "作案手法时间线，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-kogoro-date-murder-evidence",
+    "targetId": "case-kogoro-date-murder",
+    "field": "evidence",
+    "value": "关键物证是那支圆珠笔：签收单上的笔迹证明一美当时还活着并能正常签字，而包裹签收与死亡之间只有二十分钟，期间出入公寓的只有幸子。柯南据此戳破幸子的不在场说法。",
+    "sourceRefs": [
+      "src-detective-conan-world-kogoro-date-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "决定性证据与推理切入点，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-kogoro-date-murder-resolution",
+    "targetId": "case-kogoro-date-murder",
+    "field": "resolution",
+    "value": "小五郎本已抓着圆珠笔要质问幸子，却因手从桌面滑开、头部撞到桌子当场昏倒；柯南改用变声领结以小五郎的声音完成推理，指认幸子为凶手。幸子认罪并交代一美以违禁商品之事勒索她。被带走时柯南问她为何不在那个观景点对小五郎下手，她答自己对小五郎并无怨恨。",
+    "sourceRefs": [
+      "src-detective-conan-world-kogoro-date-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "收束与结局，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-tsukumo-magician-murder-summary",
+    "targetId": "case-tsukumo-magician-murder",
+    "field": "summary",
+    "value": "EP.96 特别篇的第一案。被害人：九十九元康（Motoyasu Tsukumo），知名魔术师，死于氰化钾中毒；另有十四年前的旧案死者吉野（Yoshirou Kinoshita，20 岁），在水遁魔术中溺亡。",
+    "sourceRefs": [
+      "src-detective-conan-world-cornered-detective-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "被害人身份、死因与现场，取自 Case Situation／案情信息框。"
+  },
+  {
+    "candidateId": "cand-case-tsukumo-magician-murder-culprit",
+    "targetId": "case-tsukumo-magician-murder",
+    "field": "culprit",
+    "value": "凶手是元康的弟子三代目（Mako Miyoshi），本名三代木下真湖（Mako Kinoshita）。旧案的真凶则是元康本人。",
+    "sourceRefs": [
+      "src-detective-conan-world-cornered-detective-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "真凶及冒名／身份关系，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-tsukumo-magician-murder-motive",
+    "targetId": "case-tsukumo-magician-murder",
+    "field": "motive",
+    "value": "为兄复仇。十四年前，才华出众的吉野在水遁逃脱魔术中溺亡，表面是意外，实为师父元康嫉妒其天赋、担心被超越而暗中动了手脚——元康在后台对手铐做了处理，使吉野表演时无法自行脱身而溺死。当时年仅七岁的真湖在后台目睹了元康动手，却因年纪太小无法作证，此案最终按意外结案。真湖此后苦学魔术，只为成为元康的入室弟子并伺机复仇。",
+    "sourceRefs": [
+      "src-detective-conan-world-cornered-detective-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "动机链条，取自 Resolution 段落，保留原文因果不断章。"
+  },
+  {
+    "candidateId": "cand-case-tsukumo-magician-murder-method",
+    "targetId": "case-tsukumo-magician-murder",
+    "field": "method",
+    "value": "真湖以弟子的身份接近元康，把元康绑起后以氰化钾将其毒杀，使元康死于氰酸钾中毒。元康知道她的真实身份与杀意，被绑后始终神态平静。",
+    "sourceRefs": [
+      "src-detective-conan-world-cornered-detective-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "作案手法时间线，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-tsukumo-magician-murder-evidence",
+    "targetId": "case-tsukumo-magician-murder",
+    "field": "evidence",
+    "value": "旧案的关键在于当年幼小的目击者所见与手铐被动手脚的事实；本案则以元康中毒的死因、以及弟子三人各自的动机与在场关系层层收束到真湖身上。",
+    "sourceRefs": [
+      "src-detective-conan-world-cornered-detective-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "决定性证据与推理切入点，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-tsukumo-magician-murder-resolution",
+    "targetId": "case-tsukumo-magician-murder",
+    "field": "resolution",
+    "value": "柯南在不弄晕小五郎的情况下协助破案，揭出真湖本名木下真湖、是被元康害死的吉野之妹，十四年前的事故实为谋杀。因元康被绑后毫无惧色，真湖一度威胁要杀掉元康的女儿绫乃（Ayano，6 岁），想看见他真正恐惧的表情；但绫乃终究无辜，真湖最后无法下手，也承认自己不止一次起过杀念。",
+    "sourceRefs": [
+      "src-detective-conan-world-cornered-detective-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "收束与结局，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-yabuuchi-family-murder-summary",
+    "targetId": "case-yabuuchi-family-murder",
+    "field": "summary",
+    "value": "EP.96 特别篇的第二案，发生在群马县薮内家。被害人：薮内真知子（Machiko Yabuuchi），39 岁，薮内吉近的第二任妻子，胸腹受刀伤死亡，遗体被投入庭院水井——与第一任薮内夫人的死亡是同一口井；胸口插着一朵山茶花。另有以十字弓射向薮内芳房（Yoshifusa，64 岁）的未遂袭击。",
+    "sourceRefs": [
+      "src-detective-conan-world-cornered-detective-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "被害人身份、死因与现场，取自 Case Situation／案情信息框。"
+  },
+  {
+    "candidateId": "cand-case-yabuuchi-family-murder-culprit",
+    "targetId": "case-yabuuchi-family-murder",
+    "field": "culprit",
+    "value": "「薮内芳房」是冒名顶替者。真芳房多年前已死在巴西，顶替者是田中秋彦（Hickson Tanaka），巴西出生的日裔，是卡洛斯（Carlos）的保镖兼监护人。真知子之死是他正当防卫中刺中对方所致；设置十字弓的是薮内圭子（Keiko Yabuuchi）。",
+    "sourceRefs": [
+      "src-detective-conan-world-cornered-detective-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "真凶及冒名／身份关系，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-yabuuchi-family-murder-motive",
+    "targetId": "case-yabuuchi-family-murder",
+    "field": "motive",
+    "value": "田中冒名的动机是保护卡洛斯：卡洛斯才是真芳房与巴西女子所生的儿子、遗产继承人之一。假冒芳房可让所有威胁指向自己，同时让外界以为卡洛斯只是保镖、不会对他动手。真知子之死源于她自己意图谋夺「芳房」的那份遗产：她不知道真芳房早已死亡，也不知道眼前的人是假的。圭子设十字弓是想逼「芳房」回巴西，她欠着债，指望没有这个人遗产份额就能覆盖。",
+    "sourceRefs": [
+      "src-detective-conan-world-cornered-detective-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "动机链条，取自 Resolution 段落，保留原文因果不断章。"
+  },
+  {
+    "candidateId": "cand-case-yabuuchi-family-murder-method",
+    "targetId": "case-yabuuchi-family-murder",
+    "field": "method",
+    "value": "真知子在都市酒会上打了一通电话制造不在场证明，然后坐车返回、等待下手时机；她事先告诉薮内裕美（Hiromi）去把加热露天浴池的火重新烧旺，借此让「芳房」被单独留在浴池。她带着那朵山茶花，打算把嫌疑引向一直指控薮内家害死自己姐姐的姐夫。但田中身手极好，她持刀刺去时被格挡、刀被反送回来，反而刺死了自己。",
+    "sourceRefs": [
+      "src-detective-conan-world-cornered-detective-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "作案手法时间线，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-yabuuchi-family-murder-evidence",
+    "targetId": "case-yabuuchi-family-murder",
+    "field": "evidence",
+    "value": "真知子胸口的山茶花与第一任薮内夫人溺亡的那口井构成刻意布置的误导；关键在「芳房」这个人的身份链——巴西的死亡记录、卡洛斯的真实身世，以及他收到的两封威胁信（一封来自真知子、一封来自圭子）。柯南的父亲优作随有希子回到日本并潜入薮内家，部分内容由他揭示，其余由柯南麻醉山村刑警后说出。",
+    "sourceRefs": [
+      "src-detective-conan-world-cornered-detective-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "决定性证据与推理切入点，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-yabuuchi-family-murder-resolution",
+    "targetId": "case-yabuuchi-family-murder",
+    "field": "resolution",
+    "value": "田中秋彦承认自己在真知子之死中的角色，说明自己是卡洛斯的家教兼保镖，随后平静地向警方投案。优作正式现身并去见有希子。另需注意：本集的表层主线是兰因看到柯南摘下眼镜的脸而怀疑他就是新一，有希子以一套复杂但说得通的解释替柯南脱身；这一层与命案本身相互独立。",
+    "sourceRefs": [
+      "src-detective-conan-world-cornered-detective-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "收束与结局，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-farewell-wine-murder-summary",
+    "targetId": "case-farewell-wine-murder",
+    "field": "summary",
+    "value": "被害人：市川小太郎（Kotaro Ichikawa），65 岁，市川产业社长，死于毒物引发的心脏病发作。另有柯南被绑架囚禁于市川家酒窖地下室的插曲，被绑架者实为社长本人所安排。",
+    "sourceRefs": [
+      "src-detective-conan-world-farewell-wine-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "被害人身份、死因与现场，取自 Case Situation／案情信息框。"
+  },
+  {
+    "candidateId": "cand-case-farewell-wine-murder-culprit",
+    "targetId": "case-farewell-wine-murder",
+    "field": "culprit",
+    "value": "社长的私人医生冈野仁（Hitoshi Okano）。",
+    "sourceRefs": [
+      "src-detective-conan-world-farewell-wine-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "真凶及冒名／身份关系，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-farewell-wine-murder-motive",
+    "targetId": "case-farewell-wine-murder",
+    "field": "motive",
+    "value": "复仇。市川当年把作为生意伙伴的冈野之父逼到破产，老人此后酗酒、抑郁，在久病的妻子去世几年后自杀，那时冈野正要上大学。身为私人医生，冈野随时都可以下手，但他一直忍着；直到市川向他吐露，打算装作心脏病发作来「测试」两个女儿和泉（Kazue）与瑞江（Mizue）到底有多爱自己，他才决定动手。",
+    "sourceRefs": [
+      "src-detective-conan-world-farewell-wine-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "动机链条，取自 Resolution 段落，保留原文因果不断章。"
+  },
+  {
+    "candidateId": "cand-case-farewell-wine-murder-method",
+    "targetId": "case-farewell-wine-murder",
+    "field": "method",
+    "value": "冈野没有按社长的剧本演戏，而是利用这场「测试」给市川注射了致命剂量的药物，让心脏病发作成为真实的死亡。绑架并囚禁柯南的人其实是市川本人——他事先安排，好让这场测试显得像真的。",
+    "sourceRefs": [
+      "src-detective-conan-world-farewell-wine-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "作案手法时间线，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-farewell-wine-murder-evidence",
+    "targetId": "case-farewell-wine-murder",
+    "field": "evidence",
+    "value": "柯南曾在洗手间看到和泉带着疑似装有药物的注射器走向酒窖，这条线索与后来绑匪身份的反转互相印证：真正动手的另有其人，且早有预谋地把别人的计划当成掩护。此外长女和泉确实起过杀父之心，也备有可用来下手的毒酒，但最终不是她下的手。",
+    "sourceRefs": [
+      "src-detective-conan-world-farewell-wine-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "决定性证据与推理切入点，取自 Resolution 段落。"
+  },
+  {
+    "candidateId": "cand-case-farewell-wine-murder-resolution",
+    "targetId": "case-farewell-wine-murder",
+    "field": "resolution",
+    "value": "柯南与毛利小五郎逐一辨明视频证据与线索，把真凶指向私人医生冈野仁。冈野的动机由此被揭开：父亲的破产、酗酒与自杀，以及市川亲口说出的「测试」。",
+    "sourceRefs": [
+      "src-detective-conan-world-farewell-wine-case"
+    ],
+    "confidence": "high",
+    "reviewStatus": "accepted",
+    "reviewNote": "收束与结局，取自 Resolution 段落。"
+  }
+]

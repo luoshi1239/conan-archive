@@ -1,0 +1,399 @@
+{
+  "generatedFrom": "normalized JSON files and data/sources.json",
+  "sourceCount": 45,
+  "datasets": {
+    "episodes": {
+      "total": 1216,
+      "status": {
+        "reviewed": 158,
+        "catalog": 1058
+      },
+      "reviewedRecords": 158,
+      "recordsWithSources": 1216,
+      "recordsWithKnownSources": 1216,
+      "coverage": {
+        "directory": 1216,
+        "basicFacts": 1216,
+        "structure": 136,
+        "deepSpoilers": 26
+      },
+      "fields": {
+        "simplifiedTitle": {
+          "present": 1214,
+          "total": 1216,
+          "percent": 99.8,
+          "presentWithKnownSources": 1214
+        },
+        "traditionalTitle": {
+          "present": 1216,
+          "total": 1216,
+          "percent": 100.0,
+          "presentWithKnownSources": 1216
+        },
+        "airDate": {
+          "present": 1214,
+          "total": 1216,
+          "percent": 99.8,
+          "presentWithKnownSources": 1214
+        },
+        "year": {
+          "present": 1216,
+          "total": 1216,
+          "percent": 100.0,
+          "presentWithKnownSources": 1216
+        },
+        "adaptation": {
+          "present": 1216,
+          "total": 1216,
+          "percent": 100.0,
+          "presentWithKnownSources": 1216
+        },
+        "mangaRefs": {
+          "present": 636,
+          "total": 1216,
+          "percent": 52.3,
+          "presentWithKnownSources": 636
+        },
+        "summary": {
+          "present": 136,
+          "total": 1216,
+          "percent": 11.2,
+          "presentWithKnownSources": 136
+        },
+        "sources": {
+          "present": 1216,
+          "total": 1216,
+          "percent": 100.0,
+          "presentWithKnownSources": 1216
+        }
+      }
+    },
+    "characters": {
+      "total": 14,
+      "status": {
+        "reviewed": 8,
+        "catalog": 6
+      },
+      "reviewedRecords": 8,
+      "recordsWithSources": 14,
+      "recordsWithKnownSources": 14,
+      "coverage": {
+        "directory": 0,
+        "basicFacts": 0,
+        "structure": 0,
+        "deepSpoilers": 0
+      },
+      "fields": {
+        "summary": {
+          "present": 14,
+          "total": 14,
+          "percent": 100.0,
+          "presentWithKnownSources": 14
+        },
+        "sources": {
+          "present": 14,
+          "total": 14,
+          "percent": 100.0,
+          "presentWithKnownSources": 14
+        }
+      }
+    },
+    "organizations": {
+      "total": 4,
+      "status": {
+        "reviewed": 3,
+        "catalog": 1
+      },
+      "reviewedRecords": 3,
+      "recordsWithSources": 4,
+      "recordsWithKnownSources": 4,
+      "coverage": {
+        "directory": 0,
+        "basicFacts": 0,
+        "structure": 0,
+        "deepSpoilers": 0
+      },
+      "fields": {
+        "summary": {
+          "present": 4,
+          "total": 4,
+          "percent": 100.0,
+          "presentWithKnownSources": 4
+        },
+        "sources": {
+          "present": 4,
+          "total": 4,
+          "percent": 100.0,
+          "presentWithKnownSources": 4
+        }
+      }
+    },
+    "cases": {
+      "total": 25,
+      "status": {
+        "reviewed": 23,
+        "catalog": 2
+      },
+      "reviewedRecords": 23,
+      "recordsWithSources": 25,
+      "recordsWithKnownSources": 25,
+      "coverage": {
+        "directory": 0,
+        "basicFacts": 0,
+        "structure": 0,
+        "deepSpoilers": 0
+      },
+      "fields": {
+        "summary": {
+          "present": 25,
+          "total": 25,
+          "percent": 100.0,
+          "presentWithKnownSources": 25
+        },
+        "sources": {
+          "present": 25,
+          "total": 25,
+          "percent": 100.0,
+          "presentWithKnownSources": 25
+        },
+        "simplifiedTitle": {
+          "present": 25,
+          "total": 25,
+          "percent": 100.0,
+          "presentWithKnownSources": 25
+        },
+        "traditionalTitle": {
+          "present": 25,
+          "total": 25,
+          "percent": 100.0,
+          "presentWithKnownSources": 25
+        }
+      }
+    },
+    "gadgets": {
+      "total": 8,
+      "status": {
+        "reviewed": 6,
+        "catalog": 2
+      },
+      "reviewedRecords": 6,
+      "recordsWithSources": 8,
+      "recordsWithKnownSources": 8,
+      "coverage": {
+        "directory": 0,
+        "basicFacts": 0,
+        "structure": 0,
+        "deepSpoilers": 0
+      },
+      "fields": {
+        "summary": {
+          "present": 8,
+          "total": 8,
+          "percent": 100.0,
+          "presentWithKnownSources": 8
+        },
+        "sources": {
+          "present": 8,
+          "total": 8,
+          "percent": 100.0,
+          "presentWithKnownSources": 8
+        }
+      }
+    },
+    "locations": {
+      "total": 6,
+      "status": {
+        "reviewed": 3,
+        "catalog": 3
+      },
+      "reviewedRecords": 3,
+      "recordsWithSources": 6,
+      "recordsWithKnownSources": 6,
+      "coverage": {
+        "directory": 0,
+        "basicFacts": 0,
+        "structure": 0,
+        "deepSpoilers": 0
+      },
+      "fields": {
+        "summary": {
+          "present": 6,
+          "total": 6,
+          "percent": 100.0,
+          "presentWithKnownSources": 6
+        },
+        "sources": {
+          "present": 6,
+          "total": 6,
+          "percent": 100.0,
+          "presentWithKnownSources": 6
+        }
+      }
+    },
+    "arcs": {
+      "total": 8,
+      "status": {
+        "reviewed": 6,
+        "catalog": 2
+      },
+      "reviewedRecords": 6,
+      "recordsWithSources": 8,
+      "recordsWithKnownSources": 8,
+      "coverage": {
+        "directory": 0,
+        "basicFacts": 0,
+        "structure": 0,
+        "deepSpoilers": 0
+      },
+      "fields": {
+        "summary": {
+          "present": 8,
+          "total": 8,
+          "percent": 100.0,
+          "presentWithKnownSources": 8
+        },
+        "sources": {
+          "present": 8,
+          "total": 8,
+          "percent": 100.0,
+          "presentWithKnownSources": 8
+        },
+        "simplifiedTitle": {
+          "present": 8,
+          "total": 8,
+          "percent": 100.0,
+          "presentWithKnownSources": 8
+        },
+        "traditionalTitle": {
+          "present": 0,
+          "total": 8,
+          "percent": 0.0,
+          "presentWithKnownSources": 0
+        }
+      }
+    },
+    "movies": {
+      "total": 30,
+      "status": {
+        "reviewed": 30
+      },
+      "reviewedRecords": 30,
+      "recordsWithSources": 30,
+      "recordsWithKnownSources": 30,
+      "coverage": {
+        "directory": 30,
+        "basicFacts": 30,
+        "structure": 0,
+        "deepSpoilers": 0
+      },
+      "fields": {
+        "summary": {
+          "present": 0,
+          "total": 30,
+          "percent": 0.0,
+          "presentWithKnownSources": 0
+        },
+        "sources": {
+          "present": 30,
+          "total": 30,
+          "percent": 100.0,
+          "presentWithKnownSources": 30
+        },
+        "simplifiedTitle": {
+          "present": 29,
+          "total": 30,
+          "percent": 96.7,
+          "presentWithKnownSources": 29
+        },
+        "traditionalTitle": {
+          "present": 29,
+          "total": 30,
+          "percent": 96.7,
+          "presentWithKnownSources": 29
+        }
+      }
+    },
+    "specialMovies": {
+      "total": 6,
+      "status": {
+        "reviewed": 6
+      },
+      "reviewedRecords": 6,
+      "recordsWithSources": 6,
+      "recordsWithKnownSources": 6,
+      "coverage": {
+        "directory": 6,
+        "basicFacts": 6,
+        "structure": 0,
+        "deepSpoilers": 0
+      },
+      "fields": {
+        "summary": {
+          "present": 0,
+          "total": 6,
+          "percent": 0.0,
+          "presentWithKnownSources": 0
+        },
+        "sources": {
+          "present": 6,
+          "total": 6,
+          "percent": 100.0,
+          "presentWithKnownSources": 6
+        },
+        "simplifiedTitle": {
+          "present": 6,
+          "total": 6,
+          "percent": 100.0,
+          "presentWithKnownSources": 6
+        },
+        "traditionalTitle": {
+          "present": 6,
+          "total": 6,
+          "percent": 100.0,
+          "presentWithKnownSources": 6
+        }
+      }
+    },
+    "ovas": {
+      "total": 18,
+      "status": {
+        "reviewed": 18
+      },
+      "reviewedRecords": 18,
+      "recordsWithSources": 18,
+      "recordsWithKnownSources": 18,
+      "coverage": {
+        "directory": 18,
+        "basicFacts": 18,
+        "structure": 0,
+        "deepSpoilers": 0
+      },
+      "fields": {
+        "summary": {
+          "present": 0,
+          "total": 18,
+          "percent": 0.0,
+          "presentWithKnownSources": 0
+        },
+        "sources": {
+          "present": 18,
+          "total": 18,
+          "percent": 100.0,
+          "presentWithKnownSources": 18
+        },
+        "simplifiedTitle": {
+          "present": 18,
+          "total": 18,
+          "percent": 100.0,
+          "presentWithKnownSources": 18
+        },
+        "traditionalTitle": {
+          "present": 0,
+          "total": 18,
+          "percent": 0.0,
+          "presentWithKnownSources": 0
+        }
+      }
+    }
+  }
+}

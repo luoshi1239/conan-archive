@@ -1,0 +1,32 @@
+{
+ "batch": 5,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-pop-up-book-bomber",
+   "field": "culprit",
+   "zhHans": "Hiroyuki Tomonaga"
+  },
+  {
+   "caseId": "case-the-pop-up-book-bomber",
+   "field": "motive",
+   "zhHans": "他怂恿 Takuji Hirukawa 去袭击运载钞票的运输车，同时把自己伪装成在为哥哥报仇的样子。被害人：Takuji Hirukawa 年龄：38岁 伤势：爆炸犯人：Hiroyuki Tomonaga Hiroyuki 试图通过用爆炸杀死 Takuji，让警方以为犯人畏罪自杀，然后带走剩下的钱，但 Takuji 及时被 Conan 救下。Hiroyuki Tomonaga 企图带着剩余的赃款逃跑，但被 Conan（通过 Kogoro）抓住。随后 Ran 说 Tomonaga 没有这个资格，因为尽管是复制品，Tomonaga 却用那本精彩的立体书来犯罪，作者此刻一定在天堂为 Tomonaga 的所作所为而哭泣。"
+  },
+  {
+   "caseId": "case-the-pop-up-book-bomber",
+   "field": "method",
+   "zhHans": "作为证据，虽然炸弹装有定时器，但它们被改装成可用遥控器控制。随后 Ran 说 Tomonaga 没有这个资格，因为尽管是复制品，Tomonaga 却用那本精彩的立体书来犯罪，作者此刻一定在天堂为 Tomonaga 的所作所为而哭泣。"
+  },
+  {
+   "caseId": "case-the-pop-up-book-bomber",
+   "field": "evidence",
+   "zhHans": "作为证据，虽然炸弹装有定时器，但它们被改装成可用遥控器控制。Conan 开始怀疑 Tomonaga，因为他说作者把证据留给了他哥哥。这与“证据”只是一份复印件这一事实相矛盾，因为证据不可能套印错位。这只意味着 Tomonaga 仍然持有那份证据，并在案件过程中翻看过它，但他谎称自己读过。"
+  },
+  {
+   "caseId": "case-the-pop-up-book-bomber",
+   "field": "resolution",
+   "zhHans": "犯人是 Hiroyuki Tomonaga。作为证据，虽然炸弹装有定时器，但它们被改装成可用遥控器控制。据鉴定科称，这样只能在30米的范围内起作用。因此，犯人必须靠近炸弹才能加快定时器的速度。此外，犯人还必须把 incoming 的短信与 Kogoro 的动作协调一致。Tomonaga 自愿随警方前往以达成这一目的。他怂恿 Takuji Hirukawa 去袭击运载钞票的运输车，同时把自己伪装成在为哥哥报仇的样子。爆炸/杀人未遂地点：Haido/米花市？"
+  }
+ ]
+}

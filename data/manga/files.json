@@ -1,0 +1,4514 @@
+[
+  {
+    "id": "file-001",
+    "rawLabel": "File.1",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0001"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-002",
+    "rawLabel": "SVFile.2特别篇漫画",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0086"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-002-005",
+    "rawLabel": "File.2-5",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0002"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-006",
+    "rawLabel": "SVFile.6特别篇漫画",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0113"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-006-009",
+    "rawLabel": "File.6-9",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0003"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-010-012",
+    "rawLabel": "File.10-12",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0038"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-013-016",
+    "rawLabel": "File.13-16",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0013",
+      "episode-0128"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-017-019",
+    "rawLabel": "File.17-19",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0020"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-020-025",
+    "rawLabel": "File.20-25",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0022",
+      "episode-0023"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-026-029",
+    "rawLabel": "File.26-29",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0007"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-030-032",
+    "rawLabel": "File.30-32",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0008"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-033-035",
+    "rawLabel": "File.33-35",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0005"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-036-039",
+    "rawLabel": "File.36-39",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0004"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-040-044",
+    "rawLabel": "File.40-44",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0034",
+      "episode-0035"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-045-048",
+    "rawLabel": "File.45-48",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0042"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-049-051",
+    "rawLabel": "File.49-51",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0043"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-052-055",
+    "rawLabel": "File.52-55",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0016"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-056-058",
+    "rawLabel": "File.56-58",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0015"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-059-061",
+    "rawLabel": "File.59-61",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0009"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-062-067",
+    "rawLabel": "File.62-67",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0011",
+      "episode-1000",
+      "episode-1001"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-068-071",
+    "rawLabel": "File.68-71",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0010"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-072-077",
+    "rawLabel": "File.72-77",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0068",
+      "episode-0069",
+      "episode-0070"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-078-080",
+    "rawLabel": "File.78-80",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0018"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-081-083",
+    "rawLabel": "File.81-83",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0012"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-084-086",
+    "rawLabel": "File.84-86",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0027",
+      "episode-0028"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-087-091",
+    "rawLabel": "File.87-91",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0039",
+      "episode-0040"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-092-096",
+    "rawLabel": "File.92-96",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0048",
+      "episode-0049"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-096-098",
+    "rawLabel": "File.96-98",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0050"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-099-101",
+    "rawLabel": "File.99-101",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0046"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1000-1005",
+    "rawLabel": "File.1000-1005",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0927",
+      "episode-0928"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1006-1008",
+    "rawLabel": "File.1006-1008",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0941",
+      "episode-0942"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1009-1012",
+    "rawLabel": "File.1009-1012",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0952",
+      "episode-0953",
+      "episode-0954"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1013-1017",
+    "rawLabel": "File.1013-1017",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0971",
+      "episode-0972",
+      "episode-0973",
+      "episode-0974"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1018-1021",
+    "rawLabel": "File.1018-1021",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0983",
+      "episode-0984"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-102-104",
+    "rawLabel": "File.102-104",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0031"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1022-1026",
+    "rawLabel": "File.1022-1026",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0993",
+      "episode-0994",
+      "episode-0995"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1027-1031",
+    "rawLabel": "File.1027-1031",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1003",
+      "episode-1004",
+      "episode-1005"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1032-1034",
+    "rawLabel": "File.1032-1034",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1011",
+      "episode-1012"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1035-1038",
+    "rawLabel": "File.1035-1038",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1018",
+      "episode-1019",
+      "episode-1020"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1039-1042",
+    "rawLabel": "File.1039-1042",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1024",
+      "episode-1025"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1043-1046",
+    "rawLabel": "File.1043-1046",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1033",
+      "episode-1034",
+      "episode-1035"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1047-1050",
+    "rawLabel": "File.1047-1050",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1045",
+      "episode-1046"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-105-107",
+    "rawLabel": "File.105-107",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0032"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1051-1054",
+    "rawLabel": "File.1051-1054",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1053",
+      "episode-1054"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1055-1057",
+    "rawLabel": "File.1055-1057",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1059",
+      "episode-1060"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1058-1060",
+    "rawLabel": "File.1058-1060",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1071",
+      "episode-1072"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1061-1066",
+    "rawLabel": "File.1061-1066",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1078",
+      "episode-1079"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1067-1069",
+    "rawLabel": "File.1067-1069",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1085",
+      "episode-1086"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1070-1072",
+    "rawLabel": "File.1070-1072",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1093",
+      "episode-1094"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1073-1075",
+    "rawLabel": "File.1073-1075",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1098",
+      "episode-1099"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1076-1078",
+    "rawLabel": "File.1076-1078",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1105",
+      "episode-1106"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1079-1081",
+    "rawLabel": "File.1079-1081",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1109",
+      "episode-1110"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-108-110",
+    "rawLabel": "File.108-110",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0052"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1082-1084",
+    "rawLabel": "File.1082-1084",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1123",
+      "episode-1124"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1085-1087",
+    "rawLabel": "File.1085-1087",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1115",
+      "episode-1116"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1088-1090",
+    "rawLabel": "File.1088-1090",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1135",
+      "episode-1136"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1091-1093",
+    "rawLabel": "File.1091-1093",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1130",
+      "episode-1131"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1094-1096",
+    "rawLabel": "File.1094-1096",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1144",
+      "episode-1145"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1097-1099",
+    "rawLabel": "File.1097-1099",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1148",
+      "episode-1149"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1100-1102",
+    "rawLabel": "File.1100-1102",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1150",
+      "episode-1151"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1103-1105",
+    "rawLabel": "File.1103-1105",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1164",
+      "episode-1165"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1106-1109",
+    "rawLabel": "File.1106-1109",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1166",
+      "episode-1167"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-111-113",
+    "rawLabel": "File.111-113",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0163",
+      "episode-0164"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1110-1112",
+    "rawLabel": "File.1110-1112",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1169",
+      "episode-1170"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1113-1115",
+    "rawLabel": "File.1113-1115",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1171",
+      "episode-1172"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1116-1118",
+    "rawLabel": "File.1116-1118",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1178",
+      "episode-1179"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1119-1122",
+    "rawLabel": "File.1119-1122",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1193",
+      "episode-1194"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1123-1125",
+    "rawLabel": "File.1123-1125",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1184",
+      "episode-1185"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1126-1128",
+    "rawLabel": "File.1126-1128",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1204",
+      "episode-1205"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-1129-1133",
+    "rawLabel": "File.1129-1133",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-1214",
+      "episode-1215",
+      "episode-1216"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-114-116",
+    "rawLabel": "File.114-116",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0054"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-117-121",
+    "rawLabel": "File.117-121",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0057",
+      "episode-0058"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-122-124",
+    "rawLabel": "File.122-124",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0072"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-125-127",
+    "rawLabel": "File.125-127",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0060"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-128-130",
+    "rawLabel": "File.128-130",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0063"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-131-133",
+    "rawLabel": "File.131-133File.134-138",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0096"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-139-143",
+    "rawLabel": "File.139-143",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0084",
+      "episode-0085"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-144-146",
+    "rawLabel": "File.144-146",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0081",
+      "episode-0082"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-147-149",
+    "rawLabel": "File.147-149",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0075"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-150-153",
+    "rawLabel": "File.150-153",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0077",
+      "episode-0078"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-154-155",
+    "rawLabel": "File.154-155",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0112"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-156-159",
+    "rawLabel": "File.156-159",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0076"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-160-162",
+    "rawLabel": "File.160-162",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0098",
+      "episode-0099"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-163-165",
+    "rawLabel": "File.163-165",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0114",
+      "episode-0115"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-166",
+    "rawLabel": "File.166",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0091"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-167-169",
+    "rawLabel": "File.167-169",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0104",
+      "episode-0105"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-170-172",
+    "rawLabel": "File.170-172",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0102",
+      "episode-0103"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-173-175",
+    "rawLabel": "File.173-175",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0100",
+      "episode-0101"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-176-178",
+    "rawLabel": "File.176-178File.179-181",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0129"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-182-184",
+    "rawLabel": "File.182-184",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0116",
+      "episode-0117"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-185-188",
+    "rawLabel": "File.185-188",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0118"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-189-191",
+    "rawLabel": "File.189-191",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0130",
+      "episode-0131"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-192-196",
+    "rawLabel": "File.192-196",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0132",
+      "episode-0133",
+      "episode-0134"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-197-199",
+    "rawLabel": "File.197-199",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0121",
+      "episode-0122"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-200-203",
+    "rawLabel": "File.200-203",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0136",
+      "episode-0137"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-204-207",
+    "rawLabel": "File.204-207",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0162"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-208-210",
+    "rawLabel": "File.208-210",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0146",
+      "episode-0147"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-211-214",
+    "rawLabel": "File.211-214",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0141",
+      "episode-0142"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-215-218",
+    "rawLabel": "File.215-218",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0144",
+      "episode-0145"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-219-221",
+    "rawLabel": "File.219-221",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0153",
+      "episode-0154"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-222-224",
+    "rawLabel": "File.222-224",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0138",
+      "episode-0139"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-225-230",
+    "rawLabel": "File.225-230",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0174"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-231-233",
+    "rawLabel": "File.231-233",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0156",
+      "episode-0157"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-234-237",
+    "rawLabel": "File.234-237",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0170",
+      "episode-0171"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-238-242",
+    "rawLabel": "File.238-242",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0176",
+      "episode-0177",
+      "episode-0178"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-243-245",
+    "rawLabel": "File.243-245",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0172",
+      "episode-0173"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-246-250",
+    "rawLabel": "File.246-250",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0166",
+      "episode-0167",
+      "episode-0168"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-251-253",
+    "rawLabel": "File.251-253",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0188",
+      "episode-0189"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-254-257",
+    "rawLabel": "File.254-257",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0190",
+      "episode-0191"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-258-260",
+    "rawLabel": "File.258-260",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0192",
+      "episode-0193"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-261-263",
+    "rawLabel": "File.261-263",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0194",
+      "episode-0195"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-264-266",
+    "rawLabel": "File.264-266",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0199",
+      "episode-0200"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-267-269",
+    "rawLabel": "File.267-269",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0205",
+      "episode-0206"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-270-272",
+    "rawLabel": "File.270-272",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0226",
+      "episode-0227"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-273-275",
+    "rawLabel": "File.273-275",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0212",
+      "episode-0213"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-276-278",
+    "rawLabel": "File.276-278",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0220",
+      "episode-0221"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-279-283",
+    "rawLabel": "File.279-283",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0222",
+      "episode-0223",
+      "episode-0224"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-284-286",
+    "rawLabel": "File.284-286",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0217",
+      "episode-0218"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-287-289",
+    "rawLabel": "File.287-289",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0230",
+      "episode-0231"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-290-292",
+    "rawLabel": "File.290-292",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0233",
+      "episode-0234"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-293-295",
+    "rawLabel": "File.293-295",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0238",
+      "episode-0239"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-296-298",
+    "rawLabel": "File.296-298",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0240",
+      "episode-0241"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-299-302",
+    "rawLabel": "MKChpt.21-22《魔术快斗》原作漫画File.299-302",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0219"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-303-304",
+    "rawLabel": "File.303-304",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0242"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-305-307",
+    "rawLabel": "File.305-307",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0228",
+      "episode-0229"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-308-310",
+    "rawLabel": "File.308-310",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0243",
+      "episode-0244"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-311-313",
+    "rawLabel": "File.311-313",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0246",
+      "episode-0247"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-314-316",
+    "rawLabel": "File.314-316File.317-321",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0263"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-322-324",
+    "rawLabel": "File.322-324",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0249",
+      "episode-0250"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-325-327",
+    "rawLabel": "File.325-327",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0258",
+      "episode-0259"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-328-330",
+    "rawLabel": "File.328-330",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0253",
+      "episode-0254"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-331-334",
+    "rawLabel": "File.331-334",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0266",
+      "episode-0267",
+      "episode-0268"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-335-337",
+    "rawLabel": "File.335-337",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0269",
+      "episode-0270"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-338-340",
+    "rawLabel": "File.338-340",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0271",
+      "episode-0272"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-341-343",
+    "rawLabel": "File.341-343",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0277",
+      "episode-0278"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-344-346",
+    "rawLabel": "File.344-346",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0279",
+      "episode-0280"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-347-349",
+    "rawLabel": "File.347-349",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0284",
+      "episode-0285"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-350-354",
+    "rawLabel": "File.350-354",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0286",
+      "episode-0287",
+      "episode-0288"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-355-357",
+    "rawLabel": "File.355-357",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0274",
+      "episode-0275"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-358-360",
+    "rawLabel": "File.358-360",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0289",
+      "episode-0290"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-361-365",
+    "rawLabel": "File.361-365",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0291",
+      "episode-0292",
+      "episode-0293"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-366-368",
+    "rawLabel": "File.366-368",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0301",
+      "episode-0302"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-369-373",
+    "rawLabel": "File.369-373",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0304"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-374-376",
+    "rawLabel": "File.374-376",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0305",
+      "episode-0306"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-377-379",
+    "rawLabel": "File.377-379",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0307",
+      "episode-0308"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-380-383",
+    "rawLabel": "File.380-383",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0309",
+      "episode-0310",
+      "episode-0311"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-384-386",
+    "rawLabel": "File.384-386",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0312",
+      "episode-0313"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-387-389",
+    "rawLabel": "File.387-389",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0316",
+      "episode-0317"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-390-392",
+    "rawLabel": "File.390-392",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0323",
+      "episode-0324"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-393-397",
+    "rawLabel": "File.393-397",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0325",
+      "episode-0326",
+      "episode-0327"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-398-400",
+    "rawLabel": "File.398-400",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0329",
+      "episode-0330"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-401-403",
+    "rawLabel": "File.401-403",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0354",
+      "episode-0355"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-404-406",
+    "rawLabel": "File.404-406",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0358",
+      "episode-0359"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-407-409",
+    "rawLabel": "File.407-409",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0331",
+      "episode-0332"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-410-412",
+    "rawLabel": "File.410-412",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0421",
+      "episode-0422"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-413-416",
+    "rawLabel": "File.413-416",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0333",
+      "episode-0334"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-417-419",
+    "rawLabel": "File.417-419",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0335",
+      "episode-0336"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-420-422",
+    "rawLabel": "File.420-422",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0338",
+      "episode-0339"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-423-425",
+    "rawLabel": "File.423-425",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0340",
+      "episode-0341"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-426-428",
+    "rawLabel": "File.426-428",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0343",
+      "episode-0344"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-429-434",
+    "rawLabel": "File.429-434",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0345"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-435-437",
+    "rawLabel": "File.435-437",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0346",
+      "episode-0347"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-438-440",
+    "rawLabel": "File.438-440",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0350",
+      "episode-0351"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-441-444",
+    "rawLabel": "File.441-444",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0381",
+      "episode-0382"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-445-449",
+    "rawLabel": "File.445-449",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0383"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-450-452",
+    "rawLabel": "File.450-452",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0390",
+      "episode-0391"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-453-456",
+    "rawLabel": "File.453-456",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0356"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-457-459",
+    "rawLabel": "File.457-459",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0361",
+      "episode-0362"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-460-462",
+    "rawLabel": "File.460-462",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0366",
+      "episode-0367"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-463-465",
+    "rawLabel": "File.463-465",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0371",
+      "episode-0372"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-466-469",
+    "rawLabel": "File.466-469",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0374",
+      "episode-0375"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-470-474",
+    "rawLabel": "File.470-474",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0385",
+      "episode-0386",
+      "episode-0387"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-475-478",
+    "rawLabel": "File.475-478",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0394",
+      "episode-0395",
+      "episode-0396"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-479-483",
+    "rawLabel": "File.479-483",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0398",
+      "episode-0399",
+      "episode-0400"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-484-486",
+    "rawLabel": "File.484-486",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0401",
+      "episode-0402"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-487-490",
+    "rawLabel": "File.487-490",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0406",
+      "episode-0407",
+      "episode-0408"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-491-493",
+    "rawLabel": "File.491-493",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0411",
+      "episode-0412"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-494-498",
+    "rawLabel": "File.494-498",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0415",
+      "episode-0416",
+      "episode-0417"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-499-504",
+    "rawLabel": "File.499-504",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0425"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-505-507",
+    "rawLabel": "File.505-507",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0427",
+      "episode-0428"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-508-510",
+    "rawLabel": "File.508-510",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0429",
+      "episode-0430"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-511-514",
+    "rawLabel": "File.511-514",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0431",
+      "episode-0432"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-515-517",
+    "rawLabel": "File.515-517",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0435",
+      "episode-0436"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-518-522",
+    "rawLabel": "File.518-522",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0490"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-523-524",
+    "rawLabel": "File.523-524",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0438"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-525-527",
+    "rawLabel": "File.525-527",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0443",
+      "episode-0444"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-528-529",
+    "rawLabel": "File.528-529",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0445"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-530-532",
+    "rawLabel": "File.530-532",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0446",
+      "episode-0447"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-533-534",
+    "rawLabel": "File.533-534",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0453"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-535-537",
+    "rawLabel": "File.535-537",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0449"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-538-540",
+    "rawLabel": "File.538-540",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0454",
+      "episode-0455"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-541-543",
+    "rawLabel": "File.541-543",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0457",
+      "episode-0458"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-544-547",
+    "rawLabel": "File.544-547",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0469",
+      "episode-0470"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-548-549",
+    "rawLabel": "File.548-549",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0460"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-550-552",
+    "rawLabel": "File.550-552",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0462",
+      "episode-0463"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-553-555",
+    "rawLabel": "File.553-555",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0464",
+      "episode-0465"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-556-558",
+    "rawLabel": "File.556-558",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0466",
+      "episode-0467"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-559-561",
+    "rawLabel": "File.559-561File.562-566",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0479"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-567-569",
+    "rawLabel": "File.567-569",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0476",
+      "episode-0477"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-570-573",
+    "rawLabel": "File.570-573",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0472",
+      "episode-0473"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-574-575",
+    "rawLabel": "File.574-575",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0474"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-576-578",
+    "rawLabel": "File.576-578",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0487"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-579-581",
+    "rawLabel": "File.579-581",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0481",
+      "episode-0482"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-582-584",
+    "rawLabel": "File.582-584",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0484",
+      "episode-0485"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-585-586",
+    "rawLabel": "File.585-586",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0491",
+      "episode-0492"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-587-590",
+    "rawLabel": "File.587-590",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0493",
+      "episode-0494"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-591-593",
+    "rawLabel": "File.591-593",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0488"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-595-598",
+    "rawLabel": "File.595-598",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0495",
+      "episode-0496",
+      "episode-0497"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-599-604",
+    "rawLabel": "File.599-604",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0498",
+      "episode-0499",
+      "episode-0500"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-605-609",
+    "rawLabel": "File.605-609",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0501",
+      "episode-0502",
+      "episode-0503",
+      "episode-0504"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-610-612",
+    "rawLabel": "File.610-612",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0505",
+      "episode-0506"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-613-618",
+    "rawLabel": "File.613-618",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0516",
+      "episode-0517"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-619-621",
+    "rawLabel": "File.619-621",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0507",
+      "episode-0508"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-622-624",
+    "rawLabel": "File.622-624",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0509",
+      "episode-0510"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-625-627",
+    "rawLabel": "File.625-627",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0530",
+      "episode-0531"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-628-630",
+    "rawLabel": "File.628-630",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0513",
+      "episode-0514"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-631-634",
+    "rawLabel": "File.631-634",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0515"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-635-637",
+    "rawLabel": "File.635-637",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0524",
+      "episode-0525"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-638-640",
+    "rawLabel": "File.638-640",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0511"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-641-642",
+    "rawLabel": "File.641-642",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0526"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-643-645",
+    "rawLabel": "File.643-645",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0528",
+      "episode-0529"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-646-651",
+    "rawLabel": "File.646-651",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0521",
+      "episode-0522"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-652-654",
+    "rawLabel": "File.652-654",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0523"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-655-657",
+    "rawLabel": "File.655-657",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0549",
+      "episode-0550"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-658-660",
+    "rawLabel": "File.658-660",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0551",
+      "episode-0552"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-661-663",
+    "rawLabel": "File.661-663",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0545",
+      "episode-0546"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-664-666",
+    "rawLabel": "File.664-666",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0542",
+      "episode-0543"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-667-669",
+    "rawLabel": "File.667-669",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0532",
+      "episode-0533"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-670-673",
+    "rawLabel": "File.670-673",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0534",
+      "episode-0535"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-674-676",
+    "rawLabel": "File.674-676",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0537",
+      "episode-0538"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-677-679",
+    "rawLabel": "File.677-679",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0563",
+      "episode-0564"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-680-681",
+    "rawLabel": "File.680-681",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0557"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-682-686",
+    "rawLabel": "File.682-686",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0558",
+      "episode-0559",
+      "episode-0560",
+      "episode-0561"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-687-689",
+    "rawLabel": "File.687-689",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0568",
+      "episode-0569"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-690-692",
+    "rawLabel": "File.690-692",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0571",
+      "episode-0572"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-693-695",
+    "rawLabel": "File.693-695",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0573",
+      "episode-0574"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-696-698",
+    "rawLabel": "File.696-698",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0575",
+      "episode-0576"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-699",
+    "rawLabel": "File.699File.700-704",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0578"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-700-704",
+    "rawLabel": "File.700-704",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0579",
+      "episode-0580",
+      "episode-0581"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-705-708",
+    "rawLabel": "File.705-708",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0583",
+      "episode-0584",
+      "episode-0585"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-709-711",
+    "rawLabel": "File.709-711",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0589",
+      "episode-0590"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-712-715",
+    "rawLabel": "File.712-715",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0586",
+      "episode-0587"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-716-718",
+    "rawLabel": "File.716-718",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0592",
+      "episode-0593"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-719-721",
+    "rawLabel": "File.719-721",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0600",
+      "episode-0601"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-722-724",
+    "rawLabel": "File.722-724",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0597",
+      "episode-0598"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-725-727",
+    "rawLabel": "File.725-727",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0608",
+      "episode-0609"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-728-730",
+    "rawLabel": "File.728-730",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0614",
+      "episode-0615"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-731-733",
+    "rawLabel": "File.731-733",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0627",
+      "episode-0628"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-734-740",
+    "rawLabel": "File.734-740",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0610",
+      "episode-0611",
+      "episode-0612",
+      "episode-0613"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-741-742",
+    "rawLabel": "File.741-742",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0624"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-743-752",
+    "rawLabel": "File.743-752",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0616",
+      "episode-0617",
+      "episode-0618",
+      "episode-0619",
+      "episode-0620",
+      "episode-0621"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-753-755",
+    "rawLabel": "File.753-755",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0622",
+      "episode-0623"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-756-758",
+    "rawLabel": "File.756-758",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0625",
+      "episode-0626"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-759-761",
+    "rawLabel": "File.759-761",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0642",
+      "episode-0643"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-762-764",
+    "rawLabel": "File.762-764",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0632",
+      "episode-0633"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-765-767",
+    "rawLabel": "File.765-767",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0644",
+      "episode-0645"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-768-770",
+    "rawLabel": "File.768-770",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0646",
+      "episode-0647"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-771-774",
+    "rawLabel": "File.771-774",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0648",
+      "episode-0649",
+      "episode-0650"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-775-777",
+    "rawLabel": "File.775-777",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0656",
+      "episode-0657"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-778-780",
+    "rawLabel": "File.778-780",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0651"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-781-786",
+    "rawLabel": "File.781-786",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0652",
+      "episode-0653",
+      "episode-0654",
+      "episode-0655"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-787-789",
+    "rawLabel": "File.787-789",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0661",
+      "episode-0662"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-790-792",
+    "rawLabel": "File.790-792",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0659",
+      "episode-0660"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-793-795",
+    "rawLabel": "File.793-795",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0667",
+      "episode-0668"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-796-800",
+    "rawLabel": "File.796-800",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0671",
+      "episode-0672",
+      "episode-0673",
+      "episode-0674"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-801-803",
+    "rawLabel": "File.801-803",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0675",
+      "episode-0676"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-804-808",
+    "rawLabel": "File.804-808",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0681",
+      "episode-0682",
+      "episode-0683"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-809-811",
+    "rawLabel": "File.809-811",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0684",
+      "episode-0685"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-812-814",
+    "rawLabel": "File.812-814",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0690",
+      "episode-0691"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-815-817",
+    "rawLabel": "File.815-817",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0699",
+      "episode-0700"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-818-824",
+    "rawLabel": "File.818-824",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0701",
+      "episode-0702",
+      "episode-0703",
+      "episode-0704"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-825-827",
+    "rawLabel": "File.825-827",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0705",
+      "episode-0706"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-828-830",
+    "rawLabel": "File.828-830",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0724",
+      "episode-0725"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-831-833",
+    "rawLabel": "File.831-833",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0710",
+      "episode-0711"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-834-840",
+    "rawLabel": "File.834-840",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0712",
+      "episode-0713",
+      "episode-0714",
+      "episode-0715"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-841-843",
+    "rawLabel": "File.841-843",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0722",
+      "episode-0723"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-844-846",
+    "rawLabel": "File.844-846",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0727",
+      "episode-0728"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-847-849",
+    "rawLabel": "File.847-849",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0731",
+      "episode-0732"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-850-852",
+    "rawLabel": "File.850-852",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0734"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-853-855",
+    "rawLabel": "File.853-855",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0738",
+      "episode-0739"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-856-858",
+    "rawLabel": "File.856-858",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0740",
+      "episode-0741"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-859-861",
+    "rawLabel": "File.859-861",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0744",
+      "episode-0745"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-862-864",
+    "rawLabel": "File.862-864",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0746",
+      "episode-0747"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-865-868",
+    "rawLabel": "File.865-868",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0751",
+      "episode-0752"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-869-871",
+    "rawLabel": "File.869-871",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0748",
+      "episode-0749"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-872-875",
+    "rawLabel": "File.872-875",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0754",
+      "episode-0755",
+      "episode-0756"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-876-878",
+    "rawLabel": "File.876-878",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0759",
+      "episode-0760"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-879-881",
+    "rawLabel": "File.879-881",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0763",
+      "episode-0764"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-882-884",
+    "rawLabel": "File.882-884",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0772",
+      "episode-0773",
+      "episode-1187"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-885-887",
+    "rawLabel": "File.885-887",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0765",
+      "episode-0766"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-888-890",
+    "rawLabel": "File.888-890",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0770",
+      "episode-0771"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-891-893",
+    "rawLabel": "File.891-893",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0779",
+      "episode-0780"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-894-898",
+    "rawLabel": "File.894-898",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0781",
+      "episode-0782",
+      "episode-0783"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-899-902",
+    "rawLabel": "File.899-902",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0785",
+      "episode-0786"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-903-905",
+    "rawLabel": "File.903-905",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0787",
+      "episode-0788"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-906-908",
+    "rawLabel": "File.906-908",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0792",
+      "episode-0793"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-909-912",
+    "rawLabel": "File.909-912",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0808",
+      "episode-0809"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-913-917",
+    "rawLabel": "File.913-917",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0810",
+      "episode-0811",
+      "episode-0812"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-918-920",
+    "rawLabel": "File.918-920",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0814",
+      "episode-0815"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-921-924",
+    "rawLabel": "File.921-924",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0853",
+      "episode-0854"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-925-927",
+    "rawLabel": "File.925-927",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0822",
+      "episode-0823"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-928-930",
+    "rawLabel": "File.928-930",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0827",
+      "episode-0828"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-931-935",
+    "rawLabel": "File.931-935",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0830",
+      "episode-0831",
+      "episode-0832"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-936-938",
+    "rawLabel": "File.936-938",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0836",
+      "episode-0837"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-939-941",
+    "rawLabel": "File.939-941",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0843",
+      "episode-0844"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-942-944",
+    "rawLabel": "File.942-944",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0847",
+      "episode-0848"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-945-947",
+    "rawLabel": "File.945-947",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0849",
+      "episode-0850"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-948-950",
+    "rawLabel": "File.948-950",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0861",
+      "episode-0862"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-951-953",
+    "rawLabel": "File.951-953",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0863",
+      "episode-0864"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-954-957",
+    "rawLabel": "File.954-957",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0866",
+      "episode-0867"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-958-962",
+    "rawLabel": "File.958-962",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0872",
+      "episode-0873",
+      "episode-0874"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-963-965",
+    "rawLabel": "File.963-965",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0887",
+      "episode-0888"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-966-968",
+    "rawLabel": "File.966-968",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0889",
+      "episode-0890"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-969-971",
+    "rawLabel": "File.969-971",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0878",
+      "episode-0879"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-972-974",
+    "rawLabel": "File.972-974",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0881",
+      "episode-0882"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-975-977",
+    "rawLabel": "File.975-977",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0894",
+      "episode-0895"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-978-980",
+    "rawLabel": "File.978-980",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0896",
+      "episode-0897"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-981-983",
+    "rawLabel": "File.981-983",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0885",
+      "episode-0886"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-984-986",
+    "rawLabel": "File.984-986",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0901",
+      "episode-0902"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-987-989",
+    "rawLabel": "File.987-989",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0909",
+      "episode-0910"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-990-993",
+    "rawLabel": "File.990-993",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0916",
+      "episode-0917"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-994-996",
+    "rawLabel": "File.994-996",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0919",
+      "episode-0920"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  },
+  {
+    "id": "file-997-999",
+    "rawLabel": "File.997-999",
+    "title": null,
+    "kind": "manga-file-range",
+    "animeRefs": [
+      "episode-0925",
+      "episode-0926"
+    ],
+    "sources": [
+      "src-conanpedia-anime"
+    ],
+    "status": "catalog"
+  }
+]

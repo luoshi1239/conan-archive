@@ -1,0 +1,4572 @@
+{
+  "generatedFrom": "repository-declared animeRefs and episode relations",
+  "episodes": {
+    "total": 1217,
+    "reviewed": 0,
+    "reviewedNumbers": []
+  },
+  "cases": {
+    "forward": {
+      "case-roller-coaster-murder": [
+        1
+      ],
+      "case-moon-shadow-island": [
+        11,
+        12
+      ],
+      "case-diplomat-murder": [
+        48,
+        49
+      ],
+      "case-fog-monster": [
+        52
+      ],
+      "case-red-black-clash": [
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504
+      ],
+      "case-mystery-train": [
+        701,
+        702,
+        703,
+        704
+      ],
+      "case-rum-investigation": [
+        1077,
+        1078,
+        1079
+      ],
+      "case-library-murder": [
+        50
+      ],
+      "case-golf-driving-range": [
+        51
+      ],
+      "case-mystery-weapon": [
+        53
+      ],
+      "case-game-company-murder": [
+        54
+      ],
+      "case-train-trick": [
+        55
+      ],
+      "case-ojamanbou-murder": [
+        56
+      ],
+      "case-holmes-freak-murder": [
+        57,
+        58
+      ],
+      "case-first-errand-murder": [
+        59
+      ],
+      "case-illustrator-murder": [
+        60
+      ],
+      "case-ghost-ship-murder": [
+        61,
+        62
+      ],
+      "case-gomera-murder": [
+        63
+      ],
+      "case-third-fingerprint-murder": [
+        64
+      ],
+      "case-crab-whale-kidnapping": [
+        65
+      ],
+      "case-night-road-murder": [
+        66
+      ],
+      "case-stage-actress-murder": [
+        67
+      ],
+      "case-night-baron-murder": [
+        68,
+        69,
+        70
+      ],
+      "case-stalker-murder": [
+        71
+      ],
+      "case-triplet-country-home-murder": [
+        72
+      ],
+      "case-detective-boys-disaster": [
+        73
+      ],
+      "case-death-god-jinnai-murder": [
+        74
+      ],
+      "case-loan-company-president-murder": [
+        75
+      ],
+      "case-conan-vs-kaitou-kid": [
+        76
+      ],
+      "case-distinguished-family-consecutive-death": [
+        77,
+        78
+      ],
+      "case-bank-heist-murder": [
+        79
+      ],
+      "case-wandering-artist-murder": [
+        80
+      ],
+      "case-popular-artist-kidnapping": [
+        81,
+        82
+      ],
+      "case-general-hospital-murder": [
+        83
+      ],
+      "case-ski-lodge-murder": [
+        84,
+        85
+      ],
+      "case-kidnapping-location": [
+        86
+      ],
+      "case-crane-return-murder": [
+        87
+      ],
+      "case-dracula-villa-murder": [
+        88,
+        89
+      ],
+      "case-flower-scent-murder": [
+        90
+      ],
+      "case-bank-robber-hospitalization": [
+        91
+      ],
+      "case-fearful-traversing-murder": [
+        92,
+        93
+      ],
+      "case-snow-woman-legend-murder": [
+        94
+      ],
+      "case-kogoro-date-murder": [
+        95
+      ],
+      "case-tsukumo-magician-murder": [
+        96
+      ],
+      "case-yabuuchi-family-murder": [
+        96
+      ],
+      "case-farewell-wine-murder": [
+        97
+      ],
+      "case-famous-potter-murder": [
+        98,
+        99
+      ],
+      "case-memories-of-first-love": [
+        100,
+        101
+      ],
+      "case-historical-actor-murder": [
+        102,
+        103
+      ],
+      "case-goblin-gang-mansion": [
+        104,
+        105
+      ],
+      "case-scoop-picture-murder": [
+        106
+      ],
+      "case-til-death-do-us-part": [
+        1066
+      ],
+      "case-a-car-carrying-a-time-bomb": [
+        686
+      ],
+      "case-a-code-of-stars-and-tobacco": [
+        374,
+        375
+      ],
+      "case-a-cottage-surrounded-by-zombies": [
+        830,
+        831,
+        832
+      ],
+      "case-a-course-without-protest": [
+        371,
+        372
+      ],
+      "case-a-cursed-mask-coldly-laughs": [
+        184
+      ],
+      "case-a-dangerous-party-of-two": [
+        557
+      ],
+      "case-a-dangerous-recipe": [
+        183
+      ],
+      "case-a-day-without-conan": [
+        923
+      ],
+      "case-a-dispute-over-a-platinum-ticket": [
+        719
+      ],
+      "case-a-fool-s-inheritance": [
+        539
+      ],
+      "case-a-friend-of-justice": [
+        599
+      ],
+      "case-a-friendship-that-can-t-be-bought": [
+        329,
+        330
+      ],
+      "case-a-happy-e-mail-brings-sadness": [
+        726
+      ],
+      "case-a-haunted-mansion-murder-case": [
+        20
+      ],
+      "case-a-honey-cocktail-murder-case": [
+        120
+      ],
+      "case-a-jewel-thief-caught-red-handed": [
+        401,
+        402
+      ],
+      "case-a-june-bride-murder-case": [
+        18
+      ],
+      "case-a-kidnapping-case-so-it-seems": [
+        393
+      ],
+      "case-a-lucky-man-s-suspense": [
+        369
+      ],
+      "case-a-mysterious-man-overly-strict-with-regulations": [
+        459
+      ],
+      "case-a-mysterious-sniper-murder-case": [
+        124,
+        125
+      ],
+      "case-a-mysterious-spring-beetle": [
+        360
+      ],
+      "case-a-pair-of-crossing-fates": [
+        877
+      ],
+      "case-a-present-from-the-true-culprit": [
+        526
+      ],
+      "case-a-small-client": [
+        354,
+        355
+      ],
+      "case-a-video-letter-of-first-love": [
+        624
+      ],
+      "case-a-woman-standing-by-the-window": [
+        929,
+        930
+      ],
+      "case-after-that-hundred-million-yen": [
+        800
+      ],
+      "case-ai-haibara-imprisonment-case": [
+        768
+      ],
+      "case-akaoni-village-fire-festival-murder-case": [
+        38
+      ],
+      "case-akemi-miyano-s-time-capsule": [
+        1093,
+        1094
+      ],
+      "case-alibi-testimony-murder-case": [
+        30
+      ],
+      "case-alpine-hut-in-the-snowy-mountain-murder-case": [
+        46
+      ],
+      "case-an-elevator-murder-case": [
+        19
+      ],
+      "case-an-encouragement-of-the-perfect-crime": [
+        980
+      ],
+      "case-an-idol-s-locked-room-murder-case": [
+        3
+      ],
+      "case-an-unconfirmed-shocking-case": [
+        709
+      ],
+      "case-and-it-d-be-nice-if-everybody-disappeared": [
+        439
+      ],
+      "case-and-then-there-were-no-mermaids": [
+        222,
+        223,
+        224
+      ],
+      "case-arrest-that-face": [
+        1182
+      ],
+      "case-art-museum-owner-murder-case": [
+        8
+      ],
+      "case-aya-ueto-and-shinichi-the-promise-from-4-years-ago": [
+        437
+      ],
+      "case-bad-guys": [
+        1057
+      ],
+      "case-bad-luck-grand-prix": [
+        475
+      ],
+      "case-bakumatsu-revolution-mystery-tour": [
+        891,
+        892
+      ],
+      "case-ballad-of-the-woman-who-loved-cake": [
+        1028
+      ],
+      "case-bathroom-where-ran-collapsed-as-well": [
+        740,
+        741
+      ],
+      "case-battle-of-the-haunted-warehouse-s-treasure": [
+        571,
+        572
+      ],
+      "case-beckoning-cat-from-right-to-left": [
+        486
+      ],
+      "case-behind-the-scenes-of-the-j-league-finals": [
+        1083
+      ],
+      "case-bekapon-s-bleeding-service": [
+        790
+      ],
+      "case-best-husband": [
+        1133
+      ],
+      "case-beware-of-dieting": [
+        635
+      ],
+      "case-beyond-the-curtain": [
+        1027
+      ],
+      "case-big-adventure-in-the-eccentric-mansion": [
+        394,
+        395,
+        396
+      ],
+      "case-birds-of-a-feather-at-loggerheads": [
+        903
+      ],
+      "case-bodyguard-kogoro-mouri": [
+        794
+      ],
+      "case-boy-genta-s-misfortune": [
+        242
+      ],
+      "case-buchi-returns-a-favor": [
+        1181
+      ],
+      "case-cactus-s-flower-murder-case": [
+        37
+      ],
+      "case-cactus-capriccio": [
+        680
+      ],
+      "case-chase-the-miyama-stag-beetle": [
+        663
+      ],
+      "case-chiba-s-difficult-ufo-case": [
+        847,
+        848
+      ],
+      "case-chihaya-hagiwara-goddess-of-the-wind": [
+        1098,
+        1099
+      ],
+      "case-chihaya-and-jugo-s-matchmaking-party": [
+        1115,
+        1116
+      ],
+      "case-chinatown-deja-vu-in-the-rain": [
+        284,
+        285
+      ],
+      "case-cinderella-s-shoe": [
+        1198
+      ],
+      "case-clam-digging-with-a-sigh": [
+        443,
+        444
+      ],
+      "case-class-1-b-s-great-operation": [
+        460
+      ],
+      "case-co-investigating-with-a-first-love": [
+        659,
+        660
+      ],
+      "case-coffee-aroma-with-murderous-intention": [
+        513,
+        514
+      ],
+      "case-coffee-shop-murder-case": [
+        32
+      ],
+      "case-company-president-s-daughter-kidnapping-case": [
+        2
+      ],
+      "case-computer-murder-case": [
+        29
+      ],
+      "case-conan-kid-s-battle-for-ryoma-s-treasure": [
+        627,
+        628
+      ],
+      "case-conan-cornered-in-the-darkness": [
+        845,
+        846
+      ],
+      "case-conan-disappeared-on-the-cliff": [
+        869,
+        870
+      ],
+      "case-conan-edogawa-kidnapping-case": [
+        43
+      ],
+      "case-conan-kidnapped": [
+        913,
+        914
+      ],
+      "case-conan-a-strange-child": [
+        433
+      ],
+      "case-conan-and-ebizo-s-kabuki-j-hachiban-mystery": [
+        804,
+        805
+      ],
+      "case-conan-and-heiji-s-deduction-magic": [
+        406,
+        407,
+        408
+      ],
+      "case-conan-and-heiji-s-nue-legend": [
+        872,
+        873,
+        874
+      ],
+      "case-conan-and-heiji-code-of-love": [
+        763,
+        764
+      ],
+      "case-conan-and-megure-s-two-hostages": [
+        1128,
+        1129
+      ],
+      "case-conan-in-a-locked-room": [
+        705,
+        706
+      ],
+      "case-conan-vs-double-code-mystery": [
+        509,
+        510,
+        511
+      ],
+      "case-conan-vs-heiji-deduction-battle-between-the-detectives-of-the-east-and-west": [
+        651
+      ],
+      "case-contact-with-the-black-organization": [
+        309,
+        310,
+        311
+      ],
+      "case-cooking-classroom-murder-case": [
+        110,
+        111
+      ],
+      "case-courtroom-confrontation-iii-prosecutor-as-eyewitness": [
+        489
+      ],
+      "case-courtroom-confrontation-ii-kisaki-vs-kujo": [
+        297,
+        298
+      ],
+      "case-courtroom-confrontation-iv-juror-sumiko-kobayashi": [
+        606,
+        607
+      ],
+      "case-courtroom-confrontation-kisaki-vs-kogoro": [
+        264,
+        265
+      ],
+      "case-dancing-demon-at-the-noh-mask-mansion": [
+        716,
+        717
+      ],
+      "case-deadly-poisonous-spider-trap": [
+        373
+      ],
+      "case-deduction-showdown-at-the-haunted-hotel": [
+        646,
+        647
+      ],
+      "case-detective-boys-locked-room-mystery-battle": [
+        799
+      ],
+      "case-detective-boys-survival-case": [
+        33
+      ],
+      "case-detective-boys-vs-robber-group": [
+        563,
+        564
+      ],
+      "case-detective-club-pursuit-case": [
+        109
+      ],
+      "case-detective-takagi-finds-30-million-yen": [
+        688
+      ],
+      "case-detective-takagi-on-the-run-in-handcuffs": [
+        791
+      ],
+      "case-detectives-nocturne": [
+        671,
+        672,
+        673,
+        674
+      ],
+      "case-detectives-don-t-sleep": [
+        1065
+      ],
+      "case-did-i-do-it": [
+        1097
+      ],
+      "case-double-alibi": [
+        1189
+      ],
+      "case-emergency-situation-252": [
+        622,
+        623
+      ],
+      "case-english-teacher-vs-great-western-detective": [
+        277,
+        278
+      ],
+      "case-episode-zero-the-shinichi-kudo-aquarium-case": [
+        1187
+      ],
+      "case-everyone-saw": [
+        710,
+        711
+      ],
+      "case-eyewitness-testimony-seven-years-later": [
+        905,
+        906
+      ],
+      "case-facial-mask-murder-case": [
+        45
+      ],
+      "case-festival-dolls-dyed-in-the-setting-sun": [
+        312,
+        313
+      ],
+      "case-find-the-buttock-s-mark": [
+        346,
+        347
+      ],
+      "case-find-the-phantom-giant": [
+        1177
+      ],
+      "case-fire-and-water-mystery-tour": [
+        720,
+        721
+      ],
+      "case-follow-them-detective-taxi": [
+        976
+      ],
+      "case-follow-them-detective-taxi-2": [
+        1155
+      ],
+      "case-follow-them-detective-taxi-3": [
+        1188
+      ],
+      "case-friendship-washed-away-in-the-riverbed": [
+        908
+      ],
+      "case-froth-steam-and-smoke": [
+        684,
+        685
+      ],
+      "case-furinkazan": [
+        516,
+        517
+      ],
+      "case-genta-s-casebook-of-the-eel": [
+        1168
+      ],
+      "case-genta-s-certain-kill-shot": [
+        476,
+        477
+      ],
+      "case-ginkgo-colored-first-love": [
+        421,
+        422
+      ],
+      "case-girls-day-mystery": [
+        1091
+      ],
+      "case-girls-day-mystery-2": [
+        1118
+      ],
+      "case-girls-day-mystery-3": [
+        1140
+      ],
+      "case-girls-day-mystery-4": [
+        1186
+      ],
+      "case-grabbing-karuta-cards-in-dire-straits": [
+        642,
+        643
+      ],
+      "case-head-to-head-match-with-the-black-organization-a-dual-mystery-on-a-full-moon-night": [
+        345
+      ],
+      "case-heiji-hattori-s-desperate-situation": [
+        323,
+        324
+      ],
+      "case-heiji-hattori-and-the-vampire-mansion": [
+        712,
+        713,
+        714,
+        715
+      ],
+      "case-heiji-hattori-vs-shinichi-kudo-deduction-battle-on-the-ski-slope": [
+        490
+      ],
+      "case-hidden-bathroom-secret": [
+        340,
+        341
+      ],
+      "case-hidden-circumstances-of-the-falling-incident": [
+        337
+      ],
+      "case-high-school-girl-detective-sonoko-suzuki": [
+        915
+      ],
+      "case-hijacked-department-store-case": [
+        17
+      ],
+      "case-holmes-revelation": [
+        616,
+        617,
+        618,
+        619,
+        620,
+        621
+      ],
+      "case-home-of-beika-s-grenier": [
+        418
+      ],
+      "case-hooligan-s-labyrinth": [
+        279,
+        280
+      ],
+      "case-hot-bitter-sweet-soup": [
+        397
+      ],
+      "case-houseboat-fishing-shock": [
+        296
+      ],
+      "case-i-m-the-culprit": [
+        1201
+      ],
+      "case-i-cannot-lie-to-archery": [
+        1202
+      ],
+      "case-i-want-my-husband-back": [
+        1056
+      ],
+      "case-i-was-set-up": [
+        1107
+      ],
+      "case-ikkaku-rock-s-disappearing-fish": [
+        542,
+        543
+      ],
+      "case-information-gathered-about-the-detective-boys": [
+        435,
+        436
+      ],
+      "case-inspector-shiratori-memories-of-the-cherry-blossom": [
+        568,
+        569
+      ],
+      "case-intersection-of-fear": [
+        556
+      ],
+      "case-intrigue-at-morikawa-mansion": [
+        1050,
+        1051
+      ],
+      "case-intrigue-at-smile-village": [
+        997
+      ],
+      "case-intrigue-at-the-food-court": [
+        936
+      ],
+      "case-inubushi-castle-the-ablazed-demon-dog": [
+        611,
+        612,
+        613
+      ],
+      "case-it-s-a-ghost": [
+        1173
+      ],
+      "case-jodie-s-memories-and-the-cherry-blossom-viewing-trap": [
+        734
+      ],
+      "case-just-like-a-17-years-old-crime-scene": [
+        861,
+        862
+      ],
+      "case-kaga-hyakumangoku-mystery-tour": [
+        761,
+        762
+      ],
+      "case-kaiju-gomera-vs-kamen-yaiba": [
+        965,
+        966,
+        967,
+        968
+      ],
+      "case-kaitou-kid-s-miraculous-midair-walk": [
+        356
+      ],
+      "case-kaitou-kid-s-teleportation-magic": [
+        515
+      ],
+      "case-kaitou-kid-vs-makoto-kyogoku": [
+        746,
+        747
+      ],
+      "case-kaitou-kid-and-the-blush-mermaid": [
+        724,
+        725
+      ],
+      "case-kaitou-kid-and-the-crown-trick": [
+        1150,
+        1151
+      ],
+      "case-kaitou-kid-and-the-four-masterpieces": [
+        469,
+        470
+      ],
+      "case-kaitou-kid-and-the-trick-box": [
+        887,
+        888
+      ],
+      "case-kaitou-kid-vs-the-strongest-safe": [
+        537,
+        538
+      ],
+      "case-karaoke-box-murder-case": [
+        42
+      ],
+      "case-karate-teacher-ran-mouri": [
+        1117
+      ],
+      "case-kid-vs-hakuba-the-azure-throne": [
+        1193,
+        1194
+      ],
+      "case-kid-vs-amuro-queen-s-bang": [
+        1105,
+        1106
+      ],
+      "case-kid-vs-komei-the-targeted-lips": [
+        983,
+        984
+      ],
+      "case-kobayashi-sensei-s-love": [
+        583,
+        584,
+        585
+      ],
+      "case-kogoro-s-class-reunion-murder-case": [
+        27,
+        28
+      ],
+      "case-kogoro-s-pursuit-of-rage": [
+        818,
+        819
+      ],
+      "case-kogoro-san-is-a-good-man": [
+        661,
+        662
+      ],
+      "case-kogoro-gets-drunk-in-satsuma": [
+        388,
+        389
+      ],
+      "case-kogoro-mouri-s-grand-lecture": [
+        962,
+        963,
+        964
+      ],
+      "case-kogoro-mouri-s-imposter": [
+        243,
+        244
+      ],
+      "case-kogoro-mouri-suspect": [
+        199,
+        200
+      ],
+      "case-kogoro-in-the-bar": [
+        738,
+        739
+      ],
+      "case-last-dance": [
+        1152
+      ],
+      "case-last-dinner-for-you": [
+        1113
+      ],
+      "case-lawyer-eri-kisaki-s-testimony": [
+        505,
+        506
+      ],
+      "case-lawyer-kisaki-s-sos": [
+        901,
+        902
+      ],
+      "case-leading-a-detective-around-by-the-nose": [
+        979
+      ],
+      "case-love-ghosts-and-world-heritage": [
+        348,
+        349
+      ],
+      "case-love-letter-to-ran": [
+        426
+      ],
+      "case-luxury-liner-serial-murder-case": [
+        22,
+        23
+      ],
+      "case-magic-lover-s-murder-case": [
+        132,
+        133,
+        134
+      ],
+      "case-makoto-kyogoku-the-understudy": [
+        993,
+        994,
+        995
+      ],
+      "case-megure-s-sealed-secret": [
+        217,
+        218
+      ],
+      "case-meiji-restoration-mystery-tour": [
+        518,
+        519
+      ],
+      "case-memories-from-sakura-class": [
+        853,
+        854
+      ],
+      "case-metropolitan-police-detective-love-story": [
+        146,
+        147
+      ],
+      "case-metropolitan-police-detective-love-story-fake-wedding": [
+        449
+      ],
+      "case-metropolitan-police-detective-love-story-2": [
+        156,
+        157
+      ],
+      "case-metropolitan-police-detective-love-story-3": [
+        205,
+        206
+      ],
+      "case-metropolitan-police-detective-love-story-4": [
+        253,
+        254
+      ],
+      "case-metropolitan-police-detective-love-story-5": [
+        358,
+        359
+      ],
+      "case-metropolitan-police-detective-love-story-6": [
+        390,
+        391
+      ],
+      "case-metropolitan-police-detective-love-story-7": [
+        431,
+        432
+      ],
+      "case-metropolitan-police-detective-love-story-8-the-left-hand-s-ring-finger": [
+        487
+      ],
+      "case-metropolitan-police-detective-love-story-9": [
+        748,
+        749
+      ],
+      "case-might-over-mystery": [
+        528,
+        529
+      ],
+      "case-miracle-at-koshien-ball-park-the-defiants-face-the-dark-demon": [
+        383
+      ],
+      "case-mirage-of-the-disappearing-angel": [
+        778
+      ],
+      "case-misfortune-of-the-positive-man": [
+        1134
+      ],
+      "case-miss-lonely-and-the-detective-boys": [
+        960
+      ],
+      "case-missing-corpse-murder-case": [
+        15
+      ],
+      "case-mitsuhiko-s-mystifying-forest": [
+        289,
+        290
+      ],
+      "case-mitsuhiko-tsuburaya-s-detective-notes": [
+        1068
+      ],
+      "case-mitsuhiko-tsuburaya-s-detective-notes-2": [
+        1096
+      ],
+      "case-mitsuhiko-tsuburaya-s-detective-notes-3": [
+        1132
+      ],
+      "case-mitsuhiko-tsuburaya-s-detective-notes-4": [
+        1192
+      ],
+      "case-momiji-ooka-s-challenge": [
+        1024,
+        1025
+      ],
+      "case-momiji-ooka-s-sweet-trap": [
+        1135,
+        1136
+      ],
+      "case-momotarou-mystery-solving-tour": [
+        377,
+        378
+      ],
+      "case-monday-night-7-30-p-m-murder-case": [
+        36
+      ],
+      "case-mountain-villa-bandaged-man-murder-case": [
+        34,
+        35
+      ],
+      "case-mountain-witch-s-cutlery": [
+        481,
+        482
+      ],
+      "case-munch-s-missing-scream": [
+        774
+      ],
+      "case-murder-at-the-townhouse-caf": [
+        992
+      ],
+      "case-murderer-shinichi-kudo": [
+        521,
+        522,
+        523
+      ],
+      "case-murderous-intent-raining-on-an-outdoor-spa": [
+        567
+      ],
+      "case-mushrooms-bears-and-the-detective-boys": [
+        212,
+        213
+      ],
+      "case-my-beloved-dog-pan-kun-is-a-good-boy": [
+        1081
+      ],
+      "case-mysterious-case-near-the-pond": [
+        468
+      ],
+      "case-mysterious-case-in-a-hot-air-balloon": [
+        838
+      ],
+      "case-mystery-of-the-burning-tent": [
+        909,
+        910
+      ],
+      "case-mystery-of-the-lost-treasure": [
+        1120
+      ],
+      "case-nagasaki-mystery-theatre": [
+        678,
+        679
+      ],
+      "case-on-location-tv-drama-murder-case": [
+        21
+      ],
+      "case-on-the-trail-of-a-silent-witness": [
+        307,
+        308
+      ],
+      "case-once-a-month-present-threat-case": [
+        7
+      ],
+      "case-out-for-revenge": [
+        1007,
+        1008
+      ],
+      "case-parade-of-malice-and-saint": [
+        301,
+        302
+      ],
+      "case-pet-dog-john-murder-case": [
+        26
+      ],
+      "case-photo-e-mail-from-the-clown": [
+        424
+      ],
+      "case-picking-wild-plants-and-clovers": [
+        1011,
+        1012
+      ],
+      "case-place-exposed-to-the-sun": [
+        315
+      ],
+      "case-preview-screening-of-fate-and-friendship": [
+        453
+      ],
+      "case-pride-of-the-immortal-man": [
+        1101
+      ],
+      "case-pro-soccer-player-blackmail-case": [
+        10
+      ],
+      "case-promise-with-a-j-leaguer": [
+        742
+      ],
+      "case-rainbow-color-kidnapping": [
+        562
+      ],
+      "case-ramen-so-good-it-s-to-die-for": [
+        644,
+        645
+      ],
+      "case-ramen-so-good-it-s-to-die-for-2": [
+        827,
+        828
+      ],
+      "case-ran-s-suspicions": [
+        400
+      ],
+      "case-ran-mouri-the-model": [
+        1032
+      ],
+      "case-ran-mouri-the-eyewitness": [
+        1213
+      ],
+      "case-real-30-minutes": [
+        478
+      ],
+      "case-red-wine-indictment": [
+        520
+      ],
+      "case-result-of-the-draw": [
+        904
+      ],
+      "case-reunion-with-the-black-organization": [
+        176,
+        177,
+        178
+      ],
+      "case-riddle-granny-disappearance-case": [
+        273
+      ],
+      "case-rondo-in-bad-company": [
+        1021
+      ],
+      "case-rube-goldberg-machine": [
+        1111,
+        1112
+      ],
+      "case-sos-messages-from-ayumi": [
+        140
+      ],
+      "case-scuba-diving-murder-case": [
+        114,
+        115
+      ],
+      "case-search-for-maria-chan": [
+        941,
+        942
+      ],
+      "case-secret-of-the-russian-blue": [
+        445
+      ],
+      "case-secret-of-the-tohto-film-development-studio": [
+        335,
+        336
+      ],
+      "case-shinichi-kudo-s-aquarium-case": [
+        772,
+        773
+      ],
+      "case-shinichi-kudo-s-childhood-adventure": [
+        472,
+        473
+      ],
+      "case-shinichi-kudo-s-new-york-case": [
+        286,
+        287,
+        288
+      ],
+      "case-solitary-island-of-the-princess-and-the-dragon-king-s-palace": [
+        291,
+        292,
+        293
+      ],
+      "case-solving-mysteries-at-the-poirot-caf": [
+        885,
+        886
+      ],
+      "case-solving-mysteries-at-the-red-leaf-palace": [
+        638,
+        639
+      ],
+      "case-solving-mysteries-in-a-locked-room": [
+        900
+      ],
+      "case-sonoko-s-dangerous-summer-story": [
+        153,
+        154
+      ],
+      "case-sonoko-s-red-handkerchief": [
+        457,
+        458
+      ],
+      "case-sonoko-and-conan-s-spooky-story-night": [
+        1203
+      ],
+      "case-sports-club-murder-case": [
+        47
+      ],
+      "case-stakeout": [
+        1015
+      ],
+      "case-stakeout-2": [
+        1092
+      ],
+      "case-stakeout-3": [
+        1122
+      ],
+      "case-stakeout-4": [
+        1147
+      ],
+      "case-stork-mystery-tour": [
+        554,
+        555
+      ],
+      "case-super-secret-of-the-road-to-school": [
+        427,
+        428
+      ],
+      "case-sweet-and-cold-delivery-service": [
+        722,
+        723
+      ],
+      "case-sweetheart-is-an-illusion-of-spring": [
+        357
+      ],
+      "case-sword-of-the-eight-headed-serpent": [
+        419,
+        420
+      ],
+      "case-tv-station-murder-case": [
+        31
+      ],
+      "case-taiko-meijin-s-match-of-love": [
+        785,
+        786
+      ],
+      "case-taiko-meijin-s-shogi-board": [
+        1033,
+        1034,
+        1035
+      ],
+      "case-takagi-and-date-and-the-notebook-promise": [
+        1109,
+        1110
+      ],
+      "case-teimuzu-river-kite-flying-case": [
+        765,
+        766
+      ],
+      "case-teitan-high-school-s-ghost-story": [
+        361,
+        362
+      ],
+      "case-tenkaichi-night-festival-murder-case": [
+        9
+      ],
+      "case-the-14th-round-of-the-matsue-tamatsukuri-linked-verse-contest": [
+        255,
+        256
+      ],
+      "case-the-17-year-old-truth": [
+        1164,
+        1165,
+        1166,
+        1167
+      ],
+      "case-the-36-cell-perfect-game": [
+        1003,
+        1004,
+        1005
+      ],
+      "case-the-3-k-s-of-osaka-case": [
+        238,
+        239
+      ],
+      "case-the-actress-blogger-s-locked-room-case": [
+        814,
+        815
+      ],
+      "case-the-akabeko-and-the-three-lucky-men": [
+        1102
+      ],
+      "case-the-alibi-of-the-black-dress": [
+        575,
+        576
+      ],
+      "case-the-alibi-of-the-fall": [
+        596
+      ],
+      "case-the-alibi-of-the-soothing-forest": [
+        248
+      ],
+      "case-the-alley-of-sad-betrayal": [
+        1082
+      ],
+      "case-the-amusement-park-bungee-jumping-case": [
+        149
+      ],
+      "case-the-antique-collector-murder-case": [
+        16
+      ],
+      "case-the-antique-tray-can-t-be-hidden": [
+        1018,
+        1019,
+        1020
+      ],
+      "case-the-art-of-ninja-alibi-craft": [
+        320
+      ],
+      "case-the-automatic-tragedy": [
+        990,
+        991
+      ],
+      "case-the-battle-game-trap": [
+        226,
+        227
+      ],
+      "case-the-bay-of-revenge": [
+        215,
+        216
+      ],
+      "case-the-beauty-the-lies-and-the-secrets": [
+        826
+      ],
+      "case-the-beika-city-shopping-center-garbage-bin-mystery": [
+        1002
+      ],
+      "case-the-betrayal-s-stage": [
+        866,
+        867
+      ],
+      "case-the-big-investigation-of-the-nine-doors": [
+        182
+      ],
+      "case-the-birdman-rally-bombing": [
+        1211,
+        1212
+      ],
+      "case-the-birthday-party-of-divine-punishment": [
+        1045,
+        1046
+      ],
+      "case-the-birthday-wine-mystery": [
+        328
+      ],
+      "case-the-black-organization-one-billion-yen-robbery-case": [
+        128
+      ],
+      "case-the-black-wings-of-icarus": [
+        203,
+        204
+      ],
+      "case-the-blank-year": [
+        1030,
+        1031
+      ],
+      "case-the-blind-spot-in-the-darkness": [
+        170,
+        171
+      ],
+      "case-the-blind-spot-in-the-dressing-room": [
+        878,
+        879
+      ],
+      "case-the-blind-spot-in-the-karaoke-box": [
+        507,
+        508
+      ],
+      "case-the-blind-spot-in-the-share-house": [
+        753
+      ],
+      "case-the-blue-spark-of-hate": [
+        524,
+        525
+      ],
+      "case-the-body-on-the-gunma-nagano-border": [
+        1123,
+        1124
+      ],
+      "case-the-boiled-fugu-mystery-tour-showdown": [
+        1074,
+        1075
+      ],
+      "case-the-bride-of-huis-ten-bosch": [
+        342
+      ],
+      "case-the-broken-fishbowl": [
+        977
+      ],
+      "case-the-broken-horoscope": [
+        512
+      ],
+      "case-the-cameras-targeting-haibara": [
+        1080
+      ],
+      "case-the-candy-house-the-witch-lives-in": [
+        368
+      ],
+      "case-the-car-stunt-s-utmost-limit": [
+        440
+      ],
+      "case-the-case-on-the-opposite-shore": [
+        978
+      ],
+      "case-the-case-of-ayumi-s-illustrated-diary": [
+        989
+      ],
+      "case-the-case-of-ayumi-s-illustrated-diary-2": [
+        1040
+      ],
+      "case-the-case-of-ayumi-s-illustrated-diary-3": [
+        1087
+      ],
+      "case-the-case-of-ayumi-s-illustrated-diary-4": [
+        1125
+      ],
+      "case-the-case-of-ayumi-s-illustrated-diary-5": [
+        1162
+      ],
+      "case-the-case-of-the-besieged-detective-agency": [
+        648,
+        649,
+        650
+      ],
+      "case-the-case-of-the-furisode-at-the-hidden-hot-spring-on-a-snowy-night": [
+        379,
+        380
+      ],
+      "case-the-case-of-the-lucky-calico": [
+        751,
+        752
+      ],
+      "case-the-celebrities-secret": [
+        249,
+        250
+      ],
+      "case-the-charismatic-ceo-s-secret-plan": [
+        1076
+      ],
+      "case-the-city-crows": [
+        363
+      ],
+      "case-the-client-s-message": [
+        689
+      ],
+      "case-the-client-full-of-lies": [
+        220,
+        221
+      ],
+      "case-the-coded-invitation": [
+        735
+      ],
+      "case-the-coded-map-of-the-city-case": [
+        4
+      ],
+      "case-the-coffee-shop-truck-s-wild-entrance-case": [
+        179
+      ],
+      "case-the-comedian-who-turned-himself-in": [
+        757,
+        758
+      ],
+      "case-the-company-dissolution-party": [
+        987
+      ],
+      "case-the-convenience-store-trap": [
+        343,
+        344
+      ],
+      "case-the-cosplay-rider-of-the-wind": [
+        1197
+      ],
+      "case-the-cost-of-likes": [
+        944,
+        945
+      ],
+      "case-the-counting-song-heard-in-the-dark": [
+        1163
+      ],
+      "case-the-crime-with-zero-possibility-to-be-proven": [
+        570
+      ],
+      "case-the-crimson-closing-day": [
+        1214,
+        1215,
+        1216
+      ],
+      "case-the-crimson-skeleton-of-mt-washio": [
+        1178,
+        1179
+      ],
+      "case-the-crisis-beckoned-by-the-red-omen": [
+        578,
+        579,
+        580,
+        581
+      ],
+      "case-the-culprit-who-disappeared-into-the-sleeping-town": [
+        1090
+      ],
+      "case-the-culprit-is-genta-s-dad": [
+        551,
+        552
+      ],
+      "case-the-cursed-museum": [
+        1022
+      ],
+      "case-the-cursed-neighbor-s-house": [
+        1210
+      ],
+      "case-the-cursed-tears-of-borgia": [
+        946,
+        947
+      ],
+      "case-the-dangerous-fossil-finding-trip": [
+        939
+      ],
+      "case-the-dangerous-melon-field": [
+        1121
+      ],
+      "case-the-dark-mountain-route": [
+        859
+      ],
+      "case-the-dark-tower-s-hidden-treasure": [
+        669,
+        670
+      ],
+      "case-the-darkness-of-the-prefectural-police": [
+        810,
+        811,
+        812
+      ],
+      "case-the-day-kogoro-mouri-ceased-being-a-detective": [
+        540,
+        541
+      ],
+      "case-the-deadly-pork-soup-signal": [
+        1044
+      ],
+      "case-the-deduction-that-was-too-good": [
+        207
+      ],
+      "case-the-descent-into-hell-tour-of-love": [
+        851,
+        852
+      ],
+      "case-the-design-of-poison-and-mirage": [
+        652,
+        653,
+        654,
+        655
+      ],
+      "case-the-detective-boys-bluebird-chase": [
+        414
+      ],
+      "case-the-detective-boys-pursuit-of-the-purse-snatcher": [
+        1073
+      ],
+      "case-the-detective-boys-test-of-courage": [
+        1052
+      ],
+      "case-the-detective-boys-become-models": [
+        912
+      ],
+      "case-the-detective-boys-get-out-of-the-rain": [
+        824
+      ],
+      "case-the-detective-boys-vs-the-silver-detectives": [
+        777
+      ],
+      "case-the-detective-boys-vs-the-silver-detectives-2": [
+        1199
+      ],
+      "case-the-detective-boys-and-the-four-caterpillar-brothers": [
+        423
+      ],
+      "case-the-detective-boys-and-the-ghost-mansion": [
+        880
+      ],
+      "case-the-detective-boys-and-the-traditional-dream-house": [
+        1158
+      ],
+      "case-the-detective-boys-and-the-two-leaders": [
+        1148,
+        1149
+      ],
+      "case-the-detective-boys-in-a-grove": [
+        843,
+        844
+      ],
+      "case-the-detective-memoir-of-monkey-and-rake": [
+        592,
+        593
+      ],
+      "case-the-detective-who-lost-his-mind": [
+        1126
+      ],
+      "case-the-devil-s-circuit": [
+        718
+      ],
+      "case-the-devil-hidden-in-the-tennis-court": [
+        602
+      ],
+      "case-the-devil-of-the-tv-station": [
+        488
+      ],
+      "case-the-diamond-the-painting-and-the-great-actress": [
+        729
+      ],
+      "case-the-disappeared-detective-boys": [
+        922
+      ],
+      "case-the-disappearing-detective-boys-case": [
+        165
+      ],
+      "case-the-disappearing-weapon-search-case": [
+        135
+      ],
+      "case-the-disappointing-and-kind-alien": [
+        816
+      ],
+      "case-the-dissonance-of-the-stradivarius": [
+        385,
+        386,
+        387
+      ],
+      "case-the-dream-the-kappa-saw": [
+        600,
+        601
+      ],
+      "case-the-dreaming-girl-s-confused-deduction": [
+        797
+      ],
+      "case-the-dreamy-eyed-woman-s-last-shot-at-love": [
+        1064
+      ],
+      "case-the-entrance-to-the-maze-the-anger-of-the-colossus": [
+        208
+      ],
+      "case-the-evening-cherry-blossom-viewing-route-on-sumida-river": [
+        692,
+        693
+      ],
+      "case-the-evidence-that-didn-t-disappear": [
+        233,
+        234
+      ],
+      "case-the-evil-spirit-appears-on-an-unlucky-day": [
+        415,
+        416,
+        417
+      ],
+      "case-the-ex-boyfriend-living-next-to-a-crime-scene": [
+        731,
+        732
+      ],
+      "case-the-eyewitness-who-did-not-see": [
+        565
+      ],
+      "case-the-falling-from-mt-ryujin-case": [
+        209
+      ],
+      "case-the-falling-from-the-condo-case": [
+        232
+      ],
+      "case-the-false-kidnapping-and-hostage-case": [
+        25
+      ],
+      "case-the-fearful-legend-of-the-snowy-night": [
+        261,
+        262
+      ],
+      "case-the-feuding-girls": [
+        988
+      ],
+      "case-the-figure-that-was-too-good": [
+        730
+      ],
+      "case-the-figure-of-revenge": [
+        1043
+      ],
+      "case-the-final-ahh": [
+        441
+      ],
+      "case-the-final-screening-murder-case": [
+        138,
+        139
+      ],
+      "case-the-fishing-tournament-tragedy": [
+        352,
+        353
+      ],
+      "case-the-flowerbed-vandal-s-scheme": [
+        696
+      ],
+      "case-the-flying-jack-o-lantern": [
+        1039
+      ],
+      "case-the-footprintless-beach": [
+        677
+      ],
+      "case-the-forgotten-cell-phone": [
+        350,
+        351
+      ],
+      "case-the-forgotten-memento-from-the-crime": [
+        269,
+        270
+      ],
+      "case-the-fortuneteller-and-the-three-customers": [
+        935
+      ],
+      "case-the-foul-mouthed-myna-bird": [
+        865
+      ],
+      "case-the-four-person-class-reunion": [
+        1119
+      ],
+      "case-the-four-porsches": [
+        338,
+        339
+      ],
+      "case-the-framed-great-detective": [
+        707
+      ],
+      "case-the-freezing-cold-men": [
+        1084
+      ],
+      "case-the-frying-pan-of-hatred": [
+        998
+      ],
+      "case-the-gathering-of-the-detectives-shinichi-kudo-vs-kaitou-kid": [
+        219
+      ],
+      "case-the-genius-restaurant": [
+        1089
+      ],
+      "case-the-ghost-s-revenge": [
+        1055
+      ],
+      "case-the-girl-from-the-black-organization-and-the-university-professor-murder-case": [
+        129
+      ],
+      "case-the-glamping-mystery": [
+        961
+      ],
+      "case-the-glassy-water-s-surface": [
+        1174,
+        1175
+      ],
+      "case-the-great-detective-s-weakness": [
+        833
+      ],
+      "case-the-great-dog-coeur-s-triumph": [
+        434
+      ],
+      "case-the-great-dog-coeur-s-triumph-2": [
+        664
+      ],
+      "case-the-guardian-of-time-s-sword": [
+        632,
+        633
+      ],
+      "case-the-gunshot-at-the-sunflower-estate": [
+        245
+      ],
+      "case-the-half-completed-crime-mystery": [
+        413
+      ],
+      "case-the-hand-that-plays-in-dissonance": [
+        544
+      ],
+      "case-the-hands-pushing-their-back": [
+        1217
+      ],
+      "case-the-heartfelt-strap": [
+        925,
+        926
+      ],
+      "case-the-hero-of-ishinomaki": [
+        1176
+      ],
+      "case-the-hidden-secret-of-dongaraji-temple": [
+        821
+      ],
+      "case-the-high-school-girl-trio-s-secret-caf": [
+        919,
+        920
+      ],
+      "case-the-holed-up-sensation": [
+        1114
+      ],
+      "case-the-hot-chocolate-trap": [
+        658
+      ],
+      "case-the-hotel-serial-bombing-case": [
+        1144,
+        1145
+      ],
+      "case-the-house-with-the-aquarium": [
+        591
+      ],
+      "case-the-idol-whose-smile-disappeared": [
+        1010
+      ],
+      "case-the-inauspicious-matchmaking": [
+        1085,
+        1086
+      ],
+      "case-the-indiscriminate-stadium-threatening-case": [
+        130,
+        131
+      ],
+      "case-the-interrogation-room": [
+        553
+      ],
+      "case-the-interrogation-room-2": [
+        1127
+      ],
+      "case-the-interrogation-room-3": [
+        1183
+      ],
+      "case-the-invisible-weapon-ran-s-first-investigation": [
+        196
+      ],
+      "case-the-ishikawa-yorumasshi-mystery": [
+        1156,
+        1157
+      ],
+      "case-the-j-league-starting-whistle": [
+        1207
+      ],
+      "case-the-j-league-bodyguard": [
+        907
+      ],
+      "case-the-job-request-from-inspector-megure": [
+        911
+      ],
+      "case-the-kamaitachi-inn": [
+        808,
+        809
+      ],
+      "case-the-kamen-yaiba-murder-case": [
+        119
+      ],
+      "case-the-kanmon-strait-of-friendship-and-murderous-intent": [
+        299,
+        300
+      ],
+      "case-the-kendo-tournament-of-love-and-mystery": [
+        916,
+        917
+      ],
+      "case-the-kidnapper-s-disappearing-getaway-car": [
+        321,
+        322
+      ],
+      "case-the-kidnapper-in-the-picture": [
+        252
+      ],
+      "case-the-killer-fist-of-talos": [
+        937,
+        938
+      ],
+      "case-the-last-gift": [
+        840
+      ],
+      "case-the-legend-of-the-mysterious-five-storied-pagoda": [
+        159,
+        160
+      ],
+      "case-the-life-threatening-broadcast-of-love": [
+        681,
+        682,
+        683
+      ],
+      "case-the-locked-bathroom-murder-case": [
+        121,
+        122
+      ],
+      "case-the-locked-room-in-the-sky-shinichi-kudo-s-first-case": [
+        162
+      ],
+      "case-the-locked-wine-cellar": [
+        235
+      ],
+      "case-the-lost-article-that-smells-like-a-case": [
+        1009
+      ],
+      "case-the-love-of-lawyer-eri-kisaki": [
+        474
+      ],
+      "case-the-lovebirds-ruse": [
+        796
+      ],
+      "case-the-lover-gone-missing-in-a-snowstorm": [
+        767
+      ],
+      "case-the-lover-who-vanished-on-pont-koitani": [
+        1190,
+        1191
+      ],
+      "case-the-lucky-cat-saw-everything": [
+        1180
+      ],
+      "case-the-lucky-cigar-case": [
+        318,
+        319
+      ],
+      "case-the-malice-hidden-behind-the-masque": [
+        527
+      ],
+      "case-the-man-crushed-by-a-dinosaur": [
+        948
+      ],
+      "case-the-man-obstructed-by-the-steel-frame": [
+        442
+      ],
+      "case-the-man-who-called-for-an-ambulance": [
+        405
+      ],
+      "case-the-man-who-came-falling-down": [
+        1206
+      ],
+      "case-the-man-who-camped-out-at-the-police-station": [
+        1058
+      ],
+      "case-the-man-who-died-twice": [
+        834,
+        835
+      ],
+      "case-the-man-who-fell-slowly": [
+        708
+      ],
+      "case-the-man-who-loved-too-much": [
+        1013
+      ],
+      "case-the-man-who-was-betrayed-by-the-sea": [
+        750
+      ],
+      "case-the-man-who-was-killed-four-times": [
+        175
+      ],
+      "case-the-man-from-chicago": [
+        258,
+        259
+      ],
+      "case-the-manipulated-great-detective": [
+        775,
+        776
+      ],
+      "case-the-mansion-of-death-and-the-red-wall": [
+        558,
+        559,
+        560,
+        561
+      ],
+      "case-the-marriage-registration-s-password": [
+        849,
+        850
+      ],
+      "case-the-mechanical-witness": [
+        876
+      ],
+      "case-the-meguro-sanma-case": [
+        448
+      ],
+      "case-the-melting-cake": [
+        898
+      ],
+      "case-the-memory-trip-of-the-eight-sketches": [
+        640,
+        641
+      ],
+      "case-the-mini-patrol-car-police-s-big-chase": [
+        918
+      ],
+      "case-the-missing-fianc-e": [
+        817
+      ],
+      "case-the-missing-girlfriend": [
+        940
+      ],
+      "case-the-missing-man-s-dream": [
+        1095
+      ],
+      "case-the-missing-page": [
+        461
+      ],
+      "case-the-missing-sweets-in-the-old-shop": [
+        694
+      ],
+      "case-the-monorail-sniper-case": [
+        1016,
+        1017
+      ],
+      "case-the-moonlight-sonata-murder": [
+        1000,
+        1001
+      ],
+      "case-the-most-useful-school-in-the-world-case": [
+        636,
+        637
+      ],
+      "case-the-mouri-family-house-sits": [
+        1141
+      ],
+      "case-the-moving-police-box": [
+        1138
+      ],
+      "case-the-moving-target": [
+        798
+      ],
+      "case-the-murder-floating-in-the-water-stream-restaurant": [
+        161
+      ],
+      "case-the-murdered-famous-detective": [
+        185,
+        186
+      ],
+      "case-the-murderous-carpool": [
+        921
+      ],
+      "case-the-murderous-pottery-class": [
+        228,
+        229
+      ],
+      "case-the-mysterious-angel-s-mansion": [
+        403,
+        404
+      ],
+      "case-the-mysterious-boy": [
+        829
+      ],
+      "case-the-mysterious-height-difference-of-20cm": [
+        392
+      ],
+      "case-the-mysterious-mole-alien-case": [
+        107,
+        108
+      ],
+      "case-the-mysterious-old-man-disappearance-case": [
+        152
+      ],
+      "case-the-mysterious-passenger": [
+        230,
+        231
+      ],
+      "case-the-mysterious-prophetic-buddha": [
+        875
+      ],
+      "case-the-mysterious-punishment-from-heaven": [
+        257
+      ],
+      "case-the-mysterious-retro-room-case": [
+        214
+      ],
+      "case-the-mysterious-shooting-message-case": [
+        14
+      ],
+      "case-the-mysterious-woman-with-amnesia-case": [
+        24
+      ],
+      "case-the-mystery-solving-water-taxi": [
+        956,
+        957
+      ],
+      "case-the-mystery-i-loved": [
+        456
+      ],
+      "case-the-mystery-sinking-in-the-midsummer-pool": [
+        787,
+        788
+      ],
+      "case-the-mystery-writer-disappearance-case": [
+        116,
+        117
+      ],
+      "case-the-mystery-in-the-net": [
+        246,
+        247
+      ],
+      "case-the-mystery-of-the-man-eating-classroom": [
+        1169,
+        1170
+      ],
+      "case-the-mystery-of-the-michelin-starred-restaurant": [
+        893
+      ],
+      "case-the-mystery-of-the-vanished-black-belt": [
+        855
+      ],
+      "case-the-mystery-of-the-water-flowing-stone-garden": [
+        282,
+        283
+      ],
+      "case-the-naniwa-serial-murder-case": [
+        118
+      ],
+      "case-the-nanki-shirahama-mystery-tour": [
+        236,
+        237
+      ],
+      "case-the-new-teacher-s-skeleton-case": [
+        889,
+        890
+      ],
+      "case-the-night-before-the-wedding-locked-room-case": [
+        141,
+        142
+      ],
+      "case-the-night-the-zombie-died": [
+        582
+      ],
+      "case-the-nobunaga-450-case": [
+        871
+      ],
+      "case-the-nocturne-of-red-murderous-intent": [
+        180,
+        181
+      ],
+      "case-the-north-star-no-3-express-leaving-ueno": [
+        144,
+        145
+      ],
+      "case-the-northern-kyushu-mystery-tour": [
+        931,
+        932
+      ],
+      "case-the-novelist-known-as-the-demon-king": [
+        1014
+      ],
+      "case-the-old-blue-castle-investigation-case": [
+        136,
+        137
+      ],
+      "case-the-osaka-double-mystery-the-naniwa-swordsman-and-toyotomi-s-castle": [
+        263
+      ],
+      "case-the-overturned-conclusion": [
+        454,
+        455
+      ],
+      "case-the-partner-is-santa-san": [
+        566
+      ],
+      "case-the-phantom-of-the-konpira": [
+        452
+      ],
+      "case-the-pitfall-of-fire-precautions": [
+        803
+      ],
+      "case-the-policeman-s-missing-notebook-case": [
+        276
+      ],
+      "case-the-poodle-and-the-shotgun": [
+        958,
+        959
+      ],
+      "case-the-pop-up-book-bomber": [
+        883,
+        884
+      ],
+      "case-the-porch-pirate-epidemic": [
+        1200
+      ],
+      "case-the-professor-s-video-site": [
+        656,
+        657
+      ],
+      "case-the-promo-video-shooting-case": [
+        629,
+        630
+      ],
+      "case-the-pursuit-of-the-fish-e-mail": [
+        438
+      ],
+      "case-the-queen-s-weather-forecast": [
+        789
+      ],
+      "case-the-radio-questions-and-concerns-show": [
+        949,
+        950
+      ],
+      "case-the-rainy-bus-stop": [
+        841
+      ],
+      "case-the-rainy-night-menace": [
+        666
+      ],
+      "case-the-ranpo-mansion-murder-case": [
+        1142,
+        1143
+      ],
+      "case-the-real-culprit-s-scream": [
+        899
+      ],
+      "case-the-reason-he-became-a-butler": [
+        1171,
+        1172
+      ],
+      "case-the-red-brick-warehouse-and-the-vanishing-kidnapper": [
+        1184,
+        1185
+      ],
+      "case-the-red-horse-within-the-flames": [
+        325,
+        326,
+        327
+      ],
+      "case-the-red-sheep-s-eerie-game": [
+        1047,
+        1048
+      ],
+      "case-the-revival-of-the-dying-message": [
+        172,
+        173
+      ],
+      "case-the-revolving-sushi-mystery": [
+        549,
+        550
+      ],
+      "case-the-romance-novel-with-the-unexpected-conclusion": [
+        759,
+        760
+      ],
+      "case-the-roses-in-the-vineyard": [
+        695
+      ],
+      "case-the-runaway-video-game": [
+        370
+      ],
+      "case-the-scar-that-evokes-the-past": [
+        532,
+        533,
+        534,
+        535
+      ],
+      "case-the-scarlet-return": [
+        779,
+        780,
+        781,
+        782,
+        783
+      ],
+      "case-the-scarlet-school-trip": [
+        927,
+        928
+      ],
+      "case-the-scenario-of-the-steaming-locked-room": [
+        597,
+        598
+      ],
+      "case-the-scenic-lookout-with-the-broken-fence": [
+        314
+      ],
+      "case-the-screaming-operation-room": [
+        625,
+        626
+      ],
+      "case-the-sealed-western-style-window": [
+        446,
+        447
+      ],
+      "case-the-secret-s-afterimage": [
+        1161
+      ],
+      "case-the-secret-hidden-by-the-cards": [
+        1108
+      ],
+      "case-the-secret-played-by-the-diary": [
+        614,
+        615
+      ],
+      "case-the-secret-rushed-omission": [
+        271,
+        272
+      ],
+      "case-the-secret-of-the-celebrity-couple": [
+        856
+      ],
+      "case-the-secret-of-the-high-sales": [
+        225
+      ],
+      "case-the-secret-of-the-insect-man": [
+        955
+      ],
+      "case-the-secret-of-the-missing-young-lady": [
+        795
+      ],
+      "case-the-secret-of-the-moon-the-star-and-the-sun": [
+        163,
+        164
+      ],
+      "case-the-secret-of-the-popular-restaurant-s-changing-flavor": [
+        1137
+      ],
+      "case-the-secret-of-the-search-for-his-wife": [
+        975
+      ],
+      "case-the-secret-of-the-statue-of-kogoro-mouri": [
+        736
+      ],
+      "case-the-secret-of-the-vanished-masterpiece": [
+        536
+      ],
+      "case-the-security-system-s-pitfall": [
+        860
+      ],
+      "case-the-seven-mysteries-of-teitan-elementary-school-case": [
+        112
+      ],
+      "case-the-seven-people-in-the-waiting-room": [
+        820
+      ],
+      "case-the-seven-wonders-of-the-hiroshima-miyajima-tour": [
+        594,
+        595
+      ],
+      "case-the-shadow-approaching-amuro": [
+        813
+      ],
+      "case-the-shadow-approaching-haibara-s-secret": [
+        699,
+        700
+      ],
+      "case-the-shadow-of-the-black-organization": [
+        462,
+        463,
+        464,
+        465
+      ],
+      "case-the-shaking-restaurant": [
+        260
+      ],
+      "case-the-shifting-mystery-of-beika-city": [
+        857,
+        858
+      ],
+      "case-the-shinkansen-s-bomb-case": [
+        5
+      ],
+      "case-the-shinkansen-transport-case": [
+        240,
+        241
+      ],
+      "case-the-shinto-shrine-torii-s-surprising-code": [
+        411,
+        412
+      ],
+      "case-the-shopping-center-in-love": [
+        1067
+      ],
+      "case-the-significant-music-box": [
+        194,
+        195
+      ],
+      "case-the-silent-loop-line": [
+        158
+      ],
+      "case-the-similar-princesses": [
+        333,
+        334
+      ],
+      "case-the-simultaneous-stage-advance-and-kidnapping": [
+        409,
+        410
+      ],
+      "case-the-sister-troubled-by-her-naughty-brother": [
+        1139
+      ],
+      "case-the-skilled-hawk-hides-his-crime": [
+        996
+      ],
+      "case-the-small-eye-witnesses": [
+        281
+      ],
+      "case-the-smash-of-determination-and-love": [
+        294,
+        295
+      ],
+      "case-the-spark-that-fell-on-the-ranch": [
+        1053,
+        1054
+      ],
+      "case-the-spiral-mansion-mystery": [
+        1195,
+        1196
+      ],
+      "case-the-spiral-of-rain-and-malice": [
+        1062
+      ],
+      "case-the-spirit-detective-s-murder": [
+        863,
+        864
+      ],
+      "case-the-strange-family-s-request": [
+        398,
+        399
+      ],
+      "case-the-strange-person-hunt-murder-case": [
+        13
+      ],
+      "case-the-streetcar-s-sudden-stopping-case": [
+        148
+      ],
+      "case-the-sullied-masked-hero": [
+        316,
+        317
+      ],
+      "case-the-sun-sets-in-tangerine-fields": [
+        924
+      ],
+      "case-the-super-car-s-trap": [
+        197,
+        198
+      ],
+      "case-the-super-narrow-shop-crime-scene": [
+        634
+      ],
+      "case-the-surprise-that-leads-to-tragedy": [
+        1070
+      ],
+      "case-the-suspect-is-makoto-kyogoku": [
+        744,
+        745
+      ],
+      "case-the-suspected-infidelity-of-the-triple-collab": [
+        1130,
+        1131
+      ],
+      "case-the-suspects-are-a-passionate-couple": [
+        822,
+        823
+      ],
+      "case-the-suspicious-astronomical-observation": [
+        143
+      ],
+      "case-the-suspicious-initial-k": [
+        665
+      ],
+      "case-the-suspicious-spicy-curry": [
+        331,
+        332
+      ],
+      "case-the-suspicious-walking-path": [
+        737
+      ],
+      "case-the-sweet-voice-heard-through-the-phone": [
+        1069
+      ],
+      "case-the-synchronicity-case": [
+        364,
+        365
+      ],
+      "case-the-s-ance-s-double-locked-room-mystery-case": [
+        603,
+        604,
+        605
+      ],
+      "case-the-target-is-kogoro-mouri": [
+        384
+      ],
+      "case-the-target-is-the-metropolitan-police-traffic-department": [
+        971,
+        972,
+        973,
+        974
+      ],
+      "case-the-targeted-chicken-sexer": [
+        1063
+      ],
+      "case-the-teen-novel-that-smells-like-guilt": [
+        1103
+      ],
+      "case-the-tense-tea-party": [
+        770,
+        771
+      ],
+      "case-the-tenth-passenger": [
+        201,
+        202
+      ],
+      "case-the-threat-to-megure-s-police-career": [
+        1049
+      ],
+      "case-the-tidal-park-comeback-case": [
+        825
+      ],
+      "case-the-time-limit-is-15-00": [
+        376
+      ],
+      "case-the-tokyo-style-detective-show-next-door": [
+        894,
+        895
+      ],
+      "case-the-tokyo-barls-collection": [
+        943
+      ],
+      "case-the-tragedy-at-the-ok-corral": [
+        251
+      ],
+      "case-the-tragedy-of-the-pier-in-plain-sight": [
+        366,
+        367
+      ],
+      "case-the-tragedy-of-the-red-woman": [
+        754,
+        755,
+        756
+      ],
+      "case-the-trap-of-the-rooftop-farm": [
+        588
+      ],
+      "case-the-traveling-drama-troupe-murder-case": [
+        126,
+        127
+      ],
+      "case-the-treasure-chest-filled-with-fruits": [
+        727,
+        728
+      ],
+      "case-the-trembling-police-headquarters-12-million-hostages": [
+        304
+      ],
+      "case-the-troublesome-20-million-yen": [
+        1100
+      ],
+      "case-the-troublesome-emergency-patient": [
+        769
+      ],
+      "case-the-true-culprit-is-on-the-run": [
+        1104
+      ],
+      "case-the-truth-behind-valentine-s": [
+        266,
+        267,
+        268
+      ],
+      "case-the-truth-behind-the-car-explosion-case": [
+        150,
+        151
+      ],
+      "case-the-truth-behind-the-urban-legend": [
+        530,
+        531
+      ],
+      "case-the-truth-lit-up-by-the-fireflies": [
+        577
+      ],
+      "case-the-truth-of-the-haunted-house": [
+        274,
+        275
+      ],
+      "case-the-twenty-year-old-murderous-intent-the-symphony-serial-murder-case": [
+        174
+      ],
+      "case-the-two-faces": [
+        985,
+        986
+      ],
+      "case-the-uncontrollable-rental-car": [
+        471
+      ],
+      "case-the-unfortunate-and-suspicious-victim": [
+        1088
+      ],
+      "case-the-unfriendly-girls-band": [
+        836,
+        837
+      ],
+      "case-the-unknown-gunshot-that-rings-in-the-dark": [
+        187
+      ],
+      "case-the-unseen-suspect": [
+        305,
+        306
+      ],
+      "case-the-unsmashable-snowman": [
+        466,
+        467
+      ],
+      "case-the-unsolvable-ice-trap": [
+        687
+      ],
+      "case-the-unsolved-cocktail-case": [
+        952,
+        953,
+        954
+      ],
+      "case-the-unstated-alibi": [
+        1041
+      ],
+      "case-the-vanished-policeman": [
+        483
+      ],
+      "case-the-ventriloquist-s-illusion": [
+        806,
+        807
+      ],
+      "case-the-victim-who-came-back": [
+        303
+      ],
+      "case-the-victim-is-shinichi-kudo": [
+        610
+      ],
+      "case-the-water-palace-of-five-colors-legend": [
+        210,
+        211
+      ],
+      "case-the-weather-girl-kidnapping-case": [
+        123
+      ],
+      "case-the-wedding-reception-and-the-two-gunshots": [
+        733
+      ],
+      "case-the-whereabouts-of-the-embarrassing-charm": [
+        573,
+        574
+      ],
+      "case-the-whereabouts-of-the-goodbye": [
+        1159
+      ],
+      "case-the-whistling-bookstore": [
+        868
+      ],
+      "case-the-whistling-bookstore-2": [
+        951
+      ],
+      "case-the-whistling-bookstore-3": [
+        1023
+      ],
+      "case-the-whistling-bookstore-4": [
+        1146
+      ],
+      "case-the-white-sandy-beach-murder-case": [
+        113
+      ],
+      "case-the-window-at-the-girls-school": [
+        697
+      ],
+      "case-the-witch-enshrouded-by-fog": [
+        545,
+        546
+      ],
+      "case-the-wizard-of-the-ripples": [
+        881,
+        882
+      ],
+      "case-the-woman-with-white-hands": [
+        896,
+        897
+      ],
+      "case-the-wordless-witness": [
+        1026
+      ],
+      "case-the-worst-birthday": [
+        589,
+        590
+      ],
+      "case-the-yamahime-of-yakushima": [
+        1153,
+        1154
+      ],
+      "case-the-young-kaga-lady-s-mystery-tour": [
+        969,
+        970
+      ],
+      "case-thoroughbred-kidnapping-case": [
+        933,
+        934
+      ],
+      "case-three-days-with-heiji-hattori": [
+        479
+      ],
+      "case-three-first-discoverers": [
+        792,
+        793
+      ],
+      "case-three-hotta-siblings-murder-case": [
+        44
+      ],
+      "case-tottori-sand-dunes-mystery-tour": [
+        801,
+        802
+      ],
+      "case-tottori-spider-mansion-demon": [
+        166,
+        167,
+        168
+      ],
+      "case-trick-vs-magic": [
+        450,
+        451
+      ],
+      "case-troublesome-kindness": [
+        999
+      ],
+      "case-turning-point-on-a-driving-date": [
+        842
+      ],
+      "case-two-coincidental-successes": [
+        743
+      ],
+      "case-two-days-with-the-culprit": [
+        547,
+        548
+      ],
+      "case-two-people-who-can-t-return": [
+        429,
+        430
+      ],
+      "case-unbelievable-the-case-of-the-crashed-ufo": [
+        698
+      ],
+      "case-underwater-key-in-the-locked-room-case": [
+        155
+      ],
+      "case-valentine-murder-case": [
+        6
+      ],
+      "case-venus-kiss": [
+        169
+      ],
+      "case-victory-flag-tearing-case": [
+        41
+      ],
+      "case-wealthy-daughter-murder-case": [
+        39,
+        40
+      ],
+      "case-wedding-eve": [
+        667,
+        668
+      ],
+      "case-welcome-to-bocchan-restaurant": [
+        981,
+        982
+      ],
+      "case-welcome-to-club-orihime": [
+        784
+      ],
+      "case-welcome-to-the-stone-age-village": [
+        1208
+      ],
+      "case-what-the-flower-clock-knew": [
+        631
+      ],
+      "case-when-the-shishi-odoshi-sounds": [
+        1160
+      ],
+      "case-whereabouts-of-the-dark-photograph": [
+        484,
+        485
+      ],
+      "case-which-one-s-deduction-show": [
+        381,
+        382
+      ],
+      "case-white-day-of-betrayal": [
+        608,
+        609
+      ],
+      "case-whiteout": [
+        1036,
+        1037
+      ],
+      "case-who-s-the-target": [
+        1209
+      ],
+      "case-who-kidnapped-conan-and-azusa": [
+        1204,
+        1205
+      ],
+      "case-who-poisoned-the-victim": [
+        1006
+      ],
+      "case-won-t-forgive-even-one-millimeter": [
+        675,
+        676
+      ],
+      "case-yellow-alibi": [
+        480
+      ],
+      "case-yoko-okino-and-the-locked-attic": [
+        1059,
+        1060
+      ],
+      "case-you-can-hear-the-tengu-s-voice": [
+        839
+      ],
+      "case-yusaku-kudo-s-cold-case": [
+        690,
+        691
+      ],
+      "case-yusaku-kudo-s-detective-show": [
+        1071,
+        1072
+      ],
+      "case-black-impact-the-moment-the-black-organization-reaches-out": [
+        425
+      ],
+      "case-the-desperate-revival": [
+        188,
+        189,
+        190,
+        191,
+        192,
+        193
+      ],
+      "case-police-academy-arc-wild-police-story-case-hiromitsu-morofushi": [
+        1061
+      ],
+      "case-police-academy-arc-wild-police-story-case-jinpei-matsuda": [
+        1029
+      ],
+      "case-police-academy-arc-wild-police-story-case-kenji-hagiwara": [
+        1042
+      ],
+      "case-police-academy-arc-wild-police-story-case-wataru-date": [
+        1038
+      ],
+      "case-the-kirin-s-horn-that-vanished-into-the-dark": [
+        586,
+        587
+      ]
+    },
+    "reverseReviewed": {
+      "case-roller-coaster-murder": 1,
+      "case-moon-shadow-island": 2,
+      "case-diplomat-murder": 2,
+      "case-fog-monster": 1,
+      "case-red-black-clash": 14,
+      "case-mystery-train": 4,
+      "case-rum-investigation": 3,
+      "case-library-murder": 1,
+      "case-golf-driving-range": 1,
+      "case-mystery-weapon": 1,
+      "case-game-company-murder": 1,
+      "case-train-trick": 1,
+      "case-ojamanbou-murder": 1,
+      "case-holmes-freak-murder": 2,
+      "case-first-errand-murder": 1,
+      "case-illustrator-murder": 1,
+      "case-ghost-ship-murder": 2,
+      "case-gomera-murder": 1,
+      "case-third-fingerprint-murder": 1,
+      "case-crab-whale-kidnapping": 1,
+      "case-night-road-murder": 1,
+      "case-stage-actress-murder": 1,
+      "case-night-baron-murder": 3,
+      "case-stalker-murder": 1,
+      "case-triplet-country-home-murder": 1,
+      "case-detective-boys-disaster": 1,
+      "case-death-god-jinnai-murder": 1,
+      "case-loan-company-president-murder": 1,
+      "case-conan-vs-kaitou-kid": 1,
+      "case-distinguished-family-consecutive-death": 2,
+      "case-bank-heist-murder": 1,
+      "case-wandering-artist-murder": 1,
+      "case-popular-artist-kidnapping": 2,
+      "case-general-hospital-murder": 1,
+      "case-ski-lodge-murder": 2,
+      "case-kidnapping-location": 1,
+      "case-crane-return-murder": 1,
+      "case-dracula-villa-murder": 2,
+      "case-flower-scent-murder": 1,
+      "case-bank-robber-hospitalization": 1,
+      "case-fearful-traversing-murder": 2,
+      "case-snow-woman-legend-murder": 1,
+      "case-kogoro-date-murder": 1,
+      "case-tsukumo-magician-murder": 1,
+      "case-yabuuchi-family-murder": 1,
+      "case-farewell-wine-murder": 1,
+      "case-famous-potter-murder": 2,
+      "case-memories-of-first-love": 2,
+      "case-historical-actor-murder": 2,
+      "case-goblin-gang-mansion": 2,
+      "case-scoop-picture-murder": 1,
+      "case-til-death-do-us-part": 1,
+      "case-a-car-carrying-a-time-bomb": 1,
+      "case-a-code-of-stars-and-tobacco": 2,
+      "case-a-cottage-surrounded-by-zombies": 3,
+      "case-a-course-without-protest": 2,
+      "case-a-cursed-mask-coldly-laughs": 1,
+      "case-a-dangerous-party-of-two": 1,
+      "case-a-dangerous-recipe": 1,
+      "case-a-day-without-conan": 1,
+      "case-a-dispute-over-a-platinum-ticket": 1,
+      "case-a-fool-s-inheritance": 1,
+      "case-a-friend-of-justice": 1,
+      "case-a-friendship-that-can-t-be-bought": 2,
+      "case-a-happy-e-mail-brings-sadness": 1,
+      "case-a-haunted-mansion-murder-case": 1,
+      "case-a-honey-cocktail-murder-case": 1,
+      "case-a-jewel-thief-caught-red-handed": 2,
+      "case-a-june-bride-murder-case": 1,
+      "case-a-kidnapping-case-so-it-seems": 1,
+      "case-a-lucky-man-s-suspense": 1,
+      "case-a-mysterious-man-overly-strict-with-regulations": 1,
+      "case-a-mysterious-sniper-murder-case": 2,
+      "case-a-mysterious-spring-beetle": 1,
+      "case-a-pair-of-crossing-fates": 1,
+      "case-a-present-from-the-true-culprit": 1,
+      "case-a-small-client": 2,
+      "case-a-video-letter-of-first-love": 1,
+      "case-a-woman-standing-by-the-window": 2,
+      "case-after-that-hundred-million-yen": 1,
+      "case-ai-haibara-imprisonment-case": 1,
+      "case-akaoni-village-fire-festival-murder-case": 1,
+      "case-akemi-miyano-s-time-capsule": 2,
+      "case-alibi-testimony-murder-case": 1,
+      "case-alpine-hut-in-the-snowy-mountain-murder-case": 1,
+      "case-an-elevator-murder-case": 1,
+      "case-an-encouragement-of-the-perfect-crime": 1,
+      "case-an-idol-s-locked-room-murder-case": 1,
+      "case-an-unconfirmed-shocking-case": 1,
+      "case-and-it-d-be-nice-if-everybody-disappeared": 1,
+      "case-and-then-there-were-no-mermaids": 3,
+      "case-arrest-that-face": 1,
+      "case-art-museum-owner-murder-case": 1,
+      "case-aya-ueto-and-shinichi-the-promise-from-4-years-ago": 1,
+      "case-bad-guys": 1,
+      "case-bad-luck-grand-prix": 1,
+      "case-bakumatsu-revolution-mystery-tour": 2,
+      "case-ballad-of-the-woman-who-loved-cake": 1,
+      "case-bathroom-where-ran-collapsed-as-well": 2,
+      "case-battle-of-the-haunted-warehouse-s-treasure": 2,
+      "case-beckoning-cat-from-right-to-left": 1,
+      "case-behind-the-scenes-of-the-j-league-finals": 1,
+      "case-bekapon-s-bleeding-service": 1,
+      "case-best-husband": 1,
+      "case-beware-of-dieting": 1,
+      "case-beyond-the-curtain": 1,
+      "case-big-adventure-in-the-eccentric-mansion": 3,
+      "case-birds-of-a-feather-at-loggerheads": 1,
+      "case-bodyguard-kogoro-mouri": 1,
+      "case-boy-genta-s-misfortune": 1,
+      "case-buchi-returns-a-favor": 1,
+      "case-cactus-s-flower-murder-case": 1,
+      "case-cactus-capriccio": 1,
+      "case-chase-the-miyama-stag-beetle": 1,
+      "case-chiba-s-difficult-ufo-case": 2,
+      "case-chihaya-hagiwara-goddess-of-the-wind": 2,
+      "case-chihaya-and-jugo-s-matchmaking-party": 2,
+      "case-chinatown-deja-vu-in-the-rain": 2,
+      "case-cinderella-s-shoe": 1,
+      "case-clam-digging-with-a-sigh": 2,
+      "case-class-1-b-s-great-operation": 1,
+      "case-co-investigating-with-a-first-love": 2,
+      "case-coffee-aroma-with-murderous-intention": 2,
+      "case-coffee-shop-murder-case": 1,
+      "case-company-president-s-daughter-kidnapping-case": 1,
+      "case-computer-murder-case": 1,
+      "case-conan-kid-s-battle-for-ryoma-s-treasure": 2,
+      "case-conan-cornered-in-the-darkness": 2,
+      "case-conan-disappeared-on-the-cliff": 2,
+      "case-conan-edogawa-kidnapping-case": 1,
+      "case-conan-kidnapped": 2,
+      "case-conan-a-strange-child": 1,
+      "case-conan-and-ebizo-s-kabuki-j-hachiban-mystery": 2,
+      "case-conan-and-heiji-s-deduction-magic": 3,
+      "case-conan-and-heiji-s-nue-legend": 3,
+      "case-conan-and-heiji-code-of-love": 2,
+      "case-conan-and-megure-s-two-hostages": 2,
+      "case-conan-in-a-locked-room": 2,
+      "case-conan-vs-double-code-mystery": 3,
+      "case-conan-vs-heiji-deduction-battle-between-the-detectives-of-the-east-and-west": 1,
+      "case-contact-with-the-black-organization": 3,
+      "case-cooking-classroom-murder-case": 2,
+      "case-courtroom-confrontation-iii-prosecutor-as-eyewitness": 1,
+      "case-courtroom-confrontation-ii-kisaki-vs-kujo": 2,
+      "case-courtroom-confrontation-iv-juror-sumiko-kobayashi": 2,
+      "case-courtroom-confrontation-kisaki-vs-kogoro": 2,
+      "case-dancing-demon-at-the-noh-mask-mansion": 2,
+      "case-deadly-poisonous-spider-trap": 1,
+      "case-deduction-showdown-at-the-haunted-hotel": 2,
+      "case-detective-boys-locked-room-mystery-battle": 1,
+      "case-detective-boys-survival-case": 1,
+      "case-detective-boys-vs-robber-group": 2,
+      "case-detective-club-pursuit-case": 1,
+      "case-detective-takagi-finds-30-million-yen": 1,
+      "case-detective-takagi-on-the-run-in-handcuffs": 1,
+      "case-detectives-nocturne": 4,
+      "case-detectives-don-t-sleep": 1,
+      "case-did-i-do-it": 1,
+      "case-double-alibi": 1,
+      "case-emergency-situation-252": 2,
+      "case-english-teacher-vs-great-western-detective": 2,
+      "case-episode-zero-the-shinichi-kudo-aquarium-case": 1,
+      "case-everyone-saw": 2,
+      "case-eyewitness-testimony-seven-years-later": 2,
+      "case-facial-mask-murder-case": 1,
+      "case-festival-dolls-dyed-in-the-setting-sun": 2,
+      "case-find-the-buttock-s-mark": 2,
+      "case-find-the-phantom-giant": 1,
+      "case-fire-and-water-mystery-tour": 2,
+      "case-follow-them-detective-taxi": 1,
+      "case-follow-them-detective-taxi-2": 1,
+      "case-follow-them-detective-taxi-3": 1,
+      "case-friendship-washed-away-in-the-riverbed": 1,
+      "case-froth-steam-and-smoke": 2,
+      "case-furinkazan": 2,
+      "case-genta-s-casebook-of-the-eel": 1,
+      "case-genta-s-certain-kill-shot": 2,
+      "case-ginkgo-colored-first-love": 2,
+      "case-girls-day-mystery": 1,
+      "case-girls-day-mystery-2": 1,
+      "case-girls-day-mystery-3": 1,
+      "case-girls-day-mystery-4": 1,
+      "case-grabbing-karuta-cards-in-dire-straits": 2,
+      "case-head-to-head-match-with-the-black-organization-a-dual-mystery-on-a-full-moon-night": 1,
+      "case-heiji-hattori-s-desperate-situation": 2,
+      "case-heiji-hattori-and-the-vampire-mansion": 4,
+      "case-heiji-hattori-vs-shinichi-kudo-deduction-battle-on-the-ski-slope": 1,
+      "case-hidden-bathroom-secret": 2,
+      "case-hidden-circumstances-of-the-falling-incident": 1,
+      "case-high-school-girl-detective-sonoko-suzuki": 1,
+      "case-hijacked-department-store-case": 1,
+      "case-holmes-revelation": 6,
+      "case-home-of-beika-s-grenier": 1,
+      "case-hooligan-s-labyrinth": 2,
+      "case-hot-bitter-sweet-soup": 1,
+      "case-houseboat-fishing-shock": 1,
+      "case-i-m-the-culprit": 1,
+      "case-i-cannot-lie-to-archery": 1,
+      "case-i-want-my-husband-back": 1,
+      "case-i-was-set-up": 1,
+      "case-ikkaku-rock-s-disappearing-fish": 2,
+      "case-information-gathered-about-the-detective-boys": 2,
+      "case-inspector-shiratori-memories-of-the-cherry-blossom": 2,
+      "case-intersection-of-fear": 1,
+      "case-intrigue-at-morikawa-mansion": 2,
+      "case-intrigue-at-smile-village": 1,
+      "case-intrigue-at-the-food-court": 1,
+      "case-inubushi-castle-the-ablazed-demon-dog": 3,
+      "case-it-s-a-ghost": 1,
+      "case-jodie-s-memories-and-the-cherry-blossom-viewing-trap": 1,
+      "case-just-like-a-17-years-old-crime-scene": 2,
+      "case-kaga-hyakumangoku-mystery-tour": 2,
+      "case-kaiju-gomera-vs-kamen-yaiba": 4,
+      "case-kaitou-kid-s-miraculous-midair-walk": 1,
+      "case-kaitou-kid-s-teleportation-magic": 1,
+      "case-kaitou-kid-vs-makoto-kyogoku": 2,
+      "case-kaitou-kid-and-the-blush-mermaid": 2,
+      "case-kaitou-kid-and-the-crown-trick": 2,
+      "case-kaitou-kid-and-the-four-masterpieces": 2,
+      "case-kaitou-kid-and-the-trick-box": 2,
+      "case-kaitou-kid-vs-the-strongest-safe": 2,
+      "case-karaoke-box-murder-case": 1,
+      "case-karate-teacher-ran-mouri": 1,
+      "case-kid-vs-hakuba-the-azure-throne": 2,
+      "case-kid-vs-amuro-queen-s-bang": 2,
+      "case-kid-vs-komei-the-targeted-lips": 2,
+      "case-kobayashi-sensei-s-love": 3,
+      "case-kogoro-s-class-reunion-murder-case": 2,
+      "case-kogoro-s-pursuit-of-rage": 2,
+      "case-kogoro-san-is-a-good-man": 2,
+      "case-kogoro-gets-drunk-in-satsuma": 2,
+      "case-kogoro-mouri-s-grand-lecture": 3,
+      "case-kogoro-mouri-s-imposter": 2,
+      "case-kogoro-mouri-suspect": 2,
+      "case-kogoro-in-the-bar": 2,
+      "case-last-dance": 1,
+      "case-last-dinner-for-you": 1,
+      "case-lawyer-eri-kisaki-s-testimony": 2,
+      "case-lawyer-kisaki-s-sos": 2,
+      "case-leading-a-detective-around-by-the-nose": 1,
+      "case-love-ghosts-and-world-heritage": 2,
+      "case-love-letter-to-ran": 1,
+      "case-luxury-liner-serial-murder-case": 2,
+      "case-magic-lover-s-murder-case": 3,
+      "case-makoto-kyogoku-the-understudy": 3,
+      "case-megure-s-sealed-secret": 2,
+      "case-meiji-restoration-mystery-tour": 2,
+      "case-memories-from-sakura-class": 2,
+      "case-metropolitan-police-detective-love-story": 2,
+      "case-metropolitan-police-detective-love-story-fake-wedding": 1,
+      "case-metropolitan-police-detective-love-story-2": 2,
+      "case-metropolitan-police-detective-love-story-3": 2,
+      "case-metropolitan-police-detective-love-story-4": 2,
+      "case-metropolitan-police-detective-love-story-5": 2,
+      "case-metropolitan-police-detective-love-story-6": 2,
+      "case-metropolitan-police-detective-love-story-7": 2,
+      "case-metropolitan-police-detective-love-story-8-the-left-hand-s-ring-finger": 1,
+      "case-metropolitan-police-detective-love-story-9": 2,
+      "case-might-over-mystery": 2,
+      "case-miracle-at-koshien-ball-park-the-defiants-face-the-dark-demon": 1,
+      "case-mirage-of-the-disappearing-angel": 1,
+      "case-misfortune-of-the-positive-man": 1,
+      "case-miss-lonely-and-the-detective-boys": 1,
+      "case-missing-corpse-murder-case": 1,
+      "case-mitsuhiko-s-mystifying-forest": 2,
+      "case-mitsuhiko-tsuburaya-s-detective-notes": 1,
+      "case-mitsuhiko-tsuburaya-s-detective-notes-2": 1,
+      "case-mitsuhiko-tsuburaya-s-detective-notes-3": 1,
+      "case-mitsuhiko-tsuburaya-s-detective-notes-4": 1,
+      "case-momiji-ooka-s-challenge": 2,
+      "case-momiji-ooka-s-sweet-trap": 2,
+      "case-momotarou-mystery-solving-tour": 2,
+      "case-monday-night-7-30-p-m-murder-case": 1,
+      "case-mountain-villa-bandaged-man-murder-case": 2,
+      "case-mountain-witch-s-cutlery": 2,
+      "case-munch-s-missing-scream": 1,
+      "case-murder-at-the-townhouse-caf": 1,
+      "case-murderer-shinichi-kudo": 3,
+      "case-murderous-intent-raining-on-an-outdoor-spa": 1,
+      "case-mushrooms-bears-and-the-detective-boys": 2,
+      "case-my-beloved-dog-pan-kun-is-a-good-boy": 1,
+      "case-mysterious-case-near-the-pond": 1,
+      "case-mysterious-case-in-a-hot-air-balloon": 1,
+      "case-mystery-of-the-burning-tent": 2,
+      "case-mystery-of-the-lost-treasure": 1,
+      "case-nagasaki-mystery-theatre": 2,
+      "case-on-location-tv-drama-murder-case": 1,
+      "case-on-the-trail-of-a-silent-witness": 2,
+      "case-once-a-month-present-threat-case": 1,
+      "case-out-for-revenge": 2,
+      "case-parade-of-malice-and-saint": 2,
+      "case-pet-dog-john-murder-case": 1,
+      "case-photo-e-mail-from-the-clown": 1,
+      "case-picking-wild-plants-and-clovers": 2,
+      "case-place-exposed-to-the-sun": 1,
+      "case-preview-screening-of-fate-and-friendship": 1,
+      "case-pride-of-the-immortal-man": 1,
+      "case-pro-soccer-player-blackmail-case": 1,
+      "case-promise-with-a-j-leaguer": 1,
+      "case-rainbow-color-kidnapping": 1,
+      "case-ramen-so-good-it-s-to-die-for": 2,
+      "case-ramen-so-good-it-s-to-die-for-2": 2,
+      "case-ran-s-suspicions": 1,
+      "case-ran-mouri-the-model": 1,
+      "case-ran-mouri-the-eyewitness": 1,
+      "case-real-30-minutes": 1,
+      "case-red-wine-indictment": 1,
+      "case-result-of-the-draw": 1,
+      "case-reunion-with-the-black-organization": 3,
+      "case-riddle-granny-disappearance-case": 1,
+      "case-rondo-in-bad-company": 1,
+      "case-rube-goldberg-machine": 2,
+      "case-sos-messages-from-ayumi": 1,
+      "case-scuba-diving-murder-case": 2,
+      "case-search-for-maria-chan": 2,
+      "case-secret-of-the-russian-blue": 1,
+      "case-secret-of-the-tohto-film-development-studio": 2,
+      "case-shinichi-kudo-s-aquarium-case": 2,
+      "case-shinichi-kudo-s-childhood-adventure": 2,
+      "case-shinichi-kudo-s-new-york-case": 3,
+      "case-solitary-island-of-the-princess-and-the-dragon-king-s-palace": 3,
+      "case-solving-mysteries-at-the-poirot-caf": 2,
+      "case-solving-mysteries-at-the-red-leaf-palace": 2,
+      "case-solving-mysteries-in-a-locked-room": 1,
+      "case-sonoko-s-dangerous-summer-story": 2,
+      "case-sonoko-s-red-handkerchief": 2,
+      "case-sonoko-and-conan-s-spooky-story-night": 1,
+      "case-sports-club-murder-case": 1,
+      "case-stakeout": 1,
+      "case-stakeout-2": 1,
+      "case-stakeout-3": 1,
+      "case-stakeout-4": 1,
+      "case-stork-mystery-tour": 2,
+      "case-super-secret-of-the-road-to-school": 2,
+      "case-sweet-and-cold-delivery-service": 2,
+      "case-sweetheart-is-an-illusion-of-spring": 1,
+      "case-sword-of-the-eight-headed-serpent": 2,
+      "case-tv-station-murder-case": 1,
+      "case-taiko-meijin-s-match-of-love": 2,
+      "case-taiko-meijin-s-shogi-board": 3,
+      "case-takagi-and-date-and-the-notebook-promise": 2,
+      "case-teimuzu-river-kite-flying-case": 2,
+      "case-teitan-high-school-s-ghost-story": 2,
+      "case-tenkaichi-night-festival-murder-case": 1,
+      "case-the-14th-round-of-the-matsue-tamatsukuri-linked-verse-contest": 2,
+      "case-the-17-year-old-truth": 4,
+      "case-the-36-cell-perfect-game": 3,
+      "case-the-3-k-s-of-osaka-case": 2,
+      "case-the-actress-blogger-s-locked-room-case": 2,
+      "case-the-akabeko-and-the-three-lucky-men": 1,
+      "case-the-alibi-of-the-black-dress": 2,
+      "case-the-alibi-of-the-fall": 1,
+      "case-the-alibi-of-the-soothing-forest": 1,
+      "case-the-alley-of-sad-betrayal": 1,
+      "case-the-amusement-park-bungee-jumping-case": 1,
+      "case-the-antique-collector-murder-case": 1,
+      "case-the-antique-tray-can-t-be-hidden": 3,
+      "case-the-art-of-ninja-alibi-craft": 1,
+      "case-the-automatic-tragedy": 2,
+      "case-the-battle-game-trap": 2,
+      "case-the-bay-of-revenge": 2,
+      "case-the-beauty-the-lies-and-the-secrets": 1,
+      "case-the-beika-city-shopping-center-garbage-bin-mystery": 1,
+      "case-the-betrayal-s-stage": 2,
+      "case-the-big-investigation-of-the-nine-doors": 1,
+      "case-the-birdman-rally-bombing": 2,
+      "case-the-birthday-party-of-divine-punishment": 2,
+      "case-the-birthday-wine-mystery": 1,
+      "case-the-black-organization-one-billion-yen-robbery-case": 1,
+      "case-the-black-wings-of-icarus": 2,
+      "case-the-blank-year": 2,
+      "case-the-blind-spot-in-the-darkness": 2,
+      "case-the-blind-spot-in-the-dressing-room": 2,
+      "case-the-blind-spot-in-the-karaoke-box": 2,
+      "case-the-blind-spot-in-the-share-house": 1,
+      "case-the-blue-spark-of-hate": 2,
+      "case-the-body-on-the-gunma-nagano-border": 2,
+      "case-the-boiled-fugu-mystery-tour-showdown": 2,
+      "case-the-bride-of-huis-ten-bosch": 1,
+      "case-the-broken-fishbowl": 1,
+      "case-the-broken-horoscope": 1,
+      "case-the-cameras-targeting-haibara": 1,
+      "case-the-candy-house-the-witch-lives-in": 1,
+      "case-the-car-stunt-s-utmost-limit": 1,
+      "case-the-case-on-the-opposite-shore": 1,
+      "case-the-case-of-ayumi-s-illustrated-diary": 1,
+      "case-the-case-of-ayumi-s-illustrated-diary-2": 1,
+      "case-the-case-of-ayumi-s-illustrated-diary-3": 1,
+      "case-the-case-of-ayumi-s-illustrated-diary-4": 1,
+      "case-the-case-of-ayumi-s-illustrated-diary-5": 1,
+      "case-the-case-of-the-besieged-detective-agency": 3,
+      "case-the-case-of-the-furisode-at-the-hidden-hot-spring-on-a-snowy-night": 2,
+      "case-the-case-of-the-lucky-calico": 2,
+      "case-the-celebrities-secret": 2,
+      "case-the-charismatic-ceo-s-secret-plan": 1,
+      "case-the-city-crows": 1,
+      "case-the-client-s-message": 1,
+      "case-the-client-full-of-lies": 2,
+      "case-the-coded-invitation": 1,
+      "case-the-coded-map-of-the-city-case": 1,
+      "case-the-coffee-shop-truck-s-wild-entrance-case": 1,
+      "case-the-comedian-who-turned-himself-in": 2,
+      "case-the-company-dissolution-party": 1,
+      "case-the-convenience-store-trap": 2,
+      "case-the-cosplay-rider-of-the-wind": 1,
+      "case-the-cost-of-likes": 2,
+      "case-the-counting-song-heard-in-the-dark": 1,
+      "case-the-crime-with-zero-possibility-to-be-proven": 1,
+      "case-the-crimson-closing-day": 3,
+      "case-the-crimson-skeleton-of-mt-washio": 2,
+      "case-the-crisis-beckoned-by-the-red-omen": 4,
+      "case-the-culprit-who-disappeared-into-the-sleeping-town": 1,
+      "case-the-culprit-is-genta-s-dad": 2,
+      "case-the-cursed-museum": 1,
+      "case-the-cursed-neighbor-s-house": 1,
+      "case-the-cursed-tears-of-borgia": 2,
+      "case-the-dangerous-fossil-finding-trip": 1,
+      "case-the-dangerous-melon-field": 1,
+      "case-the-dark-mountain-route": 1,
+      "case-the-dark-tower-s-hidden-treasure": 2,
+      "case-the-darkness-of-the-prefectural-police": 3,
+      "case-the-day-kogoro-mouri-ceased-being-a-detective": 2,
+      "case-the-deadly-pork-soup-signal": 1,
+      "case-the-deduction-that-was-too-good": 1,
+      "case-the-descent-into-hell-tour-of-love": 2,
+      "case-the-design-of-poison-and-mirage": 4,
+      "case-the-detective-boys-bluebird-chase": 1,
+      "case-the-detective-boys-pursuit-of-the-purse-snatcher": 1,
+      "case-the-detective-boys-test-of-courage": 1,
+      "case-the-detective-boys-become-models": 1,
+      "case-the-detective-boys-get-out-of-the-rain": 1,
+      "case-the-detective-boys-vs-the-silver-detectives": 1,
+      "case-the-detective-boys-vs-the-silver-detectives-2": 1,
+      "case-the-detective-boys-and-the-four-caterpillar-brothers": 1,
+      "case-the-detective-boys-and-the-ghost-mansion": 1,
+      "case-the-detective-boys-and-the-traditional-dream-house": 1,
+      "case-the-detective-boys-and-the-two-leaders": 2,
+      "case-the-detective-boys-in-a-grove": 2,
+      "case-the-detective-memoir-of-monkey-and-rake": 2,
+      "case-the-detective-who-lost-his-mind": 1,
+      "case-the-devil-s-circuit": 1,
+      "case-the-devil-hidden-in-the-tennis-court": 1,
+      "case-the-devil-of-the-tv-station": 1,
+      "case-the-diamond-the-painting-and-the-great-actress": 1,
+      "case-the-disappeared-detective-boys": 1,
+      "case-the-disappearing-detective-boys-case": 1,
+      "case-the-disappearing-weapon-search-case": 1,
+      "case-the-disappointing-and-kind-alien": 1,
+      "case-the-dissonance-of-the-stradivarius": 3,
+      "case-the-dream-the-kappa-saw": 2,
+      "case-the-dreaming-girl-s-confused-deduction": 1,
+      "case-the-dreamy-eyed-woman-s-last-shot-at-love": 1,
+      "case-the-entrance-to-the-maze-the-anger-of-the-colossus": 1,
+      "case-the-evening-cherry-blossom-viewing-route-on-sumida-river": 2,
+      "case-the-evidence-that-didn-t-disappear": 2,
+      "case-the-evil-spirit-appears-on-an-unlucky-day": 3,
+      "case-the-ex-boyfriend-living-next-to-a-crime-scene": 2,
+      "case-the-eyewitness-who-did-not-see": 1,
+      "case-the-falling-from-mt-ryujin-case": 1,
+      "case-the-falling-from-the-condo-case": 1,
+      "case-the-false-kidnapping-and-hostage-case": 1,
+      "case-the-fearful-legend-of-the-snowy-night": 2,
+      "case-the-feuding-girls": 1,
+      "case-the-figure-that-was-too-good": 1,
+      "case-the-figure-of-revenge": 1,
+      "case-the-final-ahh": 1,
+      "case-the-final-screening-murder-case": 2,
+      "case-the-fishing-tournament-tragedy": 2,
+      "case-the-flowerbed-vandal-s-scheme": 1,
+      "case-the-flying-jack-o-lantern": 1,
+      "case-the-footprintless-beach": 1,
+      "case-the-forgotten-cell-phone": 2,
+      "case-the-forgotten-memento-from-the-crime": 2,
+      "case-the-fortuneteller-and-the-three-customers": 1,
+      "case-the-foul-mouthed-myna-bird": 1,
+      "case-the-four-person-class-reunion": 1,
+      "case-the-four-porsches": 2,
+      "case-the-framed-great-detective": 1,
+      "case-the-freezing-cold-men": 1,
+      "case-the-frying-pan-of-hatred": 1,
+      "case-the-gathering-of-the-detectives-shinichi-kudo-vs-kaitou-kid": 1,
+      "case-the-genius-restaurant": 1,
+      "case-the-ghost-s-revenge": 1,
+      "case-the-girl-from-the-black-organization-and-the-university-professor-murder-case": 1,
+      "case-the-glamping-mystery": 1,
+      "case-the-glassy-water-s-surface": 2,
+      "case-the-great-detective-s-weakness": 1,
+      "case-the-great-dog-coeur-s-triumph": 1,
+      "case-the-great-dog-coeur-s-triumph-2": 1,
+      "case-the-guardian-of-time-s-sword": 2,
+      "case-the-gunshot-at-the-sunflower-estate": 1,
+      "case-the-half-completed-crime-mystery": 1,
+      "case-the-hand-that-plays-in-dissonance": 1,
+      "case-the-hands-pushing-their-back": 1,
+      "case-the-heartfelt-strap": 2,
+      "case-the-hero-of-ishinomaki": 1,
+      "case-the-hidden-secret-of-dongaraji-temple": 1,
+      "case-the-high-school-girl-trio-s-secret-caf": 2,
+      "case-the-holed-up-sensation": 1,
+      "case-the-hot-chocolate-trap": 1,
+      "case-the-hotel-serial-bombing-case": 2,
+      "case-the-house-with-the-aquarium": 1,
+      "case-the-idol-whose-smile-disappeared": 1,
+      "case-the-inauspicious-matchmaking": 2,
+      "case-the-indiscriminate-stadium-threatening-case": 2,
+      "case-the-interrogation-room": 1,
+      "case-the-interrogation-room-2": 1,
+      "case-the-interrogation-room-3": 1,
+      "case-the-invisible-weapon-ran-s-first-investigation": 1,
+      "case-the-ishikawa-yorumasshi-mystery": 2,
+      "case-the-j-league-starting-whistle": 1,
+      "case-the-j-league-bodyguard": 1,
+      "case-the-job-request-from-inspector-megure": 1,
+      "case-the-kamaitachi-inn": 2,
+      "case-the-kamen-yaiba-murder-case": 1,
+      "case-the-kanmon-strait-of-friendship-and-murderous-intent": 2,
+      "case-the-kendo-tournament-of-love-and-mystery": 2,
+      "case-the-kidnapper-s-disappearing-getaway-car": 2,
+      "case-the-kidnapper-in-the-picture": 1,
+      "case-the-killer-fist-of-talos": 2,
+      "case-the-last-gift": 1,
+      "case-the-legend-of-the-mysterious-five-storied-pagoda": 2,
+      "case-the-life-threatening-broadcast-of-love": 3,
+      "case-the-locked-bathroom-murder-case": 2,
+      "case-the-locked-room-in-the-sky-shinichi-kudo-s-first-case": 1,
+      "case-the-locked-wine-cellar": 1,
+      "case-the-lost-article-that-smells-like-a-case": 1,
+      "case-the-love-of-lawyer-eri-kisaki": 1,
+      "case-the-lovebirds-ruse": 1,
+      "case-the-lover-gone-missing-in-a-snowstorm": 1,
+      "case-the-lover-who-vanished-on-pont-koitani": 2,
+      "case-the-lucky-cat-saw-everything": 1,
+      "case-the-lucky-cigar-case": 2,
+      "case-the-malice-hidden-behind-the-masque": 1,
+      "case-the-man-crushed-by-a-dinosaur": 1,
+      "case-the-man-obstructed-by-the-steel-frame": 1,
+      "case-the-man-who-called-for-an-ambulance": 1,
+      "case-the-man-who-came-falling-down": 1,
+      "case-the-man-who-camped-out-at-the-police-station": 1,
+      "case-the-man-who-died-twice": 2,
+      "case-the-man-who-fell-slowly": 1,
+      "case-the-man-who-loved-too-much": 1,
+      "case-the-man-who-was-betrayed-by-the-sea": 1,
+      "case-the-man-who-was-killed-four-times": 1,
+      "case-the-man-from-chicago": 2,
+      "case-the-manipulated-great-detective": 2,
+      "case-the-mansion-of-death-and-the-red-wall": 4,
+      "case-the-marriage-registration-s-password": 2,
+      "case-the-mechanical-witness": 1,
+      "case-the-meguro-sanma-case": 1,
+      "case-the-melting-cake": 1,
+      "case-the-memory-trip-of-the-eight-sketches": 2,
+      "case-the-mini-patrol-car-police-s-big-chase": 1,
+      "case-the-missing-fianc-e": 1,
+      "case-the-missing-girlfriend": 1,
+      "case-the-missing-man-s-dream": 1,
+      "case-the-missing-page": 1,
+      "case-the-missing-sweets-in-the-old-shop": 1,
+      "case-the-monorail-sniper-case": 2,
+      "case-the-moonlight-sonata-murder": 2,
+      "case-the-most-useful-school-in-the-world-case": 2,
+      "case-the-mouri-family-house-sits": 1,
+      "case-the-moving-police-box": 1,
+      "case-the-moving-target": 1,
+      "case-the-murder-floating-in-the-water-stream-restaurant": 1,
+      "case-the-murdered-famous-detective": 2,
+      "case-the-murderous-carpool": 1,
+      "case-the-murderous-pottery-class": 2,
+      "case-the-mysterious-angel-s-mansion": 2,
+      "case-the-mysterious-boy": 1,
+      "case-the-mysterious-height-difference-of-20cm": 1,
+      "case-the-mysterious-mole-alien-case": 2,
+      "case-the-mysterious-old-man-disappearance-case": 1,
+      "case-the-mysterious-passenger": 2,
+      "case-the-mysterious-prophetic-buddha": 1,
+      "case-the-mysterious-punishment-from-heaven": 1,
+      "case-the-mysterious-retro-room-case": 1,
+      "case-the-mysterious-shooting-message-case": 1,
+      "case-the-mysterious-woman-with-amnesia-case": 1,
+      "case-the-mystery-solving-water-taxi": 2,
+      "case-the-mystery-i-loved": 1,
+      "case-the-mystery-sinking-in-the-midsummer-pool": 2,
+      "case-the-mystery-writer-disappearance-case": 2,
+      "case-the-mystery-in-the-net": 2,
+      "case-the-mystery-of-the-man-eating-classroom": 2,
+      "case-the-mystery-of-the-michelin-starred-restaurant": 1,
+      "case-the-mystery-of-the-vanished-black-belt": 1,
+      "case-the-mystery-of-the-water-flowing-stone-garden": 2,
+      "case-the-naniwa-serial-murder-case": 1,
+      "case-the-nanki-shirahama-mystery-tour": 2,
+      "case-the-new-teacher-s-skeleton-case": 2,
+      "case-the-night-before-the-wedding-locked-room-case": 2,
+      "case-the-night-the-zombie-died": 1,
+      "case-the-nobunaga-450-case": 1,
+      "case-the-nocturne-of-red-murderous-intent": 2,
+      "case-the-north-star-no-3-express-leaving-ueno": 2,
+      "case-the-northern-kyushu-mystery-tour": 2,
+      "case-the-novelist-known-as-the-demon-king": 1,
+      "case-the-old-blue-castle-investigation-case": 2,
+      "case-the-osaka-double-mystery-the-naniwa-swordsman-and-toyotomi-s-castle": 1,
+      "case-the-overturned-conclusion": 2,
+      "case-the-partner-is-santa-san": 1,
+      "case-the-phantom-of-the-konpira": 1,
+      "case-the-pitfall-of-fire-precautions": 1,
+      "case-the-policeman-s-missing-notebook-case": 1,
+      "case-the-poodle-and-the-shotgun": 2,
+      "case-the-pop-up-book-bomber": 2,
+      "case-the-porch-pirate-epidemic": 1,
+      "case-the-professor-s-video-site": 2,
+      "case-the-promo-video-shooting-case": 2,
+      "case-the-pursuit-of-the-fish-e-mail": 1,
+      "case-the-queen-s-weather-forecast": 1,
+      "case-the-radio-questions-and-concerns-show": 2,
+      "case-the-rainy-bus-stop": 1,
+      "case-the-rainy-night-menace": 1,
+      "case-the-ranpo-mansion-murder-case": 2,
+      "case-the-real-culprit-s-scream": 1,
+      "case-the-reason-he-became-a-butler": 2,
+      "case-the-red-brick-warehouse-and-the-vanishing-kidnapper": 2,
+      "case-the-red-horse-within-the-flames": 3,
+      "case-the-red-sheep-s-eerie-game": 2,
+      "case-the-revival-of-the-dying-message": 2,
+      "case-the-revolving-sushi-mystery": 2,
+      "case-the-romance-novel-with-the-unexpected-conclusion": 2,
+      "case-the-roses-in-the-vineyard": 1,
+      "case-the-runaway-video-game": 1,
+      "case-the-scar-that-evokes-the-past": 4,
+      "case-the-scarlet-return": 5,
+      "case-the-scarlet-school-trip": 2,
+      "case-the-scenario-of-the-steaming-locked-room": 2,
+      "case-the-scenic-lookout-with-the-broken-fence": 1,
+      "case-the-screaming-operation-room": 2,
+      "case-the-sealed-western-style-window": 2,
+      "case-the-secret-s-afterimage": 1,
+      "case-the-secret-hidden-by-the-cards": 1,
+      "case-the-secret-played-by-the-diary": 2,
+      "case-the-secret-rushed-omission": 2,
+      "case-the-secret-of-the-celebrity-couple": 1,
+      "case-the-secret-of-the-high-sales": 1,
+      "case-the-secret-of-the-insect-man": 1,
+      "case-the-secret-of-the-missing-young-lady": 1,
+      "case-the-secret-of-the-moon-the-star-and-the-sun": 2,
+      "case-the-secret-of-the-popular-restaurant-s-changing-flavor": 1,
+      "case-the-secret-of-the-search-for-his-wife": 1,
+      "case-the-secret-of-the-statue-of-kogoro-mouri": 1,
+      "case-the-secret-of-the-vanished-masterpiece": 1,
+      "case-the-security-system-s-pitfall": 1,
+      "case-the-seven-mysteries-of-teitan-elementary-school-case": 1,
+      "case-the-seven-people-in-the-waiting-room": 1,
+      "case-the-seven-wonders-of-the-hiroshima-miyajima-tour": 2,
+      "case-the-shadow-approaching-amuro": 1,
+      "case-the-shadow-approaching-haibara-s-secret": 2,
+      "case-the-shadow-of-the-black-organization": 4,
+      "case-the-shaking-restaurant": 1,
+      "case-the-shifting-mystery-of-beika-city": 2,
+      "case-the-shinkansen-s-bomb-case": 1,
+      "case-the-shinkansen-transport-case": 2,
+      "case-the-shinto-shrine-torii-s-surprising-code": 2,
+      "case-the-shopping-center-in-love": 1,
+      "case-the-significant-music-box": 2,
+      "case-the-silent-loop-line": 1,
+      "case-the-similar-princesses": 2,
+      "case-the-simultaneous-stage-advance-and-kidnapping": 2,
+      "case-the-sister-troubled-by-her-naughty-brother": 1,
+      "case-the-skilled-hawk-hides-his-crime": 1,
+      "case-the-small-eye-witnesses": 1,
+      "case-the-smash-of-determination-and-love": 2,
+      "case-the-spark-that-fell-on-the-ranch": 2,
+      "case-the-spiral-mansion-mystery": 2,
+      "case-the-spiral-of-rain-and-malice": 1,
+      "case-the-spirit-detective-s-murder": 2,
+      "case-the-strange-family-s-request": 2,
+      "case-the-strange-person-hunt-murder-case": 1,
+      "case-the-streetcar-s-sudden-stopping-case": 1,
+      "case-the-sullied-masked-hero": 2,
+      "case-the-sun-sets-in-tangerine-fields": 1,
+      "case-the-super-car-s-trap": 2,
+      "case-the-super-narrow-shop-crime-scene": 1,
+      "case-the-surprise-that-leads-to-tragedy": 1,
+      "case-the-suspect-is-makoto-kyogoku": 2,
+      "case-the-suspected-infidelity-of-the-triple-collab": 2,
+      "case-the-suspects-are-a-passionate-couple": 2,
+      "case-the-suspicious-astronomical-observation": 1,
+      "case-the-suspicious-initial-k": 1,
+      "case-the-suspicious-spicy-curry": 2,
+      "case-the-suspicious-walking-path": 1,
+      "case-the-sweet-voice-heard-through-the-phone": 1,
+      "case-the-synchronicity-case": 2,
+      "case-the-s-ance-s-double-locked-room-mystery-case": 3,
+      "case-the-target-is-kogoro-mouri": 1,
+      "case-the-target-is-the-metropolitan-police-traffic-department": 4,
+      "case-the-targeted-chicken-sexer": 1,
+      "case-the-teen-novel-that-smells-like-guilt": 1,
+      "case-the-tense-tea-party": 2,
+      "case-the-tenth-passenger": 2,
+      "case-the-threat-to-megure-s-police-career": 1,
+      "case-the-tidal-park-comeback-case": 1,
+      "case-the-time-limit-is-15-00": 1,
+      "case-the-tokyo-style-detective-show-next-door": 2,
+      "case-the-tokyo-barls-collection": 1,
+      "case-the-tragedy-at-the-ok-corral": 1,
+      "case-the-tragedy-of-the-pier-in-plain-sight": 2,
+      "case-the-tragedy-of-the-red-woman": 3,
+      "case-the-trap-of-the-rooftop-farm": 1,
+      "case-the-traveling-drama-troupe-murder-case": 2,
+      "case-the-treasure-chest-filled-with-fruits": 2,
+      "case-the-trembling-police-headquarters-12-million-hostages": 1,
+      "case-the-troublesome-20-million-yen": 1,
+      "case-the-troublesome-emergency-patient": 1,
+      "case-the-true-culprit-is-on-the-run": 1,
+      "case-the-truth-behind-valentine-s": 3,
+      "case-the-truth-behind-the-car-explosion-case": 2,
+      "case-the-truth-behind-the-urban-legend": 2,
+      "case-the-truth-lit-up-by-the-fireflies": 1,
+      "case-the-truth-of-the-haunted-house": 2,
+      "case-the-twenty-year-old-murderous-intent-the-symphony-serial-murder-case": 1,
+      "case-the-two-faces": 2,
+      "case-the-uncontrollable-rental-car": 1,
+      "case-the-unfortunate-and-suspicious-victim": 1,
+      "case-the-unfriendly-girls-band": 2,
+      "case-the-unknown-gunshot-that-rings-in-the-dark": 1,
+      "case-the-unseen-suspect": 2,
+      "case-the-unsmashable-snowman": 2,
+      "case-the-unsolvable-ice-trap": 1,
+      "case-the-unsolved-cocktail-case": 3,
+      "case-the-unstated-alibi": 1,
+      "case-the-vanished-policeman": 1,
+      "case-the-ventriloquist-s-illusion": 2,
+      "case-the-victim-who-came-back": 1,
+      "case-the-victim-is-shinichi-kudo": 1,
+      "case-the-water-palace-of-five-colors-legend": 2,
+      "case-the-weather-girl-kidnapping-case": 1,
+      "case-the-wedding-reception-and-the-two-gunshots": 1,
+      "case-the-whereabouts-of-the-embarrassing-charm": 2,
+      "case-the-whereabouts-of-the-goodbye": 1,
+      "case-the-whistling-bookstore": 1,
+      "case-the-whistling-bookstore-2": 1,
+      "case-the-whistling-bookstore-3": 1,
+      "case-the-whistling-bookstore-4": 1,
+      "case-the-white-sandy-beach-murder-case": 1,
+      "case-the-window-at-the-girls-school": 1,
+      "case-the-witch-enshrouded-by-fog": 2,
+      "case-the-wizard-of-the-ripples": 2,
+      "case-the-woman-with-white-hands": 2,
+      "case-the-wordless-witness": 1,
+      "case-the-worst-birthday": 2,
+      "case-the-yamahime-of-yakushima": 2,
+      "case-the-young-kaga-lady-s-mystery-tour": 2,
+      "case-thoroughbred-kidnapping-case": 2,
+      "case-three-days-with-heiji-hattori": 1,
+      "case-three-first-discoverers": 2,
+      "case-three-hotta-siblings-murder-case": 1,
+      "case-tottori-sand-dunes-mystery-tour": 2,
+      "case-tottori-spider-mansion-demon": 3,
+      "case-trick-vs-magic": 2,
+      "case-troublesome-kindness": 1,
+      "case-turning-point-on-a-driving-date": 1,
+      "case-two-coincidental-successes": 1,
+      "case-two-days-with-the-culprit": 2,
+      "case-two-people-who-can-t-return": 2,
+      "case-unbelievable-the-case-of-the-crashed-ufo": 1,
+      "case-underwater-key-in-the-locked-room-case": 1,
+      "case-valentine-murder-case": 1,
+      "case-venus-kiss": 1,
+      "case-victory-flag-tearing-case": 1,
+      "case-wealthy-daughter-murder-case": 2,
+      "case-wedding-eve": 2,
+      "case-welcome-to-bocchan-restaurant": 2,
+      "case-welcome-to-club-orihime": 1,
+      "case-welcome-to-the-stone-age-village": 1,
+      "case-what-the-flower-clock-knew": 1,
+      "case-when-the-shishi-odoshi-sounds": 1,
+      "case-whereabouts-of-the-dark-photograph": 2,
+      "case-which-one-s-deduction-show": 2,
+      "case-white-day-of-betrayal": 2,
+      "case-whiteout": 2,
+      "case-who-s-the-target": 1,
+      "case-who-kidnapped-conan-and-azusa": 2,
+      "case-who-poisoned-the-victim": 1,
+      "case-won-t-forgive-even-one-millimeter": 2,
+      "case-yellow-alibi": 1,
+      "case-yoko-okino-and-the-locked-attic": 2,
+      "case-you-can-hear-the-tengu-s-voice": 1,
+      "case-yusaku-kudo-s-cold-case": 2,
+      "case-yusaku-kudo-s-detective-show": 2,
+      "case-black-impact-the-moment-the-black-organization-reaches-out": 1,
+      "case-the-desperate-revival": 6,
+      "case-police-academy-arc-wild-police-story-case-hiromitsu-morofushi": 1,
+      "case-police-academy-arc-wild-police-story-case-jinpei-matsuda": 1,
+      "case-police-academy-arc-wild-police-story-case-kenji-hagiwara": 1,
+      "case-police-academy-arc-wild-police-story-case-wataru-date": 1,
+      "case-the-kirin-s-horn-that-vanished-into-the-dark": 2
+    },
+    "uncovered": {
+      "case-roller-coaster-murder": [],
+      "case-moon-shadow-island": [],
+      "case-diplomat-murder": [],
+      "case-fog-monster": [],
+      "case-red-black-clash": [],
+      "case-mystery-train": [],
+      "case-rum-investigation": [],
+      "case-library-murder": [],
+      "case-golf-driving-range": [],
+      "case-mystery-weapon": [],
+      "case-game-company-murder": [],
+      "case-train-trick": [],
+      "case-ojamanbou-murder": [],
+      "case-holmes-freak-murder": [],
+      "case-first-errand-murder": [],
+      "case-illustrator-murder": [],
+      "case-ghost-ship-murder": [],
+      "case-gomera-murder": [],
+      "case-third-fingerprint-murder": [],
+      "case-crab-whale-kidnapping": [],
+      "case-night-road-murder": [],
+      "case-stage-actress-murder": [],
+      "case-night-baron-murder": [],
+      "case-stalker-murder": [],
+      "case-triplet-country-home-murder": [],
+      "case-detective-boys-disaster": [],
+      "case-death-god-jinnai-murder": [],
+      "case-loan-company-president-murder": [],
+      "case-conan-vs-kaitou-kid": [],
+      "case-distinguished-family-consecutive-death": [],
+      "case-bank-heist-murder": [],
+      "case-wandering-artist-murder": [],
+      "case-popular-artist-kidnapping": [],
+      "case-general-hospital-murder": [],
+      "case-ski-lodge-murder": [],
+      "case-kidnapping-location": [],
+      "case-crane-return-murder": [],
+      "case-dracula-villa-murder": [],
+      "case-flower-scent-murder": [],
+      "case-bank-robber-hospitalization": [],
+      "case-fearful-traversing-murder": [],
+      "case-snow-woman-legend-murder": [],
+      "case-kogoro-date-murder": [],
+      "case-tsukumo-magician-murder": [],
+      "case-yabuuchi-family-murder": [],
+      "case-farewell-wine-murder": [],
+      "case-famous-potter-murder": [],
+      "case-memories-of-first-love": [],
+      "case-historical-actor-murder": [],
+      "case-goblin-gang-mansion": [],
+      "case-scoop-picture-murder": [],
+      "case-til-death-do-us-part": [],
+      "case-a-car-carrying-a-time-bomb": [],
+      "case-a-code-of-stars-and-tobacco": [],
+      "case-a-cottage-surrounded-by-zombies": [],
+      "case-a-course-without-protest": [],
+      "case-a-cursed-mask-coldly-laughs": [],
+      "case-a-dangerous-party-of-two": [],
+      "case-a-dangerous-recipe": [],
+      "case-a-day-without-conan": [],
+      "case-a-dispute-over-a-platinum-ticket": [],
+      "case-a-fool-s-inheritance": [],
+      "case-a-friend-of-justice": [],
+      "case-a-friendship-that-can-t-be-bought": [],
+      "case-a-happy-e-mail-brings-sadness": [],
+      "case-a-haunted-mansion-murder-case": [],
+      "case-a-honey-cocktail-murder-case": [],
+      "case-a-jewel-thief-caught-red-handed": [],
+      "case-a-june-bride-murder-case": [],
+      "case-a-kidnapping-case-so-it-seems": [],
+      "case-a-lucky-man-s-suspense": [],
+      "case-a-mysterious-man-overly-strict-with-regulations": [],
+      "case-a-mysterious-sniper-murder-case": [],
+      "case-a-mysterious-spring-beetle": [],
+      "case-a-pair-of-crossing-fates": [],
+      "case-a-present-from-the-true-culprit": [],
+      "case-a-small-client": [],
+      "case-a-video-letter-of-first-love": [],
+      "case-a-woman-standing-by-the-window": [],
+      "case-after-that-hundred-million-yen": [],
+      "case-ai-haibara-imprisonment-case": [],
+      "case-akaoni-village-fire-festival-murder-case": [],
+      "case-akemi-miyano-s-time-capsule": [],
+      "case-alibi-testimony-murder-case": [],
+      "case-alpine-hut-in-the-snowy-mountain-murder-case": [],
+      "case-an-elevator-murder-case": [],
+      "case-an-encouragement-of-the-perfect-crime": [],
+      "case-an-idol-s-locked-room-murder-case": [],
+      "case-an-unconfirmed-shocking-case": [],
+      "case-and-it-d-be-nice-if-everybody-disappeared": [],
+      "case-and-then-there-were-no-mermaids": [],
+      "case-arrest-that-face": [],
+      "case-art-museum-owner-murder-case": [],
+      "case-aya-ueto-and-shinichi-the-promise-from-4-years-ago": [],
+      "case-bad-guys": [],
+      "case-bad-luck-grand-prix": [],
+      "case-bakumatsu-revolution-mystery-tour": [],
+      "case-ballad-of-the-woman-who-loved-cake": [],
+      "case-bathroom-where-ran-collapsed-as-well": [],
+      "case-battle-of-the-haunted-warehouse-s-treasure": [],
+      "case-beckoning-cat-from-right-to-left": [],
+      "case-behind-the-scenes-of-the-j-league-finals": [],
+      "case-bekapon-s-bleeding-service": [],
+      "case-best-husband": [],
+      "case-beware-of-dieting": [],
+      "case-beyond-the-curtain": [],
+      "case-big-adventure-in-the-eccentric-mansion": [],
+      "case-birds-of-a-feather-at-loggerheads": [],
+      "case-bodyguard-kogoro-mouri": [],
+      "case-boy-genta-s-misfortune": [],
+      "case-buchi-returns-a-favor": [],
+      "case-cactus-s-flower-murder-case": [],
+      "case-cactus-capriccio": [],
+      "case-chase-the-miyama-stag-beetle": [],
+      "case-chiba-s-difficult-ufo-case": [],
+      "case-chihaya-hagiwara-goddess-of-the-wind": [],
+      "case-chihaya-and-jugo-s-matchmaking-party": [],
+      "case-chinatown-deja-vu-in-the-rain": [],
+      "case-cinderella-s-shoe": [],
+      "case-clam-digging-with-a-sigh": [],
+      "case-class-1-b-s-great-operation": [],
+      "case-co-investigating-with-a-first-love": [],
+      "case-coffee-aroma-with-murderous-intention": [],
+      "case-coffee-shop-murder-case": [],
+      "case-company-president-s-daughter-kidnapping-case": [],
+      "case-computer-murder-case": [],
+      "case-conan-kid-s-battle-for-ryoma-s-treasure": [],
+      "case-conan-cornered-in-the-darkness": [],
+      "case-conan-disappeared-on-the-cliff": [],
+      "case-conan-edogawa-kidnapping-case": [],
+      "case-conan-kidnapped": [],
+      "case-conan-a-strange-child": [],
+      "case-conan-and-ebizo-s-kabuki-j-hachiban-mystery": [],
+      "case-conan-and-heiji-s-deduction-magic": [],
+      "case-conan-and-heiji-s-nue-legend": [],
+      "case-conan-and-heiji-code-of-love": [],
+      "case-conan-and-megure-s-two-hostages": [],
+      "case-conan-in-a-locked-room": [],
+      "case-conan-vs-double-code-mystery": [],
+      "case-conan-vs-heiji-deduction-battle-between-the-detectives-of-the-east-and-west": [],
+      "case-contact-with-the-black-organization": [],
+      "case-cooking-classroom-murder-case": [],
+      "case-courtroom-confrontation-iii-prosecutor-as-eyewitness": [],
+      "case-courtroom-confrontation-ii-kisaki-vs-kujo": [],
+      "case-courtroom-confrontation-iv-juror-sumiko-kobayashi": [],
+      "case-courtroom-confrontation-kisaki-vs-kogoro": [],
+      "case-dancing-demon-at-the-noh-mask-mansion": [],
+      "case-deadly-poisonous-spider-trap": [],
+      "case-deduction-showdown-at-the-haunted-hotel": [],
+      "case-detective-boys-locked-room-mystery-battle": [],
+      "case-detective-boys-survival-case": [],
+      "case-detective-boys-vs-robber-group": [],
+      "case-detective-club-pursuit-case": [],
+      "case-detective-takagi-finds-30-million-yen": [],
+      "case-detective-takagi-on-the-run-in-handcuffs": [],
+      "case-detectives-nocturne": [],
+      "case-detectives-don-t-sleep": [],
+      "case-did-i-do-it": [],
+      "case-double-alibi": [],
+      "case-emergency-situation-252": [],
+      "case-english-teacher-vs-great-western-detective": [],
+      "case-episode-zero-the-shinichi-kudo-aquarium-case": [],
+      "case-everyone-saw": [],
+      "case-eyewitness-testimony-seven-years-later": [],
+      "case-facial-mask-murder-case": [],
+      "case-festival-dolls-dyed-in-the-setting-sun": [],
+      "case-find-the-buttock-s-mark": [],
+      "case-find-the-phantom-giant": [],
+      "case-fire-and-water-mystery-tour": [],
+      "case-follow-them-detective-taxi": [],
+      "case-follow-them-detective-taxi-2": [],
+      "case-follow-them-detective-taxi-3": [],
+      "case-friendship-washed-away-in-the-riverbed": [],
+      "case-froth-steam-and-smoke": [],
+      "case-furinkazan": [],
+      "case-genta-s-casebook-of-the-eel": [],
+      "case-genta-s-certain-kill-shot": [],
+      "case-ginkgo-colored-first-love": [],
+      "case-girls-day-mystery": [],
+      "case-girls-day-mystery-2": [],
+      "case-girls-day-mystery-3": [],
+      "case-girls-day-mystery-4": [],
+      "case-grabbing-karuta-cards-in-dire-straits": [],
+      "case-head-to-head-match-with-the-black-organization-a-dual-mystery-on-a-full-moon-night": [],
+      "case-heiji-hattori-s-desperate-situation": [],
+      "case-heiji-hattori-and-the-vampire-mansion": [],
+      "case-heiji-hattori-vs-shinichi-kudo-deduction-battle-on-the-ski-slope": [],
+      "case-hidden-bathroom-secret": [],
+      "case-hidden-circumstances-of-the-falling-incident": [],
+      "case-high-school-girl-detective-sonoko-suzuki": [],
+      "case-hijacked-department-store-case": [],
+      "case-holmes-revelation": [],
+      "case-home-of-beika-s-grenier": [],
+      "case-hooligan-s-labyrinth": [],
+      "case-hot-bitter-sweet-soup": [],
+      "case-houseboat-fishing-shock": [],
+      "case-i-m-the-culprit": [],
+      "case-i-cannot-lie-to-archery": [],
+      "case-i-want-my-husband-back": [],
+      "case-i-was-set-up": [],
+      "case-ikkaku-rock-s-disappearing-fish": [],
+      "case-information-gathered-about-the-detective-boys": [],
+      "case-inspector-shiratori-memories-of-the-cherry-blossom": [],
+      "case-intersection-of-fear": [],
+      "case-intrigue-at-morikawa-mansion": [],
+      "case-intrigue-at-smile-village": [],
+      "case-intrigue-at-the-food-court": [],
+      "case-inubushi-castle-the-ablazed-demon-dog": [],
+      "case-it-s-a-ghost": [],
+      "case-jodie-s-memories-and-the-cherry-blossom-viewing-trap": [],
+      "case-just-like-a-17-years-old-crime-scene": [],
+      "case-kaga-hyakumangoku-mystery-tour": [],
+      "case-kaiju-gomera-vs-kamen-yaiba": [],
+      "case-kaitou-kid-s-miraculous-midair-walk": [],
+      "case-kaitou-kid-s-teleportation-magic": [],
+      "case-kaitou-kid-vs-makoto-kyogoku": [],
+      "case-kaitou-kid-and-the-blush-mermaid": [],
+      "case-kaitou-kid-and-the-crown-trick": [],
+      "case-kaitou-kid-and-the-four-masterpieces": [],
+      "case-kaitou-kid-and-the-trick-box": [],
+      "case-kaitou-kid-vs-the-strongest-safe": [],
+      "case-karaoke-box-murder-case": [],
+      "case-karate-teacher-ran-mouri": [],
+      "case-kid-vs-hakuba-the-azure-throne": [],
+      "case-kid-vs-amuro-queen-s-bang": [],
+      "case-kid-vs-komei-the-targeted-lips": [],
+      "case-kobayashi-sensei-s-love": [],
+      "case-kogoro-s-class-reunion-murder-case": [],
+      "case-kogoro-s-pursuit-of-rage": [],
+      "case-kogoro-san-is-a-good-man": [],
+      "case-kogoro-gets-drunk-in-satsuma": [],
+      "case-kogoro-mouri-s-grand-lecture": [],
+      "case-kogoro-mouri-s-imposter": [],
+      "case-kogoro-mouri-suspect": [],
+      "case-kogoro-in-the-bar": [],
+      "case-last-dance": [],
+      "case-last-dinner-for-you": [],
+      "case-lawyer-eri-kisaki-s-testimony": [],
+      "case-lawyer-kisaki-s-sos": [],
+      "case-leading-a-detective-around-by-the-nose": [],
+      "case-love-ghosts-and-world-heritage": [],
+      "case-love-letter-to-ran": [],
+      "case-luxury-liner-serial-murder-case": [],
+      "case-magic-lover-s-murder-case": [],
+      "case-makoto-kyogoku-the-understudy": [],
+      "case-megure-s-sealed-secret": [],
+      "case-meiji-restoration-mystery-tour": [],
+      "case-memories-from-sakura-class": [],
+      "case-metropolitan-police-detective-love-story": [],
+      "case-metropolitan-police-detective-love-story-fake-wedding": [],
+      "case-metropolitan-police-detective-love-story-2": [],
+      "case-metropolitan-police-detective-love-story-3": [],
+      "case-metropolitan-police-detective-love-story-4": [],
+      "case-metropolitan-police-detective-love-story-5": [],
+      "case-metropolitan-police-detective-love-story-6": [],
+      "case-metropolitan-police-detective-love-story-7": [],
+      "case-metropolitan-police-detective-love-story-8-the-left-hand-s-ring-finger": [],
+      "case-metropolitan-police-detective-love-story-9": [],
+      "case-might-over-mystery": [],
+      "case-miracle-at-koshien-ball-park-the-defiants-face-the-dark-demon": [],
+      "case-mirage-of-the-disappearing-angel": [],
+      "case-misfortune-of-the-positive-man": [],
+      "case-miss-lonely-and-the-detective-boys": [],
+      "case-missing-corpse-murder-case": [],
+      "case-mitsuhiko-s-mystifying-forest": [],
+      "case-mitsuhiko-tsuburaya-s-detective-notes": [],
+      "case-mitsuhiko-tsuburaya-s-detective-notes-2": [],
+      "case-mitsuhiko-tsuburaya-s-detective-notes-3": [],
+      "case-mitsuhiko-tsuburaya-s-detective-notes-4": [],
+      "case-momiji-ooka-s-challenge": [],
+      "case-momiji-ooka-s-sweet-trap": [],
+      "case-momotarou-mystery-solving-tour": [],
+      "case-monday-night-7-30-p-m-murder-case": [],
+      "case-mountain-villa-bandaged-man-murder-case": [],
+      "case-mountain-witch-s-cutlery": [],
+      "case-munch-s-missing-scream": [],
+      "case-murder-at-the-townhouse-caf": [],
+      "case-murderer-shinichi-kudo": [],
+      "case-murderous-intent-raining-on-an-outdoor-spa": [],
+      "case-mushrooms-bears-and-the-detective-boys": [],
+      "case-my-beloved-dog-pan-kun-is-a-good-boy": [],
+      "case-mysterious-case-near-the-pond": [],
+      "case-mysterious-case-in-a-hot-air-balloon": [],
+      "case-mystery-of-the-burning-tent": [],
+      "case-mystery-of-the-lost-treasure": [],
+      "case-nagasaki-mystery-theatre": [],
+      "case-on-location-tv-drama-murder-case": [],
+      "case-on-the-trail-of-a-silent-witness": [],
+      "case-once-a-month-present-threat-case": [],
+      "case-out-for-revenge": [],
+      "case-parade-of-malice-and-saint": [],
+      "case-pet-dog-john-murder-case": [],
+      "case-photo-e-mail-from-the-clown": [],
+      "case-picking-wild-plants-and-clovers": [],
+      "case-place-exposed-to-the-sun": [],
+      "case-preview-screening-of-fate-and-friendship": [],
+      "case-pride-of-the-immortal-man": [],
+      "case-pro-soccer-player-blackmail-case": [],
+      "case-promise-with-a-j-leaguer": [],
+      "case-rainbow-color-kidnapping": [],
+      "case-ramen-so-good-it-s-to-die-for": [],
+      "case-ramen-so-good-it-s-to-die-for-2": [],
+      "case-ran-s-suspicions": [],
+      "case-ran-mouri-the-model": [],
+      "case-ran-mouri-the-eyewitness": [],
+      "case-real-30-minutes": [],
+      "case-red-wine-indictment": [],
+      "case-result-of-the-draw": [],
+      "case-reunion-with-the-black-organization": [],
+      "case-riddle-granny-disappearance-case": [],
+      "case-rondo-in-bad-company": [],
+      "case-rube-goldberg-machine": [],
+      "case-sos-messages-from-ayumi": [],
+      "case-scuba-diving-murder-case": [],
+      "case-search-for-maria-chan": [],
+      "case-secret-of-the-russian-blue": [],
+      "case-secret-of-the-tohto-film-development-studio": [],
+      "case-shinichi-kudo-s-aquarium-case": [],
+      "case-shinichi-kudo-s-childhood-adventure": [],
+      "case-shinichi-kudo-s-new-york-case": [],
+      "case-solitary-island-of-the-princess-and-the-dragon-king-s-palace": [],
+      "case-solving-mysteries-at-the-poirot-caf": [],
+      "case-solving-mysteries-at-the-red-leaf-palace": [],
+      "case-solving-mysteries-in-a-locked-room": [],
+      "case-sonoko-s-dangerous-summer-story": [],
+      "case-sonoko-s-red-handkerchief": [],
+      "case-sonoko-and-conan-s-spooky-story-night": [],
+      "case-sports-club-murder-case": [],
+      "case-stakeout": [],
+      "case-stakeout-2": [],
+      "case-stakeout-3": [],
+      "case-stakeout-4": [],
+      "case-stork-mystery-tour": [],
+      "case-super-secret-of-the-road-to-school": [],
+      "case-sweet-and-cold-delivery-service": [],
+      "case-sweetheart-is-an-illusion-of-spring": [],
+      "case-sword-of-the-eight-headed-serpent": [],
+      "case-tv-station-murder-case": [],
+      "case-taiko-meijin-s-match-of-love": [],
+      "case-taiko-meijin-s-shogi-board": [],
+      "case-takagi-and-date-and-the-notebook-promise": [],
+      "case-teimuzu-river-kite-flying-case": [],
+      "case-teitan-high-school-s-ghost-story": [],
+      "case-tenkaichi-night-festival-murder-case": [],
+      "case-the-14th-round-of-the-matsue-tamatsukuri-linked-verse-contest": [],
+      "case-the-17-year-old-truth": [],
+      "case-the-36-cell-perfect-game": [],
+      "case-the-3-k-s-of-osaka-case": [],
+      "case-the-actress-blogger-s-locked-room-case": [],
+      "case-the-akabeko-and-the-three-lucky-men": [],
+      "case-the-alibi-of-the-black-dress": [],
+      "case-the-alibi-of-the-fall": [],
+      "case-the-alibi-of-the-soothing-forest": [],
+      "case-the-alley-of-sad-betrayal": [],
+      "case-the-amusement-park-bungee-jumping-case": [],
+      "case-the-antique-collector-murder-case": [],
+      "case-the-antique-tray-can-t-be-hidden": [],
+      "case-the-art-of-ninja-alibi-craft": [],
+      "case-the-automatic-tragedy": [],
+      "case-the-battle-game-trap": [],
+      "case-the-bay-of-revenge": [],
+      "case-the-beauty-the-lies-and-the-secrets": [],
+      "case-the-beika-city-shopping-center-garbage-bin-mystery": [],
+      "case-the-betrayal-s-stage": [],
+      "case-the-big-investigation-of-the-nine-doors": [],
+      "case-the-birdman-rally-bombing": [],
+      "case-the-birthday-party-of-divine-punishment": [],
+      "case-the-birthday-wine-mystery": [],
+      "case-the-black-organization-one-billion-yen-robbery-case": [],
+      "case-the-black-wings-of-icarus": [],
+      "case-the-blank-year": [],
+      "case-the-blind-spot-in-the-darkness": [],
+      "case-the-blind-spot-in-the-dressing-room": [],
+      "case-the-blind-spot-in-the-karaoke-box": [],
+      "case-the-blind-spot-in-the-share-house": [],
+      "case-the-blue-spark-of-hate": [],
+      "case-the-body-on-the-gunma-nagano-border": [],
+      "case-the-boiled-fugu-mystery-tour-showdown": [],
+      "case-the-bride-of-huis-ten-bosch": [],
+      "case-the-broken-fishbowl": [],
+      "case-the-broken-horoscope": [],
+      "case-the-cameras-targeting-haibara": [],
+      "case-the-candy-house-the-witch-lives-in": [],
+      "case-the-car-stunt-s-utmost-limit": [],
+      "case-the-case-on-the-opposite-shore": [],
+      "case-the-case-of-ayumi-s-illustrated-diary": [],
+      "case-the-case-of-ayumi-s-illustrated-diary-2": [],
+      "case-the-case-of-ayumi-s-illustrated-diary-3": [],
+      "case-the-case-of-ayumi-s-illustrated-diary-4": [],
+      "case-the-case-of-ayumi-s-illustrated-diary-5": [],
+      "case-the-case-of-the-besieged-detective-agency": [],
+      "case-the-case-of-the-furisode-at-the-hidden-hot-spring-on-a-snowy-night": [],
+      "case-the-case-of-the-lucky-calico": [],
+      "case-the-celebrities-secret": [],
+      "case-the-charismatic-ceo-s-secret-plan": [],
+      "case-the-city-crows": [],
+      "case-the-client-s-message": [],
+      "case-the-client-full-of-lies": [],
+      "case-the-coded-invitation": [],
+      "case-the-coded-map-of-the-city-case": [],
+      "case-the-coffee-shop-truck-s-wild-entrance-case": [],
+      "case-the-comedian-who-turned-himself-in": [],
+      "case-the-company-dissolution-party": [],
+      "case-the-convenience-store-trap": [],
+      "case-the-cosplay-rider-of-the-wind": [],
+      "case-the-cost-of-likes": [],
+      "case-the-counting-song-heard-in-the-dark": [],
+      "case-the-crime-with-zero-possibility-to-be-proven": [],
+      "case-the-crimson-closing-day": [],
+      "case-the-crimson-skeleton-of-mt-washio": [],
+      "case-the-crisis-beckoned-by-the-red-omen": [],
+      "case-the-culprit-who-disappeared-into-the-sleeping-town": [],
+      "case-the-culprit-is-genta-s-dad": [],
+      "case-the-cursed-museum": [],
+      "case-the-cursed-neighbor-s-house": [],
+      "case-the-cursed-tears-of-borgia": [],
+      "case-the-dangerous-fossil-finding-trip": [],
+      "case-the-dangerous-melon-field": [],
+      "case-the-dark-mountain-route": [],
+      "case-the-dark-tower-s-hidden-treasure": [],
+      "case-the-darkness-of-the-prefectural-police": [],
+      "case-the-day-kogoro-mouri-ceased-being-a-detective": [],
+      "case-the-deadly-pork-soup-signal": [],
+      "case-the-deduction-that-was-too-good": [],
+      "case-the-descent-into-hell-tour-of-love": [],
+      "case-the-design-of-poison-and-mirage": [],
+      "case-the-detective-boys-bluebird-chase": [],
+      "case-the-detective-boys-pursuit-of-the-purse-snatcher": [],
+      "case-the-detective-boys-test-of-courage": [],
+      "case-the-detective-boys-become-models": [],
+      "case-the-detective-boys-get-out-of-the-rain": [],
+      "case-the-detective-boys-vs-the-silver-detectives": [],
+      "case-the-detective-boys-vs-the-silver-detectives-2": [],
+      "case-the-detective-boys-and-the-four-caterpillar-brothers": [],
+      "case-the-detective-boys-and-the-ghost-mansion": [],
+      "case-the-detective-boys-and-the-traditional-dream-house": [],
+      "case-the-detective-boys-and-the-two-leaders": [],
+      "case-the-detective-boys-in-a-grove": [],
+      "case-the-detective-memoir-of-monkey-and-rake": [],
+      "case-the-detective-who-lost-his-mind": [],
+      "case-the-devil-s-circuit": [],
+      "case-the-devil-hidden-in-the-tennis-court": [],
+      "case-the-devil-of-the-tv-station": [],
+      "case-the-diamond-the-painting-and-the-great-actress": [],
+      "case-the-disappeared-detective-boys": [],
+      "case-the-disappearing-detective-boys-case": [],
+      "case-the-disappearing-weapon-search-case": [],
+      "case-the-disappointing-and-kind-alien": [],
+      "case-the-dissonance-of-the-stradivarius": [],
+      "case-the-dream-the-kappa-saw": [],
+      "case-the-dreaming-girl-s-confused-deduction": [],
+      "case-the-dreamy-eyed-woman-s-last-shot-at-love": [],
+      "case-the-entrance-to-the-maze-the-anger-of-the-colossus": [],
+      "case-the-evening-cherry-blossom-viewing-route-on-sumida-river": [],
+      "case-the-evidence-that-didn-t-disappear": [],
+      "case-the-evil-spirit-appears-on-an-unlucky-day": [],
+      "case-the-ex-boyfriend-living-next-to-a-crime-scene": [],
+      "case-the-eyewitness-who-did-not-see": [],
+      "case-the-falling-from-mt-ryujin-case": [],
+      "case-the-falling-from-the-condo-case": [],
+      "case-the-false-kidnapping-and-hostage-case": [],
+      "case-the-fearful-legend-of-the-snowy-night": [],
+      "case-the-feuding-girls": [],
+      "case-the-figure-that-was-too-good": [],
+      "case-the-figure-of-revenge": [],
+      "case-the-final-ahh": [],
+      "case-the-final-screening-murder-case": [],
+      "case-the-fishing-tournament-tragedy": [],
+      "case-the-flowerbed-vandal-s-scheme": [],
+      "case-the-flying-jack-o-lantern": [],
+      "case-the-footprintless-beach": [],
+      "case-the-forgotten-cell-phone": [],
+      "case-the-forgotten-memento-from-the-crime": [],
+      "case-the-fortuneteller-and-the-three-customers": [],
+      "case-the-foul-mouthed-myna-bird": [],
+      "case-the-four-person-class-reunion": [],
+      "case-the-four-porsches": [],
+      "case-the-framed-great-detective": [],
+      "case-the-freezing-cold-men": [],
+      "case-the-frying-pan-of-hatred": [],
+      "case-the-gathering-of-the-detectives-shinichi-kudo-vs-kaitou-kid": [],
+      "case-the-genius-restaurant": [],
+      "case-the-ghost-s-revenge": [],
+      "case-the-girl-from-the-black-organization-and-the-university-professor-murder-case": [],
+      "case-the-glamping-mystery": [],
+      "case-the-glassy-water-s-surface": [],
+      "case-the-great-detective-s-weakness": [],
+      "case-the-great-dog-coeur-s-triumph": [],
+      "case-the-great-dog-coeur-s-triumph-2": [],
+      "case-the-guardian-of-time-s-sword": [],
+      "case-the-gunshot-at-the-sunflower-estate": [],
+      "case-the-half-completed-crime-mystery": [],
+      "case-the-hand-that-plays-in-dissonance": [],
+      "case-the-hands-pushing-their-back": [],
+      "case-the-heartfelt-strap": [],
+      "case-the-hero-of-ishinomaki": [],
+      "case-the-hidden-secret-of-dongaraji-temple": [],
+      "case-the-high-school-girl-trio-s-secret-caf": [],
+      "case-the-holed-up-sensation": [],
+      "case-the-hot-chocolate-trap": [],
+      "case-the-hotel-serial-bombing-case": [],
+      "case-the-house-with-the-aquarium": [],
+      "case-the-idol-whose-smile-disappeared": [],
+      "case-the-inauspicious-matchmaking": [],
+      "case-the-indiscriminate-stadium-threatening-case": [],
+      "case-the-interrogation-room": [],
+      "case-the-interrogation-room-2": [],
+      "case-the-interrogation-room-3": [],
+      "case-the-invisible-weapon-ran-s-first-investigation": [],
+      "case-the-ishikawa-yorumasshi-mystery": [],
+      "case-the-j-league-starting-whistle": [],
+      "case-the-j-league-bodyguard": [],
+      "case-the-job-request-from-inspector-megure": [],
+      "case-the-kamaitachi-inn": [],
+      "case-the-kamen-yaiba-murder-case": [],
+      "case-the-kanmon-strait-of-friendship-and-murderous-intent": [],
+      "case-the-kendo-tournament-of-love-and-mystery": [],
+      "case-the-kidnapper-s-disappearing-getaway-car": [],
+      "case-the-kidnapper-in-the-picture": [],
+      "case-the-killer-fist-of-talos": [],
+      "case-the-last-gift": [],
+      "case-the-legend-of-the-mysterious-five-storied-pagoda": [],
+      "case-the-life-threatening-broadcast-of-love": [],
+      "case-the-locked-bathroom-murder-case": [],
+      "case-the-locked-room-in-the-sky-shinichi-kudo-s-first-case": [],
+      "case-the-locked-wine-cellar": [],
+      "case-the-lost-article-that-smells-like-a-case": [],
+      "case-the-love-of-lawyer-eri-kisaki": [],
+      "case-the-lovebirds-ruse": [],
+      "case-the-lover-gone-missing-in-a-snowstorm": [],
+      "case-the-lover-who-vanished-on-pont-koitani": [],
+      "case-the-lucky-cat-saw-everything": [],
+      "case-the-lucky-cigar-case": [],
+      "case-the-malice-hidden-behind-the-masque": [],
+      "case-the-man-crushed-by-a-dinosaur": [],
+      "case-the-man-obstructed-by-the-steel-frame": [],
+      "case-the-man-who-called-for-an-ambulance": [],
+      "case-the-man-who-came-falling-down": [],
+      "case-the-man-who-camped-out-at-the-police-station": [],
+      "case-the-man-who-died-twice": [],
+      "case-the-man-who-fell-slowly": [],
+      "case-the-man-who-loved-too-much": [],
+      "case-the-man-who-was-betrayed-by-the-sea": [],
+      "case-the-man-who-was-killed-four-times": [],
+      "case-the-man-from-chicago": [],
+      "case-the-manipulated-great-detective": [],
+      "case-the-mansion-of-death-and-the-red-wall": [],
+      "case-the-marriage-registration-s-password": [],
+      "case-the-mechanical-witness": [],
+      "case-the-meguro-sanma-case": [],
+      "case-the-melting-cake": [],
+      "case-the-memory-trip-of-the-eight-sketches": [],
+      "case-the-mini-patrol-car-police-s-big-chase": [],
+      "case-the-missing-fianc-e": [],
+      "case-the-missing-girlfriend": [],
+      "case-the-missing-man-s-dream": [],
+      "case-the-missing-page": [],
+      "case-the-missing-sweets-in-the-old-shop": [],
+      "case-the-monorail-sniper-case": [],
+      "case-the-moonlight-sonata-murder": [],
+      "case-the-most-useful-school-in-the-world-case": [],
+      "case-the-mouri-family-house-sits": [],
+      "case-the-moving-police-box": [],
+      "case-the-moving-target": [],
+      "case-the-murder-floating-in-the-water-stream-restaurant": [],
+      "case-the-murdered-famous-detective": [],
+      "case-the-murderous-carpool": [],
+      "case-the-murderous-pottery-class": [],
+      "case-the-mysterious-angel-s-mansion": [],
+      "case-the-mysterious-boy": [],
+      "case-the-mysterious-height-difference-of-20cm": [],
+      "case-the-mysterious-mole-alien-case": [],
+      "case-the-mysterious-old-man-disappearance-case": [],
+      "case-the-mysterious-passenger": [],
+      "case-the-mysterious-prophetic-buddha": [],
+      "case-the-mysterious-punishment-from-heaven": [],
+      "case-the-mysterious-retro-room-case": [],
+      "case-the-mysterious-shooting-message-case": [],
+      "case-the-mysterious-woman-with-amnesia-case": [],
+      "case-the-mystery-solving-water-taxi": [],
+      "case-the-mystery-i-loved": [],
+      "case-the-mystery-sinking-in-the-midsummer-pool": [],
+      "case-the-mystery-writer-disappearance-case": [],
+      "case-the-mystery-in-the-net": [],
+      "case-the-mystery-of-the-man-eating-classroom": [],
+      "case-the-mystery-of-the-michelin-starred-restaurant": [],
+      "case-the-mystery-of-the-vanished-black-belt": [],
+      "case-the-mystery-of-the-water-flowing-stone-garden": [],
+      "case-the-naniwa-serial-murder-case": [],
+      "case-the-nanki-shirahama-mystery-tour": [],
+      "case-the-new-teacher-s-skeleton-case": [],
+      "case-the-night-before-the-wedding-locked-room-case": [],
+      "case-the-night-the-zombie-died": [],
+      "case-the-nobunaga-450-case": [],
+      "case-the-nocturne-of-red-murderous-intent": [],
+      "case-the-north-star-no-3-express-leaving-ueno": [],
+      "case-the-northern-kyushu-mystery-tour": [],
+      "case-the-novelist-known-as-the-demon-king": [],
+      "case-the-old-blue-castle-investigation-case": [],
+      "case-the-osaka-double-mystery-the-naniwa-swordsman-and-toyotomi-s-castle": [],
+      "case-the-overturned-conclusion": [],
+      "case-the-partner-is-santa-san": [],
+      "case-the-phantom-of-the-konpira": [],
+      "case-the-pitfall-of-fire-precautions": [],
+      "case-the-policeman-s-missing-notebook-case": [],
+      "case-the-poodle-and-the-shotgun": [],
+      "case-the-pop-up-book-bomber": [],
+      "case-the-porch-pirate-epidemic": [],
+      "case-the-professor-s-video-site": [],
+      "case-the-promo-video-shooting-case": [],
+      "case-the-pursuit-of-the-fish-e-mail": [],
+      "case-the-queen-s-weather-forecast": [],
+      "case-the-radio-questions-and-concerns-show": [],
+      "case-the-rainy-bus-stop": [],
+      "case-the-rainy-night-menace": [],
+      "case-the-ranpo-mansion-murder-case": [],
+      "case-the-real-culprit-s-scream": [],
+      "case-the-reason-he-became-a-butler": [],
+      "case-the-red-brick-warehouse-and-the-vanishing-kidnapper": [],
+      "case-the-red-horse-within-the-flames": [],
+      "case-the-red-sheep-s-eerie-game": [],
+      "case-the-revival-of-the-dying-message": [],
+      "case-the-revolving-sushi-mystery": [],
+      "case-the-romance-novel-with-the-unexpected-conclusion": [],
+      "case-the-roses-in-the-vineyard": [],
+      "case-the-runaway-video-game": [],
+      "case-the-scar-that-evokes-the-past": [],
+      "case-the-scarlet-return": [],
+      "case-the-scarlet-school-trip": [],
+      "case-the-scenario-of-the-steaming-locked-room": [],
+      "case-the-scenic-lookout-with-the-broken-fence": [],
+      "case-the-screaming-operation-room": [],
+      "case-the-sealed-western-style-window": [],
+      "case-the-secret-s-afterimage": [],
+      "case-the-secret-hidden-by-the-cards": [],
+      "case-the-secret-played-by-the-diary": [],
+      "case-the-secret-rushed-omission": [],
+      "case-the-secret-of-the-celebrity-couple": [],
+      "case-the-secret-of-the-high-sales": [],
+      "case-the-secret-of-the-insect-man": [],
+      "case-the-secret-of-the-missing-young-lady": [],
+      "case-the-secret-of-the-moon-the-star-and-the-sun": [],
+      "case-the-secret-of-the-popular-restaurant-s-changing-flavor": [],
+      "case-the-secret-of-the-search-for-his-wife": [],
+      "case-the-secret-of-the-statue-of-kogoro-mouri": [],
+      "case-the-secret-of-the-vanished-masterpiece": [],
+      "case-the-security-system-s-pitfall": [],
+      "case-the-seven-mysteries-of-teitan-elementary-school-case": [],
+      "case-the-seven-people-in-the-waiting-room": [],
+      "case-the-seven-wonders-of-the-hiroshima-miyajima-tour": [],
+      "case-the-shadow-approaching-amuro": [],
+      "case-the-shadow-approaching-haibara-s-secret": [],
+      "case-the-shadow-of-the-black-organization": [],
+      "case-the-shaking-restaurant": [],
+      "case-the-shifting-mystery-of-beika-city": [],
+      "case-the-shinkansen-s-bomb-case": [],
+      "case-the-shinkansen-transport-case": [],
+      "case-the-shinto-shrine-torii-s-surprising-code": [],
+      "case-the-shopping-center-in-love": [],
+      "case-the-significant-music-box": [],
+      "case-the-silent-loop-line": [],
+      "case-the-similar-princesses": [],
+      "case-the-simultaneous-stage-advance-and-kidnapping": [],
+      "case-the-sister-troubled-by-her-naughty-brother": [],
+      "case-the-skilled-hawk-hides-his-crime": [],
+      "case-the-small-eye-witnesses": [],
+      "case-the-smash-of-determination-and-love": [],
+      "case-the-spark-that-fell-on-the-ranch": [],
+      "case-the-spiral-mansion-mystery": [],
+      "case-the-spiral-of-rain-and-malice": [],
+      "case-the-spirit-detective-s-murder": [],
+      "case-the-strange-family-s-request": [],
+      "case-the-strange-person-hunt-murder-case": [],
+      "case-the-streetcar-s-sudden-stopping-case": [],
+      "case-the-sullied-masked-hero": [],
+      "case-the-sun-sets-in-tangerine-fields": [],
+      "case-the-super-car-s-trap": [],
+      "case-the-super-narrow-shop-crime-scene": [],
+      "case-the-surprise-that-leads-to-tragedy": [],
+      "case-the-suspect-is-makoto-kyogoku": [],
+      "case-the-suspected-infidelity-of-the-triple-collab": [],
+      "case-the-suspects-are-a-passionate-couple": [],
+      "case-the-suspicious-astronomical-observation": [],
+      "case-the-suspicious-initial-k": [],
+      "case-the-suspicious-spicy-curry": [],
+      "case-the-suspicious-walking-path": [],
+      "case-the-sweet-voice-heard-through-the-phone": [],
+      "case-the-synchronicity-case": [],
+      "case-the-s-ance-s-double-locked-room-mystery-case": [],
+      "case-the-target-is-kogoro-mouri": [],
+      "case-the-target-is-the-metropolitan-police-traffic-department": [],
+      "case-the-targeted-chicken-sexer": [],
+      "case-the-teen-novel-that-smells-like-guilt": [],
+      "case-the-tense-tea-party": [],
+      "case-the-tenth-passenger": [],
+      "case-the-threat-to-megure-s-police-career": [],
+      "case-the-tidal-park-comeback-case": [],
+      "case-the-time-limit-is-15-00": [],
+      "case-the-tokyo-style-detective-show-next-door": [],
+      "case-the-tokyo-barls-collection": [],
+      "case-the-tragedy-at-the-ok-corral": [],
+      "case-the-tragedy-of-the-pier-in-plain-sight": [],
+      "case-the-tragedy-of-the-red-woman": [],
+      "case-the-trap-of-the-rooftop-farm": [],
+      "case-the-traveling-drama-troupe-murder-case": [],
+      "case-the-treasure-chest-filled-with-fruits": [],
+      "case-the-trembling-police-headquarters-12-million-hostages": [],
+      "case-the-troublesome-20-million-yen": [],
+      "case-the-troublesome-emergency-patient": [],
+      "case-the-true-culprit-is-on-the-run": [],
+      "case-the-truth-behind-valentine-s": [],
+      "case-the-truth-behind-the-car-explosion-case": [],
+      "case-the-truth-behind-the-urban-legend": [],
+      "case-the-truth-lit-up-by-the-fireflies": [],
+      "case-the-truth-of-the-haunted-house": [],
+      "case-the-twenty-year-old-murderous-intent-the-symphony-serial-murder-case": [],
+      "case-the-two-faces": [],
+      "case-the-uncontrollable-rental-car": [],
+      "case-the-unfortunate-and-suspicious-victim": [],
+      "case-the-unfriendly-girls-band": [],
+      "case-the-unknown-gunshot-that-rings-in-the-dark": [],
+      "case-the-unseen-suspect": [],
+      "case-the-unsmashable-snowman": [],
+      "case-the-unsolvable-ice-trap": [],
+      "case-the-unsolved-cocktail-case": [],
+      "case-the-unstated-alibi": [],
+      "case-the-vanished-policeman": [],
+      "case-the-ventriloquist-s-illusion": [],
+      "case-the-victim-who-came-back": [],
+      "case-the-victim-is-shinichi-kudo": [],
+      "case-the-water-palace-of-five-colors-legend": [],
+      "case-the-weather-girl-kidnapping-case": [],
+      "case-the-wedding-reception-and-the-two-gunshots": [],
+      "case-the-whereabouts-of-the-embarrassing-charm": [],
+      "case-the-whereabouts-of-the-goodbye": [],
+      "case-the-whistling-bookstore": [],
+      "case-the-whistling-bookstore-2": [],
+      "case-the-whistling-bookstore-3": [],
+      "case-the-whistling-bookstore-4": [],
+      "case-the-white-sandy-beach-murder-case": [],
+      "case-the-window-at-the-girls-school": [],
+      "case-the-witch-enshrouded-by-fog": [],
+      "case-the-wizard-of-the-ripples": [],
+      "case-the-woman-with-white-hands": [],
+      "case-the-wordless-witness": [],
+      "case-the-worst-birthday": [],
+      "case-the-yamahime-of-yakushima": [],
+      "case-the-young-kaga-lady-s-mystery-tour": [],
+      "case-thoroughbred-kidnapping-case": [],
+      "case-three-days-with-heiji-hattori": [],
+      "case-three-first-discoverers": [],
+      "case-three-hotta-siblings-murder-case": [],
+      "case-tottori-sand-dunes-mystery-tour": [],
+      "case-tottori-spider-mansion-demon": [],
+      "case-trick-vs-magic": [],
+      "case-troublesome-kindness": [],
+      "case-turning-point-on-a-driving-date": [],
+      "case-two-coincidental-successes": [],
+      "case-two-days-with-the-culprit": [],
+      "case-two-people-who-can-t-return": [],
+      "case-unbelievable-the-case-of-the-crashed-ufo": [],
+      "case-underwater-key-in-the-locked-room-case": [],
+      "case-valentine-murder-case": [],
+      "case-venus-kiss": [],
+      "case-victory-flag-tearing-case": [],
+      "case-wealthy-daughter-murder-case": [],
+      "case-wedding-eve": [],
+      "case-welcome-to-bocchan-restaurant": [],
+      "case-welcome-to-club-orihime": [],
+      "case-welcome-to-the-stone-age-village": [],
+      "case-what-the-flower-clock-knew": [],
+      "case-when-the-shishi-odoshi-sounds": [],
+      "case-whereabouts-of-the-dark-photograph": [],
+      "case-which-one-s-deduction-show": [],
+      "case-white-day-of-betrayal": [],
+      "case-whiteout": [],
+      "case-who-s-the-target": [],
+      "case-who-kidnapped-conan-and-azusa": [],
+      "case-who-poisoned-the-victim": [],
+      "case-won-t-forgive-even-one-millimeter": [],
+      "case-yellow-alibi": [],
+      "case-yoko-okino-and-the-locked-attic": [],
+      "case-you-can-hear-the-tengu-s-voice": [],
+      "case-yusaku-kudo-s-cold-case": [],
+      "case-yusaku-kudo-s-detective-show": [],
+      "case-black-impact-the-moment-the-black-organization-reaches-out": [],
+      "case-the-desperate-revival": [],
+      "case-police-academy-arc-wild-police-story-case-hiromitsu-morofushi": [],
+      "case-police-academy-arc-wild-police-story-case-jinpei-matsuda": [],
+      "case-police-academy-arc-wild-police-story-case-kenji-hagiwara": [],
+      "case-police-academy-arc-wild-police-story-case-wataru-date": [],
+      "case-the-kirin-s-horn-that-vanished-into-the-dark": []
+    }
+  },
+  "arcs": {
+    "forward": {
+      "arc-shrinking-event": [
+        1
+      ],
+      "arc-vermouth": [
+        345
+      ],
+      "arc-kir-clash": [
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504
+      ],
+      "arc-kir": [
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449,
+        450,
+        451,
+        452,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459,
+        460,
+        461,
+        462,
+        463,
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482,
+        483,
+        484,
+        485,
+        486,
+        487,
+        488,
+        489,
+        490,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508
+      ],
+      "arc-bourbon": [],
+      "arc-mystery-train": [
+        701,
+        702,
+        703,
+        704
+      ],
+      "arc-rum": [
+        1077,
+        1078,
+        1079
+      ],
+      "arc-kaito-kid": [
+        76,
+        219,
+        356,
+        469,
+        470,
+        515,
+        537,
+        538,
+        587,
+        627,
+        628,
+        724,
+        725,
+        746,
+        747,
+        887,
+        888,
+        983,
+        984,
+        1105,
+        1106,
+        1150,
+        1151,
+        1193,
+        1194
+      ]
+    },
+    "reverseReviewed": {
+      "arc-shrinking-event": 1,
+      "arc-vermouth": 1,
+      "arc-kir-clash": 14,
+      "arc-kir": 84,
+      "arc-mystery-train": 4,
+      "arc-rum": 3,
+      "arc-kaito-kid": 25
+    },
+    "uncovered": {
+      "arc-shrinking-event": [],
+      "arc-vermouth": [],
+      "arc-kir-clash": [],
+      "arc-kir": [],
+      "arc-bourbon": [],
+      "arc-mystery-train": [],
+      "arc-rum": [],
+      "arc-kaito-kid": []
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+ "batch": 6,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-unsolved-cocktail-case",
+   "field": "culprit",
+   "zhHans": "Atsufumi Fukamachi"
+  },
+  {
+   "caseId": "case-the-unsolved-cocktail-case",
+   "field": "motive",
+   "zhHans": "Amuro 之所以想起 Elena，真正的原因是案件的真相与他过去故意弄伤自己、好去 Elena 工作的诊所的行为如出一辙。Yusaku 自我介绍是这栋房子的主人，并邀请 Amuro 喝茶，因为与上次不同，他的同伴们并没有包围这栋房子。"
+  },
+  {
+   "caseId": "case-the-unsolved-cocktail-case",
+   "field": "method",
+   "zhHans": "案件结束后，Amuro 用兰的钥匙的复制钥匙进入了工藤家。"
+  },
+  {
+   "caseId": "case-the-unsolved-cocktail-case",
+   "field": "evidence",
+   "zhHans": "Yuri Asakura 被揭露是 Gunzo Morooka 与一名一同私奔的女人生下的女儿，而 Fukamichi 并不知道这件事。"
+  },
+  {
+   "caseId": "case-the-unsolved-cocktail-case",
+   "field": "resolution",
+   "zhHans": "犯人是 Atsufumi Fukamachi。Yuri Asakura 被揭露是 Gunzo Morooka 与一名一同私奔的女人生下的女儿，而 Fukamichi 并不知道这件事。Yuri 也成功康复了。Amuro 之所以想起 Elena，真正的原因是案件的真相与他过去故意弄伤自己、好去 Elena 工作的诊所的行为如出一辙。"
+  },
+  {
+   "caseId": "case-the-glamping-mystery",
+   "field": "culprit",
+   "zhHans": "Mika Miura"
+  },
+  {
+   "caseId": "case-the-glamping-mystery",
+   "field": "motive",
+   "zhHans": "她想要复仇，因为两人疏远时他甩了她，起因是她试图让他吃螃蟹，而他对螃蟹过敏。"
+  },
+  {
+   "caseId": "case-the-glamping-mystery",
+   "field": "method",
+   "zhHans": "后续 由于害怕被指控谋杀他，Kyoko 和 Hiroshi 把被害人的尸体从一顶帐篷移到了另一顶帐篷，两人均因篡改证据而被捕。"
+  },
+  {
+   "caseId": "case-the-glamping-mystery",
+   "field": "evidence",
+   "zhHans": "后续 由于害怕被指控谋杀他，Kyoko 和 Hiroshi 把被害人的尸体从一顶帐篷移到了另一顶帐篷，两人均因篡改证据而被捕。"
+  },
+  {
+   "caseId": "case-the-glamping-mystery",
+   "field": "resolution",
+   "zhHans": "犯人是 Mika Miura。她想要复仇，因为两人疏远时他甩了她，起因是她试图让他吃螃蟹，而他对螃蟹过敏。她决定用当初让男友离开的那种食物来杀他，把它放进饼干里让他吃下。"
+  },
+  {
+   "caseId": "case-the-target-is-the-metropolitan-police-traffic-department",
+   "field": "culprit",
+   "zhHans": "Kengo Aono"
+  },
+  {
+   "caseId": "case-the-target-is-the-metropolitan-police-traffic-department",
+   "field": "motive",
+   "zhHans": "但 Chiba 解释说他被拦下了，因为他可能会引发事故，尤其是在他慌张驾车的情况下。Aono 漏听了那条语音留言，因为他一直忙着打她的电话，也因为他过于悲痛而没有注意到，意识到自己杀害了两名无辜女性后，他崩溃痛哭。"
+  },
+  {
+   "caseId": "case-the-target-is-the-metropolitan-police-traffic-department",
+   "field": "method",
+   "zhHans": "事故地点：未知 被害人：Naeko Miike 年龄：24 岁 伤势：弩箭伤 犯人：Kengo Aono 犯人先前设置的弩箭射来时，Naeko 为 Chiba 挡下了那一箭，因此受伤。在 Naeko 用了 Chiba 当年对她说过的话——不要闯红灯、要遵守交通法规——之后，Chiba 终于认出 Naeko 是自己的青梅竹马。"
+  },
+  {
+   "caseId": "case-the-target-is-the-metropolitan-police-traffic-department",
+   "field": "evidence",
+   "zhHans": "这证明了在任何情况下他都不可能拦住她。"
+  },
+  {
+   "caseId": "case-the-target-is-the-metropolitan-police-traffic-department",
+   "field": "resolution",
+   "zhHans": "犯人是 Kengo Aono。地点：大厅内 被害人：Naeko Miike"
+  },
+  {
+   "caseId": "case-makoto-kyogoku-the-understudy",
+   "field": "culprit",
+   "zhHans": "Hideka Aburai"
+  },
+  {
+   "caseId": "case-makoto-kyogoku-the-understudy",
+   "field": "motive",
+   "zhHans": "因为 Tokuzono 讨厌虫子，他被吓了一跳，结果脚滑坠楼身亡。正因如此，他在第二天开车前往拍摄现场的途中死去了。Odori 发现她就是杀死 Tokuzono 的凶手，因为在 Tokuzono 坠楼身亡前后拍摄的画面中，尽管一个男人刚刚在她面前坠落，她却是唯一一个一直抬头望向窗户的人，于是他开始勒索她。当 Aburai 试图开车撞向大楼自杀时，她在场地上绕行了一圈，以提高车速。Tomioka 还提到兰的性格与 Yukiko 相似，以此来鼓励 Jinmei。"
+  },
+  {
+   "caseId": "case-makoto-kyogoku-the-understudy",
+   "field": "method",
+   "zhHans": "随后她毒杀了 Odori：剪掉一根吸管的尖端，涂上毒药，再像帽子一样套在另一根吸管上。在推理的最后，是柯南揭露了第二起命案所用的手法其实是防止 Tokuzono 在第一次谋杀未遂中生还的保险措施，因为与直型吸管配套的奶昔一起使用这种帽盖手法风险很高，而漫画中则是 Aburai 自己说出这一点，并且没有提到吸管类型的话题。"
+  },
+  {
+   "caseId": "case-makoto-kyogoku-the-understudy",
+   "field": "evidence",
+   "zhHans": "Odori 事后在案发房间内发现了那个玩具。Odori 发现她就是杀死 Tokuzono 的凶手，因为在 Tokuzono 坠楼身亡前后拍摄的画面中，尽管一个男人刚刚在她面前坠落，她却是唯一一个一直抬头望向窗户的人，于是他开始勒索她。被发现之后，她试图把工作人员的面包车开进大楼自杀，但被真和兰联手救下。"
+  },
+  {
+   "caseId": "case-makoto-kyogoku-the-understudy",
+   "field": "resolution",
+   "zhHans": "犯人是 Hideka Aburai。首先，她把一只蝴蝶玩具放在窗外 Tokuzono 的手机下面。当 Tokuzono 去拿手机时，玩具会突然朝他飞起。因为 Tokuzono 讨厌虫子，他被吓了一跳，结果脚滑坠楼身亡。Odori 事后在案发房间内发现了那个玩具。随后她毒杀了 Odori：剪掉一根吸管的尖端，涂上毒药，再像帽子一样套在另一根吸管上。Odori 倒下后，她是第一个上前的人，她悄悄取下帽盖，收进了自己的药胶囊里。她的动机是："
+  },
+  {
+   "caseId": "case-the-detective-memoir-of-monkey-and-rake",
+   "field": "culprit",
+   "zhHans": "Shinji Mizunoe"
+  }
+ ]
+}

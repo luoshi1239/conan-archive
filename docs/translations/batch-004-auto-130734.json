@@ -1,0 +1,57 @@
+{
+ "batch": 4,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-lovebirds-ruse",
+   "field": "culprit",
+   "zhHans": "Seiko Kanbayashi"
+  },
+  {
+   "caseId": "case-the-lovebirds-ruse",
+   "field": "motive",
+   "zhHans": "Kanbayashi夫妇只是假装婚姻幸福，他们的共同生活早已支离破碎，两人也都各自另寻新欢。Chosaku一直策划杀害妻子以骗取她的人寿保险，但他并不知道Seiko也在设法除掉他。"
+  },
+  {
+   "caseId": "case-the-lovebirds-ruse",
+   "field": "method",
+   "zhHans": "Kanbayashi夫妇只是假装婚姻幸福，他们的共同生活早已支离破碎，两人也都各自另寻新欢。接着他会假装离开办公室去买香烟，然后进入相邻大楼，打开五楼一间浴室的窗户。回到办公室（以获得目击证词）之后，他打算从自己所在的大楼跳进隔壁的浴室，在公园里截住必定会路过的Seiko并将其勒死。然后他会原路返回交出稿件，同样有目击者，从而巩固自己的不在场证明。然而，就在他为妻子的谋杀案制造不在场证明期间，Seiko（带着执行自己谋杀计划的意图）提前到达，发现Chosaku举止反常，识破了他的企图。Seiko稍后返回，并以Chosaki办公室大楼的门卫作为她不在场证明的目击证人，装作第一个发现尸体的人。"
+  },
+  {
+   "caseId": "case-the-lovebirds-ruse",
+   "field": "evidence",
+   "zhHans": "她的罪行得以证实，是因为在她杀害丈夫的那间浴室里发现了她的头发，以及Chosaku的眉毛毛发夹杂在刷子的鬃毛之中。"
+  },
+  {
+   "caseId": "case-the-lovebirds-ruse",
+   "field": "resolution",
+   "zhHans": "此案实际上是谋杀案，犯人是Seiko Kanbayashi。Kanbayashi夫妇只是假装婚姻幸福，他们的共同生活早已支离破碎，两人也都各自另寻新欢。Chosaku一直策划杀害妻子以骗取她的人寿保险，但他并不知道Seiko也在设法除掉他。"
+  },
+  {
+   "caseId": "case-the-queen-s-weather-forecast",
+   "field": "culprit",
+   "zhHans": "Hiroko Shinohara"
+  },
+  {
+   "caseId": "case-the-queen-s-weather-forecast",
+   "field": "motive",
+   "zhHans": "她承认设下那个陷阱，是因为她厌恶Yasumi的自私与傲慢。尽管Yasumi说过不会去查看舞台，但她还是去了，因为真凶把Hiroko的陷阱告诉了她。本质上，真凶把自己的陷阱设在Hiroko的陷阱之后，是为了让她当替罪羊来替罪，从而逃避嫌疑。Yukio今天早上擦了他的棕色皮鞋，但因为下着毛毛雨、湿度很高，鞋油没有干。由于Yasumi坠落时他和其他人在一起，烟雾机必须是遥控操作的。Yukio坦白，承认是他杀了Yasumi，因为她知道他在挪用节目的经费。"
+  },
+  {
+   "caseId": "case-the-queen-s-weather-forecast",
+   "field": "method",
+   "zhHans": "有人设下陷阱要杀死Yasumi。她完全照他所说弄破了气球，却意外触发了真凶设下的第二个陷阱。第二件证据是他一直携带的、用来启动烟雾机的遥控器。然而，柯南用Yasumi留下的死前讯息反驳了他的说法：Yasumi在坠落时、在摔到地面上之前就意识到Yukio骗了她，因此在死前，她画下了一个在天气预报中代表雪的符号。"
+  },
+  {
+   "caseId": "case-the-queen-s-weather-forecast",
+   "field": "evidence",
+   "zhHans": "侦探发现一条胶带粘在金属彩带上，并断言犯人是Hiroko Shinohara，她有一卷同样种类的胶带。小五郎的推理虽然并非全错，但无法解释为什么会有气体喷出的声音、为什么只有Yasumi头发的左侧被缠住，以及为什么她的发饰被发现靠近墙边。证明他是犯人的第一件证据，是烟雾机喷口上褐色的污迹。第二件证据是他一直携带的、用来启动烟雾机的遥控器。"
+  },
+  {
+   "caseId": "case-the-queen-s-weather-forecast",
+   "field": "resolution",
+   "zhHans": "小五郎告诉大家，这不是意外。有人设下陷阱要杀死Yasumi。要制造这个陷阱，把金属彩带的一端绑在舞台的一个支撑物上，另一端绑到对面；之后，把一个气球绑在彩带的另一端。当有人走下舞台时，脚会把金属彩带挑起来，将气球推向玫瑰的刺，使气球破裂。"
+  }
+ ]
+}

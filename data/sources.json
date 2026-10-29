@@ -1,0 +1,669 @@
+{
+  "version": "2026-10-26",
+  "sources": [
+    {
+      "id": "src-abiting-conan-database",
+      "title": "abiting/conan_database",
+      "url": "https://github.com/abiting/conan_database",
+      "type": "community-dataset",
+      "scope": "电视动画目录底稿",
+      "accessed": "2026-10-26",
+      "notes": "公开社区项目；用于批量目录底稿，不视为官方事实源。"
+    },
+    {
+      "id": "src-detective-conan-world-anime",
+      "title": "Detective Conan World · Anime",
+      "url": "https://detectiveconanworld.com/wiki/Anime",
+      "type": "reference-wiki",
+      "scope": "动画集数、改编关系、特别篇交叉核对",
+      "accessed": "2026-10-26",
+      "notes": "用于交叉核对，不直接复制页面全文。"
+    },
+    {
+      "id": "src-detective-conan-world-ovas",
+      "title": "Detective Conan World · OVAs",
+      "url": "https://detectiveconanworld.com/wiki/OVAs",
+      "type": "reference-wiki",
+      "scope": "OVA、Magic File、相关动画作品",
+      "accessed": "2026-10-26",
+      "notes": "待分批整理与核对。"
+    },
+    {
+      "id": "src-conanpedia-anime",
+      "title": "柯南百科 · 名侦探柯南电视动画",
+      "url": "https://www.conanpedia.com/%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E7%94%B5%E8%A7%86%E5%8A%A8%E7%94%BB",
+      "type": "reference-wiki",
+      "scope": "动画中文标题、日文标题、播出日期和漫画 File 映射",
+      "accessed": "2026-10-27",
+      "notes": "本批次从页面逐集表格解析；仅用于基础事实字段，不单独支撑深度剧透。"
+    },
+    {
+      "id": "src-detective-conan-official",
+      "title": "名探偵コナン 官方作品站",
+      "url": "https://detective-conan.com",
+      "type": "official",
+      "scope": "作品、角色和官方视觉语境",
+      "accessed": "2026-10-26",
+      "notes": "官方源；具体目录字段需按页面可得内容记录。"
+    },
+    {
+      "id": "src-detective-conan-world-moonlight-sonata",
+      "title": "Detective Conan World · Moonlight Sonata Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/Moonlight_Sonata_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "月影岛案件的案件经过、犯人身份、动机、手法、证据和结局",
+      "accessed": "2026-10-27",
+      "notes": "用于 L3 字段候选；正式应用保留剧透等级与来源回溯。"
+    },
+    {
+      "id": "src-wikipedia-films",
+      "title": "List of Case Closed films",
+      "url": "https://en.wikipedia.org/wiki/List_of_Case_Closed_films",
+      "type": "secondary-reference",
+      "scope": "剧场版数量、年份和标题交叉核对",
+      "accessed": "2026-10-26",
+      "notes": "二级参考源，不替代官方电影资料。"
+    },
+    {
+      "id": "src-detective-conan-world-diplomat-case",
+      "title": "Detective Conan Wiki · Diplomat Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/Diplomat_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "外交官案件的犯人、动机、毒针和假密室手法、证据与结局",
+      "accessed": "2026-10-27",
+      "notes": "用于外交官案件 L3 字段候选与 EP.49—50 关系核对。"
+    },
+    {
+      "id": "src-detective-conan-world-clash-red-black",
+      "title": "Detective Conan Wiki · Clash of Red and Black",
+      "url": "https://www.detectiveconanworld.com/wiki/Clash_of_Red_and_Black",
+      "type": "reference-wiki",
+      "scope": "红与黑的碰撞篇章集数边界、子段落、人物与组织关系",
+      "accessed": "2026-10-27",
+      "notes": "用于新增子篇章 arcRefs；不替代既有 arc-kir 长篇记录。"
+    },
+    {
+      "id": "src-detective-conan-world-library-case",
+      "title": "Detective Conan Wiki · Library Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/Library_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "图书馆杀人事件的犯人、动机、藏毒书籍、电梯机关、证据与结局",
+      "accessed": "2026-10-27",
+      "notes": "用于新增案件实体与 L3 深度剧透字段候选。"
+    },
+    {
+      "id": "src-detective-conan-world-golf-case",
+      "title": "Detective Conan Wiki · The Golf Driving Range Murder Case",
+      "url": "https://detectiveconanworld.com/wiki/The_Golf_Driving_Range_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "高尔夫练习场杀人事件的犯人、动机、球杆炸弹手法、证据与结局",
+      "accessed": "2026-10-27",
+      "notes": "TV Original；用于新增案件实体与 L3 深度剧透候选。"
+    },
+    {
+      "id": "src-detective-conan-world-weapon-case",
+      "title": "Detective Conan Wiki · The Mystery Weapon Murder Case",
+      "url": "https://detectiveconanworld.com/wiki/The_Mystery_Weapon_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "神秘凶器杀人事件的犯人、钓鱼竿凶器、证据、动机与结局",
+      "accessed": "2026-10-27",
+      "notes": "TV Original；用于新增案件实体与 L3 深度剧透候选。"
+    },
+    {
+      "id": "src-detective-conan-world-game-company-case",
+      "title": "Detective Conan Wiki · Game Company Murder Case",
+      "url": "https://detectiveconanworld.com/wiki/Game_Company_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "游戏公司杀人事件的案件经过、爆炸误杀、犯人、动机、证据及黑衣组织关系",
+      "accessed": "2026-10-27",
+      "notes": "漫画改编；File.114-116；用于案件 L3 与组织关系候选。"
+    },
+    {
+      "id": "src-detective-conan-world-train-trick-case",
+      "title": "Detective Conan Wiki · The Train Trick Murder Case",
+      "url": "https://detectiveconanworld.com/wiki/The_Train_Trick_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "列车诡计杀人事件的跨线换车、注射手法、证据、动机与结局",
+      "accessed": "2026-10-27",
+      "notes": "TV Original；用于新增案件实体与 L3 深度剧透候选。"
+    },
+    {
+      "id": "src-detective-conan-world-ojamanbou-case",
+      "title": "Detective Conan Wiki · The Ojamanbou Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Ojamanbou_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "小じゃマンボウ杀人事件的犯人、钢梁机关、监控倒影证据、动机与结局",
+      "accessed": "2026-10-27",
+      "notes": "TV Original；与清洁公司背景相关但正式英文页标题为 The Ojamanbou Murder Case。"
+    },
+    {
+      "id": "src-detective-conan-world-holmes-freak-case",
+      "title": "Detective Conan Wiki · Holmes Freak Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/Holmes_Freak_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "Holmes Freak Murder Case 的集数、File.117-121、犯人、动机、诡计、证据与结局",
+      "accessed": "2026-10-27",
+      "notes": "漫画改编；用于新增案件实体与 L3 深度剧透候选。"
+    },
+    {
+      "id": "src-detective-conan-world-first-errand-case",
+      "title": "Detective Conan Wiki · The First Errand Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/The_First_Errand_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "首次跑腿杀人事件的犯人、废弃商店拆迁动机、儿童目击与结局",
+      "accessed": "2026-10-27",
+      "notes": "TV Original；用于新增案件实体与 L3 深度剧透候选。"
+    },
+    {
+      "id": "src-detective-conan-world-illustrator-case",
+      "title": "Detective Conan Wiki · An Illustrator Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/An_Illustrator_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "插画家杀人事件的 File.125-127、犯人、蝴蝶标记、阳台机关、动机与结局",
+      "accessed": "2026-10-27",
+      "notes": "漫画改编；用于新增案件实体与 L3 深度剧透候选。"
+    },
+    {
+      "id": "src-detective-conan-world-ghost-ship-case",
+      "title": "Detective Conan Wiki · A Ghost Ship Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/A_Ghost_Ship_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "幽灵船杀人事件的双集边界、黄金动机、伪造枪击、犯人、证据与结局",
+      "accessed": "2026-10-27",
+      "notes": "首个两集 TV Original 案件；不建立漫画 File 关系。"
+    },
+    {
+      "id": "src-detective-conan-world-gomera-case",
+      "title": "Detective Conan Wiki · Big Monster Gomera Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/Big_Monster_Gomera_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "大怪兽哥美拉杀人事件的Volume 13 File 128-130、犯人、脚印与换衣手法、动机和结局",
+      "accessed": "2026-10-27",
+      "notes": "漫画改编（漫画案件#36）；用于案件实体与L3深度剧透候选。"
+    },
+    {
+      "id": "src-detective-conan-world-third-fingerprint-case",
+      "title": "Detective Conan Wiki · The Third Fingerprint Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Third_Fingerprint_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "第3种指纹杀人事件的TV Original属性、寺冈受贿勒索动机、第三枚指纹来源与结局",
+      "accessed": "2026-10-27",
+      "notes": "TV Original（Filler #24）；不建立漫画File关系。"
+    },
+    {
+      "id": "src-detective-conan-world-crab-whale-case",
+      "title": "Detective Conan Wiki · A Crab and Whale Kidnapping Case",
+      "url": "https://www.detectiveconanworld.com/wiki/A_Crab_and_Whale_Kidnapping_Case",
+      "type": "reference-wiki",
+      "scope": "螃蟹与鲸鱼绑架事件的TV Original属性、绑架要求、两名犯人与酒店解救结局",
+      "accessed": "2026-10-27",
+      "notes": "TV Original；页面未给出犯人正式姓名，L3字段不臆造姓名。"
+    },
+    {
+      "id": "src-detective-conan-world-night-road-case",
+      "title": "Detective Conan Wiki · Night Road Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/Night_Road_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "夜路杀人事件的犯人、雪山旧案动机、袜装溪石钝器手法、羊毛纤维证据与结局",
+      "accessed": "2026-10-27",
+      "notes": "TV Original；含过去雪山事故设定，用于案件实体与L3深度剧透候选。"
+    },
+    {
+      "id": "src-detective-conan-world-stage-actress-case",
+      "title": "Detective Conan Wiki · Stage Actress Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/Stage_Actress_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "舞台女演员杀人事件的TV Original属性、氰酸钾毒杀、钓鱼线滴毒手法、动机与结局",
+      "accessed": "2026-10-27",
+      "notes": "TV Original；不建立漫画File关系。"
+    },
+    {
+      "id": "src-detective-conan-world-night-baron-case",
+      "title": "Detective Conan Wiki · Night Baron Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/Night_Baron_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "暗夜男爵杀人事件的三集边界、File.072-077、狭山明子复仇动机、公主风与被褥实验证据、前田聪伪证",
+      "accessed": "2026-10-27",
+      "notes": "漫画改编三集案件；用于案件实体与L3深度剧透候选。"
+    },
+    {
+      "id": "src-detective-conan-world-stalker-case",
+      "title": "Detective Conan Wiki · A Stalker's Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/A_Stalker%27s_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "跟踪狂杀人事件的TV Original属性、磷酸毒饮料手法、过期贴纸破绽、打火机摄像证据与量刑",
+      "accessed": "2026-10-27",
+      "notes": "TV Original；含过去站台推落事件与正当防卫讨论。"
+    },
+    {
+      "id": "src-detective-conan-world-triplet-case",
+      "title": "Detective Conan Wiki · The Triplet's Country Home Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Triplet%27s_Country_Home_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "三胞胎别墅杀人事件的File.122-124、长子篡改答录机时间、停电录音破绽、动机与结局",
+      "accessed": "2026-10-27",
+      "notes": "漫画改编；用于案件实体与L3深度剧透候选。"
+    },
+    {
+      "id": "src-detective-conan-world-boys-disaster-case",
+      "title": "Detective Conan Wiki · The Detective Boys' Disaster Case",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Detective_Boys%27_Disaster_Case",
+      "type": "reference-wiki",
+      "scope": "少年侦探团遇险事件的TV Original属性、山洞涨潮未遂杀人、挟持步美与结局",
+      "accessed": "2026-10-27",
+      "notes": "未发生死亡；按未遂杀人事件记录，不虚构死者。"
+    },
+    {
+      "id": "src-detective-conan-world-jinnai-case",
+      "title": "Detective Conan Wiki · The Death God Jinnai Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Death_God_Jinnai_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "死神阵内杀人事件的TV Original属性、电梯联动人体剪影诡计、三年前旧案动机",
+      "accessed": "2026-10-27",
+      "notes": "TV Original；含过去替身特技事故谋杀。"
+    },
+    {
+      "id": "src-detective-conan-world-loan-company-case",
+      "title": "Detective Conan Wiki · Loan Company President's Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/Loan_Company_President%27s_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "金融公司社长杀人事件的File.147-149、煤气灶旋钮涂毒、漂白剂灭证与左手破绽",
+      "accessed": "2026-10-27",
+      "notes": "漫画改编；含过去借贷与上吊自杀背景。"
+    },
+    {
+      "id": "src-detective-conan-world-conan-vs-kaitou-kid",
+      "title": "Detective Conan Wiki · Conan vs. Kaitou Kid",
+      "url": "https://www.detectiveconanworld.com/wiki/Conan_vs._Kaitou_Kid",
+      "type": "reference-wiki",
+      "scope": "柯南VS怪盗基德（File.156-159）的黑珍珠预告函、船上掉包与基德脱身",
+      "accessed": "2026-10-27",
+      "notes": "怪盗盗宝事件，非杀人案；用于基德专题与案件实体。"
+    },
+    {
+      "id": "src-detective-conan-world-distinguished-family-case",
+      "title": "Detective Conan Wiki · Distinguished Family's Consecutive Accidental Death Case",
+      "url": "https://www.detectiveconanworld.com/wiki/Distinguished_Family%27s_Consecutive_Accidental_Death_Case",
+      "type": "reference-wiki",
+      "scope": "名门连续横死事件（File.150-153）的嫁祸计划、抓钩与池塘藏尸、二十年前纵火动机",
+      "accessed": "2026-10-27",
+      "notes": "漫画改编双集；含自杀与未遂纵火情节。"
+    },
+    {
+      "id": "src-detective-conan-world-bank-heist-case",
+      "title": "Detective Conan Wiki · The Bank Heist Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Bank_Heist_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "银行强盗杀人事件的TV Original属性、共犯灭口、止咳糖与来电铃声证据",
+      "accessed": "2026-10-27",
+      "notes": "TV Original；抢劫案中杀死共犯。"
+    },
+    {
+      "id": "src-detective-conan-world-wandering-artist-case",
+      "title": "Detective Conan Wiki · The Wandering Artist Murder Case",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Wandering_Artist_Murder_Case",
+      "type": "reference-wiki",
+      "scope": "流浪画家杀人事件的TV Original属性、失忆素描线索、指纹与名画破绽",
+      "accessed": "2026-10-27",
+      "notes": "TV Original；含一年前失踪与挪用公款背景。"
+    },
+    {
+      "id": "src-conan-no-sekai-file93",
+      "type": "wiki",
+      "title": "第93話「戦慄の登山道殺人事件（後編）」あらすじ・ネタバレ",
+      "url": "https://conan-no-sekai.com/file93/",
+      "language": "ja",
+      "publisher": "conan-no-sekai.com",
+      "accessedAt": "2026-10-27",
+      "notes": "按话数复述剧情并保留台词原文，日文。正文块 [136] 为柯南向潮文三说明前情的台词原文，是本案时间线的最高证据层级。"
+    },
+    {
+      "id": "src-conanpedia-tv93",
+      "type": "wiki",
+      "title": "名侦探柯南 TV93 恐怖登山杀人事件（后篇）",
+      "url": "https://www.conanpedia.com/TV93",
+      "language": "zh",
+      "publisher": "conanpedia.com",
+      "accessedAt": "2026-10-27",
+      "notes": "中文案件资料库，含死者表、死亡时间、作案手法条目，与日文来源互相独立。"
+    },
+    {
+      "id": "src-detective-conan-world-movies",
+      "title": "Detective Conan World · Movies",
+      "url": "https://detectiveconanworld.com/wiki/Movies",
+      "type": "reference-wiki",
+      "scope": "常规剧场版、合作电影、总集篇和3D短片目录",
+      "accessed": "2026-10-26",
+      "notes": "已读取页面正文表格；未来作品单独标记 planned。"
+    },
+    {
+      "id": "src-conanpedia-movies",
+      "title": "柯南百科 · 名侦探柯南剧场版",
+      "url": "https://www.conanpedia.com/名侦探柯南剧场版",
+      "type": "reference-wiki",
+      "scope": "中文译名、首映日期、关联剧集和特殊剧场版交叉核对",
+      "accessed": "2026-10-26",
+      "notes": "中文资料参考；译名冲突保留多版本。"
+    },
+    {
+      "id": "src-detective-conan-world-characters",
+      "title": "Detective Conan World · Characters",
+      "url": "https://detectiveconanworld.com/wiki/Characters",
+      "type": "reference-wiki",
+      "scope": "人物身份、阵营和角色关系",
+      "accessed": "2026-10-26",
+      "notes": "人物基础字段来源。"
+    },
+    {
+      "id": "src-detective-conan-world-timeline",
+      "title": "Detective Conan World · Timeline",
+      "url": "https://detectiveconanworld.com/wiki/Timeline",
+      "type": "reference-wiki",
+      "scope": "系列时间线和重要事件",
+      "accessed": "2026-10-26",
+      "notes": "用于主线顺序和事件关联。"
+    },
+    {
+      "id": "src-detective-conan-world-bo",
+      "title": "Detective Conan World · Black Organization",
+      "url": "https://detectiveconanworld.com/wiki/Black_organization",
+      "type": "reference-wiki",
+      "scope": "黑衣组织成员、代号和组织设定",
+      "accessed": "2026-10-26",
+      "notes": "组织基础资料。"
+    },
+    {
+      "id": "src-detective-conan-world-bo-timeline",
+      "title": "Detective Conan World · Black Organization timeline",
+      "url": "https://detectiveconanworld.com/wiki/Black_Organization_timeline",
+      "type": "reference-wiki",
+      "scope": "黑衣组织主线时间线和漫画/动画范围",
+      "accessed": "2026-10-26",
+      "notes": "用于主线篇章交叉核对。"
+    },
+    {
+      "id": "src-detective-conan-world-bo-appearances",
+      "title": "Detective Conan World · Black Organization Appearances",
+      "url": "https://detectiveconanworld.com/wiki/Black_Organization_Appearances",
+      "type": "reference-wiki",
+      "scope": "组织相关动画集数和作品出场",
+      "accessed": "2026-10-26",
+      "notes": "用于组织出场索引。"
+    },
+    {
+      "id": "src-detective-conan-world-fbi",
+      "title": "Detective Conan World · Federal Bureau of Investigation",
+      "url": "https://detectiveconanworld.com/wiki/Federal_Bureau_of_Investigation",
+      "type": "reference-wiki",
+      "scope": "FBI阵营与赤井秀一相关设定",
+      "accessed": "2026-10-26",
+      "notes": "组织和阵营基础资料。"
+    },
+    {
+      "id": "src-detective-conan-world-npa",
+      "title": "Detective Conan World · National Police Agency",
+      "url": "https://detectiveconanworld.com/wiki/National_Police_Agency",
+      "type": "reference-wiki",
+      "scope": "日本公安、警察厅和卧底设定",
+      "accessed": "2026-10-26",
+      "notes": "日本公安阵营基础资料。"
+    },
+    {
+      "id": "src-detective-conan-world-cia",
+      "title": "Detective Conan World · Central Intelligence Agency",
+      "url": "https://detectiveconanworld.com/wiki/Central_Intelligence_Agency",
+      "type": "reference-wiki",
+      "scope": "CIA、水无怜奈和组织线",
+      "accessed": "2026-10-26",
+      "notes": "用于CIA相关人物和组织关系。"
+    },
+    {
+      "id": "src-detective-conan-world-manga",
+      "title": "Detective Conan World · Manga",
+      "url": "https://detectiveconanworld.com/wiki/Manga",
+      "type": "reference-wiki",
+      "scope": "漫画卷、File和章节目录",
+      "accessed": "2026-10-26",
+      "notes": "用于漫画章节和动画映射底稿。"
+    },
+    {
+      "id": "src-conanpedia-mystery-train",
+      "title": "柯南百科 · 漆黑的特快列车",
+      "url": "https://conanpedia.com/TV701-704_漆黑的特快列车",
+      "type": "reference-wiki",
+      "scope": "漆黑的特快列车篇章和关联人物",
+      "accessed": "2026-10-26",
+      "notes": "用于列车篇的中文结构化资料。"
+    },
+    {
+      "id": "src-detective-conan-world-gadgets",
+      "title": "Detective Conan World · Gadgets",
+      "url": "https://detectiveconanworld.com/wiki/Gadgets",
+      "type": "reference-wiki",
+      "scope": "柯南和少年侦探团常用道具目录与用途",
+      "accessed": "2026-10-26",
+      "notes": "用于道具基础档案，不复制页面图片。"
+    },
+    {
+      "id": "src-detective-conan-world-wristwatch",
+      "title": "Detective Conan World · Stun-Gun Wristwatch",
+      "url": "https://detectiveconanworld.com/wiki/Stun-Gun_Wristwatch",
+      "type": "reference-wiki",
+      "scope": "麻醉手表的名称、用途和道具定位",
+      "accessed": "2026-10-26",
+      "notes": "道具专页。"
+    },
+    {
+      "id": "src-detective-conan-world-bowtie",
+      "title": "Detective Conan World · Voice-Changing Bowtie",
+      "url": "https://detectiveconanworld.com/wiki/Voice-Changing_Bowtie",
+      "type": "reference-wiki",
+      "scope": "变声蝴蝶结的名称、用途和使用方式",
+      "accessed": "2026-10-26",
+      "notes": "道具专页。"
+    },
+    {
+      "id": "src-detective-conan-world-tracking-glasses",
+      "title": "Detective Conan World · Criminal Tracking Glasses",
+      "url": "https://detectiveconanworld.com/wiki/Criminal_Tracking_Glasses",
+      "type": "reference-wiki",
+      "scope": "犯人追踪眼镜的用途和道具编号",
+      "accessed": "2026-10-26",
+      "notes": "道具专页。"
+    },
+    {
+      "id": "src-detective-conan-world-skateboard",
+      "title": "Detective Conan World · Turbo Engine Skateboard",
+      "url": "https://detectiveconanworld.com/wiki/Turbo_Engine_Skateboard",
+      "type": "reference-wiki",
+      "scope": "太阳能涡轮滑板的用途和设定",
+      "accessed": "2026-10-26",
+      "notes": "道具专页。"
+    },
+    {
+      "id": "src-detective-conan-world-earring-phone",
+      "title": "Detective Conan World · Earring Cellphone",
+      "url": "https://detectiveconanworld.com/wiki/Earring_Cellphone",
+      "type": "reference-wiki",
+      "scope": "耳环型手机的名称和用途",
+      "accessed": "2026-10-26",
+      "notes": "道具专页。"
+    },
+    {
+      "id": "src-detective-conan-world-popular-artist-case",
+      "title": "The Kidnapping of a Popular Artist Case - Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Kidnapping_of_a_Popular_Artist_Case",
+      "type": "wiki",
+      "language": "en",
+      "retrievedAt": "2026-10-27",
+      "note": "Two-Mix 绑架案（EP.81-82）案情、犯人手法与结局原文；同时记录重制版播出信息。"
+    },
+    {
+      "id": "src-detective-conan-world-general-hospital-case",
+      "title": "General Hospital Murder Case - Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/General_Hospital_Murder_Case",
+      "type": "wiki",
+      "language": "en",
+      "retrievedAt": "2026-10-27",
+      "note": "综合医院杀人事件（EP.83）：连续三夜幻影刺杀、第四夜真凶案与咖啡杯证据原文。"
+    },
+    {
+      "id": "src-detective-conan-world-ski-lodge-case",
+      "title": "Ski Lodge Murder Case - Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/Ski_Lodge_Murder_Case",
+      "type": "wiki",
+      "language": "en",
+      "retrievedAt": "2026-10-27",
+      "note": "滑雪别墅杀人事件（EP.84-85）：双集、假发勒杀与三年前美奈子旧案原文。"
+    },
+    {
+      "id": "src-detective-conan-world-kidnapping-location-case",
+      "title": "The Kidnapping Location Case - Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Kidnapping_Location_Case",
+      "type": "wiki",
+      "language": "en",
+      "retrievedAt": "2026-10-27",
+      "note": "绑架现场确定事件（EP.86）：Tomidokoro 报复绑架与对话机破局原文。"
+    },
+    {
+      "id": "src-detective-conan-world-crane-return-case",
+      "title": "Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Crane%27s_Return_of_a_Favor_Murder_Case",
+      "type": "wiki",
+      "language": "en",
+      "retrievedAt": "2026-10-27",
+      "note": "白鹤报恩杀人事件（EP.87）：十字弓机关、镜面玻璃与羽毛证据原文。"
+    },
+    {
+      "id": "src-detective-conan-world-dracula-villa-case",
+      "title": "Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/Dracula%27s_Villa_Murder_Case",
+      "type": "wiki",
+      "language": "en",
+      "retrievedAt": "2026-10-27",
+      "note": "德古拉别墅杀人事件（EP.88-89）：双集、胶片卷轴密室与代笔灭口动机原文。"
+    },
+    {
+      "id": "src-detective-conan-world-flower-scent-case",
+      "title": "Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Flower_Scent_Murder_Case",
+      "type": "wiki",
+      "language": "en",
+      "retrievedAt": "2026-10-27",
+      "note": "花香杀人事件（EP.90）：冰镇氯仿/氰化钾花球机关与廿年前旧案原文。"
+    },
+    {
+      "id": "src-detective-conan-world-bank-robber-hospital-case",
+      "title": "Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Bank_Robber%27s_Hospitalization_Case",
+      "type": "wiki",
+      "language": "en",
+      "retrievedAt": "2026-10-27",
+      "note": "抢劫犯住院事件（EP.91）：糖果盒藏枪胁迫、商场露台望远镜监视原文。"
+    },
+    {
+      "id": "src-detective-conan-world-fearful-traverse-case",
+      "title": "Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Fearful_Traversing_Murder_Case",
+      "type": "wiki",
+      "language": "en",
+      "retrievedAt": "2026-10-27",
+      "note": "恐怖登山杀人事件（EP.92-93）：狐狸冒充管理员、三起独立事件的原文区分。"
+    },
+    {
+      "id": "src-detective-conan-world-snow-woman-case",
+      "title": "Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/Snow_Woman's_Legend_Murder_Case",
+      "type": "wiki",
+      "language": "en",
+      "retrievedAt": "2026-10-27",
+      "note": "雪女传说杀人事件（EP.94）：替身演员顶替明星、雪地失温致死的手法与动机原文。"
+    },
+    {
+      "id": "src-detective-conan-world-kogoro-date-case",
+      "title": "Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/Kogoro's_Date_Murder_Case",
+      "type": "wiki",
+      "language": "en",
+      "retrievedAt": "2026-10-27",
+      "note": "小五郎约会杀人事件（EP.95）：签收快递留下的笔迹时间差、勒索动机原文。"
+    },
+    {
+      "id": "src-detective-conan-world-cornered-detective-case",
+      "title": "Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Cornered_Famous_Detective!_Two_Big_Murder_Cases",
+      "type": "wiki",
+      "language": "en",
+      "retrievedAt": "2026-10-27",
+      "note": "走投无路的名侦探！连续两大杀人事件（EP.96，2 小时特别篇）：Case 1 九十九元康魔术师案与 Case 2 薮内家案两案原文；漫画源 File.131-138。"
+    },
+    {
+      "id": "src-detective-conan-world-farewell-wine-case",
+      "title": "Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Farewell_Wine_Murder_Case",
+      "type": "wiki",
+      "language": "en",
+      "retrievedAt": "2026-10-27",
+      "note": "离别美酒杀人事件（EP.97）：自导绑架、私人医生以「测试」为名实施毒杀的原文。"
+    },
+    {
+      "id": "src-detective-conan-world-famous-potter",
+      "type": "wiki",
+      "title": "The Famous Potter Murder Case — Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Famous_Potter_Murder_Case",
+      "language": "en",
+      "publisher": "detectiveconanworld.com",
+      "accessedAt": "2026-10-27",
+      "notes": "EP.98-99 (File.160-162). Situation/People/Resolution 段为事实来源。"
+    },
+    {
+      "id": "src-detective-conan-world-first-love",
+      "type": "wiki",
+      "title": "The Memories of First Love Case — Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Memories_of_First_Love_Case",
+      "language": "en",
+      "publisher": "detectiveconanworld.com",
+      "accessedAt": "2026-10-27",
+      "notes": "EP.100-101 (File.173-175)。Evidence/Motive/Aftermath 段为事实来源。"
+    },
+    {
+      "id": "src-detective-conan-world-historical-actor",
+      "type": "wiki",
+      "title": "The Historical Actor Murder Case — Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Historical_Actor_Murder_Case",
+      "language": "en",
+      "publisher": "detectiveconanworld.com",
+      "accessedAt": "2026-10-27",
+      "notes": "EP.102-103（File.170-172，Volume 18）。Case/People/Resolution 段为事实来源。"
+    },
+    {
+      "id": "src-detective-conan-world-thieves-mansion",
+      "type": "wiki",
+      "title": "The Mysterious Mansion of a Band of Thieves Case — Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/The_Mysterious_Mansion_of_a_Band_of_Thieves_Case",
+      "language": "en",
+      "publisher": "detectiveconanworld.com",
+      "accessedAt": "2026-10-27",
+      "notes": "EP.104-105（File.167-169，Volume 17）。案件性质为绑架+寻宝，无命案既遂。"
+    },
+    {
+      "id": "src-detective-conan-world-scoop-picture",
+      "type": "wiki",
+      "title": "Scoop Picture Murder Case — Detective Conan Wiki",
+      "url": "https://www.detectiveconanworld.com/wiki/Scoop_Picture_Murder_Case",
+      "language": "en",
+      "publisher": "detectiveconanworld.com",
+      "accessedAt": "2026-10-27",
+      "notes": "EP.106，动画原创（页面 Category:Anime_Exclusive）。Case/Resolution 段为事实来源。"
+    },
+    {
+      "id": "src-yomiuri-tv-conan",
+      "title": "読売テレビ · 名探偵コナン 公式サイト",
+      "url": "https://www.ytv.co.jp/conan/",
+      "type": "official",
+      "scope": "各话官方日文剧情简介（conan_story）、日文标题、播出日期",
+      "accessed": "2026-10-28",
+      "notes": "データは data/case.json（サイト内静的 JSON）から取得。官方台方站点，供 DCW 正文缺失的剧集补日文简介；不提供破案者字段。"
+    }
+  ]
+}

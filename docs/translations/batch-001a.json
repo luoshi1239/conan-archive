@@ -1,0 +1,103 @@
+{
+ "batch": 1,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "note": "专名未收录者保留罗马字，不自行拼汉字",
+ "items": [
+  {
+   "caseId": "case-the-black-wings-of-icarus",
+   "field": "culprit",
+   "zhHans": "Mitsuyuki Arimori"
+  },
+  {
+   "caseId": "case-the-black-wings-of-icarus",
+   "field": "motive",
+   "zhHans": "他供称，那位女演员是他哥哥的恋人；她屡次让他为她花掉大笔钱财，而他哥哥真心爱她，她却并非如此。"
+  },
+  {
+   "caseId": "case-the-black-wings-of-icarus",
+   "field": "method",
+   "zhHans": "他在清晨杀害了千鹤：先用麻醉枪将她击倒，把尸体藏在面包车后部；等一行人前往山谷时，再用绳子将她勒死。当天下午，他乘悬挂式滑翔翼抢先回到旅馆，把她的尸体吊在房间里。"
+  },
+  {
+   "caseId": "case-the-black-wings-of-icarus",
+   "field": "evidence",
+   "zhHans": "证据是千鹤衣服上一种只产于该山谷的蝴蝶的特殊花粉——那是他搬运尸体时，从 Arimori 肩上无意间沾过去的。"
+  },
+  {
+   "caseId": "case-the-black-wings-of-icarus",
+   "field": "resolution",
+   "zhHans": "犯人是 Mitsuyuki Arimori。他在清晨杀害了千鹤：先用麻醉枪将她击倒，把尸体藏在面包车后部；等一行人前往山谷时，再用绳子将她勒死。当天下午，他乘悬挂式滑翔翼抢先回到旅馆，把她的尸体吊在房间里。证据是千鹤衣服上一种只产于该山谷的蝴蝶的特殊花粉——那是他搬运尸体时，从 Arimori 肩上无意间沾过去的。"
+  },
+  {
+   "caseId": "case-akaoni-village-fire-festival-murder-case",
+   "field": "culprit",
+   "zhHans": "Yutaka Abe"
+  },
+  {
+   "caseId": "case-akaoni-village-fire-festival-murder-case",
+   "field": "motive",
+   "zhHans": "他与喝醉的 Negishi 打赌：只要他能成功藏匿起来，Abe 就把自己的人寿保险金给他。他背弃了这个约定，随后为了把那笔保险金据为己有而杀人。第二天，Yutaka 让小五郎跟踪一个长相酷似 Negishi 的替身，好让小五郎以为 Negishi 一直到周三夜里都还活着。Yutaka 的计划是带着 Negishi 的钱逃往国外，去西雅图。"
+  },
+  {
+   "caseId": "case-akaoni-village-fire-festival-murder-case",
+   "field": "method",
+   "zhHans": "Yutaka 杀害挚友的原因是濒临破产，于是他设计让远比他有钱的 Negishi 落入自己的圈套。第二天，他让小五郎跟踪一个长相酷似 Negishi 的替身，好让小五郎以为 Negishi 一直到周三夜里都还活着。接着，Yutaka 在周五夜里结束旅行归来，装作若无其事，并拿出了完整的不在场证明。小五郎意识到自己被欺骗后怒不可遏，但他只能证明 Yutaka 骗他去跟踪了一个替身，并不能证明 Yutaka 就是凶手。所幸柯南在 Yutaka 登机外逃之前当面揭穿了他，设法诱使他亲口承认罪行并录了下来。"
+  },
+  {
+   "caseId": "case-akaoni-village-fire-festival-murder-case",
+   "field": "evidence",
+   "zhHans": "这就是证据，说明小五郎跟踪的人并非 Negishi，而是另一个人。Negishi 的尸体是在周四傍晚、也就是著名的火祭期间被发现的。小五郎意识到自己被欺骗后怒不可遏，但他只能证明 Yutaka 骗他去跟踪了一个替身，并不能证明 Yutaka 就是凶手。柯南还把录音磁带留在 Yutaka 身边，这样警方找到他时，就能凭充分的证据将他逮捕。"
+  },
+  {
+   "caseId": "case-akaoni-village-fire-festival-murder-case",
+   "field": "resolution",
+   "zhHans": "犯人是 Yutaka Abe。他杀害挚友的原因是濒临破产，于是他设计让远比他有钱的 Negishi 落入自己的圈套。他与喝醉的 Negishi 打赌：只要他能成功藏匿起来，Abe 就把自己的人寿保险金给他。他背弃了这个约定，随后为了把那笔保险金据为己有而杀人。Negishi 实际上是在周二夜里、也就是 Yutaka 出发去九州旅行前的那晚死亡的。第二天，Yutaka 让小五郎跟踪一个长相酷似 Negishi 的替身，好让小五郎以为 Negishi 一直到周三夜里都还活着。Negishi 是右撇子，而照片上的男人却是左撇子。这就是证据，说明小五郎跟踪的人并非 Negishi，而是另一个人。"
+  },
+  {
+   "caseId": "case-tv-station-murder-case",
+   "field": "culprit",
+   "zhHans": "Takashi Matsuo"
+  },
+  {
+   "caseId": "case-tv-station-murder-case",
+   "field": "motive",
+   "zhHans": "Matsuo 把 Suwa 叫了出来，因为他骗 Suwa 以为自己想自杀。当时人在储藏室上一层房间的 Matsuo，从窗户朝正下方开枪——因为 Suwa 已经探身窗外足够远。由于那扇窗可以沿水平中轴翻转，翻回来时把被害人推回了房间内，于是看起来就像凶手是从房间门内开枪，而不是从窗户上方开的枪。"
+  },
+  {
+   "caseId": "case-tv-station-murder-case",
+   "field": "method",
+   "zhHans": "Matsuo 把 Suwa 叫了出来，因为他骗 Suwa 以为自己想自杀。同时他把作案用的枪丢下，让枪和被害人一同落进房间。柯南通过模拟自己从窗口坠落的方式，还原了整个作案过程。"
+  },
+  {
+   "caseId": "case-tv-station-murder-case",
+   "field": "evidence",
+   "zhHans": "证据是手机上的通话记录：按下他手机的重拨键就会拨通 Suwa，这说明他在作案期间给 Suwa 打过电话。"
+  },
+  {
+   "caseId": "case-tv-station-murder-case",
+   "field": "resolution",
+   "zhHans": "柯南把小五郎 骗进储藏室，用手表型麻醉枪让他睡着，借来一把彩弹枪，让熟睡的小五郎出现在电视画面上，与警方演出了一场「现场直播」。"
+  },
+  {
+   "caseId": "case-the-final-screening-murder-case",
+   "field": "culprit",
+   "zhHans": "Minoru Furuhashi"
+  },
+  {
+   "caseId": "case-the-final-screening-murder-case",
+   "field": "method",
+   "zhHans": "他利用放映机为自己制造不在场证明。之后，他开始实施镜面错觉的诡计：他用镜子把原本从左窗射入的光（他吊起被害人的那扇窗）改为从右窗投射出去。布置好这套镜面错觉后，他下到放映厅杀死 Seiji，趁影片正从另一扇窗放映时把尸体吊在左窗之前。这样一来，即使影子出现，他也会和 Yuriko 待在同一间房里，从而保住自己的不在场证明。"
+  },
+  {
+   "caseId": "case-the-final-screening-murder-case",
+   "field": "evidence",
+   "zhHans": "证据在 Toshiyuki 的相机里。"
+  },
+  {
+   "caseId": "case-the-final-screening-murder-case",
+   "field": "resolution",
+   "zhHans": "犯人是 Minoru Furuhashi。他利用放映机为自己制造不在场证明。首先，他请 Yuriko 去替他买茶，好让她在案发时不在场。接着，他调整空调，使尸体看起来像刚断气那样摇晃。"
+  }
+ ]
+}

@@ -1,0 +1,556 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-27",
+ "pagesProcessed": 793,
+ "casesTotal": 792,
+ "casesAdded": 0,
+ "casesSkippedNoEpisodeData": 0,
+ "casesWithMappedType": 0,
+ "episodesClaimed": 1217,
+ "episodeRefsAdded": 0,
+ "conflicts": [
+  {
+   "page": "A_Crab_and_Whale_Kidnapping_Case",
+   "episodes": [
+    65
+   ],
+   "claimedBy": [
+    "case-crab-whale-kidnapping"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "A_Ghost_Ship_Murder_Case",
+   "episodes": [
+    61,
+    62
+   ],
+   "claimedBy": [
+    "case-ghost-ship-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "A_Stalker's_Murder_Case",
+   "episodes": [
+    71
+   ],
+   "claimedBy": [
+    "case-stalker-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "An_Illustrator_Murder_Case",
+   "episodes": [
+    60
+   ],
+   "claimedBy": [
+    "case-illustrator-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Ayumi-chan_Kidnapping_Case",
+   "episodes": [
+    12
+   ],
+   "claimedBy": [
+    "case-moon-shadow-island"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Big_Monster_Gomera_Murder_Case",
+   "episodes": [
+    63
+   ],
+   "claimedBy": [
+    "case-gomera-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Clash_of_Red_and_Black",
+   "episodes": [
+    491,
+    492,
+    493,
+    494,
+    495,
+    496,
+    497,
+    498,
+    499,
+    500,
+    501,
+    502,
+    503,
+    504
+   ],
+   "claimedBy": [
+    "case-red-black-clash"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Diplomat_Murder_Case",
+   "episodes": [
+    48,
+    49
+   ],
+   "claimedBy": [
+    "case-diplomat-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Distinguished_Family's_Consecutive_Accidental_Death_Case",
+   "episodes": [
+    77,
+    78
+   ],
+   "claimedBy": [
+    "case-distinguished-family-consecutive-death"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Dracula's_Villa_Murder_Case",
+   "episodes": [
+    88,
+    89
+   ],
+   "claimedBy": [
+    "case-dracula-villa-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Game_Company_Murder_Case",
+   "episodes": [
+    54
+   ],
+   "claimedBy": [
+    "case-game-company-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "General_Hospital_Murder_Case",
+   "episodes": [
+    83
+   ],
+   "claimedBy": [
+    "case-general-hospital-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Holmes_Freak_Murder_Case",
+   "episodes": [
+    57,
+    58
+   ],
+   "claimedBy": [
+    "case-holmes-freak-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Kogoro's_Date_Murder_Case",
+   "episodes": [
+    95
+   ],
+   "claimedBy": [
+    "case-kogoro-date-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Library_Murder_Case",
+   "episodes": [
+    50
+   ],
+   "claimedBy": [
+    "case-library-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Loan_Company_President's_Murder_Case",
+   "episodes": [
+    75
+   ],
+   "claimedBy": [
+    "case-loan-company-president-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Moonlight_Sonata_Murder_Case",
+   "episodes": [
+    11
+   ],
+   "claimedBy": [
+    "case-moon-shadow-island"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Night_Baron_Murder_Case",
+   "episodes": [
+    68,
+    69,
+    70
+   ],
+   "claimedBy": [
+    "case-night-baron-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Night_Road_Murder_Case",
+   "episodes": [
+    66
+   ],
+   "claimedBy": [
+    "case-night-road-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Police_Academy_Arc_Wild_Police_Story_CASE._Rei_Furuya",
+   "episodes": [
+    1134
+   ],
+   "claimedBy": [
+    "case-misfortune-of-the-positive-man"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Roller_Coaster_Murder_Case",
+   "episodes": [
+    1
+   ],
+   "claimedBy": [
+    "case-roller-coaster-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Scoop_Picture_Murder_Case",
+   "episodes": [
+    106
+   ],
+   "claimedBy": [
+    "case-scoop-picture-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Ski_Lodge_Murder_Case",
+   "episodes": [
+    84,
+    85
+   ],
+   "claimedBy": [
+    "case-ski-lodge-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Snow_Woman's_Legend_Murder_Case",
+   "episodes": [
+    94
+   ],
+   "claimedBy": [
+    "case-snow-woman-legend-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "Stage_Actress_Murder_Case",
+   "episodes": [
+    67
+   ],
+   "claimedBy": [
+    "case-stage-actress-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Bank_Heist_Murder_Case",
+   "episodes": [
+    79
+   ],
+   "claimedBy": [
+    "case-bank-heist-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Bank_Robber's_Hospitalization_Case",
+   "episodes": [
+    91
+   ],
+   "claimedBy": [
+    "case-bank-robber-hospitalization"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Black_Organization's_Scheme",
+   "episodes": [
+    1077,
+    1078,
+    1079
+   ],
+   "claimedBy": [
+    "case-rum-investigation"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Cornered_Famous_Detective!_Two_Big_Murder_Cases",
+   "episodes": [
+    96
+   ],
+   "claimedBy": [
+    "case-tsukumo-magician-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Crane's_Return_of_a_Favor_Murder_Case",
+   "episodes": [
+    87
+   ],
+   "claimedBy": [
+    "case-crane-return-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Death_God_Jinnai_Murder_Case",
+   "episodes": [
+    74
+   ],
+   "claimedBy": [
+    "case-death-god-jinnai-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Detective_Boys'_Disaster_Case",
+   "episodes": [
+    73
+   ],
+   "claimedBy": [
+    "case-detective-boys-disaster"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Famous_Potter_Murder_Case",
+   "episodes": [
+    98,
+    99
+   ],
+   "claimedBy": [
+    "case-famous-potter-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Farewell_Wine_Murder_Case",
+   "episodes": [
+    97
+   ],
+   "claimedBy": [
+    "case-farewell-wine-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Fearful_Traversing_Murder_Case",
+   "episodes": [
+    92,
+    93
+   ],
+   "claimedBy": [
+    "case-fearful-traversing-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_First_Errand_Murder_Case",
+   "episodes": [
+    59
+   ],
+   "claimedBy": [
+    "case-first-errand-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Flower_Scent_Murder_Case",
+   "episodes": [
+    90
+   ],
+   "claimedBy": [
+    "case-flower-scent-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Golf_Driving_Range_Murder_Case",
+   "episodes": [
+    51
+   ],
+   "claimedBy": [
+    "case-golf-driving-range"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Historical_Actor_Murder_Case",
+   "episodes": [
+    102,
+    103
+   ],
+   "claimedBy": [
+    "case-historical-actor-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Jet-Black_Mystery_Train",
+   "episodes": [
+    701,
+    702,
+    703,
+    704
+   ],
+   "claimedBy": [
+    "case-mystery-train"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Kidnapping_Location_Case",
+   "episodes": [
+    86
+   ],
+   "claimedBy": [
+    "case-kidnapping-location"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Kidnapping_of_a_Popular_Artist_Case",
+   "episodes": [
+    81,
+    82
+   ],
+   "claimedBy": [
+    "case-popular-artist-kidnapping"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Memories_of_First_Love_Case",
+   "episodes": [
+    100,
+    101
+   ],
+   "claimedBy": [
+    "case-memories-of-first-love"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Mist_Goblin_Legend_Murder_Case",
+   "episodes": [
+    52
+   ],
+   "claimedBy": [
+    "case-fog-monster"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Mysterious_Mansion_of_a_Band_of_Thieves_Case",
+   "episodes": [
+    104,
+    105
+   ],
+   "claimedBy": [
+    "case-goblin-gang-mansion"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Mystery_Weapon_Murder_Case",
+   "episodes": [
+    53
+   ],
+   "claimedBy": [
+    "case-mystery-weapon"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Ojamanbou_Murder_Case",
+   "episodes": [
+    56
+   ],
+   "claimedBy": [
+    "case-ojamanbou-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Third_Fingerprint_Murder_Case",
+   "episodes": [
+    64
+   ],
+   "claimedBy": [
+    "case-third-fingerprint-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Train_Trick_Murder_Case",
+   "episodes": [
+    55
+   ],
+   "claimedBy": [
+    "case-train-trick"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Triplet's_Country_Home_Murder_Case",
+   "episodes": [
+    72
+   ],
+   "claimedBy": [
+    "case-triplet-country-home-murder"
+   ],
+   "action": "skipped-new-entity"
+  },
+  {
+   "page": "The_Wandering_Artist_Murder_Case",
+   "episodes": [
+    80
+   ],
+   "claimedBy": [
+    "case-wandering-artist-murder"
+   ],
+   "action": "skipped-new-entity"
+  }
+ ],
+ "conflictCount": 51
+}

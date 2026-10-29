@@ -1,0 +1,62 @@
+{
+ "batch": 7,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-design-of-poison-and-mirage",
+   "field": "culprit",
+   "zhHans": "Yoshimi Satake"
+  },
+  {
+   "caseId": "case-the-boiled-fugu-mystery-tour-showdown",
+   "field": "culprit",
+   "zhHans": "Satoru Daiehara"
+  },
+  {
+   "caseId": "case-the-boiled-fugu-mystery-tour-showdown",
+   "field": "motive",
+   "zhHans": "他知道 Kobayashi 在案发当天没有不在场证明，并预料到 Kobayashi 因为在缓刑期间，很可能会自己编造一个不在场证明，于是他想出了这个计划，让 Kobayashi 成为最大的嫌疑人。小五郎开始推理，在柯南的提示下，他首先排除了 Kobayashi，因为他被指控伪造不在场证明，并被犯人所利用。然后他把 Keisuke Ban 排除在嫌疑人名单之外，因为 Ban 撒了谎，他实际上一直在纠缠 Kaede，纠缠得太厉害以至于被警察逮捕。他试图袭击 Kaede，但 Kaede 因为 Ban 的缘故去了拳击馆学习防身术，所以她自卫成功，并说早该这么做了。关门海峡之谜 为了到达本州并实施犯罪，犯人必须穿过关门海峡。证据 根据 Daiehara 的诊断书，他摔断腿至今已经两个月零十五天了。由于是用他们家传的锅煮的，食物一定浸透了鲜味，和泉屋的老板会认出来。"
+  },
+  {
+   "caseId": "case-the-boiled-fugu-mystery-tour-showdown",
+   "field": "method",
+   "zhHans": "他知道 Kobayashi 在案发当天没有不在场证明，并预料到 Kobayashi 因为在缓刑期间，很可能会自己编造一个不在场证明，于是他想出了这个计划，让 Kobayashi 成为最大的嫌疑人。小五郎开始推理，在柯南的提示下，他首先排除了 Kobayashi，因为他被指控伪造不在场证明，并被犯人所利用。柯南指出，从 Daiehara 发给小五郎作为不在场证明的照片来看，他手腕上戴的是潜水电脑表，而不是普通手表。由于是用他们家传的锅煮的，食物一定浸透了鲜味，和泉屋的老板会认出来。而且两人都坚持说那道菜是用那口锅煮的。"
+  },
+  {
+   "caseId": "case-the-boiled-fugu-mystery-tour-showdown",
+   "field": "evidence",
+   "zhHans": "因此，Daiehara 的诊断书可能并非有力的证明。看到真相被揭露，Daiehara 坦白了罪行，并决定毁掉那口锅。"
+  },
+  {
+   "caseId": "case-the-boiled-fugu-mystery-tour-showdown",
+   "field": "resolution",
+   "zhHans": "犯人是 Satoru Daiehara。他教唆 Yasushi Kobayashi 在两年前实施了那起盗窃，这样一来，就会给他提供一个合适的动机。他知道 Kobayashi 在案发当天没有不在场证明，并预料到 Kobayashi 因为在缓刑期间，很可能会自己编造一个不在场证明，于是他想出了这个计划，让 Kobayashi 成为最大的嫌疑人。小五郎开始推理，在柯南的提示下，他首先排除了 Kobayashi，因为他被指控伪造不在场证明，并被犯人所利用。然后他把 Keisuke Ban 排除在嫌疑人名单之外，因为 Ban 撒了谎，他实际上一直在纠缠 Kaede，纠缠得太厉害以至于被警察逮捕。Ban 利用了 Kaede 的善良，没有把事情闹到警察那里。他试图袭击 Kaede，但 Kaede 因为 Ban 的缘故去了拳击馆学习防身术，所以她自卫成功，并说早该这么做了。"
+  },
+  {
+   "caseId": "case-the-charismatic-ceo-s-secret-plan",
+   "field": "culprit",
+   "zhHans": "Juichi Innami"
+  },
+  {
+   "caseId": "case-the-charismatic-ceo-s-secret-plan",
+   "field": "motive",
+   "zhHans": "这就解释了为什么优胜者奖杯上的指纹与 CEO 的指纹相符，因为那是 Innami 的指纹，当时他正在代替 Utagawa。"
+  },
+  {
+   "caseId": "case-the-charismatic-ceo-s-secret-plan",
+   "field": "method",
+   "zhHans": "高木按照柯南的指示，在 Utagawa 面前说 Komoda 用来勒索 Utagawa 的资料已经被找到了，于是他立刻前往公园取回尸体。暴露他真实身份的证据是，他在挖掘时使用的是左手。"
+  },
+  {
+   "caseId": "case-the-charismatic-ceo-s-secret-plan",
+   "field": "evidence",
+   "zhHans": "高木按照柯南的指示，在 Utagawa 面前说 Komoda 用来勒索 Utagawa 的资料已经被找到了，于是他立刻前往公园取回尸体。被发现的尸体实际上是 Tosuke Utagawa。暴露他真实身份的证据是，他在挖掘时使用的是左手。这就解释了为什么优胜者奖杯上的指纹与 CEO 的指纹相符，因为那是 Innami 的指纹，当时他正在代替 Utagawa。"
+  },
+  {
+   "caseId": "case-the-charismatic-ceo-s-secret-plan",
+   "field": "resolution",
+   "zhHans": "高木按照柯南的指示，在 Utagawa 面前说 Komoda 用来勒索 Utagawa 的资料已经被找到了，于是他立刻前往公园取回尸体。他们当场抓住了 Utagawa，他正在挖掘掩埋 Innami 尸体的地点。柯南最终迷晕了小五郎，并宣布真正的犯人是 Juichi Innami。被发现的尸体实际上是 Tosuke Utagawa。"
+  }
+ ]
+}

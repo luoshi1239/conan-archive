@@ -1,0 +1,107 @@
+{
+ "batch": 9,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-high-school-girl-trio-s-secret-caf",
+   "field": "culprit",
+   "zhHans": "Isuzu Naomura"
+  },
+  {
+   "caseId": "case-a-day-without-conan",
+   "field": "culprit",
+   "zhHans": "Rika Samei"
+  },
+  {
+   "caseId": "case-the-dangerous-fossil-finding-trip",
+   "field": "culprit",
+   "zhHans": "Sogen Nakatani"
+  },
+  {
+   "caseId": "case-the-killer-fist-of-talos",
+   "field": "culprit",
+   "zhHans": "Tokuichi Yamagata"
+  },
+  {
+   "caseId": "case-the-murderous-carpool",
+   "field": "culprit",
+   "zhHans": "Takahiro Komada"
+  },
+  {
+   "caseId": "case-the-northern-kyushu-mystery-tour",
+   "field": "culprit",
+   "zhHans": "Genichiro Iwata"
+  },
+  {
+   "caseId": "case-the-sun-sets-in-tangerine-fields",
+   "field": "culprit",
+   "zhHans": "Nobuko Terauchi"
+  },
+  {
+   "caseId": "case-the-cost-of-likes",
+   "field": "culprit",
+   "zhHans": "Go Kouchiyama"
+  },
+  {
+   "caseId": "case-the-radio-questions-and-concerns-show",
+   "field": "culprit",
+   "zhHans": "Kaede Yashiro"
+  },
+  {
+   "caseId": "case-the-whistling-bookstore-2",
+   "field": "culprit",
+   "zhHans": "Akiko Mizutani"
+  },
+  {
+   "caseId": "case-the-broken-fishbowl",
+   "field": "culprit",
+   "zhHans": "Nozomi Makimura"
+  },
+  {
+   "caseId": "case-murder-at-the-townhouse-caf",
+   "field": "culprit",
+   "zhHans": "Chitose Sakai"
+  },
+  {
+   "caseId": "case-the-case-of-ayumi-s-illustrated-diary",
+   "field": "culprit",
+   "zhHans": "Yuji Fujioka"
+  },
+  {
+   "caseId": "case-the-feuding-girls",
+   "field": "culprit",
+   "zhHans": "Yuko Oyodo"
+  },
+  {
+   "caseId": "case-the-frying-pan-of-hatred",
+   "field": "culprit",
+   "zhHans": "Tetsuo Taguchi"
+  },
+  {
+   "caseId": "case-the-skilled-hawk-hides-his-crime",
+   "field": "culprit",
+   "zhHans": "Satoko Takehara"
+  },
+  {
+   "caseId": "case-the-cursed-museum",
+   "field": "culprit",
+   "zhHans": "Takuto Ishikawa"
+  },
+  {
+   "caseId": "case-the-flying-jack-o-lantern",
+   "field": "culprit",
+   "zhHans": "Satoshi Mizunuma 和 Tomomi Kashiyama"
+  },
+  {
+   "caseId": "case-the-wordless-witness",
+   "field": "culprit",
+   "zhHans": "Shino Tachibana"
+  },
+  {
+   "caseId": "case-the-birthday-party-of-divine-punishment",
+   "field": "culprit",
+   "zhHans": "Mitomu Kushiyama"
+  }
+ ]
+}

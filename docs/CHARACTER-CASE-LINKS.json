@@ -1,0 +1,8 @@
+{
+  "generatedBy": "scripts/link-character-cases.py",
+  "policy": "castNames 与角色 name/aliases 精确匹配；只增不删；不新建角色实体",
+  "addedCaseLinks": 0,
+  "perCharacter": {},
+  "characterCount": 147,
+  "casesWithCharacters": 792
+}

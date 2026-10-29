@@ -1,0 +1,17 @@
+{
+ "generatedAt": "2026-10-27T21:29:05",
+ "baseUrl": "https://www.detectiveconanworld.com/wiki/",
+ "total": 789,
+ "stats": {
+  "ok": 769,
+  "cached": 19,
+  "fail": 1
+ },
+ "failures": [
+  {
+   "page": "index.php?title=A_Paw-sitively_Wonderful_Investigation&action=edit&redlink=1",
+   "error": "fail:HTTPError:HTTP Error 403: Forbidden"
+  }
+ ],
+ "pageMapSource": "/tmp/ca/dcw-page-map.json"
+}

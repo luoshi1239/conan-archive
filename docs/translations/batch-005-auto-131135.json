@@ -1,0 +1,57 @@
+{
+ "batch": 5,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-spirit-detective-s-murder",
+   "field": "culprit",
+   "zhHans": "Sanpei Kokuri"
+  },
+  {
+   "caseId": "case-the-spirit-detective-s-murder",
+   "field": "motive",
+   "zhHans": "所以他为了报复她受到的羞辱而杀死了 Hotta。动画中柯南心想：「原来如此，是这么回事啊！」这一幕更长，因为加入了第862集的回忆画面。"
+  },
+  {
+   "caseId": "case-the-spirit-detective-s-murder",
+   "field": "method",
+   "zhHans": "动机是 Hotta 用他已故妹妹的尸体来做节目。毛利小五郎在电话中被骗，要与「灵魂侦探」Hotta Gaito 一起上电视节目，电话里的人告诉他将与冲野洋子一起出演节目。动画中还出现了毛利小五郎与冲野洋子乔装打扮的画面，以及写着「解决悬案！！」的横幅。"
+  },
+  {
+   "caseId": "case-the-spirit-detective-s-murder",
+   "field": "evidence",
+   "zhHans": "但她的尸体一直没有被找到。后来 Hotta 在山里拍节目（很可能与一桩失踪案有关，柯南和毛利小五郎在出租车上讨论过），「找到」了尸体，并声称「感应」到了她的灵魂。Kokuri 意识到 Hotta 一定早就发现了妹妹的尸体，但他没有向警方报案，而是把她埋了起来，用来拍节目。"
+  },
+  {
+   "caseId": "case-the-spirit-detective-s-murder",
+   "field": "resolution",
+   "zhHans": "犯人是 Sanpei Kokuri。动机是 Hotta 用他已故妹妹的尸体来做节目。几年前 Kokuri 的妹妹因失恋在山里自杀。但她的尸体一直没有被找到。后来 Hotta 在山里拍节目（很可能与一桩失踪案有关，柯南和毛利小五郎在出租车上讨论过），「找到」了尸体，并声称「感应」到了她的灵魂。Kokuri 意识到 Hotta 一定早就发现了妹妹的尸体，但他没有向警方报案，而是把她埋了起来，用来拍节目。所以他为了报复她受到的羞辱而杀死了 Hotta。"
+  },
+  {
+   "caseId": "case-solving-mysteries-at-the-poirot-caf",
+   "field": "culprit",
+   "zhHans": "Meisuke Ozumi"
+  },
+  {
+   "caseId": "case-solving-mysteries-at-the-poirot-caf",
+   "field": "motive",
+   "zhHans": "为了不让血溅到自己身上，他用卫生纸缠住手臂，并把卫生纸卷套在刀上，以限制飞溅的血量，再把刀指向服部平次和柯南，所以他们身上才沾到了血。此事被保密，因为一旦曝光，就会给由衣的父亲——一名国会议员——带来断送其政治生涯的灾难，因为他有了私生子。服部平次之所以查明真相，是因为 Momiji 命令 Iori 透露的提示，而且她在 Anzai 被刺时还听到了窥视孔上胶带的刮擦声。"
+  },
+  {
+   "caseId": "case-solving-mysteries-at-the-poirot-caf",
+   "field": "method",
+   "zhHans": "他出于嫉妒对方与自己女朋友走得太近而刺杀了被害人。他透过窥视孔看的诀窍是在窥视孔上贴胶带，把磨砂玻璃的表面压平以便看清。他还在自己家里、在戏剧社的活动室里练习在黑暗中刺击，甚至在笔记本上画下了波洛咖啡馆现场的草图。服部平次之所以查明真相，是因为 Momiji 命令 Iori 透露的提示，而且她在 Anzai 被刺时还听到了窥视孔上胶带的刮擦声。由衣揭露真相后，Ozumi 放声大哭，并接到了 Anzai 打来的电话，对方告诉他被刺的时候很痛。在漫画中，高木涉告诉目暮警部，最近的一起案件中犯人用萝卜让血迹消失了。"
+  },
+  {
+   "caseId": "case-solving-mysteries-at-the-poirot-caf",
+   "field": "evidence",
+   "zhHans": "服部平次之所以查明真相，是因为 Momiji 命令 Iori 透露的提示，而且她在 Anzai 被刺时还听到了窥视孔上胶带的刮擦声。由衣揭露真相后，Ozumi 放声大哭，并接到了 Anzai 打来的电话，对方告诉他被刺的时候很痛。后续：「Shinichi Wada」其实是 Momiji Ooka 家的管家 Muga Iori。他对 Momiji 提到，虽然服部平次对另一个女孩感兴趣，但这不会给 Momiji 造成问题。"
+  },
+  {
+   "caseId": "case-solving-mysteries-at-the-poirot-caf",
+   "field": "resolution",
+   "zhHans": "犯人是 Meisuke Ozumi。他出于嫉妒对方与自己女朋友走得太近而刺杀了被害人。他透过窥视孔看的诀窍是在窥视孔上贴胶带，把磨砂玻璃的表面压平以便看清。他还在自己家里、在戏剧社的活动室里练习在黑暗中刺击，甚至在笔记本上画下了波洛咖啡馆现场的草图。为了不让血溅到自己身上，他用卫生纸缠住手臂，并把卫生纸卷套在刀上，以限制飞溅的血量，再把刀指向服部平次和柯南，所以他们身上才沾到了血。开灯之前，他把卫生纸冲掉，把纸卷放回原处，并取下窥视孔上的胶带。Amuro 说那个卫生纸卷有点奇怪，像是被强行装上去过。真相是 Tengo 其实是 Ozumi 的女朋友由衣同父异母的兄弟姐妹。被害人 Tengo 甚至录下了给 Ozumi 的生日祝福，说明了他与由衣关系的真相。此事被保密，因为一旦曝光，就会给由衣的父亲——一名国会议员——带来断送其政治生涯的灾难，因为他有了私生子。服部平次之所以查明真相，是因为 Momiji 命令 Iori 透露的提示，而且她在 Anzai 被刺时还听到了窥视孔上胶带的刮擦声。由衣揭露真相后，Ozumi 放声大哭，并接到了 Anzai 打来的电话，对方告诉他被刺的时候很痛。"
+  }
+ ]
+}

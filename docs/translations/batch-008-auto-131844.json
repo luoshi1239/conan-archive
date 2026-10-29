@@ -1,0 +1,157 @@
+{
+ "batch": 8,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-munch-s-missing-scream",
+   "field": "culprit",
+   "zhHans": "Keiji Shimamura"
+  },
+  {
+   "caseId": "case-teimuzu-river-kite-flying-case",
+   "field": "culprit",
+   "zhHans": "Takeshi Yatsukoshi"
+  },
+  {
+   "caseId": "case-detective-takagi-on-the-run-in-handcuffs",
+   "field": "culprit",
+   "zhHans": "Yasuo Nashimoto"
+  },
+  {
+   "caseId": "case-i-cannot-lie-to-archery",
+   "field": "culprit",
+   "zhHans": "Chinatsu Tachibana"
+  },
+  {
+   "caseId": "case-i-cannot-lie-to-archery",
+   "field": "motive",
+   "zhHans": "她用箭刺中被害人，为父母报仇。"
+  },
+  {
+   "caseId": "case-i-cannot-lie-to-archery",
+   "field": "method",
+   "zhHans": "她用箭刺中被害人，为父母报仇。Tachibana 已故（被勒死）Tachibana Real Estate 联合创始人 Tachibana 先生 已故（被勒死）Tachibana Real Estate 联合创始人"
+  },
+  {
+   "caseId": "case-i-cannot-lie-to-archery",
+   "field": "evidence",
+   "zhHans": "这证明两兄弟都是清白的，唯一可能的犯人正是 Chinatsu Tachibana。"
+  },
+  {
+   "caseId": "case-i-cannot-lie-to-archery",
+   "field": "resolution",
+   "zhHans": "毛利小五郎先前提议的试验表明，箭并非因假人与尸体的差异而射出：尸体比假人向后倾斜得更多。这证明两兄弟都是清白的，唯一可能的犯人正是 Chinatsu Tachibana。她用箭刺中被害人，为父母报仇。被害人：Chinatsu Tachibana 的父母 死因：勒死"
+  },
+  {
+   "caseId": "case-the-kamaitachi-inn",
+   "field": "culprit",
+   "zhHans": "Midori Koyanagi"
+  },
+  {
+   "caseId": "case-the-pitfall-of-fire-precautions",
+   "field": "culprit",
+   "zhHans": "Harue Yatabe"
+  },
+  {
+   "caseId": "case-the-seven-people-in-the-waiting-room",
+   "field": "culprit",
+   "zhHans": "Kikuo Inagaki"
+  },
+  {
+   "caseId": "case-conan-and-megure-s-two-hostages",
+   "field": "culprit",
+   "zhHans": "Naho Mimura"
+  },
+  {
+   "caseId": "case-conan-and-megure-s-two-hostages",
+   "field": "motive",
+   "zhHans": "另一方面，目暮指出他不喜欢犯人的计划，因为他察觉到了这一点：起初绑匪在实施绑架时使用的是相当业余的语言，而自从人质交换阶段起，犯人的语气发生了剧变。由于两辆车将以指定速度行驶，犯人完全有可能实时掌握它们的位置。如果犯人已经公开了车辆的明确位置，那么金钱与人质的交换就可能是某种幌子；这样一来，犯人可能并非完全为了赎金。为了让 Sakae 继承 Mimura 公司的家业，她能做的只有杀死 Kazuo。"
+  },
+  {
+   "caseId": "case-conan-and-megure-s-two-hostages",
+   "field": "method",
+   "zhHans": "电话挂断后，参与办案的每个人都相当焦急。另一方面，目暮指出他不喜欢犯人的计划，因为他察觉到了这一点：起初绑匪在实施绑架时使用的是相当业余的语言，而自从人质交换阶段起，犯人的语气发生了剧变。"
+  },
+  {
+   "caseId": "case-conan-and-megure-s-two-hostages",
+   "field": "evidence",
+   "zhHans": "通过在网上查找目前正在运营的施工工地，柯南找到了相对于 Toto Tower 位移最短的那一处。"
+  },
+  {
+   "caseId": "case-mysterious-case-in-a-hot-air-balloon",
+   "field": "culprit",
+   "zhHans": "Shingo Mizuguchi"
+  },
+  {
+   "caseId": "case-the-beauty-the-lies-and-the-secrets",
+   "field": "culprit",
+   "zhHans": "Misaki Takizawa"
+  },
+  {
+   "caseId": "case-the-dark-mountain-route",
+   "field": "culprit",
+   "zhHans": "Eiko Ikeguchi"
+  },
+  {
+   "caseId": "case-the-detective-boys-in-a-grove",
+   "field": "culprit",
+   "zhHans": "Takashi Kamaya"
+  },
+  {
+   "caseId": "case-the-security-system-s-pitfall",
+   "field": "culprit",
+   "zhHans": "Ryosuke Sawada"
+  },
+  {
+   "caseId": "case-turning-point-on-a-driving-date",
+   "field": "culprit",
+   "zhHans": "Kei Nakanishi"
+  },
+  {
+   "caseId": "case-the-17-year-old-truth",
+   "field": "culprit",
+   "zhHans": "Rumi Wakasa"
+  },
+  {
+   "caseId": "case-the-17-year-old-truth",
+   "field": "motive",
+   "zhHans": "Rumi 感受到迫在眉睫的危险，抢劫了附近的一家枪店，并利用 Kobayashi 作诱饵，以便找出那些试图杀掉她的狙击手的位置。例如 Amanda 要求 Rum 说日语、以便他能在下属面前不必端着架子的那些台词，以及 Rum 向 Kohji 询问 Asaka 下落时 Kohji 的几句愤怒台词。"
+  },
+  {
+   "caseId": "case-the-17-year-old-truth",
+   "field": "method",
+   "zhHans": "她故意弄坏了 Kobayashi 的降落伞，这样她就可以提议使用自己的降落伞。Rumi 感受到迫在眉睫的危险，抢劫了附近的一家枪店，并利用 Kobayashi 作诱饵，以便找出那些试图杀掉她的狙击手的位置。"
+  },
+  {
+   "caseId": "case-the-17-year-old-truth",
+   "field": "evidence",
+   "zhHans": "枪战地点：不明建筑 被害人：Chianti 年龄：不明 伤势：左肩枪伤 犯人：Rumi Wakasa Rumi Wakasa 是抢劫附近枪械店一案的真凶，目的是取得武器反击那些企图杀死她的人。Rumi Wakasa 被揭示为失踪的 Amanda Hughes 的保镖。"
+  },
+  {
+   "caseId": "case-the-blind-spot-in-the-dressing-room",
+   "field": "culprit",
+   "zhHans": "Ayami Yamaki"
+  },
+  {
+   "caseId": "case-the-detective-boys-and-the-ghost-mansion",
+   "field": "culprit",
+   "zhHans": "Hideto Amemiya"
+  },
+  {
+   "caseId": "case-the-mysterious-prophetic-buddha",
+   "field": "culprit",
+   "zhHans": "Masako Fukuhara"
+  },
+  {
+   "caseId": "case-the-whistling-bookstore",
+   "field": "culprit",
+   "zhHans": "Ichiro Tamaki"
+  },
+  {
+   "caseId": "case-the-mystery-of-the-michelin-starred-restaurant",
+   "field": "culprit",
+   "zhHans": "Eigo Kuchiishi"
+  }
+ ]
+}

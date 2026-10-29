@@ -1,0 +1,73 @@
+{
+ "batch": 3,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "suffix": "a",
+ "items": [
+  {
+   "caseId": "case-the-super-car-s-trap",
+   "field": "culprit",
+   "zhHans": "Hisashi Suguro"
+  },
+  {
+   "caseId": "case-courtroom-confrontation-iv-juror-sumiko-kobayashi",
+   "field": "culprit",
+   "zhHans": "Toru Tsukano"
+  },
+  {
+   "caseId": "case-courtroom-confrontation-iv-juror-sumiko-kobayashi",
+   "field": "motive",
+   "zhHans": "他原本的计划是偷走那份土地契约——那是他已故的姐姐（Ishigaki 的妻子）留给他的，但 Ishigaki 在发现 Tsukano 挪用其公司款项后把契约拿走了。当 Iwamatsu 逃离现场、听到 Iwamatsu 摔倒在地的女管家赶到案发现场时，Tsukano 决定假装自己刚刚抵达，并检查了受害者，好为手上的血找个借口。"
+  },
+  {
+   "caseId": "case-courtroom-confrontation-iv-juror-sumiko-kobayashi",
+   "field": "method",
+   "zhHans": "他在画的背面找到了那份契约，Ishigaki 平时把最重要的文件藏在这里。然而 Ishigaki 刚被杀死，Iwamatsu 就来了，于是 Tsukano 又把画挂了回去（匆忙中没注意到画已经挂反了），自己躲到门后。当 Iwamatsu 逃离现场、听到 Iwamatsu 摔倒在地的女管家赶到案发现场时，Tsukano 决定假装自己刚刚抵达，并检查了受害者，好为手上的血找个借口。"
+  },
+  {
+   "caseId": "case-courtroom-confrontation-iv-juror-sumiko-kobayashi",
+   "field": "evidence",
+   "zhHans": "他在画的背面找到了那份契约，Ishigaki 平时把最重要的文件藏在这里。但在把凶器从花瓶里取出来时，他在里面留下了带血的指纹，这成为指认他就是凶手的关键证据。"
+  },
+  {
+   "caseId": "case-courtroom-confrontation-iv-juror-sumiko-kobayashi",
+   "field": "resolution",
+   "zhHans": "真正的凶手是 Toru Tsukano。他原本的计划是偷走那份土地契约——那是他已故的姐姐（Ishigaki 的妻子）留给他的，但 Ishigaki 在发现 Tsukano 挪用其公司款项后把契约拿走了。Ishigaki 在翻看那幅画时撞见了他，并威胁要起诉，于是 Tsukano 最终杀死了他。他在画的背面找到了那份契约，Ishigaki 平时把最重要的文件藏在这里。"
+  },
+  {
+   "caseId": "case-the-water-palace-of-five-colors-legend",
+   "field": "culprit",
+   "zhHans": "Morio Yakura"
+  },
+  {
+   "caseId": "case-the-gunshot-at-the-sunflower-estate",
+   "field": "culprit",
+   "zhHans": "Masaya Amamori"
+  },
+  {
+   "caseId": "case-the-hot-chocolate-trap",
+   "field": "culprit",
+   "zhHans": "Mayuko Sakura"
+  },
+  {
+   "caseId": "case-the-hot-chocolate-trap",
+   "field": "motive",
+   "zhHans": "Sakura 听到这番话后心都碎了，因为她爱着 Tsujimoto 并为他全心付出，而他却只想抛弃她。Sakura 的袖子之所以起火，唯一的原因是她整理桌布时，一部分酒精溅到了她的袖子上。而又因为随后是 Sakura 把壶端上桌，能往壶里灌盐水来促成谋杀的就只有她。"
+  },
+  {
+   "caseId": "case-the-hot-chocolate-trap",
+   "field": "evidence",
+   "zhHans": "事实表明 Tsujimoto 是一个极度自私、狡诈的人，他只是利用 Sakura 来换取身为巧克力制作师的名声与声望。指认 Sakura 就是凶手的关键证据，是铃木园子在端上这道菜之前给 Tsujimoto 拍下的一张照片。"
+  },
+  {
+   "caseId": "case-the-hot-chocolate-trap",
+   "field": "resolution",
+   "zhHans": "那场意外其实是一桩谋杀。凶手是 Mayuko Sakura。事实表明 Tsujimoto 是一个极度自私、狡诈的人，他只是利用 Sakura 来换取身为巧克力制作师的名声与声望。他并不像公众所想的那样打算娶她，而是打算等店铺开张后就把她解雇。Sakura 听到这番话后心都碎了，因为她爱着 Tsujimoto 并为他全心付出，而他却只想抛弃她。Sakura 说，既然横竖都要失去一切，她希望一切都烧个干净。于是，Sakura 烧掉了 Tsujimoto、烧掉了店铺，也烧掉了她对 Tsujimoto 的爱。"
+  },
+  {
+   "caseId": "case-the-mysterious-punishment-from-heaven",
+   "field": "culprit",
+   "zhHans": "Rokusuke Urasawa"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+ "generatedBy": "scripts/migrate-case-l3-bilingual.py",
+ "policy": "有 dcwL3Source.lang==en 的进 en（pending）；其余中文进 zhHans（human）；已是对象不动",
+ "migrated": 0,
+ "toEnglish": 0,
+ "toChinese": 0,
+ "alreadyObject": 836,
+ "items": []
+}

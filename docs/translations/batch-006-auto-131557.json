@@ -1,0 +1,57 @@
+{
+ "batch": 6,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-antique-tray-can-t-be-hidden",
+   "field": "culprit",
+   "zhHans": "Motoyuki Tojima"
+  },
+  {
+   "caseId": "case-the-antique-tray-can-t-be-hidden",
+   "field": "motive",
+   "zhHans": "江户川柯南随后推断，犯人不可能是 Chono 或 Sakamaki，因为他们在抬起长矛时会发出声响，并会被 Nishitsu 听到。他的动机是他身患重病的女儿，治疗需要花费巨额金钱。Subaru 透露，他的那个托盘的价值足以支付这笔费用，因为另外两个托盘不是赝品，而是习作。漫画与动画的差异 主条目：漫画与动画的差异列表 由于这三集改编自四章漫画，出现了一些漫画中没有的额外场景：回忆《替身演员》中的 Makoto Kyogoku，当时真纯询问了兰和园子关于灰原的事。"
+  },
+  {
+   "caseId": "case-the-antique-tray-can-t-be-hidden",
+   "field": "method",
+   "zhHans": "Subaru 透露，他的那个托盘的价值足以支付这笔费用，因为另外两个托盘不是赝品，而是习作。油漆可能是 Nishitsu 用溶剂去除油漆时剥落的。玛丽说那是来自 Tsutomu 的东西，后来 Shuichi 也捡到并经常使用。"
+  },
+  {
+   "caseId": "case-the-antique-tray-can-t-be-hidden",
+   "field": "evidence",
+   "zhHans": "他觉得会被发现，于是用相近颜色的油画颜料涂满了整个盘子，但最终还是被发现并遭到了严厉的训斥。在动画中，助听器是由鉴识人员发现的，随后由千叶把它带到犯罪现场。在漫画中，助听器仍在犯罪现场，是高木踩到它之后才发现的。"
+  },
+  {
+   "caseId": "case-the-antique-tray-can-t-be-hidden",
+   "field": "resolution",
+   "zhHans": "世良推断，血迹和鹤的喙不可能出现在同一个位置，除非它们位于盘子的顶部。在阿笠博士翻转托盘之前，血迹指向东北方，而鹤的喙指向西北方。托盘被翻转之后，鹤的喙最终就会指向东北方。结果犯人就是 Motoyuki Tojima。江户川柯南随后推断，犯人不可能是 Chono 或 Sakamaki，因为他们在抬起长矛时会发出声响，并会被 Nishitsu 听到。Tojima 随即说他的助听器出了故障，所以他不可能听到。然而，在此之前他不可能知道助听器的事，除非 Nishitsu 告诉了他，这意味着凶案发生时 Tojima 和 Nishitsu 在一起。"
+  },
+  {
+   "caseId": "case-ballad-of-the-woman-who-loved-cake",
+   "field": "culprit",
+   "zhHans": "Yayoi Ito"
+  },
+  {
+   "caseId": "case-ballad-of-the-woman-who-loved-cake",
+   "field": "motive",
+   "zhHans": "因为这个缘故，她也策划了杀害他们的行动。"
+  },
+  {
+   "caseId": "case-ballad-of-the-woman-who-loved-cake",
+   "field": "method",
+   "zhHans": "她被揭露是一个星期前来过店里、并策划了这场谋杀的神秘女人，她利用了小川花子和少年侦探团。Yayoi 把 Hanako Ogawa 诱骗到废弃大楼，那里她早已布置好了陷阱。她还从大楼到蛋糕店伪造了一条血迹。在制造好不在场证明之后，她前去杀害社长，来到店里，穿上和 Hanako 相同的连衣裙，在腿上制造假伤口，然后若无其事地吃着蛋糕。幸运的是，江户川柯南事先提醒了 Hiroshi，说凶手就是 Yayoi，并让他和妻子在没有吃下 Yayoi 准备的有毒蛋糕的情况下，假装中毒。"
+  },
+  {
+   "caseId": "case-ballad-of-the-woman-who-loved-cake",
+   "field": "evidence",
+   "zhHans": "她被揭露是一个星期前来过店里、并策划了这场谋杀的神秘女人，她利用了小川花子和少年侦探团。这样做是为了让少年侦探团能够发现那条血迹，从而让他们认为是 Ito 所为。"
+  },
+  {
+   "caseId": "case-ballad-of-the-woman-who-loved-cake",
+   "field": "resolution",
+   "zhHans": "犯人是 Yayoi Ito。她被揭露是一个星期前来过店里、并策划了这场谋杀的神秘女人，她利用了小川花子和少年侦探团。被大楼瓦砾压死的女人不是 Yayoi，而是 Hanako。Yayoi 把 Hanako Ogawa 诱骗到废弃大楼，那里她早已布置好了陷阱。Hanako 触发了陷阱，被瓦砾压死。她还从大楼到蛋糕店伪造了一条血迹。这样做是为了让少年侦探团能够发现那条血迹，从而让他们认为是 Ito 所为。在制造好不在场证明之后，她前去杀害社长，来到店里，穿上和 Hanako 相同的连衣裙，在腿上制造假伤口，然后若无其事地吃着蛋糕。"
+  }
+ ]
+}

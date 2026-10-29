@@ -1,0 +1,206 @@
+{
+  "generatedAt": "2026-10-27",
+  "policy": "当原始来源内部出现互不相容的表述、且无法取得第二独立来源裁定时，正式数据一律不选边（写作中性表述），冲突原文与定位另存本文件，等人工复核或新来源到位后再定案。禁止在同一页面内自行择一当真。",
+  "conflicts": [
+    {
+      "id": "conflict-ushio-chisato-timeframe",
+      "caseId": "case-fearful-traversing-murder",
+      "field": "motive",
+      "subject": "牛尾千纱（Chisato Ushio）死亡时间",
+      "statements": [
+        {
+          "text": "Six months ago, the Fox ... had killed a president of a major company. However this assassination took place while his target was driving ... his car swerved into the path of a school bus ... This caused a collision, that claimed the life of the young 5 year old Chisato Ushio",
+          "value": "半年前",
+          "location": "Situation 段，正文块 [211]",
+          "sourceId": "src-detective-conan-world-fearful-traversing"
+        },
+        {
+          "text": "Two years ago, during one of his assassinations, his target's car crashed into a school bus and she was the only fatal victim.",
+          "value": "两年前",
+          "location": "Resolution 段，正文块 [308]",
+          "sourceId": "src-detective-conan-world-fearful-traversing"
+        }
+      ],
+      "analysis": "两段描述的是同一起事件（暗杀时目标车辆撞上校车，千纱是唯一死者，狐狸由此隐姓埋名），不是两起独立事件，因此时间表述直接冲突。",
+      "secondSourceStatus": "已取得两个独立来源：conan-no-sekai.com/file93（日文，含剧中台词原文）与 conanpedia.com/TV93（中文案件库）。另有 DCW 本页 Situation 段同为半年前。",
+      "resolution": "resolved",
+      "appliedToData": "motive 与 spoiler 已改写为明确表述「半年前」；同时把 assassination 受害者细化为高利贷公司社长；spoiler 中不再保留时间存疑提示。",
+      "reviewStatus": "reviewed",
+      "nextSourceIdeas": [
+        "原作漫画单行本对应 File 版权页与正文（第 21 卷前后）",
+        "读卖电视台官方各话简介",
+        "日文维基百科「名探偵コナン (アニメ)」1956 回リスト 对应条目",
+        "Crunchyroll / 官方字幕对应台词"
+      ],
+      "resolvedValue": "半年前",
+      "resolutionNote": "已裁定为「半年前」。依据：conan-no-sekai.com（日文，含剧中台词原文）与 conanpedia.com（中文案件库）两个独立来源一致记为半年前，DCW 本页 Situation 段亦为 Six months ago；仅 Resolution 段写 Two years ago，反查无任何独立佐证，判定该段为后加的二手概述错误（同段还把千纱年龄写作约 7 岁，与角色栏及 Situation 段的 5 岁冲突）。同时据日文原名サラ金会社社長／中文站「高利贷公司社长」，把 DCW 的 president of a major company 细化为高利贷公司社长。",
+      "resolvedAt": "2026-10-27",
+      "secondaryDiscrepancy": {
+        "subject": "千纱年龄",
+        "statements": [
+          {
+            "text": "the young 5 year old Chisato Ushio",
+            "value": "5 岁",
+            "location": "Situation 段与 People 角色栏"
+          },
+          {
+            "text": "a girl around Conan's (physical) age",
+            "value": "约 7 岁",
+            "location": "Resolution 段"
+          }
+        ],
+        "resolution": "resolved",
+        "resolvedValue": "5 岁",
+        "resolutionNote": "角色栏与 Situation 段一致为 5 岁；Resolution 段的「约柯南年龄」是同一段二手概述的连带错误。",
+        "resolvedAt": "2026-10-27"
+      },
+      "status": "resolved"
+    },
+    {
+      "id": "conflict-ep0086-sv-special-adaptation",
+      "targetId": "episode-0086",
+      "field": "adaptation",
+      "localValue": "anime-original",
+      "conflictingValue": "manga（特別篇漫畫改編）",
+      "status": "resolved",
+      "resolution": "manga",
+      "resolutionBasis": [
+        "本地 data/manga/files.json rawLabel = SVFile.2",
+        "DCW /wiki/Anime Manga source = SV1 - F2"
+      ],
+      "resolutionNote": "特别篇漫画第 1 卷第 2 话改编；DCW Manga source 与本地 files.json rawLabel 互相印证",
+      "resolvedAt": "2026-10-27"
+    },
+    {
+      "id": "conflict-ep0113-sv-special-adaptation",
+      "targetId": "episode-0113",
+      "field": "adaptation",
+      "localValue": "anime-original",
+      "conflictingValue": "manga（特別篇漫畫改編）",
+      "status": "resolved",
+      "resolution": "manga",
+      "resolutionBasis": [
+        "本地 data/manga/files.json rawLabel = SVFile.6",
+        "DCW /wiki/Anime Manga source = SV1 - F6"
+      ],
+      "resolutionNote": "特别篇漫画第 1 卷第 6 话改编；DCW Manga source 与本地 files.json rawLabel 互相印证",
+      "resolvedAt": "2026-10-27"
+    },
+    {
+      "id": "conflict-kirin-horn-585-overlap",
+      "entityType": "case",
+      "entityIds": [
+        "case-kobayashi-sensei-s-love",
+        "case-kirin-s-horn-that-vanished"
+      ],
+      "field": "animeRefs",
+      "description": "EP.585 的归属在两个 DCW 来源之间存在分歧：《Anime》剧集表的 Episode title 单元格把 EP.583/584/585 链到 Kobayashi-sensei's_Love，EP.586/587 链到 The_Kirin's_Horn_That_Vanished_into_the_Dark；而 The_Kirin's_Horn 页面自己的 infobox 声明 'Episode 585-587'，即认为 EP.585 属于麒麟角案（对应漫画 File.712-715）。两个页面的漫画 File 号完全不重叠（705/708 vs 712-715），可确认是两个独立案件，争议仅在 EP.585 这一个集号的归属。",
+      "values": [
+        {
+          "value": "EP.585 归 Kobayashi-sensei's Love",
+          "source": "DCW /wiki/Anime 剧集表链接"
+        },
+        {
+          "value": "EP.585 归 The Kirin's Horn",
+          "source": "DCW The_Kirin's_Horn_That_Vanished_into_the_Dark 页 infobox"
+        }
+      ],
+      "status": "resolved",
+      "resolution": {
+        "decision": "EP.585 归 Kobayashi-sensei's Love；Kirin's Horn 覆盖 586-587",
+        "basis": [
+          "DCW /wiki/Anime 剧集总表逐集列明：585→Kobayashi-sensei's_Love，586/587→The_Kirin's_Horn_That_Vanished_into_the_Dark",
+          "intEpisode 自洽：Kobayashi=634 与 Kirin=637 相差 3 集，583-585 占满 634-636，Kirin 必从 586（int 637）起",
+          "Kirin 页自身 airdate 为 'August 28, 2010 (Timeless Sakura's Love)'，即 EP.585 的日期与标题，证明该页 infobox 从 585 起算属页面自身错位"
+        ],
+        "action": "dcw-page-facts.json 中该页 episodeNumbers 由 [585,586,587] 修正为 [586,587]，原值留档 episodeNumbersRaw；EP.585 的 dcwExtraPages 清空。本地剧集数据（585 归 Kobayashi、586/587 归 Kirin）原本即正确，未改动归属。",
+        "decidedAt": "2026-10-28"
+      },
+      "action": "维持 open：不修改任何 case.animeRefs，不修改 dcw-page-facts.json 的原始抽取结果（那是原始证据，改动即污染）。待拿到官方各话简介后据实裁定。",
+      "recordedAt": "2026-10-27",
+      "evidenceCollected": {
+        "collectedAt": "2026-10-28",
+        "items": [
+          {
+            "source": "DCW 页面 Kobayashi-sensei's_Love",
+            "fields": {
+              "episodeNumbers": [
+                583,
+                584,
+                585
+              ],
+              "intEpisode": 634,
+              "jpTitle": "小林先生の恋 (Kobayashi-sensei no Koi) 白鳥警部の失恋",
+              "airdate": "August 14, 2010 (Kobayashi-sensei's Love)"
+            }
+          },
+          {
+            "source": "DCW 页面 The_Kirin's_Horn_That_Vanished_into_the_Dark",
+            "fields": {
+              "episodeNumbers": [
+                585,
+                586,
+                587
+              ],
+              "intEpisode": 637,
+              "jpTitle": "時を超える桜の恋 (Toki o Koeru Sakura no Koi) 闇に消えた麒麟の角",
+              "airdate": "August 28, 2010 (Timeless Sakura's Love)"
+            }
+          },
+          {
+            "source": "本地 data/episodes/episodes.json 逐集日文标题",
+            "fields": {
+              "583": "小林先生の恋",
+              "584": "白鳥警部の失恋",
+              "585": "時を超える桜の恋",
+              "586": "闇に消えた麒麟の角",
+              "587": "キッド VS 四神探偵団"
+            }
+          }
+        ]
+      },
+      "contradiction": "同一批原文证据内部互相矛盾，无法单方面裁定：① 页面 episodeNumbers 差为 2（583→585），但 intEpisode 差为 3（634→637），若两页各自连续，Kobayashi 占 3 集则 Kirin 必须从 586 起，与页面所写 585 冲突；② 按 jpTitle 拆分，Kobayashi 页只列 2 个标题（对应 583/584），Kirin 页列出「時を超える桜の恋」「闇に消えた麒麟の角」，若逐标题对应则 585 属 Kirin 页 —— 与 ① 的结论相反；③ 本地剧集库按标题把 585「時を超える桜の恋」挂在 Kobayashi 案件下，与 ② 相反、与 ① 一致。",
+      "dataState": "本地数据保持现状未改：EP.585 的 caseRefs 仍指向 case-kobayashi-sensei-s-love，EP.586/587 指向 The_Kirin's_Horn 案件；EP.585 的 castNames 只取 Kobayashi 页（10 人），Kirin 页因重叠只记入 dcwExtraPages，未合并其 6 个独有人物（Ginzo Nakamori / Jirokichi Suzuki / Kaitou Kid / Kogoro Mouri / Ran Mouri / Sonoko Suzuki），因此不存在 cast 污染。",
+      "nextSourceIdeas": [
+        "读卖电视台官方第 583-587 话各话简介（确认每话标题与播出日）",
+        "原作漫画第 67-68 卷对应 File 的章节归属",
+        "日文维基百科「名探偵コナン (アニメ)」各话リスト",
+        "DCW /wiki/Anime 剧集表中 Episode title 单元格的原始链接目标"
+      ]
+    },
+    {
+      "id": "conflict-ep96-two-cases-one-page",
+      "entityType": "case",
+      "entityIds": [
+        "case-tsukumo-magician-murder",
+        "case-yabuuchi-family-murder"
+      ],
+      "field": "animeRefs",
+      "description": "EP.96 是两小时特别篇，包含两个独立案件。本地库已按其内容拆分为两个实体（九十九魔术师杀人 / 薮内家族杀人），两者 animeRefs 都声明 EP.96；但 DCW 只提供一个合并页面 The_Cornered_Famous_Detective!_Two_Big_Murder_Cases。因此 DCW 页面无法与单一实体一一对齐，也无法自动挂接 castNames / caseType。",
+      "values": [
+        {
+          "value": "拆分为两个案件实体",
+          "source": "本地既有实体（人工拆分）"
+        },
+        {
+          "value": "单个合并页面",
+          "source": "DCW The_Cornered_Famous_Detective!_Two_Big_Murder_Cases"
+        }
+      ],
+      "status": "resolved",
+      "resolution": "keep-split",
+      "action": "保留拆分结构，不为对齐而合并实体；DCW 该页的 castNames/caseType 不自动挂接。",
+      "recordedAt": "2026-10-27",
+      "resolutionNote": "EP.96 是两小时特别篇，实际包含两个独立案件。本地库按内容拆为两个实体（九十九魔术师杀人 / 薮内家族杀人），二者 animeRefs 均声明 EP.96，这是正确表示；DCW 只提供合并页面是来源侧粒度问题，不应据此把两个案件合并。",
+      "resolutionBasis": [
+        "本地既有实体为人工按剧情拆分，粒度为真",
+        "DCW 单页覆盖同一集，不影响本地实体拆分",
+        "合并会丢失两个案件各自的 victim/culprit/motive/method/evidence"
+      ],
+      "dataState": "两个案件实体的 animeRefs 均保留 EP.96；DCW 合并页 The_Cornered_Famous_Detective!_Two_Big_Murder_Cases 的 castNames/caseType 不自动挂接到任一实体，避免把两案人物混在一起。",
+      "resolvedAt": "2026-10-28",
+      "reviewStatus": "reviewed"
+    }
+  ],
+  "conflictsResolved": 1
+}

@@ -1,0 +1,128 @@
+{
+ "batch": 2,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "note": "语义不符字段不译并登记 flagged；专名未收录保留罗马字",
+ "items": [
+  {
+   "caseId": "case-the-streetcar-s-sudden-stopping-case",
+   "field": "culprit",
+   "zhHans": "Rumi Shimizu"
+  },
+  {
+   "caseId": "case-the-streetcar-s-sudden-stopping-case",
+   "field": "motive",
+   "zhHans": "这样做是为了让电车到站时梯子倒下、造成事故。由于 5:40 时轨道上还有另一班电车，钢丝必须在那之后才能架设。"
+  },
+  {
+   "caseId": "case-the-streetcar-s-sudden-stopping-case",
+   "field": "method",
+   "zhHans": "她动了 Kawasaki 用来拍摄列车正面照的梯子，制造事故，以掩盖自己用钝器行凶的谋杀。梯子事先被装好，上面系着钩子，钩子连着横跨轨道的钢琴钢丝。由于 5:40 时轨道上还有另一班电车，钢丝必须在那之后才能架设。"
+  },
+  {
+   "caseId": "case-the-streetcar-s-sudden-stopping-case",
+   "field": "evidence",
+   "zhHans": "证据是她手腕和手掌上的伤。"
+  },
+  {
+   "caseId": "case-english-teacher-vs-great-western-detective",
+   "field": "culprit",
+   "zhHans": "Noboru Kawakami"
+  },
+  {
+   "caseId": "case-english-teacher-vs-great-western-detective",
+   "field": "method",
+   "zhHans": "柯南通过展示房间是如何被调换的，揭开了真相。柯南照片上手写的「cool guy」在动画里被误写成了「cool gay」，多半是作画人员不熟悉英文连笔所致（该集的修复版中已改正）。"
+  },
+  {
+   "caseId": "case-english-teacher-vs-great-western-detective",
+   "field": "resolution",
+   "zhHans": "犯人是 Noboru Kawakami。Takai 以上司身份虐待平谷澄江，逼得她自杀。柯南通过展示房间是如何被调换的，揭开了真相。柯南与平次离开时一致认为 Jodie 很可疑，但相信她并无恶意。结尾一幕显示她其实已经盯上了他们——Jodie 早已知道平次的名字，而且手上有工藤变回原样那段时间的照片。"
+  },
+  {
+   "caseId": "case-the-fearful-legend-of-the-snowy-night",
+   "field": "culprit",
+   "zhHans": "Hatsuho Hojo"
+  },
+  {
+   "caseId": "case-the-fearful-legend-of-the-snowy-night",
+   "field": "motive",
+   "zhHans": "由于从她的位置看不到那把刀，说明犯人是左撇子。她本打算第二天再处理掉，因为那时没有别人会用厨房；但小兰最后进来帮她冲咖啡，那个机会就没了。他一向笑着接下大門工业提出的无理要求，因为双方是多年的生意伙伴。社长卖掉了铠甲来筹钱给员工发薪。在东京工作时，她改了名字，并住进源一郎的家，这样既能替父亲了却遗憾，也能在父亲忌日这天完成复仇。"
+  },
+  {
+   "caseId": "case-the-fearful-legend-of-the-snowy-night",
+   "field": "method",
+   "zhHans": "他们第一次看到它时，就直接断定它只是被当作武器使用。它还有一个特别阴险的用途：把音响室变成密室。犯人杀死一树之后，给他穿上铠甲，再把刀插进门边的墙里。接着，他们把刀的另一端搭在门把上，然后缓慢而稳妥地退出房间，不让刀倒下，并借门关上的力量让刀把门闩推上——密室就这样完成了。他们知道没人有力气打开上了死闩的门，也知道硬把门撞开会令刀掉到地上、暴露手法——至少犯人是这么想的。她本打算第二天再处理掉，因为那时没有别人会用厨房；但小兰最后进来帮她冲咖啡，那个机会就没了。"
+  },
+  {
+   "caseId": "case-the-fearful-legend-of-the-snowy-night",
+   "field": "evidence",
+   "zhHans": "柯南麻醉了小五郎，指出在源一郎那起命案中，犯人试图用他先前讲过的足迹手法掩盖行踪；但若真如此，除见过铠甲的辰子之外，其他人也都有可能作案。他们第一次看到它时，就直接断定它只是被当作武器使用。然而那把刀并不只是一种武器。犯人利用了传说，留下那些巨大的脚印，让人以为唯一的嫌疑人只有那位铠甲武士，从而骗他们相信是一树杀了源一郎、随后自杀。"
+  },
+  {
+   "caseId": "case-the-fearful-legend-of-the-snowy-night",
+   "field": "resolution",
+   "zhHans": "柯南麻醉了小五郎，指出在源一郎那起命案中，犯人试图用他先前讲过的足迹手法掩盖行踪；但若真如此，除见过铠甲的辰子之外，其他人也都有可能作案。最可能的情况是：杀死源一郎之后，犯人身上溅到了血。然而铠甲和一树的衣服上都没有血迹。犯人杀死源一郎之后，又进到音响室杀了一树。"
+  },
+  {
+   "caseId": "case-chinatown-deja-vu-in-the-rain",
+   "field": "culprit",
+   "zhHans": "Kaizo Isogami"
+  },
+  {
+   "caseId": "case-chinatown-deja-vu-in-the-rain",
+   "field": "motive",
+   "zhHans": "不过真正的证据出现在柯南正要吃一个中式包子的时候——Isogami 拦住了他，因为他知道转盘上有毒，不想再有别人死掉。川端其实一直知道那次临时更换：他完全清楚最后一场动作戏里替身和里加被调换了；他还带着令人作呕的笑容说，自己只是「成全」了她想亲自上阵的愿望；他说正因为她的死，影片才大卖；尽管他有权力也有机会阻止，却没有阻止；并揭示导演在拍摄过程中会爱上自己的女主角，哪怕她演技不佳、也谈不上漂亮。"
+  },
+  {
+   "caseId": "case-chinatown-deja-vu-in-the-rain",
+   "field": "method",
+   "zhHans": "北京烤鸭端上来后，他用毛巾把毒涂在转盘下方、两道鸡蛋菜之间。接着他转动转盘，把鸡蛋菜移到川端面前，迫使川端必须碰到涂过毒的转盘底面才能转动它。毒沾到川端手上，而他在吃了些北京烤鸭之后便死了——那一道菜必须用手吃。川端死后众人一片慌乱，Isogami 趁乱偷偷把用过毒的毛巾换成了川端的毛巾，并先把川端的毛巾浇上汤（小兰先前不小心把汤洒在川端身上，他用毛巾擦掉了，所以 Isogami 想让那条毒毛巾看起来相似）。不过真正的证据出现在柯南正要吃一个中式包子的时候——Isogami 拦住了他，因为他知道转盘上有毒，不想再有别人死掉。川端其实一直知道那次临时更换：他完全清楚最后一场动作戏里替身和里加被调换了；他还带着令人作呕的笑容说，自己只是「成全」了她想亲自上阵的愿望；他说正因为她的死，影片才大卖；尽管他有权力也有机会阻止，却没有阻止；并揭示导演在拍摄过程中会爱上自己的女主角，哪怕她演技不佳、也谈不上漂亮。"
+  },
+  {
+   "caseId": "case-chinatown-deja-vu-in-the-rain",
+   "field": "evidence",
+   "zhHans": "不过真正的证据出现在柯南正要吃一个中式包子的时候——Isogami 拦住了他，因为他知道转盘上有毒，不想再有别人死掉。"
+  },
+  {
+   "caseId": "case-chinatown-deja-vu-in-the-rain",
+   "field": "resolution",
+   "zhHans": "犯人是 Kaizo Isogami。Isogami 故意点了两道鸡蛋菜，因为他知道川端对蛋过敏、连看都看不下去。中途 Isogami 去了洗手间，往自己的毛巾上涂了氰化物再回到座位。先前柯南想拿酱油和辣油时，Isogami 一再转动转盘，把鸡蛋菜留在他面前。北京烤鸭端上来后，他用毛巾把毒涂在转盘下方、两道鸡蛋菜之间。接着他转动转盘，把鸡蛋菜移到川端面前，迫使川端必须碰到涂过毒的转盘底面才能转动它。毒沾到川端手上，而他在吃了些北京烤鸭之后便死了——那一道菜必须用手吃。川端死后众人一片慌乱，Isogami 趁乱偷偷把用过毒的毛巾换成了川端的毛巾，并先把川端的毛巾浇上汤（小兰先前不小心把汤洒在川端身上，他用毛巾擦掉了，所以 Isogami 想让那条毒毛巾看起来相似）。不幸的是，柯南指出川端穿的是牛仔裤，因此他真正的毛巾上有一块蓝色污渍。不过真正的证据出现在柯南正要吃一个中式包子的时候——Isogami 拦住了他，因为他知道转盘上有毒，不想再有别人死掉。"
+  },
+  {
+   "caseId": "case-houseboat-fishing-shock",
+   "field": "culprit",
+   "zhHans": "Kazuyuki Kawai"
+  },
+  {
+   "caseId": "case-houseboat-fishing-shock",
+   "field": "motive",
+   "zhHans": "Kawai 供认，并揭示山崎以高利借钱给他，还企图吞掉他的公司。此外，由于山崎是这笔债务的担保人，Kawai 不得不把他指定为自己寿险的受益人，赔付额很高。"
+  },
+  {
+   "caseId": "case-houseboat-fishing-shock",
+   "field": "method",
+   "zhHans": "接着，他把钩子挂在船身上，装作有大鱼在猛烈拉扯鱼竿。他叫山崎帮忙，让山崎抓住自己的鱼竿，再用美工刀的刀刃割断鱼线。拿这些东西来钓鱼看起来很不寻常，但 Kawai 声称自己只是把它们带在身上，并说那仍然是意外。事情发生时他正在烧电线：他用打火机熔化橡胶外皮，让电线裸露出来，结果乙烯树脂落到了灯芯上。随后他保持跌落的姿态，脱下靴子扔掉，把橡胶手套藏进口袋，装作昏迷。"
+  },
+  {
+   "caseId": "case-houseboat-fishing-shock",
+   "field": "evidence",
+   "zhHans": "Kawai 仍坚持说自己不是犯人，并要求拿出确凿证据。小五郎解释说，确凿证据就是 Kawai 的打火机。Kawai 供认，并揭示山崎以高利借钱给他，还企图吞掉他的公司。"
+  },
+  {
+   "caseId": "case-houseboat-fishing-shock",
+   "field": "resolution",
+   "zhHans": "柯南调查后意识到这是一起谋杀。麻醉小五郎之后，他指出犯人是 Kazuyuki Kawai。他说，当 Kawai 和山崎两人单独在甲板上时，趁山崎没注意，Kawai 装上了美工刀的刀刃。接着，他把钩子挂在船身上，装作有大鱼在猛烈拉扯鱼竿。他叫山崎帮忙，让山崎抓住自己的鱼竿，再用美工刀的刀刃割断鱼线。他让鱼竿碰到电线，电死了山崎。Kawai 试图否认，声称那样他自己也会死。小五郎说，如果他像山崎一样徒手赤脚，确实会。随后他要求查看 Kawai 的口袋，里面是肤色的橡胶手套。拿这些东西来钓鱼看起来很不寻常，但 Kawai 声称自己只是把它们带在身上，并说那仍然是意外。"
+  },
+  {
+   "caseId": "case-the-sullied-masked-hero",
+   "field": "culprit",
+   "zhHans": "Iwao Ushigome"
+  },
+  {
+   "caseId": "case-the-sullied-masked-hero",
+   "field": "motive",
+   "zhHans": "柯南揭示，监控里的「狼面」走起路来很别扭，因为他不习惯戴那副狼头面具。杀人未遂。地点：东都相扑馆休息室。被害人：江户川柯南、目暮十三、高木涉、大神鹰治、佐久间裕之、Leonardo Rossi。下手方式：格斗。犯人：Iwao Ushigome。Iwao 之所以暴走，是因为他的凶手身份被识破，于是想在警方把他带走前把众人杀死。"
+  }
+ ]
+}

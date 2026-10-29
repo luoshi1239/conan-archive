@@ -1,0 +1,32 @@
+{
+ "batch": 6,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-a-woman-standing-by-the-window",
+   "field": "culprit",
+   "zhHans": "Tatsuko Dojima"
+  },
+  {
+   "caseId": "case-a-woman-standing-by-the-window",
+   "field": "motive",
+   "zhHans": "她其实就是抢劫 Towa Akabane 珠宝的人，目的是为了“给对方一个教训”，报复对方炫耀财富。为了掩盖 Saki 以勒索者身份的名声，好替男友还清债务，Tatsuko 策划将其杀害。杀人手法与证据 首先，Tatsuko 给 Junnosuke Tachibana 和 Michiyo Konno 寄去恐吓信，目的是增加该案的潜在嫌疑人，并煽动其中一人替她杀死 Saki，Numagaki 上了当。由于 Saki 坠落时 Tatsuko 有不在场证明，她会被警方排除在嫌疑人名单之外。此外，由于 Tatsuko 对自己的手法非常自信，她不太可能处理掉房间里所有对己不利的犯罪证据，而警方一旦开始搜查，这些证据必定会被找到。"
+  },
+  {
+   "caseId": "case-a-woman-standing-by-the-window",
+   "field": "method",
+   "zhHans": "Tatsuko 把 Saki 诱骗到自己的房间，谎称有关于 Saki 男友的情报。手套被放置在现场，好让警方误以为案发现场是屋顶，并为 Saki 的指纹为何没有被发现提供理由。由于 Saki 坠落时 Tatsuko 有不在场证明，她会被警方排除在嫌疑人名单之外。此外，由于 Tatsuko 对自己的手法非常自信，她不太可能处理掉房间里所有对己不利的犯罪证据，而警方一旦开始搜查，这些证据必定会被找到。"
+  },
+  {
+   "caseId": "case-a-woman-standing-by-the-window",
+   "field": "evidence",
+   "zhHans": "杀人手法与证据 首先，Tatsuko 给 Junnosuke Tachibana 和 Michiyo Konno 寄去恐吓信，目的是增加该案的潜在嫌疑人，并煽动其中一人替她杀死 Saki，Numagaki 上了当。手套被放置在现场，好让警方误以为案发现场是屋顶，并为 Saki 的指纹为何没有被发现提供理由。此外，由于 Tatsuko 对自己的手法非常自信，她不太可能处理掉房间里所有对己不利的犯罪证据，而警方一旦开始搜查，这些证据必定会被找到。"
+  },
+  {
+   "caseId": "case-a-woman-standing-by-the-window",
+   "field": "resolution",
+   "zhHans": "犯人是 Tatsuko Dojima。她其实就是抢劫 Towa Akabane 珠宝的人，目的是为了“给对方一个教训”，报复对方炫耀财富。然而，由于 Saki 习惯坐在窗边，等待一去不回的男友，Tatsuko 变得疑神疑鬼，认定 Saki 目睹了她的罪行。为了掩盖 Saki 以勒索者身份的名声，好替男友还清债务，Tatsuko 策划将其杀害。"
+  }
+ ]
+}

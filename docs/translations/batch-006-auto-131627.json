@@ -1,0 +1,42 @@
+{
+ "batch": 6,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-whistling-bookstore-3",
+   "field": "culprit",
+   "zhHans": "Kosuke Omura"
+  },
+  {
+   "caseId": "case-the-whistling-bookstore-3",
+   "field": "motive",
+   "zhHans": "由于图书馆里有毒书，他可以把它伪装成意外死亡。他后来被 Nojima 发现，并因此被当作奴隶般使唤。Michiko 解释说她在医院无事可做，于是写完了小说并自费出版。柯南一笑置之，因为他意识到自己的期望太高了。"
+  },
+  {
+   "caseId": "case-the-whistling-bookstore-3",
+   "field": "method",
+   "zhHans": "Michiko 舔了受伤的手指，从而吞下了毒药。死因是书内涂了毒的美工刀刀片，而不是书封。Kosuke 原本计划在 Ryoji 从书架上拿起放错位置的书割到手指时对他下毒。由于图书馆里有毒书，他可以把它伪装成意外死亡。"
+  },
+  {
+   "caseId": "case-the-whistling-bookstore-3",
+   "field": "evidence",
+   "zhHans": "他后来被 Nojima 发现，并因此被当作奴隶般使唤。"
+  },
+  {
+   "caseId": "case-the-whistling-bookstore-3",
+   "field": "resolution",
+   "zhHans": "犯人是 Kosuke Omura。原本的目标是 Ryoji Nojima，但 Michiko 无意中落入了他的陷阱。Michiko 舔了受伤的手指，从而吞下了毒药。死因是书内涂了毒的美工刀刀片，而不是书封。Kosuke 原本计划在 Ryoji 从书架上拿起放错位置的书割到手指时对他下毒。由于图书馆里有毒书，他可以把它伪装成意外死亡。Omura 承认他在身无分文时偷了 Nojima 的书并卖掉。他后来被 Nojima 发现，并因此被当作奴隶般使唤。由于忍无可忍，他决定杀害 Ryoji Nojima。"
+  },
+  {
+   "caseId": "case-co-investigating-with-a-first-love",
+   "field": "culprit",
+   "zhHans": "Tokuko Shigei"
+  },
+  {
+   "caseId": "case-deduction-showdown-at-the-haunted-hotel",
+   "field": "culprit",
+   "zhHans": "Toshiko Hirukawa"
+  }
+ ]
+}

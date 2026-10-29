@@ -1,0 +1,57 @@
+{
+ "batch": 4,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-scenic-lookout-with-the-broken-fence",
+   "field": "culprit",
+   "zhHans": "Eiichiro Kondo"
+  },
+  {
+   "caseId": "case-bathroom-where-ran-collapsed-as-well",
+   "field": "culprit",
+   "zhHans": "Kenya Settsu"
+  },
+  {
+   "caseId": "case-bathroom-where-ran-collapsed-as-well",
+   "field": "motive",
+   "zhHans": "至于动机，Kenya 之所以抛弃 Waka，是因为他开始与一个有钱的女孩交往，而 Waka 威胁 Kenya，要把他的旧日所作所为一五一十地告诉这个女孩。"
+  },
+  {
+   "caseId": "case-bathroom-where-ran-collapsed-as-well",
+   "field": "evidence",
+   "zhHans": "几天前，他已设法让 Rumi 在一个瓶子上留下指纹，而这个瓶子看来正是警方找到的、装有三氯甲烷的那个瓶子。因此，只要掰开她闭着的那只眼，就能证明 Kenya 就是凶手：他的指纹仍会留在那片隐形眼镜上。"
+  },
+  {
+   "caseId": "case-bathroom-where-ran-collapsed-as-well",
+   "field": "resolution",
+   "zhHans": "犯人是 Kenya Settsu。他在毛利兰进入 Waka 房间的 30 分钟前杀害了 Waka，把毛巾缠在她头上、给她戴上口罩，然后在浴室里散播三氯甲烷。几天前，他已设法让 Rumi 在一个瓶子上留下指纹，而这个瓶子看来正是警方找到的、装有三氯甲烷的那个瓶子。这一切让世良真纯指认 Rumi 就是犯人（正如 Kenya 所预判）：那条毛巾和那只口罩会让毛利兰怀疑自己是否真的见到了 Waka，或者那其实不是 Rumi 假扮成 Waka——那么，在毛利兰昏倒之后，她就会真的杀死 Waka，并把 Waka 与这些物件一并安置在浴室里，仿佛她从一开始就在那里。但江户川柯南指出，这个诡计实在太不连贯；他还注意到，Kenya 一直被表现为视力很差（无法把物体放到正确的位置等），而这可能是因为他的一片隐形眼镜不见了。那片隐形眼镜其实是在他与 Waka 搏斗时脱落的，而 Waka 在昏过去之前把它捡起来、戴到自己眼上，然后闭上了眼睛，这就解释了她为什么一直在眨眼。因此，只要掰开她闭着的那只眼，就能证明 Kenya 就是凶手：他的指纹仍会留在那片隐形眼镜上。"
+  },
+  {
+   "caseId": "case-hidden-circumstances-of-the-falling-incident",
+   "field": "culprit",
+   "zhHans": "Hideki Sugimoto"
+  },
+  {
+   "caseId": "case-jodie-s-memories-and-the-cherry-blossom-viewing-trap",
+   "field": "culprit",
+   "zhHans": "Yoriko Danno"
+  },
+  {
+   "caseId": "case-jodie-s-memories-and-the-cherry-blossom-viewing-trap",
+   "field": "motive",
+   "zhHans": "谋杀之所以发生，是因为被害人（Ikuyo Yatani）间接害死了犯人的儿子。意外死亡（过去） 地点：Yoriko 的车 被害人：Yoriko 的儿子 死因：窒息（哮喘发作） 犯人：Ikuyo Yatani 过去，她的儿子死在她车子的后座上，因为 Ikuyo 连同她的钱包一起偷走了她的车钥匙。为了复仇，她开始调查那个小偷，并常常出入小偷平日出现的地点。Yoriko 透露，她把那张自己与儿子的合照留在钱包里，是为了让 Ikuyo 知道，她偷走的不只是钱，还偷走了一个孩子的生命。"
+  },
+  {
+   "caseId": "case-jodie-s-memories-and-the-cherry-blossom-viewing-trap",
+   "field": "method",
+   "zhHans": "犯人是 Yoriko Danno，她用鞋带把大量 5 日元硬币串拢在一起，做成一根棍状物。为了复仇，她开始调查那个小偷，并常常出入小偷平日出现的地点。之后揭晓，Tohei Benzaki 其实是波本（Bourbon）的伪装，而贝尔摩德伪装成他怀孕的妻子，把他从这个案子里摘了出去。"
+  },
+  {
+   "caseId": "case-jodie-s-memories-and-the-cherry-blossom-viewing-trap",
+   "field": "resolution",
+   "zhHans": "犯人是 Yoriko Danno，她用鞋带把大量 5 日元硬币串拢在一起，做成一根棍状物。谋杀之所以发生，是因为被害人（Ikuyo Yatani）间接害死了犯人的儿子。Ikuyo Yatani 就是一年前偷走 Yoriko 钱包的小偷，钱包里还有她的车钥匙，这使她那个患有哮喘的儿子被困在她的车里，最终窒息而死。意外死亡（过去） 地点：Yoriko 的车"
+  }
+ ]
+}

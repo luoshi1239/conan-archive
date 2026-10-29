@@ -1,0 +1,57 @@
+{
+ "batch": 4,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-romance-novel-with-the-unexpected-conclusion",
+   "field": "culprit",
+   "zhHans": "Keigo Hiura"
+  },
+  {
+   "caseId": "case-the-romance-novel-with-the-unexpected-conclusion",
+   "field": "motive",
+   "zhHans": "出版社的人提到，虽然他看见了那个女侍应生来到套房，但因为他们当时太专注于尽可能多吃些东西，所以不可能注意到她是离开了还是留在了套房里。他让她在那里等他，并脱掉酒店侍应生制服，因为要给尸体脱衣服并不容易。下午4点30分他出门去买香烟，却去了受害者的房间，把她放到门前，好让送香槟的男侍应生看到她。他从自己房间里拿走了洗发水的瓶盖，因为受害者之前用过它们，而他想把它们换掉，但他没来得及换，身上还一直带着它们。Keigo承认了罪行，说关于她是“吃男人”的传闻是假的，相反，多次拒绝他的人是她，因为他已经结婚了。Keigo说这是一个幼稚的暗号，柯南回答说这并不让他意外，因为这是小孩子想出来的。她之所以保密，是想给他一个惊喜，并希望一旦暗号被解开，他能猜出她的身份。"
+  },
+  {
+   "caseId": "case-the-romance-novel-with-the-unexpected-conclusion",
+   "field": "method",
+   "zhHans": "在他让人送到自己房间的众多送餐服务之中，Minazuki乔装成送红酒的客房服务人员来到了套房。世良解释说，当出版社的人在主房间吃饭时，Keigo在浴室里勒死了受害者。他杀掉她之后把她放进了大行李箱里，利用绳子和一种特殊的结，经过一些练习后，他轻易地在客人们离开后把她放到了下层阳台上。他从自己房间里拿走了洗发水的瓶盖，因为受害者之前用过它们，而他想把它们换掉，但他没来得及换，身上还一直带着它们。当“'Denwa, umi watashi'”（でんわ, うみ わたし ?, “电话，海和我”）从日语翻译成英语并调换词序后，它可以被读作“I, sea tel”，用罗马字发音连在一起可以读作“Aishiteru”，意思是“我爱你”。"
+  },
+  {
+   "caseId": "case-the-romance-novel-with-the-unexpected-conclusion",
+   "field": "evidence",
+   "zhHans": "作为决定性证据，世良提到了他们在另一层楼的垃圾桶里找到的侍应生制服，它可以很容易地用来检测犯人和受害者的DNA及汗液。"
+  },
+  {
+   "caseId": "case-the-romance-novel-with-the-unexpected-conclusion",
+   "field": "resolution",
+   "zhHans": "犯人是Keigo Hiura。在他让人送到自己房间的众多送餐服务之中，Minazuki乔装成送红酒的客房服务人员来到了套房。红酒在上桌前先倒入醒酒器是常事，因此把服务人员领进自己的厨房也不算太不寻常。出版社的人提到，虽然他看见了那个女侍应生来到套房，但因为他们当时太专注于尽可能多吃些东西，所以不可能注意她是离开了还是留在了套房里。"
+  },
+  {
+   "caseId": "case-kaga-hyakumangoku-mystery-tour",
+   "field": "culprit",
+   "zhHans": "Osamu Kuranishi"
+  },
+  {
+   "caseId": "case-kaga-hyakumangoku-mystery-tour",
+   "field": "motive",
+   "zhHans": "但实际上他想要的是拿走她戴着的那块手表，因为它经过改装，内嵌了一个隐藏的摄像头。知晓此事的Akiyama对她男友所犯下的罪行感到内疚，并试图劝说Kuranishi自首，这就是他想要让她闭嘴的原因。然而兰告诉他，Akiyama很不幸，因为她深爱并信任的男人却试图杀她，这让他羞愧得瘫倒在地。"
+  },
+  {
+   "caseId": "case-kaga-hyakumangoku-mystery-tour",
+   "field": "method",
+   "zhHans": "他袭击她之后，后来人们发现她时，他装出关心的样子，上前去查看她的情况。"
+  },
+  {
+   "caseId": "case-kaga-hyakumangoku-mystery-tour",
+   "field": "evidence",
+   "zhHans": "他袭击她之后，后来人们发现她时，他装出关心的样子，上前去查看她的情况。"
+  },
+  {
+   "caseId": "case-kaga-hyakumangoku-mystery-tour",
+   "field": "resolution",
+   "zhHans": "犯人是Osamu Kuranishi。Akiyama在看了关于四年前那起抢劫案的新闻报道后，想要弥补过错。她曾声称自己弄丢了写有谜题的原始卡片，于是重新制作了新的卡片，用图画代替了文字。实际上，她制作的新谜题卡片正是一种秘密暗号，乍看之下这些图画似乎只是通往下一个地点的提示。但事实上，这些图画本身有着隐藏的含义。解开后，这些图画指出了四年前那起抢劫案的细节：日期、犯罪类型，以及最后的犯人。她想用这些新卡片向小五郎传递一条秘密信息，希望他能帮助她，但在他能够破解之前，她就被Kuranishi袭击了。"
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "batch": 2,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "note": "语义不符字段不译并登记 flagged；专名未收录保留罗马字",
+ "items": [
+  {
+   "caseId": "case-the-sullied-masked-hero",
+   "field": "method",
+   "zhHans": "柯南揭示，监控里的「狼面」走起路来很别扭，因为他不习惯戴那副狼头面具。"
+  },
+  {
+   "caseId": "case-the-sullied-masked-hero",
+   "field": "evidence",
+   "zhHans": "作为证据，柯南指出 Ushigome 戴的那副面具被撕破了，血渗到了他里面戴的第二副面具上。"
+  },
+  {
+   "caseId": "case-the-sullied-masked-hero",
+   "field": "resolution",
+   "zhHans": "犯人是 Iwao Ushigome。柯南揭示，监控里的「狼面」走起路来很别扭，因为他不习惯戴那副狼头面具。他让摔跤手们戴上「狼面」的面具，命他们走直线。作为证据，柯南指出 Ushigome 戴的那副面具被撕破了，血渗到了他里面戴的第二副面具上。他们在 Ushigome 的外套里找到了那第二副面具，上面有长濑的血。Ushigome 供认，并揭示长濑想把他们拉下马、转投万国摔跤，而本来该由他去摘大神的面具、他才是想偷走那副面具的人。随后 Ushigome 暴走，打倒了目暮和高木。（杀人未遂）"
+  },
+  {
+   "caseId": "case-hidden-bathroom-secret",
+   "field": "culprit",
+   "zhHans": "Tetsuo Imai"
+  },
+  {
+   "caseId": "case-hidden-bathroom-secret",
+   "field": "motive",
+   "zhHans": "明美这次短暂的来访，以及她承诺会带着志保一起回来的保证，本该能平息他的复仇之心。"
+  },
+  {
+   "caseId": "case-hidden-bathroom-secret",
+   "field": "method",
+   "zhHans": "正如所料，出岛壮平是在设计事务所的洗手间里中毒的。毒被涂在一卷用完的卫生纸筒上，社长在换新纸时碰到了它。在他汉堡和手上验出的毒只是微量痕迹。当有人提出最后使用洗手间的是财津、他也可能中毒时，推断出的理由是：Imai 知道这位同事只会小便，因为几乎听不到冲水声（大楼因据称遭黑衣组织破坏而缺水），而且他注意到财津喝了很多水。装毒用的袋子是从大楼水槽最脏的地方找到的。"
+  },
+  {
+   "caseId": "case-hidden-bathroom-secret",
+   "field": "evidence",
+   "zhHans": "在他汉堡和手上验出的毒只是微量痕迹。"
+  },
+  {
+   "caseId": "case-hidden-bathroom-secret",
+   "field": "resolution",
+   "zhHans": "犯人是 Tetsuo Imai。正如所料，出岛壮平是在设计事务所的洗手间里中毒的。毒被涂在一卷用完的卫生纸筒上，社长在换新纸时碰到了它。在他汉堡和手上验出的毒只是微量痕迹。为确保社长在陷阱设好时去洗手间，Imai 在给岛上的早晨咖啡里下了泻药。当有人提出最后使用洗手间的是财津、他也可能中毒时，推断出的理由是：Imai 知道这位同事只会小便，因为几乎听不到冲水声（大楼因据称遭黑衣组织破坏而缺水），而且他注意到财津喝了很多水。装毒用的袋子是从大楼水槽最脏的地方找到的。"
+  },
+  {
+   "caseId": "case-find-the-buttock-s-mark",
+   "field": "culprit",
+   "zhHans": "Naokazu Fukuchi"
+  },
+  {
+   "caseId": "case-find-the-buttock-s-mark",
+   "field": "method",
+   "zhHans": "Fukuchi 一边假装让警方确认钥匙锁，一边试图逃跑，却被柯南的麻醉针打晕。"
+  },
+  {
+   "caseId": "case-find-the-buttock-s-mark",
+   "field": "evidence",
+   "zhHans": "起初没有任何反应，但柯南能切断锁芯，揭示锁孔外圈被换成了另一个，为的是消去对自己不利的证据。"
+  },
+  {
+   "caseId": "case-find-the-buttock-s-mark",
+   "field": "resolution",
+   "zhHans": "根据各人的证词，少年侦探团意识到犯人是 Naokazu Fukuchi。三名嫌疑人中，Fukuchi 的证词与他在案发时的行为互相矛盾：一个不熟练的司机绝不会在人多的地点、或在下雨视线不好的日子试车。此外，他把车停得与旁边的车极近，而且停得非常利落，说明他其实是个技术极好的司机。尽管犯人可能已经处理掉了那把钥匙，锁孔里仍会留下血，于是柯南让高木叫鉴定人员来做鲁米诺喷洒测试。起初没有任何反应，但柯南能切断锁芯，揭示锁孔外圈被换成了另一个，为的是消去对自己不利的证据。"
+  },
+  {
+   "caseId": "case-a-course-without-protest",
+   "field": "culprit",
+   "zhHans": "Masaharu Motoyama"
+  },
+  {
+   "caseId": "case-a-course-without-protest",
+   "field": "motive",
+   "zhHans": "网球表面的绒布留不住 Motoyama 的指纹，小五郎故意说成相反的情况，为的是让 Motoyama 自己带着他和警方去找那件沾血的雨衣和凶刀——它们还藏在 Motoyama 为行凶而租的那辆车的后备箱里。后来野濑利用自己的人脉替 Motoyama 弄到了体育记者的工作；而 Motoyama 事后通过一段体育脱口秀未经剪辑的录音震惊地得知，野濑当初是故意让他退出竞技生涯的，为的是除掉这个他视为争夺名声的对手。"
+  },
+  {
+   "caseId": "case-a-course-without-protest",
+   "field": "method",
+   "zhHans": "经调查揭示，犯人（Masaharu Motoyama）坐了两趟飞机来制造不在场证明。随后他回到机场，装作自己刚从那班宫崎—冲绳直飞航班下来。Motoyama 碰巧与柯南、小兰和小五郎同机，并且化了装，还接住了小兰不小心掉下的一颗球。后来野濑利用自己的人脉替 Motoyama 弄到了体育记者的工作；而 Motoyama 事后通过一段体育脱口秀未经剪辑的录音震惊地得知，野濑当初是故意让他退出竞技生涯的，为的是除掉这个他视为争夺名声的对手。"
+  },
+  {
+   "caseId": "case-a-course-without-protest",
+   "field": "evidence",
+   "zhHans": "经调查揭示，犯人（Masaharu Motoyama）坐了两趟飞机来制造不在场证明。网球表面的绒布留不住 Motoyama 的指纹，小五郎故意说成相反的情况，为的是让 Motoyama 自己带着他和警方去找那件沾血的雨衣和凶刀——它们还藏在 Motoyama 为行凶而租的那辆车的后备箱里。"
+  },
+  {
+   "caseId": "case-a-course-without-protest",
+   "field": "resolution",
+   "zhHans": "经调查揭示，犯人（Masaharu Motoyama）坐了两趟飞机来制造不在场证明。他没有走宫崎到冲绳的直飞航线，而是先飞到东京，再搭乘一趟返回航班（JAL 931），于上午 9:20 抵达冲绳——正好在他行凶前 10 分钟。随后他回到机场，装作自己刚从那班宫崎—冲绳直飞航班下来。因此 Motoyama 才留下那句晦涩的历史典故：他是秀吉，野濑是光秀——因为秀吉追上光秀的速度远比预想得快。"
+  },
+  {
+   "caseId": "case-teitan-high-school-s-ghost-story",
+   "field": "culprit",
+   "zhHans": "Kunishige Seko"
+  },
+  {
+   "caseId": "case-teitan-high-school-s-ghost-story",
+   "field": "motive",
+   "zhHans": "冢本和美解释说，保坂的桌子之所以放进储藏室，是为了在毕业时搬出来纪念保坂，并不是为了藏匿证据。最先赶到现场的校医新出编了一套善意的谎话，说保坂临终时说自己并无怨恨，为的是安慰三年级的学生。新出说事情办得很顺利，但他问 Jodie：Vermouth 真的是恶人吗——因为所有学生和老师对那位化装成他的 Vermouth 的亲切与体贴都只有称赞。"
+  },
+  {
+   "caseId": "case-teitan-high-school-s-ghost-story",
+   "field": "method",
+   "zhHans": "柯南借园子之口解开案件，指出犯人是 Kunishige Seko——死者保坂英明的挚友。新出说事情办得很顺利，但他问 Jodie：Vermouth 真的是恶人吗——因为所有学生和老师对那位化装成他的 Vermouth 的亲切与体贴都只有称赞。"
+  },
+  {
+   "caseId": "case-teitan-high-school-s-ghost-story",
+   "field": "evidence",
+   "zhHans": "Kunishige 透露，他在储藏室发现朋友的桌子上写着名字，便以为朋友是被欺凌、然后被杀害的。冢本和美解释说，保坂的桌子之所以放进储藏室，是为了在毕业时搬出来纪念保坂，并不是为了藏匿证据。"
+  },
+  {
+   "caseId": "case-teitan-high-school-s-ghost-story",
+   "field": "resolution",
+   "zhHans": "柯南借园子之口解开案件，指出犯人是 Kunishige Seko——死者保坂英明的挚友。Kunishige 透露，他在储藏室发现朋友的桌子上写着名字，便以为朋友是被欺凌、然后被杀害的。物部雅夫道出事情的真相：保坂是为了救他而死的——当时他抱着一件沉重的雕塑往后跌下楼梯，雕塑压在了保坂身上。冢本和美解释说，保坂的桌子之所以放进储藏室，是为了在毕业时搬出来纪念保坂，并不是为了藏匿证据。最先赶到现场的校医新出编了一套善意的谎话，说保坂临终时说自己并无怨恨，为的是安慰三年级的学生。案件结束后，新出接到 Jodie 的电话，询问他重返帝丹高中的情况。新出说事情办得很顺利，但他问 Jodie：Vermouth 真的是恶人吗——因为所有学生和老师对那位化装成他的 Vermouth 的亲切与体贴都只有称赞。Jodie 生气地吼道：「一个人要是能笑着杀人，她怎么可能善良！？」随后挂断了电话。"
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "generatedBy": "人工判读（翻译时逐条核对）",
+ "policy": "以下字段曾因英文原文与字段语义不符而不译；2026-10-28 已逐条处置：能对上原文的按原句重新指派并翻译（status=resolved），原文没有的已删除字段并留痕于 case.l3Absent",
+ "items": [
+  {
+   "caseId": "case-the-final-screening-murder-case",
+   "field": "motive",
+   "reason": "motive 里装的是手法与动机的混合长段，开头是调整空调/镜子的手法细节，动机只在最后一句",
+   "action": "待重新抽取（resolution 块内有完整动机句）",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-underwater-key-in-the-locked-room-case",
+   "field": "motive",
+   "reason": "motive 里装的是手法细节（毛衣/甲虫/气味引导），原文未给出动机",
+   "action": "待重新抽取",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-underwater-key-in-the-locked-room-case",
+   "field": "method",
+   "reason": "只剩一句 'In this manner, he was able to create a locked room.'，完整手法在 resolution 里",
+   "action": "待重新抽取",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-the-revival-of-the-dying-message",
+   "field": "motive",
+   "reason": "motive 里装的是推理过程（KIX→Izumi Sano），真实动机句在 evidence 字段末尾",
+   "action": "待重新抽取",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-english-teacher-vs-great-western-detective",
+   "field": "motive",
+   "reason": "内容是动画改编的琐记（cool guy 被误写成 cool gay），与动机无关",
+   "action": "原文未提供动机，待重新抽取",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-english-teacher-vs-great-western-detective",
+   "field": "evidence",
+   "reason": "内容是动画改编差异（Jodie 调查新出医生的情节被改动），不是证据",
+   "action": "待重新抽取",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-find-the-buttock-s-mark",
+   "field": "motive",
+   "reason": "内容是推理与证据（切断锁芯、锁孔外圈被换），与动机无关",
+   "action": "原文未提供动机，待重新抽取",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-kaitou-kid-and-the-four-masterpieces",
+   "field": "evidence",
+   "reason": "内容是基德冒充高木的支线情节，与该案证据无关",
+   "action": "原文未提供该案证据，待重新抽取",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-the-hot-chocolate-trap",
+   "field": "method",
+   "reason": "method 里装的是受害者性格描述（Tsujimoto 自私狡诈、利用 Sakura）与照片证据解读（照片显示壶中原本是清水），完全没有作案手法；真正的手法（往壶中灌盐水使其受热爆炸起火）只在 resolution 字段里",
+   "action": "待重新抽取（resolution 块内有完整手法句）",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-cactus-capriccio",
+   "field": "motive",
+   "reason": "motive 里前 5 句全是手法与不在场证明细节（留下高尔夫球印、走后门回宅、关闭卡、报警器），真正的动机只在末尾两句（Yashiro 得知他要雇女佣后决意为父报仇、见其子挥霍后决定嫁祸二人之一）。与已登记的 case-the-final-screening-murder-case.motive 同型",
+   "action": "待重新抽取（resolution 块内亦无独立动机句）",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-cactus-capriccio",
+   "field": "evidence",
+   "reason": "evidence 里没有任何证据：首句是 Yashiro 认为推理有趣但要求拿出证据，次句是动机（为父报仇），两者都不是证据",
+   "action": "原文未提供证据，待重新抽取",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-nagasaki-mystery-theatre",
+   "field": "culprit",
+   "reason": "沿用 docs/L3-CULPRIT-REJECTED.json 既有裁定（rejected-do-not-write）：原文为误导性陈述——『That culprit is Ran Mouri. ... he knows that Ran is not the true culprit.』柯南为逼真凶现身故意指控无辜者，紧随其后的句子即否认。译入『毛利兰』会制造事实错误",
+   "action": "不译；真实凶手为 Kyounosuke Sasahara（见 resolution），待重新抽取后写入",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-nagasaki-mystery-theatre",
+   "field": "motive",
+   "reason": "motive 里装的是推理过程与死亡讯息解读（剧中多次致电、chouchou/tefutefu 的写法、Madame Butterfly、Ote 逼 Sazanami 认罪、为救 Tatsumi 而放弃导游），与凶手动机无关。与已登记的 case-the-revival-of-the-dying-message.motive 同型",
+   "action": "原文未提供凶手动机，待重新抽取",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-nagasaki-mystery-theatre",
+   "field": "method",
+   "reason": "method 里只有柯南的固定套路（用手表型电击枪击晕毛利小五郎、用蝴蝶结变声器模仿其声音陈述推理），完全不是凶手的作案手法；真实手法（自导自演指向 Sazanami 的 Ote 以嫁祸 Tatsumi）在 motive/resolution 字段里",
+   "action": "待重新抽取（resolution 块内有手法句）",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-froth-steam-and-smoke",
+   "field": "motive",
+   "reason": "motive 字段混入与案件无关的维基导航残片：第 1 句是手法（未处理的盐袋），第 2 句才是真动机（因虚假报道致女演员自杀而杀人），第 3 句却是『Manga to anime changes Main article: List of differences between the manga and anime...』的漫画与动画差异条目，与动机毫无关系。按不删减铁律不能只译前两句，整条不译以避免污染",
+   "action": "待重新抽取（resolution 块内含完整动机句）",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-dancing-demon-at-the-noh-mask-mansion",
+   "field": "motive",
+   "reason": "motive 里装的全是手法与结果（趁 Moyono 不备用铁签刺杀、因柯南提醒而未能杀死 Jisaburou），完全没有动机；真实动机在 resolution 末尾（痛恨 Moyono 以情人身份享奢华而自己与母亲受苦、痛恨 Akaza 试图引诱、痛恨 Jisaburou 暗中变卖其父能面与博物馆）。与已登记的 case-underwater-key-in-the-locked-room-case.motive 同型",
+   "action": "待重新抽取（resolution 块内有完整动机句）",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-the-framed-great-detective",
+   "field": "motive",
+   "reason": "motive 里只有一句手法（改动扶手使其一碰就断、把 Numao 诱到现场），完全没有动机；原文未提供 Himuro 杀害 Numao 的动机",
+   "action": "原文未提供动机，待重新抽取",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-bathroom-where-ran-collapsed-as-well",
+   "field": "method",
+   "reason": "method 里装的是推理链条与结局（世良指认 Rumi、柯南反驳、隐形眼镜、结尾提到妃英理看见世良打电话），没有任何作案步骤；真正的手法与全程都在 resolution 字段里",
+   "action": "待重新抽取（resolution 字段已含完整手法）",
+   "status": "resolved-2026-10-28"
+  },
+  {
+   "caseId": "case-jodie-s-memories-and-the-cherry-blossom-viewing-trap",
+   "field": "evidence",
+   "reason": "内容只有「Tohei Benzaki 实为波本伪装、贝尔摩德假扮其怀孕妻子帮他脱案」，是角色身份的剧情揭示，与该案证据无关",
+   "action": "待重新抽取",
+   "status": "resolved-2026-10-28"
+  }
+ ]
+}

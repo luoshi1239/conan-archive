@@ -1,0 +1,67 @@
+{
+ "batch": 7,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-secret-hidden-by-the-cards",
+   "field": "culprit",
+   "zhHans": "Tsukasa Nitta"
+  },
+  {
+   "caseId": "case-the-secret-hidden-by-the-cards",
+   "field": "motive",
+   "zhHans": "从逻辑上来说，从坠落中受到的强度并不会致人死亡。随后阿笠博士揭示了可能证实 Tsukasa 实施谋杀的证据：要使一个书架倒塌，必须施加相当大的力量；因此，必然会留下痕迹。他杀害 Naoto 的原因是——Naoto 不仅勒索 Daigo，也勒索 Tsukasa。由于他没有钱购买更昂贵的卡牌，他决定在夜间偷窃一些。事后，Tsukasa 跪了下来，感到相当懊悔，因为阿笠博士给了他一个教训：卡牌游戏可以重来，但人的生命不能。"
+  },
+  {
+   "caseId": "case-the-secret-hidden-by-the-cards",
+   "field": "method",
+   "zhHans": "机械装置 Tsukasa 为启动机关所走的斜向路径。Tsukasa 使用一根尼龙绳实施谋杀；他将绳子的一端固定在自己皮带的背面，事先将另一端越过那张倒塌书架顶部的钉子。"
+  },
+  {
+   "caseId": "case-the-secret-hidden-by-the-cards",
+   "field": "evidence",
+   "zhHans": "证据与动机 然而，Naoto 并非死于倒塌的书架。随后阿笠博士揭示了可能证实 Tsukasa 实施谋杀的证据：要使一个书架倒塌，必须施加相当大的力量；因此，必然会留下痕迹。另一项证据是残留在 Tsukasa 裤子上的血迹。警方对 Tsukasa 的裤子进行了鲁米诺检测，发现了血迹。"
+  },
+  {
+   "caseId": "case-the-secret-hidden-by-the-cards",
+   "field": "resolution",
+   "zhHans": "通过阿笠博士，柯南得以传达犯人就是 Tsukasa Nitta。"
+  },
+  {
+   "caseId": "case-kogoro-in-the-bar",
+   "field": "culprit",
+   "zhHans": "Monpei Kogure"
+  },
+  {
+   "caseId": "case-the-body-on-the-gunma-nagano-border",
+   "field": "culprit",
+   "zhHans": "Yumi Nakata"
+  },
+  {
+   "caseId": "case-the-body-on-the-gunma-nagano-border",
+   "field": "motive",
+   "zhHans": "Kyouko 和 Senta 问她为什么要杀 Kazuki，她透露这是为了报复他导致 Chizu 的母亲死亡并使 Chizu 陷入昏迷。在 Yumi 得知真相后，她故意邀请 Kazuki、Senta 和 Kyouko 到酒店，为复仇杀死 Kazuki。最后，Taka'aki 尚未向 Yamamura 揭露他弟弟的死讯，因为说到底 Hiro 是 Yamamura 的挚友，他想保留自己的一种希望，即两人都仍在执行正义。"
+  },
+  {
+   "caseId": "case-the-body-on-the-gunma-nagano-border",
+   "field": "method",
+   "zhHans": "Yumi 使用了一个机关，使她看起来仍待在自己的公寓里，而实际上她正在停车场将 Kazuki Tsukishima 毒打致死。Yumi 在一个环形补光灯上搭了一条毛巾，并在顶部系上一根橡皮筋来模仿她的发髻，然后把补光灯放在一个行李箱上面以配合她的身高。Yumi 用短棍杀死了 Kazuki，其做法是把一个重物放进袜子里，然后用足够的力量挥动它来杀人。她用 Kazuki 的袜子和自己带来的一件物品制作了短棍。柯南询问小五郎他关于这个机关的解释是否正确。"
+  },
+  {
+   "caseId": "case-the-body-on-the-gunma-nagano-border",
+   "field": "evidence",
+   "zhHans": "而一张照片显示 Yumi 的头发是齐肩长的，这意味着她的头发不足以扎成发髻。动机 上原警探问她为什么不直接丢弃证据，但她舍不得，因为那个腕部重物是 Chizu Yuba 送给她的。然而，Yumi 觉得很奇怪，因为她知道他们有足够的时间救下两人，却没有成功。多年后她得知了真相，Chizu 曾在 Kazuki 的笔记本电脑里四处翻找，并发现了他在那致命一天录下的一段视频。"
+  },
+  {
+   "caseId": "case-the-body-on-the-gunma-nagano-border",
+   "field": "resolution",
+   "zhHans": "犯人是 Yumi Nakata。Yumi 使用了一个机关，使她看起来仍待在自己的公寓里，而实际上她正在停车场将 Kazuki Tsukishima 毒打致死。Yumi 在一个环形补光灯上搭了一条毛巾，并在顶部系上一根橡皮筋来模仿她的发髻，然后把补光灯放在一个行李箱上面以配合她的身高。随后她把一根连接着窗帘的绳子系好，将另一端系在她的第一部手机上，并把它放在窗边桌子的边缘。在杀死 Kazuki 之后，她用第二部手机拨打第一部手机的号码，导致手机从桌上掉落，把窗帘拉开。这造成了她拉开窗帘往外窥视的假象，这一幕也被监控摄像头拍了下来。"
+  },
+  {
+   "caseId": "case-the-diamond-the-painting-and-the-great-actress",
+   "field": "culprit",
+   "zhHans": "Chiharu Shirakawa"
+  }
+ ]
+}

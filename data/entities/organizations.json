@@ -1,0 +1,145 @@
+[
+  {
+    "id": "organization-black",
+    "name": {
+      "zhHans": "黑衣组织",
+      "zhHant": "黑衣組織",
+      "ja": "黒の組織",
+      "en": "Black Organization"
+    },
+    "kind": "criminal-organization",
+    "spoiler": 2,
+    "status": "reviewed",
+    "summary": "以酒名为代号、拥有研究、情报和清除机制的犯罪组织，是作品长期主线的主要对手。",
+    "members": [
+      "character-gin",
+      "character-vermouth",
+      "character-rei-furuya",
+      "character-vodka",
+      "character-chianti",
+      "character-korn",
+      "character-rum",
+      "character-the-boss",
+      "character-hidemi-hondou",
+      "character-kanenori-wakita"
+    ],
+    "sources": [
+      "src-detective-conan-world-bo",
+      "src-detective-conan-world-bo-timeline"
+    ],
+    "formerMembers": [
+      "character-ai-haibara",
+      "character-shuichi-akai",
+      "character-akemi-miyano",
+      "character-atsushi-miyano",
+      "character-elena-miyano",
+      "character-rikumichi-kusuda",
+      "character-kiichiro-numabuchi",
+      "character-sharon-vineyard"
+    ],
+    "memberNotes": {
+      "character-rei-furuya": "代号波本，日本公安卧底",
+      "character-hidemi-hondou": "代号基尔，CIA 卧底",
+      "character-kanenori-wakita": "朗姆的伪装身份之一",
+      "character-ai-haibara": "代号雪莉，已叛离",
+      "character-shuichi-akai": "曾以诸星大之名潜入",
+      "character-sharon-vineyard": "贝尔摩德的对外身份"
+    }
+  },
+  {
+    "id": "organization-fbi",
+    "name": {
+      "zhHans": "FBI",
+      "zhHant": "FBI",
+      "ja": "FBI",
+      "en": "Federal Bureau of Investigation"
+    },
+    "kind": "investigative-agency",
+    "spoiler": 2,
+    "status": "reviewed",
+    "summary": "以赤井秀一、茱蒂和卡迈尔等人为代表，在日本追查黑衣组织。",
+    "members": [
+      "character-shuichi-akai",
+      "character-jodie-starling",
+      "character-james-black",
+      "character-andre-camel"
+    ],
+    "relations": [
+      "organization-black",
+      "organization-public-security"
+    ],
+    "sources": [
+      "src-detective-conan-world-fbi"
+    ],
+    "formerMembers": [
+      "character-tsutomu-akai"
+    ],
+    "memberNotes": {
+      "character-tsutomu-akai": "赤井务武，多年前失踪"
+    }
+  },
+  {
+    "id": "organization-public-security",
+    "name": {
+      "zhHans": "日本公安 / 警察厅警备局",
+      "zhHant": "日本公安 / 警察廳警備局",
+      "ja": "警察庁警備局",
+      "en": "Public Security Bureau"
+    },
+    "kind": "security-agency",
+    "spoiler": 2,
+    "status": "reviewed",
+    "summary": "以降谷零等人为代表的日本安全机构，在组织线中承担卧底、反间谍和国内安全任务。",
+    "members": [
+      "character-rei-furuya",
+      "character-yuya-kazami"
+    ],
+    "relations": [
+      "organization-black",
+      "organization-fbi"
+    ],
+    "sources": [
+      "src-detective-conan-world-npa"
+    ],
+    "formerMembers": [
+      "character-hiromitsu-morofushi"
+    ],
+    "memberNotes": {
+      "character-rei-furuya": "降谷零，代号波本，潜入黑衣组织",
+      "character-hiromitsu-morofushi": "诸伏景光，卧底期间身亡"
+    }
+  },
+  {
+    "id": "organization-miyano-family",
+    "name": {
+      "zhHans": "宫野家族研究线",
+      "zhHant": "宮野家族研究線",
+      "ja": "宮野家",
+      "en": "Miyano family research line"
+    },
+    "kind": "research-family-line",
+    "spoiler": 2,
+    "status": "catalog",
+    "summary": "围绕宫野厚司、宫野艾莲娜、宫野明美和宫野志保展开的家族与药物研究线。",
+    "members": [
+      "character-ai-haibara"
+    ],
+    "relations": [
+      "organization-black"
+    ],
+    "sources": [
+      "src-detective-conan-world-bo-timeline"
+    ],
+    "formerMembers": [
+      "character-atsushi-miyano",
+      "character-elena-miyano",
+      "character-akemi-miyano"
+    ],
+    "memberNotes": {
+      "character-ai-haibara": "宫野志保，后改名灰原哀",
+      "character-atsushi-miyano": "父亲，APTX4869 研究者",
+      "character-elena-miyano": "母亲，代号地狱天使",
+      "character-akemi-miyano": "姐姐"
+    }
+  }
+]

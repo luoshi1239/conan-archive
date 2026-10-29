@@ -1,0 +1,62 @@
+{
+ "batch": 7,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-targeted-chicken-sexer",
+   "field": "culprit",
+   "zhHans": "Mamiko Hirasawa"
+  },
+  {
+   "caseId": "case-the-targeted-chicken-sexer",
+   "field": "motive",
+   "zhHans": "柯南以毛利小五郎的身份表示，他在观看了Yuji Okabe被人骗取鉴别师头衔的命运之日的录像后想通了这一点。从录像中可以很明显看出，他与Kusano勾结，Kusano操纵了所有比赛，好让Nanba每一次都获胜。"
+  },
+  {
+   "caseId": "case-the-targeted-chicken-sexer",
+   "field": "method",
+   "zhHans": "从录像中可以很明显看出，他与Kusano勾结，Kusano操纵了所有比赛，好让Nanba每一次都获胜。"
+  },
+  {
+   "caseId": "case-the-targeted-chicken-sexer",
+   "field": "evidence",
+   "zhHans": "她被揭露是Yuji Okabe的女儿，Yuji Okabe在Nanba手中失去鉴别师冠军头衔后自杀，而Nanba被揭露一直在作弊。柯南以毛利小五郎的身份表示，他在观看了Yuji Okabe被人骗取鉴别师头衔的命运之日的录像后想通了这一点。"
+  },
+  {
+   "caseId": "case-the-targeted-chicken-sexer",
+   "field": "resolution",
+   "zhHans": "犯人是Mamiko Hirasawa。她被揭露是Yuji Okabe的女儿，Yuji Okabe在Nanba手中失去鉴别师冠军头衔后自杀，而Nanba被揭露一直在作弊。柯南以毛利小五郎的身份表示，他在观看了Yuji Okabe被人骗取鉴别师头衔的命运之日的录像后想通了这一点。从录像中可以很明显看出，他与Kusano勾结，Kusano操纵了所有比赛，好让Nanba每一次都获胜。操纵比赛（过去）地点：鉴别师全国锦标赛大厅"
+  },
+  {
+   "caseId": "case-detective-takagi-finds-30-million-yen",
+   "field": "culprit",
+   "zhHans": "Toshiyuki Hiranuma"
+  },
+  {
+   "caseId": "case-mitsuhiko-tsuburaya-s-detective-notes-2",
+   "field": "culprit",
+   "zhHans": "Hayato Izumiya"
+  },
+  {
+   "caseId": "case-mitsuhiko-tsuburaya-s-detective-notes-2",
+   "field": "motive",
+   "zhHans": "一直跟踪光彦的犯人开口并出现在光彦身后：“原来藏在那儿啊”。犯人也相当好奇，因为他同样没有找到珠宝的藏匿地点，于是问光彦是怎么知道的。显然，Izumiya递给Kimishima的不是装满食物的手提包，而是装满钱的手提包。柯南还告诉光彦不要着急，因为他已经报警了，Izumiya大概很快就会被逮捕。"
+  },
+  {
+   "caseId": "case-mitsuhiko-tsuburaya-s-detective-notes-2",
+   "field": "method",
+   "zhHans": "在这个案子里，大概是为了换取Kimishima用鸽子偷来的珠宝。他很担心犯人会检查袋子里的东西，所以用鸽子把他吓跑。而事实上，Izumiya被几名警察按倒在地，当他意识到自己从光彦那里拿到的只是弹珠时，他惊呼自己被“那个小鬼”骗了。"
+  },
+  {
+   "caseId": "case-mitsuhiko-tsuburaya-s-detective-notes-2",
+   "field": "evidence",
+   "zhHans": "他拉开了鸟屋底部的小抽屉，发现了一个袋子里装着一个盒子。另外，之前那名公园游客穿的是皮靴，和小屋外的脚印一样，这意味着他是唯一的嫌疑人。而且根据犯罪现场，他没有发现任何迹象表明犯人找到了珠宝。怒火中烧的Izumiya从失物招领箱里（原本有两根）拿起其中一根球棒，敲击Kimishima的头部。"
+  },
+  {
+   "caseId": "case-mitsuhiko-tsuburaya-s-detective-notes-2",
+   "field": "resolution",
+   "zhHans": "沿着自己的推理，光彦来到公园小屋，走向鸟屋。“果然没错。”光彦说道。他拉开了鸟屋底部的小抽屉，发现了一个袋子里装着一个盒子。他打开它，里面显然是Kimishima偷来的珠宝。一直跟踪光彦的犯人开口并出现在光彦身后：“原来藏在那儿啊”。当光彦回头时，他意识到犯人就是Hayato Izumiya，也就是今天早上“用手提包喂鸟食”的那个人。另外，之前那名公园游客穿的是皮靴，和小屋外的脚印一样，这意味着他是唯一的嫌疑人。"
+  }
+ ]
+}

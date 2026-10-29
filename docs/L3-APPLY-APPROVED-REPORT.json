@@ -1,0 +1,1605 @@
+{
+ "generatedBy": "scripts/apply-l3-approved.py",
+ "approvedFile": "docs/L3-APPROVED.json",
+ "policy": "只写空字段；DCW 原文英文；不覆盖人工中文",
+ "writtenFields": 0,
+ "skippedEntries": 319,
+ "fields": [],
+ "skipped": [
+  {
+   "caseId": "case-a-cottage-surrounded-by-zombies",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-cottage-surrounded-by-zombies",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-cottage-surrounded-by-zombies",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-course-without-protest",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-course-without-protest",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-course-without-protest",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-cursed-mask-coldly-laughs",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-cursed-mask-coldly-laughs",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-cursed-mask-coldly-laughs",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-dangerous-recipe",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-dangerous-recipe",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-dangerous-recipe",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-dispute-over-a-platinum-ticket",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-dispute-over-a-platinum-ticket",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-dispute-over-a-platinum-ticket",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-jewel-thief-caught-red-handed",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-jewel-thief-caught-red-handed",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-jewel-thief-caught-red-handed",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-woman-standing-by-the-window",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-woman-standing-by-the-window",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-a-woman-standing-by-the-window",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-akaoni-village-fire-festival-murder-case",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-akaoni-village-fire-festival-murder-case",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-akaoni-village-fire-festival-murder-case",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-ballad-of-the-woman-who-loved-cake",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-ballad-of-the-woman-who-loved-cake",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-ballad-of-the-woman-who-loved-cake",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-bathroom-where-ran-collapsed-as-well",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-bathroom-where-ran-collapsed-as-well",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-bathroom-where-ran-collapsed-as-well",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-beckoning-cat-from-right-to-left",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-beckoning-cat-from-right-to-left",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-beckoning-cat-from-right-to-left",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-bodyguard-kogoro-mouri",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-bodyguard-kogoro-mouri",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-bodyguard-kogoro-mouri",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-cactus-capriccio",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-cactus-capriccio",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-cactus-capriccio",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-chinatown-deja-vu-in-the-rain",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-chinatown-deja-vu-in-the-rain",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-chinatown-deja-vu-in-the-rain",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-clam-digging-with-a-sigh",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-clam-digging-with-a-sigh",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-clam-digging-with-a-sigh",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-conan-and-ebizo-s-kabuki-j-hachiban-mystery",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-conan-and-ebizo-s-kabuki-j-hachiban-mystery",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-conan-and-ebizo-s-kabuki-j-hachiban-mystery",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-conan-and-heiji-s-nue-legend",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-conan-and-heiji-s-nue-legend",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-conan-and-heiji-s-nue-legend",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-conan-and-megure-s-two-hostages",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-conan-and-megure-s-two-hostages",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-conan-and-megure-s-two-hostages",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-courtroom-confrontation-iv-juror-sumiko-kobayashi",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-courtroom-confrontation-iv-juror-sumiko-kobayashi",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-courtroom-confrontation-iv-juror-sumiko-kobayashi",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-dancing-demon-at-the-noh-mask-mansion",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-dancing-demon-at-the-noh-mask-mansion",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-dancing-demon-at-the-noh-mask-mansion",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-english-teacher-vs-great-western-detective",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-english-teacher-vs-great-western-detective",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-english-teacher-vs-great-western-detective",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-eyewitness-testimony-seven-years-later",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-eyewitness-testimony-seven-years-later",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-eyewitness-testimony-seven-years-later",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-find-the-buttock-s-mark",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-find-the-buttock-s-mark",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-find-the-buttock-s-mark",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-froth-steam-and-smoke",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-froth-steam-and-smoke",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-froth-steam-and-smoke",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-heiji-hattori-and-the-vampire-mansion",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-heiji-hattori-and-the-vampire-mansion",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-heiji-hattori-and-the-vampire-mansion",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-hidden-bathroom-secret",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-hidden-bathroom-secret",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-hidden-bathroom-secret",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-houseboat-fishing-shock",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-houseboat-fishing-shock",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-houseboat-fishing-shock",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-i-cannot-lie-to-archery",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-i-cannot-lie-to-archery",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-i-cannot-lie-to-archery",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-jodie-s-memories-and-the-cherry-blossom-viewing-trap",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-jodie-s-memories-and-the-cherry-blossom-viewing-trap",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-jodie-s-memories-and-the-cherry-blossom-viewing-trap",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-kaga-hyakumangoku-mystery-tour",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-kaga-hyakumangoku-mystery-tour",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-kaga-hyakumangoku-mystery-tour",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-kaitou-kid-and-the-four-masterpieces",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-kaitou-kid-and-the-four-masterpieces",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-kaitou-kid-and-the-four-masterpieces",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-kogoro-mouri-s-imposter",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-kogoro-mouri-s-imposter",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-kogoro-mouri-s-imposter",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-kogoro-mouri-suspect",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-kogoro-mouri-suspect",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-kogoro-mouri-suspect",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-makoto-kyogoku-the-understudy",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-makoto-kyogoku-the-understudy",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-makoto-kyogoku-the-understudy",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-metropolitan-police-detective-love-story-9",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-metropolitan-police-detective-love-story-9",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-metropolitan-police-detective-love-story-9",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-mitsuhiko-tsuburaya-s-detective-notes-2",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-mitsuhiko-tsuburaya-s-detective-notes-2",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-mitsuhiko-tsuburaya-s-detective-notes-2",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-mystery-of-the-burning-tent",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-mystery-of-the-burning-tent",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-mystery-of-the-burning-tent",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-nagasaki-mystery-theatre",
+   "field": "culprit",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-nagasaki-mystery-theatre",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-nagasaki-mystery-theatre",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-nagasaki-mystery-theatre",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-solving-mysteries-at-the-poirot-caf",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-solving-mysteries-at-the-poirot-caf",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-solving-mysteries-at-the-poirot-caf",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-tv-station-murder-case",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-tv-station-murder-case",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-tv-station-murder-case",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-taiko-meijin-s-shogi-board",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-taiko-meijin-s-shogi-board",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-taiko-meijin-s-shogi-board",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-teitan-high-school-s-ghost-story",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-teitan-high-school-s-ghost-story",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-teitan-high-school-s-ghost-story",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-14th-round-of-the-matsue-tamatsukuri-linked-verse-contest",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-14th-round-of-the-matsue-tamatsukuri-linked-verse-contest",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-14th-round-of-the-matsue-tamatsukuri-linked-verse-contest",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-17-year-old-truth",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-17-year-old-truth",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-17-year-old-truth",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-36-cell-perfect-game",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-36-cell-perfect-game",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-36-cell-perfect-game",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-3-k-s-of-osaka-case",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-3-k-s-of-osaka-case",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-3-k-s-of-osaka-case",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-actress-blogger-s-locked-room-case",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-actress-blogger-s-locked-room-case",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-actress-blogger-s-locked-room-case",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-akabeko-and-the-three-lucky-men",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-akabeko-and-the-three-lucky-men",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-akabeko-and-the-three-lucky-men",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-antique-tray-can-t-be-hidden",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-antique-tray-can-t-be-hidden",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-antique-tray-can-t-be-hidden",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-battle-game-trap",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-battle-game-trap",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-battle-game-trap",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-black-wings-of-icarus",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-black-wings-of-icarus",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-black-wings-of-icarus",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-blank-year",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-blank-year",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-blank-year",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-body-on-the-gunma-nagano-border",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-body-on-the-gunma-nagano-border",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-body-on-the-gunma-nagano-border",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-boiled-fugu-mystery-tour-showdown",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-boiled-fugu-mystery-tour-showdown",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-boiled-fugu-mystery-tour-showdown",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-broken-horoscope",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-broken-horoscope",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-broken-horoscope",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-charismatic-ceo-s-secret-plan",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-charismatic-ceo-s-secret-plan",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-charismatic-ceo-s-secret-plan",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-darkness-of-the-prefectural-police",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-darkness-of-the-prefectural-police",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-darkness-of-the-prefectural-police",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-descent-into-hell-tour-of-love",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-descent-into-hell-tour-of-love",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-descent-into-hell-tour-of-love",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-detective-boys-get-out-of-the-rain",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-detective-boys-get-out-of-the-rain",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-detective-boys-get-out-of-the-rain",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-detective-boys-vs-the-silver-detectives",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-detective-boys-vs-the-silver-detectives",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-detective-boys-vs-the-silver-detectives",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-ex-boyfriend-living-next-to-a-crime-scene",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-ex-boyfriend-living-next-to-a-crime-scene",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-ex-boyfriend-living-next-to-a-crime-scene",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-fearful-legend-of-the-snowy-night",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-fearful-legend-of-the-snowy-night",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-fearful-legend-of-the-snowy-night",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-figure-that-was-too-good",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-figure-that-was-too-good",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-figure-that-was-too-good",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-final-screening-murder-case",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-final-screening-murder-case",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-final-screening-murder-case",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-flowerbed-vandal-s-scheme",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-flowerbed-vandal-s-scheme",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-flowerbed-vandal-s-scheme",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-footprintless-beach",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-footprintless-beach",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-footprintless-beach",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-framed-great-detective",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-framed-great-detective",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-framed-great-detective",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-glamping-mystery",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-glamping-mystery",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-glamping-mystery",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-hot-chocolate-trap",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-hot-chocolate-trap",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-hot-chocolate-trap",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-inauspicious-matchmaking",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-inauspicious-matchmaking",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-inauspicious-matchmaking",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-kendo-tournament-of-love-and-mystery",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-kendo-tournament-of-love-and-mystery",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-kendo-tournament-of-love-and-mystery",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-last-gift",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-last-gift",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-last-gift",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-locked-bathroom-murder-case",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-locked-bathroom-murder-case",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-locked-bathroom-murder-case",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-lovebirds-ruse",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-lovebirds-ruse",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-lovebirds-ruse",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-mysterious-retro-room-case",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-mysterious-retro-room-case",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-mysterious-retro-room-case",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-night-before-the-wedding-locked-room-case",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-night-before-the-wedding-locked-room-case",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-night-before-the-wedding-locked-room-case",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-nocturne-of-red-murderous-intent",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-nocturne-of-red-murderous-intent",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-nocturne-of-red-murderous-intent",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-north-star-no-3-express-leaving-ueno",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-north-star-no-3-express-leaving-ueno",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-north-star-no-3-express-leaving-ueno",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-pop-up-book-bomber",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-pop-up-book-bomber",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-pop-up-book-bomber",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-queen-s-weather-forecast",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-queen-s-weather-forecast",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-queen-s-weather-forecast",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-revival-of-the-dying-message",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-revival-of-the-dying-message",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-revival-of-the-dying-message",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-romance-novel-with-the-unexpected-conclusion",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-romance-novel-with-the-unexpected-conclusion",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-romance-novel-with-the-unexpected-conclusion",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-roses-in-the-vineyard",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-roses-in-the-vineyard",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-roses-in-the-vineyard",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-sealed-western-style-window",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-sealed-western-style-window",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-sealed-western-style-window",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-secret-hidden-by-the-cards",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-secret-hidden-by-the-cards",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-secret-hidden-by-the-cards",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-secret-of-the-statue-of-kogoro-mouri",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-secret-of-the-statue-of-kogoro-mouri",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-secret-of-the-statue-of-kogoro-mouri",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-silent-loop-line",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-silent-loop-line",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-silent-loop-line",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-spirit-detective-s-murder",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-spirit-detective-s-murder",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-spirit-detective-s-murder",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-streetcar-s-sudden-stopping-case",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-streetcar-s-sudden-stopping-case",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-streetcar-s-sudden-stopping-case",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-sullied-masked-hero",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-sullied-masked-hero",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-sullied-masked-hero",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-suspected-infidelity-of-the-triple-collab",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-suspected-infidelity-of-the-triple-collab",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-suspected-infidelity-of-the-triple-collab",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-suspects-are-a-passionate-couple",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-suspects-are-a-passionate-couple",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-suspects-are-a-passionate-couple",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-suspicious-walking-path",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-suspicious-walking-path",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-suspicious-walking-path",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-target-is-the-metropolitan-police-traffic-department",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-target-is-the-metropolitan-police-traffic-department",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-target-is-the-metropolitan-police-traffic-department",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-targeted-chicken-sexer",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-targeted-chicken-sexer",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-targeted-chicken-sexer",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-troublesome-emergency-patient",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-troublesome-emergency-patient",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-troublesome-emergency-patient",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-twenty-year-old-murderous-intent-the-symphony-serial-murder-case",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-twenty-year-old-murderous-intent-the-symphony-serial-murder-case",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-twenty-year-old-murderous-intent-the-symphony-serial-murder-case",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-unfriendly-girls-band",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-unfriendly-girls-band",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-unfriendly-girls-band",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-unsolved-cocktail-case",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-unsolved-cocktail-case",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-unsolved-cocktail-case",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-ventriloquist-s-illusion",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-ventriloquist-s-illusion",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-ventriloquist-s-illusion",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-whistling-bookstore-3",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-whistling-bookstore-3",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-whistling-bookstore-3",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-witch-enshrouded-by-fog",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-witch-enshrouded-by-fog",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-the-witch-enshrouded-by-fog",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-thoroughbred-kidnapping-case",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-thoroughbred-kidnapping-case",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-thoroughbred-kidnapping-case",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-troublesome-kindness",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-troublesome-kindness",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-troublesome-kindness",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-underwater-key-in-the-locked-room-case",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-underwater-key-in-the-locked-room-case",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-underwater-key-in-the-locked-room-case",
+   "field": "evidence",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-you-can-hear-the-tengu-s-voice",
+   "field": "motive",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-you-can-hear-the-tengu-s-voice",
+   "field": "method",
+   "reason": "already_has_value"
+  },
+  {
+   "caseId": "case-you-can-hear-the-tengu-s-voice",
+   "field": "evidence",
+   "reason": "already_has_value"
+  }
+ ]
+}

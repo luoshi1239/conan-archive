@@ -1,0 +1,90 @@
+[
+  {
+    "id":"gadget-stun-gun-wristwatch",
+    "name":{"zhHans":"麻醉手表","zhHant":"麻醉手錶","ja":"腕時計型麻酔銃","en":"Stun-Gun Wristwatch"},
+    "kind":"gadget",
+    "spoiler":1,
+    "status":"reviewed",
+    "summary":"阿笠博士为柯南制作的腕表型麻醉装置，通常用于让目标暂时失去意识。",
+    "userRefs":["character-conan-edogawa"],
+    "relations":[],
+    "sources":["src-detective-conan-world-gadgets","src-detective-conan-world-wristwatch"]
+  },
+  {
+    "id":"gadget-voice-changing-bowtie",
+    "name":{"zhHans":"变声蝴蝶结","zhHant":"變聲蝴蝶結","ja":"蝶ネクタイ型変声機","en":"Voice-Changing Bowtie"},
+    "kind":"gadget",
+    "spoiler":1,
+    "status":"reviewed",
+    "summary":"通过旋钮改变声音，常与麻醉手表配合，使柯南能够借用他人身份进行推理。",
+    "userRefs":["character-conan-edogawa"],
+    "relations":["gadget-stun-gun-wristwatch"],
+    "sources":["src-detective-conan-world-gadgets","src-detective-conan-world-bowtie"]
+  },
+  {
+    "id":"gadget-criminal-tracking-glasses",
+    "name":{"zhHans":"犯人追踪眼镜","zhHant":"犯人追蹤眼鏡","ja":"犯人追跡メガネ","en":"Criminal Tracking Glasses"},
+    "kind":"gadget",
+    "spoiler":1,
+    "status":"reviewed",
+    "summary":"用于追踪目标位置的眼镜型装置，配合发信器使用，是柯南常用的调查工具。",
+    "userRefs":["character-conan-edogawa"],
+    "relations":["gadget-earring-cellphone"],
+    "sources":["src-detective-conan-world-gadgets","src-detective-conan-world-tracking-glasses"]
+  },
+  {
+    "id":"gadget-turbo-skateboard",
+    "name":{"zhHans":"太阳能涡轮滑板","zhHant":"太陽能渦輪滑板","ja":"ターボエンジン付きスケートボード","en":"Turbo Engine Skateboard"},
+    "kind":"gadget",
+    "spoiler":1,
+    "status":"reviewed",
+    "summary":"使用太阳能驱动的滑板，用于追踪、逃脱和快速移动；在动画中经常承担动作场景功能。",
+    "userRefs":["character-conan-edogawa"],
+    "relations":["gadget-power-enhancing-shoes"],
+    "sources":["src-detective-conan-world-gadgets","src-detective-conan-world-skateboard"]
+  },
+  {
+    "id":"gadget-power-enhancing-shoes",
+    "name":{"zhHans":"增强脚力鞋","zhHant":"增強腳力鞋","ja":"キック力増強シューズ","en":"Power-Enhancing Kick Shoes"},
+    "kind":"gadget",
+    "spoiler":1,
+    "status":"reviewed",
+    "summary":"通过刺激脚部肌肉增强踢击力量，是柯南解决案件和应对危险时最具代表性的道具之一。",
+    "userRefs":["character-conan-edogawa"],
+    "relations":[],
+    "sources":["src-detective-conan-world-gadgets"]
+  },
+  {
+    "id":"gadget-earring-cellphone",
+    "name":{"zhHans":"耳环型手机","zhHant":"耳環型手機","ja":"イヤリング型携帯電話","en":"Earring Cellphone"},
+    "kind":"gadget",
+    "spoiler":1,
+    "status":"catalog",
+    "summary":"早期使用的通讯型道具，将手机伪装为耳环，后来随着通讯设备更新逐渐减少出现。",
+    "userRefs":["character-conan-edogawa"],
+    "relations":["gadget-criminal-tracking-glasses"],
+    "sources":["src-detective-conan-world-gadgets","src-detective-conan-world-earring-phone"]
+  },
+  {
+    "id":"gadget-bowling-ball-launcher",
+    "name":{"zhHans":"便携式足球射出装置","zhHant":"攜帶式足球射出裝置","ja":"携帯用サッカーゴール型射出装置","en":"Portable Soccer Ball Launcher"},
+    "kind":"gadget",
+    "spoiler":1,
+    "status":"catalog",
+    "summary":"与足球腰带等道具配合使用的发射装置，用于将充气足球快速射出。",
+    "userRefs":["character-conan-edogawa"],
+    "relations":[],
+    "sources":["src-detective-conan-world-gadgets"]
+  },
+  {
+    "id":"gadget-detective-boys-badge",
+    "name":{"zhHans":"少年侦探团徽章","zhHant":"少年偵探團徽章","ja":"探偵バッジ","en":"Detective Boys Badge"},
+    "kind":"gadget",
+    "spoiler":1,
+    "status":"reviewed",
+    "summary":"少年侦探团成员使用的通讯徽章，用于联络和传递位置等基础信息。",
+    "userRefs":["character-conan-edogawa"],
+    "relations":[],
+    "sources":["src-detective-conan-world-gadgets"]
+  }
+]

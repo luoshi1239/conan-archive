@@ -1,0 +1,66 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-27",
+ "source": "src-detective-conan-world-anime",
+ "sourceUrl": "https://www.detectiveconanworld.com/wiki/Anime",
+ "counts": {
+  "dcwEpisodes": 1214,
+  "localEpisodes": 1216,
+  "mangaSources": 637,
+  "animeOriginal": 577,
+  "unknownSource": 0,
+  "airDateConflicts": 0,
+  "adaptationConflicts": 2,
+  "missingInDcw": 4,
+  "missingInLocal": 2
+ },
+ "missingInDcw": [
+  {
+   "number": 1029,
+   "localTitle": "警察学校編 Wild Police Story CASE. 松田陣平"
+  },
+  {
+   "number": 1038,
+   "localTitle": "警察学校編 Wild Police Story CASE. 伊達航"
+  },
+  {
+   "number": 1042,
+   "localTitle": "警察学校編 Wild Police Story CASE. 萩原研二"
+  },
+  {
+   "number": 1061,
+   "localTitle": "警察学校編 Wild Police Story CASE. 諸伏景光"
+  }
+ ],
+ "missingInLocal": [
+  1217,
+  1218
+ ],
+ "airDateConflicts": [],
+ "adaptationConflicts": [
+  {
+   "number": 86,
+   "local": "anime-original",
+   "dcw": "manga-special-volume",
+   "dcwRaw": "SV1 - F2",
+   "localMangaRefs": [
+    "file-002"
+   ],
+   "resolution": "pending-human-review"
+  },
+  {
+   "number": 113,
+   "local": "anime-original",
+   "dcw": "manga-special-volume",
+   "dcwRaw": "SV1 - F6",
+   "localMangaRefs": [
+    "file-006"
+   ],
+   "resolution": "pending-human-review"
+  }
+ ],
+ "mangaRefWithoutMangaSource": [],
+ "notes": [
+  "mangaFiles 仅收录 Manga source 括号内的全局 File 号；无括号号段（如 'SV1 - F6'）不推算，留空以免造假。"
+ ]
+}

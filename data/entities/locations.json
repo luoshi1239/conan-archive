@@ -1,0 +1,61 @@
+[
+  {
+    "id": "location-tropical-land",
+    "name": {"zhHans": "多罗碧加乐园", "zhHant": "多羅碧加樂園", "ja": "トロピカルランド", "en": "Tropical Land"},
+    "kind": "theme-park",
+    "spoiler": 1,
+    "status": "reviewed",
+    "summary": "工藤新一遭遇黑衣组织并发生缩小事件的关键地点，是故事主线的起点。",
+    "relatedCases": ["case-roller-coaster-murder"],
+    "relatedArcs": ["arc-shrinking-event"],
+    "sources": ["src-detective-conan-world-timeline", "src-detective-conan-world-manga"]
+  },
+  {
+    "id": "location-moon-shadow-island",
+    "name": {"zhHans": "月影岛", "zhHant": "月影島", "ja": "月影島", "en": "Moon Shadow Island"},
+    "kind": "island",
+    "spoiler": 1,
+    "status": "reviewed",
+    "summary": "月影岛事件的主要舞台，案件以岛上人物、音乐线索和连续事件展开。",
+    "relatedCases": ["case-moon-shadow-island"],
+    "sources": ["src-detective-conan-world-manga", "src-detective-conan-world-anime"]
+  },
+  {
+    "id": "location-beika-town",
+    "name": {"zhHans": "米花町", "zhHant": "米花町", "ja": "米花町", "en": "Beika Town"},
+    "kind": "city-district",
+    "spoiler": 1,
+    "status": "catalog",
+    "summary": "柯南日常生活与大量案件发生的主要城市空间，包含学校、事务所、街区和公共设施。",
+    "sources": ["src-detective-conan-world-anime", "src-detective-conan-world-timeline"]
+  },
+  {
+    "id": "location-mystery-train",
+    "name": {"zhHans": "铃木特快列车", "zhHant": "鈴木特快列車", "ja": "ベルツリー急行", "en": "Bell Tree Express"},
+    "kind": "train",
+    "spoiler": 2,
+    "status": "reviewed",
+    "summary": "漆黑的特快列车篇章的主要舞台，多方身份、变装和组织行动在列车空间内交错。",
+    "relatedCases": ["case-mystery-train"],
+    "relatedArcs": ["arc-mystery-train"],
+    "sources": ["src-conanpedia-mystery-train", "src-detective-conan-world-bo-timeline"]
+  },
+  {
+    "id": "location-mouri-detective-office",
+    "name": {"zhHans": "毛利侦探事务所", "zhHant": "毛利偵探事務所", "ja": "毛利探偵事務所", "en": "Mouri Detective Agency"},
+    "kind": "detective-office",
+    "spoiler": 1,
+    "status": "catalog",
+    "summary": "毛利小五郎工作的事务所，也是柯南长期生活、接触案件和建立日常关系网络的核心场所。",
+    "sources": ["src-detective-conan-world-characters", "src-detective-conan-world-timeline"]
+  },
+  {
+    "id": "location-teitan-high-school",
+    "name": {"zhHans": "帝丹高中", "zhHant": "帝丹高中", "ja": "帝丹高校", "en": "Teitan High School"},
+    "kind": "school",
+    "spoiler": 1,
+    "status": "catalog",
+    "summary": "工藤新一、毛利兰等角色的学校空间，连接校园日常与案件场景。",
+    "sources": ["src-detective-conan-world-characters", "src-detective-conan-world-anime"]
+  }
+]

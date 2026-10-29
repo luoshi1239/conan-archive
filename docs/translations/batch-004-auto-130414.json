@@ -1,0 +1,62 @@
+{
+ "batch": 4,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-ex-boyfriend-living-next-to-a-crime-scene",
+   "field": "culprit",
+   "zhHans": "Naganobu Itami"
+  },
+  {
+   "caseId": "case-the-ex-boyfriend-living-next-to-a-crime-scene",
+   "field": "motive",
+   "zhHans": "因为他的妻子沉迷于高风险的股票投机，甚至把他们的公寓抵押了出去。他之所以暴露，是因为他用公用电话打给自己的手机，而那部手机换上了与妻子手机相同的手机壳，好让这一切成为他诡计的一环。字迹之所以颤抖，是因为飞机当时即将坠毁。"
+  },
+  {
+   "caseId": "case-the-ex-boyfriend-living-next-to-a-crime-scene",
+   "field": "method",
+   "zhHans": "他之所以暴露，是因为他用公用电话打给自己的手机，而那部手机换上了与妻子手机相同的手机壳，好让这一切成为他诡计的一环。"
+  },
+  {
+   "caseId": "case-the-ex-boyfriend-living-next-to-a-crime-scene",
+   "field": "evidence",
+   "zhHans": "那张字条还提到了受害人对丈夫造成的「伤」，丈夫自称是脸上的瘀伤，但儿子透露四年前在那场坠机事故发生前不久，受害人失手弄断了丈夫的脚。最后揭晓 Shukichi Haneda 是职业将棋棋手。"
+  },
+  {
+   "caseId": "case-the-ex-boyfriend-living-next-to-a-crime-scene",
+   "field": "resolution",
+   "zhHans": "犯人是 Naganobu Itami。因为他的妻子沉迷于高风险的股票投机，甚至把他们的公寓抵押了出去。他之所以暴露，是因为他用公用电话打给自己的手机，而那部手机换上了与妻子手机相同的手机壳，好让这一切成为他诡计的一环。"
+  },
+  {
+   "caseId": "case-the-figure-that-was-too-good",
+   "field": "culprit",
+   "zhHans": "Shunichi Morishita"
+  },
+  {
+   "caseId": "case-the-figure-that-was-too-good",
+   "field": "motive",
+   "zhHans": "他的母亲生了病，他向 Kitajima 借了钱。但由于 Kitajima 高得离谱的利息，Morishita 的债务不断膨胀，无力偿还。"
+  },
+  {
+   "caseId": "case-the-figure-that-was-too-good",
+   "field": "method",
+   "zhHans": "他衬衫上污渍的颜色，与他用在立体模型上的机器人颜色并不相符，那些机器人用的是非常鲜艳的颜色。他所使用的颜料就在他的颜料盒里。"
+  },
+  {
+   "caseId": "case-the-figure-that-was-too-good",
+   "field": "evidence",
+   "zhHans": "证据就是他衬衫上的颜料污渍。至于凶器，是一把事先涂成自然浅绿色的刀，被藏在房间里的花束中。"
+  },
+  {
+   "caseId": "case-the-figure-that-was-too-good",
+   "field": "resolution",
+   "zhHans": "犯人是 Shunichi Morishita。证据就是他衬衫上的颜料污渍。他衬衫上污渍的颜色，与他用在立体模型上的机器人颜色并不相符，那些机器人用的是非常鲜艳的颜色。但污渍的颜色却与展出的立体模型的颜色相符。Morishita 透露，Kitajima 强迫 Morishita 为他制作模型。他的母亲生了病，他向 Kitajima 借了钱。但由于 Kitajima 高得离谱的利息，Morishita 的债务不断膨胀，无力偿还。至于凶器，是一把事先涂成自然浅绿色的刀，被藏在房间里的花束中。他所使用的颜料就在他的颜料盒里。"
+  },
+  {
+   "caseId": "case-the-four-porsches",
+   "field": "culprit",
+   "zhHans": "Kaoru Taiyama"
+  }
+ ]
+}

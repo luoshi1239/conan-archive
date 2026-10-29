@@ -1,0 +1,780 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-27",
+ "applied": 0,
+ "promotedToDeepSpoilers": 0,
+ "casesWithCulprit": 242,
+ "casesWithFullL3": 46,
+ "casesTotal": 792,
+ "skipped": [
+  {
+   "page": "A_Cottage_Surrounded_by_Zombies",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "A_Course_Without_Protest",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "A_Cursed_Mask_Coldly_Laughs",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "A_Day_Without_Conan",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "A_Dispute_Over_a_Platinum_Ticket",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "A_Ghost_Ship_Murder_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "A_Jewel_Thief_Caught_Red-Handed",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "A_Woman_Standing_by_the_Window",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Akaoni_Village_Fire_Festival_Murder_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "An_Unconfirmed_Shocking_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Ballad_of_the_Woman_Who_Loved_Cake",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Bathroom_Where_Ran_Collapsed_As_Well",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Beckoning_Cat_from_Right_to_Left",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Bodyguard_Kogoro_Mouri",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Cactus_Capriccio",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Chihaya_and_Jugo's_Matchmaking_Party",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Chinatown_Deja_Vu_in_the_Rain",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Clam_Digging_With_a_Sigh",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Co-Investigating_with_a_First_Love",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Conan_and_Ebizo's_Kabuki_Jūhachiban_Mystery",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Conan_and_Heiji's_Deduction_Magic",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Conan_and_Heiji's_Nue_Legend",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Conan_and_Megure's_Two_Hostages",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Courtroom_Confrontation_II__Kisaki_vs._Kujo",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Courtroom_Confrontation_IV__Juror_Sumiko_Kobayashi",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Dancing_Demon_at_the_Noh_Mask_Mansion",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Deduction_Showdown_at_the_Haunted_Hotel",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Detective_Takagi_Finds_30_Million_Yen",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Detective_Takagi_On_the_Run_in_Handcuffs",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Detectives_Don't_Sleep",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "English_Teacher_vs._Great_Western_Detective",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Eyewitness_Testimony_Seven_Years_Later",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Find_the_Buttock's_Mark",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Froth,_Steam,_and_Smoke",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Genta's_Certain_Kill_Shot",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Heiji_Hattori_and_the_Vampire_Mansion",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Hidden_Bathroom_Secret",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Hidden_Circumstances_of_the_Falling_Incident",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Hooligan's_Labyrinth",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Houseboat_Fishing_Shock",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "I_Cannot_Lie_to_Archery",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Jodie's_Memories_and_the_Cherry_Blossom_Viewing_Trap",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Kaga_Hyakumangoku_Mystery_Tour",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Kaitou_Kid_and_the_Four_Masterpieces",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Kogoro_Mouri's_Imposter",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Kogoro_Mouri,_Suspect",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Kogoro_in_the_Bar",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Library_Murder_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Makoto_Kyogoku_the_Understudy",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Metropolitan_Police_Detective_Love_Story_7",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Metropolitan_Police_Detective_Love_Story_9",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Mirage_of_the_Disappearing_Angel",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Mitsuhiko_Tsuburaya's_Detective_Notes_2",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Momiji_Ooka's_Sweet_Trap",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Munch's_Missing_Scream",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Murder_at_the_Townhouse_Café",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Mysterious_Case_in_a_Hot_Air_Balloon",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Mystery_of_the_Burning_Tent",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Photo_E-mail_from_the_Clown",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Riddle_Granny_Disappearance_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Solving_Mysteries_at_the_Poirot_Café",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Stage_Actress_Murder_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "TV_Station_Murder_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Taiko_Meijin's_Shogi_Board",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Teimuzu_River_Kite_Flying_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Teitan_High_School's_Ghost_Story",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_14th_Round_of_the_Matsue_Tamatsukuri_Linked_Verse_Contest",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_36-Cell_Perfect_Game",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_3_\"K\"s_of_Osaka_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Actress_Blogger's_Locked_Room_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Akabeko_and_the_Three_Lucky_Men",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Alley_of_Sad_Betrayal",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Antique_Tray_Can't_Be_Hidden",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Battle_Game_Trap",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Beauty,_The_Lies,_and_The_Secrets",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Birthday_Party_of_Divine_Punishment",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Black_Wings_of_Icarus",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Blank_Year",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Body_on_the_Gunma-Nagano_Border",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Boiled_Fugu_Mystery_Tour_Showdown",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Broken_Fishbowl",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Broken_Horoscope",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Case_of_Ayumi's_Illustrated_Diary",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Case_of_Ayumi's_Illustrated_Diary_5",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Charismatic_CEO's_Secret_Plan",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Cost_of_Likes",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Counting_Song_Heard_in_the_Dark",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Cursed_Museum",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Dangerous_Fossil_Finding_Trip",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Dark_Mountain_Route",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Darkness_of_the_Prefectural_Police",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Deadly_Pork_Soup_Signal",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Descent_Into_Hell_Tour_of_Love",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Design_of_Poison_and_Mirage",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Detective_Boys_VS_The_Silver_Detectives",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Detective_Boys_and_the_Four_Caterpillar_Brothers",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Detective_Boys_and_the_Ghost_Mansion",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Detective_Boys_and_the_Traditional_Dream_House",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Detective_Boys_and_the_Two_Leaders",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Detective_Boys_in_a_Grove",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Detective_Memoir_of_Monkey_and_Rake",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Diamond,_the_Painting,_and_the_Great_Actress",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Ex-Boyfriend_Living_Next_to_a_Crime_Scene",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Fearful_Legend_of_the_Snowy_Night",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Feuding_Girls",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Figure_That_Was_Too_Good",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Final_Screening_Murder_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Flowerbed_Vandal's_Scheme",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Footprintless_Beach",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Four_Porsches",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Framed_Great_Detective",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Freezing_Cold_Men",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Frying_Pan_of_Hatred",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Glamping_Mystery",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Golf_Driving_Range_Murder_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Gunshot_at_the_Sunflower_Estate",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_High_School_Girl_Trio's_Secret_Café",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Historical_Actor_Murder_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Hot_Chocolate_Trap",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Inauspicious_Matchmaking",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Ishikawa_Yorumasshi_Mystery",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Jet-Black_Mystery_Train",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Kamaitachi_Inn",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Kendo_Tournament_of_Love_and_Mystery",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Killer_Fist_of_Talos",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Last_Gift",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Locked_Bathroom_Murder_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Lovebirds'_Ruse",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Man_Who_Called_for_an_Ambulance",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Man_Who_Was_Betrayed_by_the_Sea",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Meguro_Sanma_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Mouri_Family_House_Sits",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Murdered_Famous_Detective",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Murderous_Carpool",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Mysterious_Prophetic_Buddha",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Mysterious_Punishment_From_Heaven",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Mysterious_Retro_Room_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Mystery_Weapon_Murder_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Mystery_of_the_Michelin_Starred_Restaurant",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Nocturne_of_Red_Murderous_Intent",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_North_Star_No.3_Express_Leaving_Ueno",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Northern_Kyushu_Mystery_Tour",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Pitfall_of_Fire_Precautions",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Pop-up_Book_Bomber",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Queen's_Weather_Forecast",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Radio_Questions_and_Concerns_Show",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Revival_of_the_Dying_Message",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Romance_Novel_with_the_Unexpected_Conclusion",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Roses_in_the_Vineyard",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Scenic_Lookout_with_the_Broken_Fence",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Sealed_Western-Style_Window",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Secret_Hidden_By_the_Cards",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Secret_of_the_Statue_of_Kogoro_Mouri",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Security_System's_Pitfall",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Seven_People_in_the_Waiting_Room",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Shadow_Approaching_Haibara's_Secret",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Silent_Loop_Line",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Sister_Troubled_By_Her_Naughty_Brother",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Skilled_Hawk_Hides_His_Crime",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Spirit_Detective's_Murder",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Streetcar's_Sudden_Stopping_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Sullied_Masked_Hero",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Sun_Sets_in_Tangerine_Fields",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Super_Car's_Trap",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Suspected_Infidelity_of_the_Triple_Collab",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Suspects_Are_a_Passionate_Couple",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Suspicious_Walking_Path",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Sweet_Voice_Heard_Through_the_Phone",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Target_is_the_Metropolitan_Police_Traffic_Department",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Targeted_Chicken_Sexer",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Train_Trick_Murder_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Treasure_Chest_Filled_with_Fruits",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Troublesome_Emergency_Patient",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Twenty_Year_Old_Murderous_Intent__The_Symphony_Serial_Murder_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Unfriendly_Girls_Band",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Unsolved_Cocktail_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Ventriloquist's_Illusion",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Water_Palace_of_Five_Colors_Legend",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Wedding_Reception_and_the_Two_Gunshots",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Whistling_Bookstore",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Whistling_Bookstore_2",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Whistling_Bookstore_3",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Window_at_the_Girls'_School",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Wordless_Witness",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "The_Yamahime_of_Yakushima",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Thoroughbred_Kidnapping_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Troublesome_Kindness",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Turning_Point_on_a_Driving_Date",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Underwater_Key_in_the_Locked_Room_Case",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Venus'_Kiss",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "Yoko_Okino_and_the_Locked_Attic",
+   "reason": "already-has-culprit"
+  },
+  {
+   "page": "You_Can_Hear_The_Tengu's_Voice",
+   "reason": "already-has-culprit"
+  }
+ ],
+ "skippedCount": 192
+}

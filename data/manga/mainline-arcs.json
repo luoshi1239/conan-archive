@@ -1,0 +1,154 @@
+[
+  {
+    "id": "arc-shrinking-event",
+    "title": "缩小事件与身份起点",
+    "kind": "mainline-arc",
+    "mangaRefs": [
+      "file-001"
+    ],
+    "animeRefs": [
+      "episode-0001"
+    ],
+    "spoiler": 1,
+    "status": "reviewed",
+    "summary": "工藤新一在游乐园目击组织交易，遭袭后身体缩小，并以江户川柯南身份展开调查。",
+    "sources": [
+      "src-detective-conan-world-timeline",
+      "src-detective-conan-world-manga"
+    ]
+  },
+  {
+    "id": "arc-vermouth",
+    "title": "贝尔摩德与满月之夜",
+    "kind": "organization-arc",
+    "mangaRefs": [
+      "file-429-434"
+    ],
+    "animeRefs": [
+      "episode-0345"
+    ],
+    "spoiler": 2,
+    "status": "reviewed",
+    "summary": "组织、变装、纽约往事与新一身份秘密交汇的关键篇章。",
+    "sources": [
+      "src-detective-conan-world-bo-timeline"
+    ]
+  },
+  {
+    "id": "arc-kir-clash",
+    "title": "红与黑的碰撞",
+    "kind": "organization-subarc",
+    "mangaRefs": [
+      "file-585-609"
+    ],
+    "animeRefs": [
+      "episode-0491-0504"
+    ],
+    "spoiler": 2,
+    "status": "reviewed",
+    "summary": "红与黑的碰撞对应动画第491至504集，围绕水无怜奈、CIA、FBI与黑衣组织的情报战展开，并拆分为起点、亡母遗物、假病人、最后王牌和第十三号等子段。",
+    "sources": [
+      "src-detective-conan-world-clash-red-black"
+    ]
+  },
+  {
+    "id": "arc-kir",
+    "title": "基尔与红黑对决",
+    "kind": "organization-arc",
+    "mangaRefs": [
+      "file-499-621"
+    ],
+    "animeRefs": [
+      "episode-0425-0508"
+    ],
+    "spoiler": 2,
+    "status": "reviewed",
+    "summary": "围绕水无怜奈、CIA、FBI和组织行动展开的长期情报战。",
+    "sources": [
+      "src-detective-conan-world-bo-timeline",
+      "src-detective-conan-world-cia"
+    ]
+  },
+  {
+    "id": "arc-bourbon",
+    "title": "波本调查线",
+    "kind": "organization-arc",
+    "mangaRefs": [
+      "file-622-?"
+    ],
+    "animeRefs": [],
+    "spoiler": 2,
+    "status": "catalog",
+    "summary": "围绕波本身份、安室透、冲矢昴和组织情报展开的主线阶段。具体卷页映射待继续校对。",
+    "sources": [
+      "src-detective-conan-world-bo-timeline",
+      "src-detective-conan-world-characters"
+    ]
+  },
+  {
+    "id": "arc-mystery-train",
+    "title": "漆黑的特快列车",
+    "kind": "organization-arc",
+    "mangaRefs": [
+      "file-818-824"
+    ],
+    "animeRefs": [
+      "episode-0701-0704"
+    ],
+    "spoiler": 2,
+    "status": "reviewed",
+    "summary": "组织在列车上追查雪莉，波本、贝尔摩德、基尔和柯南等多方计划同时展开。",
+    "sources": [
+      "src-conanpedia-mystery-train",
+      "src-detective-conan-world-bo-timeline"
+    ]
+  },
+  {
+    "id": "arc-rum",
+    "title": "朗姆调查线",
+    "kind": "organization-arc",
+    "mangaRefs": [
+      "file-?"
+    ],
+    "animeRefs": [
+      "episode-1077-1079"
+    ],
+    "spoiler": 2,
+    "status": "catalog",
+    "summary": "围绕组织二号人物朗姆、黑衣组织行动与灰原相关风险持续推进的阶段。具体漫画范围待逐条核对。",
+    "sources": [
+      "src-detective-conan-world-bo-timeline",
+      "src-detective-conan-world-bo-appearances"
+    ]
+  },
+  {
+    "id": "arc-kaito-kid",
+    "title": "怪盗基德与镜像对手线",
+    "kind": "character-arc",
+    "mangaRefs": [],
+    "animeRefs": [
+      "episode-0076",
+      "episode-0219",
+      "episode-0356",
+      "episode-0469-0470",
+      "episode-0515",
+      "episode-0537-0538",
+      "episode-0587",
+      "episode-0627-0628",
+      "episode-0724-0725",
+      "episode-0746-0747",
+      "episode-0887-0888",
+      "episode-0983-0984",
+      "episode-1105-1106",
+      "episode-1150-1151",
+      "episode-1193-1194"
+    ],
+    "spoiler": 1,
+    "status": "reviewed",
+    "summary": "以怪盗基德为中心的独立角色线，重点是预告、变装、宝石目标以及与柯南的镜像竞争。",
+    "sources": [
+      "src-detective-conan-world-characters",
+      "src-detective-conan-world-anime"
+    ]
+  }
+]

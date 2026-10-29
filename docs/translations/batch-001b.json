@@ -1,0 +1,108 @@
+{
+ "batch": 1,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "note": "忠实英文原文；英文本身字段边界混乱时照译并在 flagged.json 登记",
+ "items": [
+  {
+   "caseId": "case-the-locked-bathroom-murder-case",
+   "field": "culprit",
+   "zhHans": "Masayo Aoshima"
+  },
+  {
+   "caseId": "case-the-locked-bathroom-murder-case",
+   "field": "motive",
+   "zhHans": "化装成小五郎的柯南补充说，那瓶清洁剂之所以是温和型的，是因为 Mina 买它时是出于对 Masayo 的安全考虑——平时在家打扫浴室的正是 Masayo。"
+  },
+  {
+   "caseId": "case-the-locked-bathroom-murder-case",
+   "field": "method",
+   "zhHans": "起初，Masayo 的计划是把 Mina 锁在一间临时做成的「密室」里，用倒出的浴室清洁剂当作就地取材的「凶器」，想让她窒息而死。随后她丢下 Mina 的尸体，动身去看洋子的演唱会，并把小五郎用作自己的不在场证明。"
+  },
+  {
+   "caseId": "case-the-locked-bathroom-murder-case",
+   "field": "evidence",
+   "zhHans": "她在多年事事模仿、效法妹妹兼室友 Mina 之后杀害了她：起初她觉得这样很可爱、很有趣，后来却觉得毛骨悚然；当 Mina 告诉她，自己正在和她前男友 Kenji 交往，而且语气成了压垮她的最后一根稻草时，她终于失控。起初 Masayo 的计划是把 Mina 锁在一间临时做成的「密室」里，用倒出的浴室清洁剂当作就地取材的「凶器」，想让她窒息而死。"
+  },
+  {
+   "caseId": "case-the-locked-bathroom-murder-case",
+   "field": "resolution",
+   "zhHans": "犯人是 Masayo Aoshima。她在多年事事模仿、效法妹妹兼室友 Mina 之后杀害了她：起初她觉得这样很可爱、很有趣，后来却觉得毛骨悚然；当 Mina 告诉她，自己正在和她前男友 Kenji 交往，而且语气成了压垮她的最后一根稻草时，她终于失控。起初 Masayo 的计划是把 Mina 锁在一间临时做成的「密室」里，用倒出的浴室清洁剂当作就地取材的「凶器」，想让她窒息而死。但那种清洁剂太温和，于是 Masayo 把被害人击晕，往浴缸里注满水，割开 Mina 的手腕，把受伤的手臂浸在水里，好让她更快失血而死。随后她丢下 Mina 的尸体，动身去看洋子的演唱会，并把小五郎用作自己的不在场证明。"
+  },
+  {
+   "caseId": "case-the-night-before-the-wedding-locked-room-case",
+   "field": "culprit",
+   "zhHans": "Sakuraba"
+  },
+  {
+   "caseId": "case-the-night-before-the-wedding-locked-room-case",
+   "field": "motive",
+   "zhHans": "绳子是从屋外拉动的，而由于入口的门也锁着，这间房便被认为是密室。Sakuraba 打 Kikuhito，是为了让他撞上窗户、打碎玻璃，好让证据消失。Mikio 腿上有伤，做不到这一点。实际上根本没有用到任何诡计——因为 Kikuhito 从头到尾都待在房间里。这也就是百叶窗关着的原因，免得外面的人看见他藏在窗帘后面。由于他怕高，又必须处理掉凶器，别无选择，只好把它扔了出去。他始终没有提起这件事，是因为他不敢，想到会给对方造成的冲击。Shigematsu 并不想勒索他。他只是希望他放弃这桩婚事，好让 Kaede 和 Sakuraba 能在一起，不必像他当年那样承受同样的处境。"
+  },
+  {
+   "caseId": "case-the-night-before-the-wedding-locked-room-case",
+   "field": "method",
+   "zhHans": "借助一根带环的绳子和一点透明胶带，犯人就能制造出密室杀人。绳子是从屋外拉动的，而由于入口的门也锁着，这间房便被认为是密室。平次告诉大家，Sakuraba 是从阳台逃走的。他利用阳台下到下一层。他还能轻松地爬上树，所以借阳台逃走对他并不困难。平次和柯南故意诈他，声称 Sakuraba 就是凶手，并让 Kikuhito 去把平次和柯南先前发现的那捆凶器取回来。先前解释的那套诡计其实并没有被使用。实际上根本没有用到任何诡计——因为 Kikuhito 从头到尾都待在房间里。他还关掉灯，把尸体从一个房间拖到另一个房间，留下一道血迹。之后，Kikuhito 从窗帘后面出来，装出无辜的样子混进聚到现场的人群里。他把那只猫放进房间，为的是让 Sakuraba 的不在场证明站不住脚。"
+  },
+  {
+   "caseId": "case-the-night-before-the-wedding-locked-room-case",
+   "field": "evidence",
+   "zhHans": "他们指出犯人就是 Sakuraba。Sakuraba 打 Kikuhito，是为了让他撞上窗户、打碎玻璃，好让证据消失。至于证据，平次找到了一件沾满血迹的衬衫，那件衬衫是 Sakuraba 的。不过凶器至今下落不明。"
+  },
+  {
+   "caseId": "case-the-night-before-the-wedding-locked-room-case",
+   "field": "resolution",
+   "zhHans": "平次和柯南开始推理。他们指出犯人就是 Sakuraba。借助一根带环的绳子和一点透明胶带，犯人就能制造出密室杀人。Sakuraba 打 Kikuhito 时，打碎了尸体后方窗户上的玻璃。那扇窗上还有一个小孔。首先，他把绳环固定在窗锁上，把碎玻璃片装回去，再把绳子从孔里穿出。接着，他带着未上锁的窗户走到阳台，轻轻拉绳，让锁稍微向左滑动，把窗户锁上。然后他加大力气拉，使绳子从胶带上脱落。绳子是从屋外拉动的，而由于入口的门也锁着，这间房便被认为是密室。Sakuraba 打 Kikuhito，是为了让他撞上窗户、打碎玻璃，好让证据消失。平次告诉大家，Sakuraba 是从阳台逃走的。他利用阳台下到下一层。Mikio 腿上有伤，做不到这一点；Kaede 和 Yurie 穿的衣服也不适合这么做；至于 Kikuhito，他极度怕高。只剩一个人，那就是 Sakuraba。他还能轻松地爬上树，所以借阳台逃走对他并不困难。平次随后指出，Sakuraba 和 Kaede 其实是一对秘密恋人。他还揭示，Sakuraba 无法原谅 Shigematsu 安排 Kaede 与 Kikuhito 的婚事，因此杀了他。至于证据，平次找到了一件沾满血迹的衬衫，那件衬衫是 Sakuraba 的。Sakuraba 很快被捕。不过凶器至今下落不明。"
+  },
+  {
+   "caseId": "case-the-north-star-no-3-express-leaving-ueno",
+   "field": "culprit",
+   "zhHans": "Toshinori Kaetsu"
+  },
+  {
+   "caseId": "case-the-north-star-no-3-express-leaving-ueno",
+   "field": "motive",
+   "zhHans": "他之所以选在半夜的隧道里动手，是因为不想让下车的人看见挂在窗外的尸体。Kaetsu 脱离了团伙，打算同时向两个人复仇：逼迫他女友过量吸毒的 Asuma，以及向他女友出售毒品的 Izumo。"
+  },
+  {
+   "caseId": "case-the-north-star-no-3-express-leaving-ueno",
+   "field": "method",
+   "zhHans": "优作及时现身，向这位曾崇拜他作品的犯人揭示了手法与自己的身份。Kaetsu 化装成 Asama，用他的钓鱼装备让人以为 Asama 跳下了火车。他先将 Asama 击中头部致死，再用装了消音器的枪打碎车窗。接着，他把钓鱼线穿过对方裤子后侧的皮带环，将人吊在窗外。他把钓鱼线的一端系在滑轮上，另一端系在屋外固定物上。最后，他又用另一根钓鱼线，一端做成环，穿上一片胶带。他用这套手法把 Izumo 被杀的罪名栽到 Asama 头上。犯人作案时穿的那件衬衫，在他的行李里和化装衣物一起被找到了。"
+  },
+  {
+   "caseId": "case-the-north-star-no-3-express-leaving-ueno",
+   "field": "evidence",
+   "zhHans": "犯人作案时穿的那件衬衫，在他的行李里和化装衣物一起被找到了。这就是他确实是犯人的证据。Kaetsu 承认了这两起杀人，并供称自己是模仿了他所喜爱的一位名小说家的未发表作品。"
+  },
+  {
+   "caseId": "case-the-north-star-no-3-express-leaving-ueno",
+   "field": "resolution",
+   "zhHans": "然而，当列车抵达札幌站时，柯南与有希子被分开了，犯人趁机动手，企图把她推下轨道。杀人未遂。地点：北海道札幌市中央区札幌站。"
+  },
+  {
+   "caseId": "case-the-silent-loop-line",
+   "field": "culprit",
+   "zhHans": "Yukiko Mori"
+  },
+  {
+   "caseId": "case-the-silent-loop-line",
+   "field": "motive",
+   "zhHans": "这样，当 Kiyomi 戴上耳机时，针就会刺进她的耳朵，注入毒物，从而杀死她。两人上车时，Yukiko 取耳机花了很久——因为 Kiyomi 已陷入尸僵，耳机被卡住了，她用力一扯，竟把耳机扯断了。"
+  },
+  {
+   "caseId": "case-the-silent-loop-line",
+   "field": "method",
+   "zhHans": "凶器就是那副耳机：在把它交给 Kiyomi 之前，她已经在耳机上装了一根涂了毒的细针。这样，当 Kiyomi 戴上耳机时，针就会刺进她的耳朵，注入毒物，从而杀死她。"
+  },
+  {
+   "caseId": "case-the-silent-loop-line",
+   "field": "evidence",
+   "zhHans": "凶器就是那副耳机：在把它交给 Kiyomi 之前，她已经在耳机上装了一根涂了毒的细针。"
+  },
+  {
+   "caseId": "case-the-silent-loop-line",
+   "field": "resolution",
+   "zhHans": "犯人是 Yukiko Mori。首先，她知道 Kiyomi 会先出发，便到车站送行，并确认了她上车的时间。她算好了尸体绕行一圈回到车站所需的时间。凶器就是那副耳机：在把它交给 Kiyomi 之前，她已经在耳机上装了一根涂了毒的细针。这样，当 Kiyomi 戴上耳机时，针就会刺进她的耳朵，注入毒物，从而杀死她。"
+  }
+ ]
+}

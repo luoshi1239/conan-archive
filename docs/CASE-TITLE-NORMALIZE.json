@@ -1,0 +1,6 @@
+{
+ "generatedBy": "scripts/normalize-case-titles.py",
+ "policy": "titles → title 合并；已有值优先；zh 手写值保留；不翻译不编造",
+ "normalized": 0,
+ "items": []
+}

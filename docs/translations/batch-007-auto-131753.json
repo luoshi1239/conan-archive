@@ -1,0 +1,72 @@
+{
+ "batch": 7,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "items": [
+  {
+   "caseId": "case-the-inauspicious-matchmaking",
+   "field": "culprit",
+   "zhHans": "Tsurumi Shamoto"
+  },
+  {
+   "caseId": "case-the-inauspicious-matchmaking",
+   "field": "motive",
+   "zhHans": "那是因为桶里的冰融化了，这造成了动量的变化，对雪人的头施加了力，导致眼睛掉落。最终，随着真正的 Komoto 出现在神社里，服部平次的闹剧被揭穿，远山和叶说从一开始她就一眼认出了服部平次，因为他们从小就一直是朋友。"
+  },
+  {
+   "caseId": "case-the-inauspicious-matchmaking",
+   "field": "method",
+   "zhHans": "手铐逃脱手法 点击查看手法演示。江户川柯南演示了这个手法：利用手铐上的缝隙；把缆绳从底部向上穿过；把拳头穿过缆绳上的环；把缆绳拉过去。利用这个手法，她能够从灯柱上逃脱，并在回来时始终假装仍被困住。此外，为了藏起这件武器，她把桶倒扣在一个雪人的头上，把它伪装成雪人的装饰帽。她只是伪装自己，不认出也不看服部平次的后续表演，服部平次解释说他是来求神帮他相亲的，但远山和叶不知道服部平次是在为谁相亲，但那个人显然就是她自己。"
+  },
+  {
+   "caseId": "case-the-inauspicious-matchmaking",
+   "field": "evidence",
+   "zhHans": "旗杆是误导大家的红鲱鱼，并不是杀死受害者的实际武器。Tsurumi 先用真正的武器把受害者打昏，然后推他，让他沿台阶滑下去。实际上，Tsurumi 起初只是想在偷走手铐后逃跑，然而，当她走向出口、靠近台阶时，她又被受害者发现，受害者声称要再次抓住她。实际武器 实际武器恰好是一个原本放在水龙头旁的水桶。"
+  },
+  {
+   "caseId": "case-the-inauspicious-matchmaking",
+   "field": "resolution",
+   "zhHans": "犯人是 Tsurumi Shamoto。旗杆是误导大家的红鲱鱼，并不是杀死受害者的实际武器。Tsurumi 先用真正的武器把受害者打昏，然后推他，让他沿台阶滑下去。然后她从现场取出一面附近的旗子，用受害者的血把它染红，使它看起来像是在袭击过程中沾上了血。旗子的杆子事先被取出并放进盒子里，盒子里装着那面新旗子。制造出犯人带着旗杆逃跑的假象。"
+  },
+  {
+   "caseId": "case-the-window-at-the-girls-school",
+   "field": "culprit",
+   "zhHans": "Toichiro Shibagaki"
+  },
+  {
+   "caseId": "case-an-unconfirmed-shocking-case",
+   "field": "culprit",
+   "zhHans": "Naoki Murase"
+  },
+  {
+   "caseId": "case-mystery-train",
+   "field": "culprit",
+   "zhHans": "Satoru Ando"
+  },
+  {
+   "caseId": "case-the-akabeko-and-the-three-lucky-men",
+   "field": "culprit",
+   "zhHans": "Toshiharu Fukumoto"
+  },
+  {
+   "caseId": "case-the-akabeko-and-the-three-lucky-men",
+   "field": "motive",
+   "zhHans": "原来，Akabeko 原本是儿童玩具，用来避免感染天花并保护他们。"
+  },
+  {
+   "caseId": "case-the-akabeko-and-the-three-lucky-men",
+   "field": "method",
+   "zhHans": "铃木园子让嫌疑人脱下裤子，结果发现三人穿着兜裆布，除了 Fukumoto 的比其他的长得多，就这样，凶器被发现了。江户川柯南确信这就是凶器，因为当他跟着他来到厕所时，他听到 Fukumoto 进入的隔间里传出窸窣声，那是他摩擦兜裆布的声音。当他与她对质时，Motoko 回答说 Akabeko 艺术是她的，Fukumoto 应该庆幸没有被赶出去；Fukumoto 被激怒，最终失控，把她勒死了。"
+  },
+  {
+   "caseId": "case-the-akabeko-and-the-three-lucky-men",
+   "field": "evidence",
+   "zhHans": "铃木园子让嫌疑人脱下裤子，结果发现三人穿着兜裆布，除了 Fukumoto 的比其他的长得多，就这样，凶器被发现了。江户川柯南确信这就是凶器，因为当他跟着他来到厕所时，他听到 Fukumoto 进入的隔间里传出窸窣声，那是他摩擦兜裆布的声音。Fukumoto 试图为自己辩解，但决定性的证据是他兜裆布上的血迹，那是谋杀过程中沾上的。直到 Fukumoto 发现她签了一份合同，要在没有他的情况下开始一项新生意。"
+  },
+  {
+   "caseId": "case-the-akabeko-and-the-three-lucky-men",
+   "field": "resolution",
+   "zhHans": "江户川柯南让铃木园子昏睡过去，并开始推理。"
+  }
+ ]
+}

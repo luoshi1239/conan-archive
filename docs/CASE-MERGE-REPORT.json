@@ -1,0 +1,36 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-27",
+ "mergedEntities": 0,
+ "ambiguous": [
+  {
+   "page": "The_Cornered_Famous_Detective!_Two_Big_Murder_Cases",
+   "episodes": [
+    96
+   ],
+   "candidates": [
+    "case-tsukumo-magician-murder",
+    "case-yabuuchi-family-murder"
+   ]
+  },
+  {
+   "page": "The_Kirin's_Horn_That_Vanished_into_the_Dark",
+   "episodes": [
+    585,
+    586,
+    587
+   ],
+   "candidates": [
+    "case-kobayashi-sensei-s-love",
+    "case-the-kirin-s-horn-that-vanished-into-the-dark"
+   ]
+  }
+ ],
+ "ambiguousCount": 2,
+ "unmatched": [],
+ "unmatchedCount": 0,
+ "episodesCovered": 1217,
+ "episodesMissing": 0,
+ "missingRanges": [],
+ "casesTotal": 792
+}

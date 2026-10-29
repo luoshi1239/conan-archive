@@ -1,0 +1,53 @@
+{
+ "batch": 3,
+ "translator": "ai",
+ "glossaryVersion": "2026-10-27",
+ "suffix": "e",
+ "items": [
+  {
+   "caseId": "case-heiji-hattori-and-the-vampire-mansion",
+   "field": "culprit",
+   "zhHans": "Jouhei Hagawa"
+  },
+  {
+   "caseId": "case-heiji-hattori-and-the-vampire-mansion",
+   "field": "motive",
+   "zhHans": "Hakuya 买衣服当作送给 Hikaru 的礼物，是想弄清她的身材尺寸，好确定那条隧道该挖多宽。他预见自己会和 Mina 重新在一起，于是执行了计划，试图借此弄到钱。动机是为 Youko 复仇——Youko 那场「意外」死亡其实是 Jouhei、Shimizu、Kamiyo 和 Asanobu 合谋策划的。由于 Hakuya 是医生，他一定是给 Shimizu 下了某种药稀释她的血液，再用导管从她颈动脉把血抽出来。"
+  },
+  {
+   "caseId": "case-heiji-hattori-and-the-vampire-mansion",
+   "field": "method",
+   "zhHans": "Jouhei 悄悄潜到棺材下方的藏匿处，通过一条密道取走了那颗头颅。"
+  },
+  {
+   "caseId": "case-heiji-hattori-and-the-vampire-mansion",
+   "field": "evidence",
+   "zhHans": "Hikaru Hinohara 其实是 Hakuya 的女儿，依据是发现于他房间里的遗嘱和 DNA 报告。"
+  },
+  {
+   "caseId": "case-heiji-hattori-and-the-vampire-mansion",
+   "field": "resolution",
+   "zhHans": "凶手是 Jouhei Hagawa。Hikaru Hinohara 其实是 Hakuya 的女儿，依据是发现于他房间里的遗嘱和 DNA 报告。他用来逃脱的那条隧道是为 Hikaru 挖的。Hakuya 买衣服当作送给 Hikaru 的礼物，是想弄清她的身材尺寸，好确定那条隧道该挖多宽。他本想让 Hikaru 去执行他为她拟定的连环杀人计划。不过他也给了她不实施谋杀的选择。所有机关的做法是：他本要在早上、当她待在那间国外拷问室时告诉她，但 Jouhei 在她手机上拦截了那条讯息。他预见自己会和 Mina 重新在一起，于是执行了计划，试图借此弄到钱。Hakuya 为了让这些机关成立而枭首自杀。随计划一起的还有他的手机、冷冻室的钥匙，以及炸毁隧道的开关。动机是为 Youko 复仇——Youko 那场「意外」死亡其实是 Jouhei、Shimizu、Kamiyo 和 Asanobu 合谋策划的。由于 Hakuya 是医生，他一定是给 Shimizu 下了某种药稀释她的血液，再用导管从她颈动脉把血抽出来。Jouhei 悄悄潜到棺材下方的藏匿处，通过一条密道取走了那颗头颅。"
+  },
+  {
+   "caseId": "case-the-framed-great-detective",
+   "field": "culprit",
+   "zhHans": "Reiji Himuro"
+  },
+  {
+   "caseId": "case-the-framed-great-detective",
+   "field": "method",
+   "zhHans": "他改动了扶手，使其被削弱、一碰就断，然后把 Numao 诱到那里。他打电话过去，骗 Numao 以为警察在追他；Numao 看见一名警察朝自己走来，便跑上消防梯，从那处被动过手脚的护栏摔了下去。未遂谋杀 档案：EP707 Case2.jpg 地点：旧楼 受害者：毛利兰与毛利小五郎 年龄：17 岁与 37-38 岁 伤势：刺伤与殴打 凶手：Reiji Himuro 身份被揭穿为凶手后，他企图杀死毛利小五郎，被毛利兰拦下并由毛利小五郎制服。"
+  },
+  {
+   "caseId": "case-the-framed-great-detective",
+   "field": "evidence",
+   "zhHans": "面对所有证据、被证明有罪后，Himuro 拔刀袭击毛利小五郎，却被毛利兰拦下。"
+  },
+  {
+   "caseId": "case-the-framed-great-detective",
+   "field": "resolution",
+   "zhHans": "这是一起谋杀案。凶手是 Reiji Himuro。他改动了扶手，使其被削弱、一碰就断，然后把 Numao 诱到那里。他打电话过去，骗 Numao 以为警察在追他；Numao 看见一名警察朝自己走来，便跑上消防梯，从那处被动过手脚的护栏摔了下去。那通电话的一部分被一台开着的录音机录下，揭露了 Himuro 用虚假信息设局陷害 Numao、致使他惊慌失措坠楼身亡。面对所有证据、被证明有罪后，Himuro 拔刀袭击毛利小五郎，却被毛利兰拦下。"
+  }
+ ]
+}
