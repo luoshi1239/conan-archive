@@ -1396,9 +1396,15 @@ function setView(name) {
   }
   $$('.view').forEach((v) => v.classList.add('hidden'));
   if (name === 'overview') {
+    // 必须在这里清空：#archiveGrid 属于 #view-list 容器，切到总览时它只是被
+    // 隐藏而不是销毁，DOM 里还留着上一个视图的整页行。以前把清空写在
+    // renderList() 的 overview 分支里——但总览根本不调 renderList()，那段是死代码，
+    // 结果一旦 .hidden 没生效（旧 CSS 缓存、样式冲突）就会看到「总览复用上一页列表」。
+    $('#archiveGrid').innerHTML = '';
     $('#view-overview').classList.remove('hidden');
     renderOverview();
   } else if (name === 'graph') {
+    $('#archiveGrid').innerHTML = '';
     $('#view-graph').classList.remove('hidden');
     renderGraph();
   } else {
