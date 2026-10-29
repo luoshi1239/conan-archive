@@ -595,3 +595,37 @@ body.drawer-open .main { padding-right: calc(min(var(--drawer-w), 92vw) + 12px);
 .pm-name:hover { text-decoration: underline; }
 .pm-desc { flex: 1; color: var(--faint); font-size: 11px; }
 .pm-empty { display: block; padding: 14px 0; color: var(--faint); font-size: 12px; line-height: 1.7; }
+
+/* ── 加载态 ────────────────────────────────────────────────────
+   数据拆成索引 + 详情后，点开抽屉要等一次网络往返（本地 <5ms，
+   手机上 100~300ms）。这段期间必须给反馈，否则像点了没反应。 */
+.d-loading {
+  display: flex; align-items: center; gap: 8px;
+  color: var(--faint); font-size: 12.5px;
+}
+.d-spinner {
+  width: 12px; height: 12px; border-radius: 50%;
+  border: 2px solid var(--border);
+  border-top-color: var(--accent);
+  animation: hDSpin 0.7s linear infinite;
+  flex: none;
+}
+@keyframes hDSpin { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) {
+  .d-spinner { animation-duration: 2s; }
+}
+
+/* 首屏骨架：索引分片到达前先占位，避免白屏 */
+.skeleton-row {
+  height: 15px; margin: 13px 0; border-radius: 4px;
+  background: linear-gradient(90deg, var(--border) 25%, var(--card) 37%, var(--border) 63%);
+  background-size: 400% 100%;
+  animation: hDSkel 1.3s ease-in-out infinite;
+  opacity: 0.55;
+}
+.skeleton-row:nth-child(3n) { width: 62%; }
+.skeleton-row:nth-child(4n) { width: 81%; }
+@keyframes hDSkel { 0% { background-position: 100% 0; } 100% { background-position: -100% 0; } }
+@media (prefers-reduced-motion: reduce) {
+  .skeleton-row { animation: none; opacity: 0.35; }
+}

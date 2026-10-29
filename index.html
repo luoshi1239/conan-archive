@@ -6,7 +6,7 @@
   <meta name="description" content="名侦探柯南结构化知识库：案件、人物、组织、地点、道具、动画、剧场版与真实关系图谱。">
   <meta name="theme-color" content="#0b1116">
   <title>名侦探柯南 · 案件档案</title>
-  <link rel="stylesheet" href="styles.css?v=e9a5c3">
+  <link rel="stylesheet" href="styles.css?v=58eed2">
 </head>
 <body>
 <div class="app">
@@ -102,7 +102,14 @@
     <!-- 列表 -->
     <section class="view hidden" id="view-list">
       <div class="table-head" id="tableHead"></div>
-      <div class="table" id="archiveGrid"></div>
+      <div class="table" id="archiveGrid">
+        <!-- 骨架占位：索引分片（gzip 后 ~250KB）到达前先撑住版面，避免白屏。
+             loadCatalogData() 成功后会被 renderList() 整块替换掉。 -->
+        <div class="skeleton-row"></div><div class="skeleton-row"></div><div class="skeleton-row"></div>
+        <div class="skeleton-row"></div><div class="skeleton-row"></div><div class="skeleton-row"></div>
+        <div class="skeleton-row"></div><div class="skeleton-row"></div><div class="skeleton-row"></div>
+        <div class="skeleton-row"></div><div class="skeleton-row"></div><div class="skeleton-row"></div>
+      </div>
       <div class="empty-state hidden" id="emptyState">
         <strong>没有匹配的档案</strong>
         <span>换个关键词，或把剧透级别调高。</span>
@@ -165,7 +172,7 @@
   </div>
 </div>
 <script src="data.js"></script>
-<script src="edit.js?v=e9a5c3"></script>
-<script src="app.js?v=e9a5c3"></script>
+<script src="edit.js?v=25364f"></script>
+<script src="app.js?v=7f91f4"></script>
 </body>
 </html>

@@ -1,0 +1,36 @@
+# Cloudflare Pages 响应头配置
+# 部署时 CF 会自动读取根目录的 _headers，不需要 wrangler 配置。
+# 参考：https://developers.cloudflare.com/pages/configuration/headers/
+
+# ── 数据文件：长缓存 + 显式 JSON 类型 ────────────────────────────
+# 数据更新靠 ?v= 或文件名哈希破缓存（app.js 里的 LOADER_VERSION）。
+# 不加 immutable 的话，CF 默认只用 ETag，每次刷新仍要往返一次 304。
+/data/*
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: application/json; charset=utf-8
+  Access-Control-Allow-Origin: *
+
+# 分片目录单独声明，避免以后加子目录时漏配
+/data/index/*
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: application/json; charset=utf-8
+
+/data/detail/*
+  Cache-Control: public, max-age=31536000, immutable
+  Content-Type: application/json; charset=utf-8
+
+# ── 前端资源 ────────────────────────────────────────────────────
+# 版本戳在 index.html 里（?v=<hash>），所以同样可以长缓存。
+/*.js
+  Cache-Control: public, max-age=31536000, immutable
+
+/*.css
+  Cache-Control: public, max-age=31536000, immutable
+
+# ── 入口 HTML 绝不缓存 ─────────────────────────────────────────
+# 否则用户拿到旧 index.html，里面的 ?v= 还是老的，永远加载不到新 JS。
+/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate

@@ -3,6 +3,10 @@
 # 注意只排除 raw：data/candidates（3.4M）是人工复核用的候选池，保留。
 data/raw/
 
+# 另外：data/index/ 与 data/detail/ 是 scripts/build-split.py 的产物，
+# 但**故意提交进库**。CF Pages 走纯静态部署，构建环境不必装 Python；
+# 数据更新时重跑脚本即可。共 11.4MB / 2168 文件，远低于 CF 的 20000 文件上限。
+
 # 系统垃圾
 .DS_Store
 **/.DS_Store

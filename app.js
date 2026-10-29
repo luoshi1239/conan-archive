@@ -534,6 +534,41 @@ function detailSections(record, type) {
 function openDetail(id, type) {
   const base = entityRecord(id) || [...catalog.episodes, ...catalog.movies, ...catalog.ovas].find((r) => r.id === id);
   if (!base) return;
+  const detailType = id.startsWith('case-') ? 'case' : id.startsWith('episode-') ? 'episode' : id.startsWith('character-') ? 'character' : null;
+  // 索引记录里没有大字段（summary/victims/...），得先把详情拉回来。
+  // 已有缓存就直接命中，否则先显示「加载中」骨架，拿到再重绘——不能同步阻塞。
+  if (detailType && !base.__detailLoaded) {
+    renderDetailShell(id, type, base);
+    loadDetail(detailType, id).then((detail) => {
+      base.__detailLoaded = true;
+      Object.assign(base, detail);
+      // 拉取期间用户可能已经点了别的条目：只有当前选中还是这条时才重绘，
+      // 否则旧内容会把新条目的抽屉盖掉。（这里写反过一次：!== 会导致串页）
+      if (detailCache.get('__current') === id) renderDetail(id, type);
+    });
+    detailCache.set('__current', id);
+    return;
+  }
+  renderDetail(id, type);
+}
+
+// 详情还没到时的骨架：让抽屉立刻有反应，而不是点了没动静
+function renderDetailShell(id, type, base) {
+  const row = toRow(base);
+  $('#drawerKicker').textContent = `${KIND_LABEL[row.type] || '档案'} · ${row.mark}`;
+  $('#drawerBody').innerHTML = `<h2>${escapeHtml(row.title)}</h2>
+    <p class="d-sub">${escapeHtml(row.sub || '')}</p>
+    <div class="d-sec d-loading"><span class="d-spinner"></span>正在读取档案…</div>`;
+  $('#drawer').classList.add('open');
+  document.body.classList.add('drawer-open');
+  $('#drawer').setAttribute('aria-hidden', 'false');
+  $('#scrim').classList.add('on');
+  if (window.history?.replaceState) history.replaceState(null, '', `#${view}/${id}`);
+}
+
+function renderDetail(id, type) {
+  const base = entityRecord(id) || [...catalog.episodes, ...catalog.movies, ...catalog.ovas].find((r) => r.id === id);
+  if (!base) return;
   // 叠上本地爱好者修订，页面立刻反映最新内容
   const raw = typeof patchedRecord === 'function' ? patchedRecord(base) : base;
   const resolvedType = type || (entityRecord(id) ? 'entity' : 'catalog');
@@ -1434,20 +1469,48 @@ function updateCounts() {
   }
 }
 
+// ── 数据加载 ────────────────────────────────────────────────
+// 首屏只拉「索引分片」（gzip 后约 250KB），抽屉里的大字段（summary/victims/
+// suspects/locationsZh/castNames）按 id 单独拉。原来是 7.47MB 全量阻塞首屏，
+// 手机 4G 上白屏 2 秒以上。
+// 分片由 scripts/build-split.py 生成；原始全量文件保留不动，verify 脚本仍读它们。
+const DATA_VERSION = '1';
+const indexUrl = (name) => `data/index/${name}.json?v=${DATA_VERSION}`;
+const detailUrl = (type, id) => `data/detail/${{ case: 'cases', episode: 'episodes', character: 'characters' }[type]}/${id}.json?v=${DATA_VERSION}`;
+
+// 详情缓存：同一条反复打开不要重复请求
+const detailCache = new Map();
+
+function loadDetail(type, id) {
+  const key = `${type}:${id}`;
+  if (detailCache.has(key)) return Promise.resolve(detailCache.get(key));
+  const p = fetch(detailUrl(type, id))
+    .then((r) => (r.ok ? r.json() : {}))
+    .catch(() => ({}));
+  detailCache.set(key, p);
+  return p;
+}
+
+// 把索引记录和详情合并回「完整记录」，让 toRow / detailSections 不用改。
+function mergeDetail(record, detail) {
+  if (!detail || !Object.keys(detail).length) return record;
+  return { ...record, ...detail };
+}
+
 function loadCatalogData() {
   return Promise.all([
-    fetch('data/episodes/episodes.json').then((r) => r.json()),
-    fetch('data/movies/movies.json').then((r) => r.json()),
-    fetch('data/movies/special-movies.json').then((r) => r.json()),
-    fetch('data/ovas/ovas.json').then((r) => r.json()),
-    fetch('data/entities/characters.json').then((r) => r.json()),
-    fetch('data/entities/organizations.json').then((r) => r.json()),
-    fetch('data/entities/cases.json').then((r) => r.json()),
-    fetch('data/entities/gadgets.json').then((r) => r.json()),
-    fetch('data/entities/locations.json').then((r) => r.json()),
-    fetch('data/manga/mainline-arcs.json').then((r) => r.json()),
+    fetch(indexUrl('episodes')).then((r) => r.json()),
+    fetch(indexUrl('movies')).then((r) => r.json()),
+    fetch(indexUrl('special-movies')).then((r) => r.json()),
+    fetch(indexUrl('ovas')).then((r) => r.json()),
+    fetch(indexUrl('characters')).then((r) => r.json()),
+    fetch(indexUrl('organizations')).then((r) => r.json()),
+    fetch(indexUrl('cases')).then((r) => r.json()),
+    fetch(indexUrl('gadgets')).then((r) => r.json()),
+    fetch(indexUrl('locations')).then((r) => r.json()),
+    fetch(indexUrl('mainline-arcs')).then((r) => r.json()),
     // 来源清单：把 src-xxx 内部 id 解析成可读站名
-    fetch('data/sources.json').then((r) => r.json()),
+    fetch(indexUrl('sources')).then((r) => r.json()),
   ]).then(([episodes, movies, specialMovies, ovas, characters, organizations, cases, gadgets, locations, arcs, sources]) => {
     catalog.episodes = episodes;
     catalog.movies = movies.concat(specialMovies);
